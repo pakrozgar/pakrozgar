@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://pakrozgar.pk/index.html</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://pakrozgar.pk/job.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://pakrozgar.pk/about.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://pakrozgar.pk/contact.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://pakrozgar.pk/privacy.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://pakrozgar.pk/disclaimer.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://pakrozgar.github.io/pakrozgar/index.html</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://pakrozgar.github.io/pakrozgar/job.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://pakrozgar.github.io/pakrozgar/about.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://pakrozgar.github.io/pakrozgar/contact.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://pakrozgar.github.io/pakrozgar/privacy.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://pakrozgar.github.io/pakrozgar/disclaimer.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 </urlset>
