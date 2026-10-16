@@ -10,47 +10,177 @@
 
 const JOBS = [
   {
-    id: 8,
-    title: "Punjab Police Constable Recruitment 2026",
-    department: "Punjab Police Department",
+    id: 11,
+    title: "Suthra Punjab Jobs 2026 - 524 Sanitary Worker Vacancies Faisalabad",
+    department: "Suthra Punjab Agency",
+    category: "Government",
+    subcategory: "Sanitary",
+    city: "Faisalabad",
+    province: "Punjab",
+    qualification: "Able to read and write",
+    experience: "Relevant work experience preferred",
+    ageLimit: "Maximum 45 years",
+    vacancies: "524",
+    salary: "Daily wages (as per policy)",
+    lastDate: "2026-10-28",
+    postedDate: "2026-10-16",
+    source: "Daily Pakistan",
+    featured: false,
+    shortDesc: "Suthra Punjab Agency Faisalabad needs 524 sanitary workers on daily wages. Walk-in interview on Oct 28, 2026. Must be physically fit, max age 45.",
+    description: `<p>The <strong>Suthra Punjab Agency, Faisalabad</strong> has announced <strong>524 vacancies for sanitary workers</strong> under the Punjab government's cleanliness initiative. These are daily-wage positions.</p>
+    <h3>Eligibility Criteria</h3>
+    <ul>
+      <li><strong>Education:</strong> Must be able to read and write (no formal degree required)</li>
+      <li><strong>Age:</strong> Maximum 45 years on the application date</li>
+      <li><strong>Fitness:</strong> Physically fit for sanitary work</li>
+      <li><strong>Experience:</strong> Relevant work experience preferred</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Attend the <strong>walk-in interview on 28 October 2026</strong></li>
+      <li>Bring your CNIC and any experience certificates</li>
+      <li>Check the official advertisement for the exact interview venue and time</li>
+    </ol>`,
+    howToApply: [
+      "Walk-in interview on 28 October 2026",
+      "Bring CNIC and experience documents",
+      "No online application - appear in person"
+    ]
+  },
+  {
+    id: 10,
+    title: "PPSC Intelligence Officer Jobs 2026 - 30 Posts in Special Branch (BS-14)",
+    department: "Punjab Public Service Commission",
     category: "Government",
     subcategory: "Police",
     city: "Lahore",
     province: "Punjab",
-    qualification: "Matric",
-    experience: "Fresh candidates can apply",
-    ageLimit: "18 - 22 years",
-    vacancies: "4,500+",
-    salary: "PKR 45,000 - 55,000 / month",
-    lastDate: "2026-11-15",
+    qualification: "As per PPSC Adv 11/2026 (Case 10-RH/2026)",
+    experience: "As per advertisement",
+    ageLimit: "As per PPSC rules (+5 years relaxation)",
+    vacancies: "30",
+    salary: "BS-14 (2-year contract)",
+    lastDate: "2026-10-26",
     postedDate: "2026-10-16",
-    source: "Jang Newspaper",
+    source: "PPSC Advertisement No. 11/2026",
     featured: true,
-    shortDesc: "Punjab Police has announced 4,500+ constable vacancies for males and females across Punjab. Matric pass candidates apply online before the last date.",
-    description: `<p>The <strong>Punjab Police Department</strong> has officially announced a massive recruitment drive for <strong>Constables (BPS-07)</strong> in 2026. Both male and female candidates from all districts of Punjab are eligible to apply.</p>
-    <h3>Eligibility Criteria</h3>
+    shortDesc: "PPSC announces 30 Intelligence Officer (BS-14) posts in Special Branch, Punjab Police. Punjab domicile holders apply online at ppsc.gop.pk by Oct 26.",
+    description: `<p>The <strong>Punjab Public Service Commission (PPSC)</strong> has announced <strong>30 Intelligence Officer (BS-14)</strong> vacancies in the <strong>Special Branch, Punjab Police Department</strong> under Advertisement No. 11/2026 (Case No. 10-RH/2026).</p>
+    <h3>Key Details</h3>
     <ul>
-      <li><strong>Qualification:</strong> Minimum Matric (2nd division) from a recognized board</li>
-      <li><strong>Age:</strong> 18 to 22 years on the closing date</li>
-      <li><strong>Height:</strong> 5'-7" (male), 5'-2" (female)</li>
-      <li><strong>Chest:</strong> 33" x 34.5" (male only)</li>
-      <li><strong>Running:</strong> 1.6 km in 7 minutes (male), 10 minutes (female)</li>
-      <li><strong>Domicile:</strong> Punjab province</li>
+      <li><strong>Posts:</strong> 30 (Intelligence Officer, BS-14)</li>
+      <li><strong>Department:</strong> Special Branch, Punjab Police</li>
+      <li><strong>Contract:</strong> 2 years (extendable)</li>
+      <li><strong>Domicile:</strong> Punjab required</li>
+      <li><strong>Test:</strong> One MCQ paper (100 marks) - 80% general ability, 20% basic computer studies</li>
     </ul>
     <h3>How to Apply</h3>
     <ol>
-      <li>Visit the official Punjab Police recruitment portal</li>
-      <li>Fill the online application form with correct personal and academic details</li>
-      <li>Upload CNIC, domicile, and educational certificates</li>
-      <li>Download the roll number slip for the physical test</li>
-      <li>Appear in running test, measurements, written test and interview</li>
+      <li>Read the full advertisement and instructions at ppsc.gop.pk</li>
+      <li>Register/sign in and select Case No. 10-RH/2026</li>
+      <li>Fill details exactly as per your documents</li>
+      <li>Pay the fee online (JazzCash, Easypaisa, bank, ATM)</li>
+      <li>Apply well before <strong>26 October 2026</strong></li>
     </ol>
-    <p><strong>Note:</strong> No TA/DA will be given for tests. Applications received after the last date will not be entertained.</p>`,
+    <p><strong>Warning:</strong> PPSC says only its own website is authentic - beware of anyone asking for money or documents.</p>`,
     howToApply: [
-      "Apply online through the Punjab Police recruitment portal",
-      "Fill the form and upload CNIC, domicile and Matric certificate",
-      "Download roll number slip for physical/written test",
-      "Last date to apply: 15 November 2026"
+      "Apply online at ppsc.gop.pk (Case No. 10-RH/2026)",
+      "Pay fee online via JazzCash/Easypaisa/bank",
+      "Last date: 26 October 2026"
+    ]
+  },
+  {
+    id: 9,
+    title: "PERA Jobs October 2026 - 110 Professional Vacancies (Apply Online)",
+    department: "Punjab Enforcement and Regulatory Authority",
+    category: "Government",
+    subcategory: "Authority",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Master's / Bachelor's (post-wise)",
+    experience: "Relevant professional experience required",
+    ageLimit: "As per advertisement",
+    vacancies: "110",
+    salary: "Special PERA Pay Package (SPPP-2 to SPPP-5)",
+    lastDate: "2026-10-29",
+    postedDate: "2026-10-16",
+    source: "ProPakistani / Official Advertisement",
+    featured: true,
+    shortDesc: "PERA hiring 110 professionals - AI/ML, full stack, HR, audit, data analysis - in Lahore and districts on 3-year contract. Apply via Punjab Job Portal by Oct 29.",
+    description: `<p>The <strong>Punjab Enforcement and Regulatory Authority (PERA)</strong>, established under the Punjab Enforcement and Regulation Act 2024, is hiring <strong>110 professionals</strong> - 10 at its Directorate General in Lahore and 100 at District Enforcement & Regulatory Board secretariats across Punjab.</p>
+    <h3>Positions Include</h3>
+    <ul>
+      <li>Head / Manager / Deputy Manager (Internal Affairs)</li>
+      <li>Team Lead (AI & ML), Team Lead (Full Stack)</li>
+      <li>Deputy Manager (HR), System Analyst, Data Analyst</li>
+      <li>Assistant Manager (Audit), System Support Officer</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Contract:</strong> Initial 3 years (extendable on performance)</li>
+      <li><strong>Pay:</strong> Negotiable Special PERA Pay Package (SPPP-2 to SPPP-5)</li>
+      <li><strong>Last date:</strong> 29 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online through the Punjab Job Portal</li>
+      <li>Select your post and upload required documents</li>
+      <li>Submit before the deadline - no manual applications</li>
+    </ol>`,
+    howToApply: [
+      "Apply online via Punjab Job Portal",
+      "Upload documents and select your post",
+      "Last date: 29 October 2026"
+    ]
+  },
+  {
+    id: 8,
+    title: "Punjab Police Constable Jobs 2026 - 1,170 Vacancies (Rahim Yar Khan & Rajanpur)",
+    department: "Punjab Police Department",
+    category: "Government",
+    subcategory: "Police",
+    city: "Rahim Yar Khan",
+    province: "Punjab",
+    qualification: "Matric (50% marks settled areas)",
+    experience: "Fresh candidates can apply",
+    ageLimit: "18 - 22 years (settled areas)",
+    vacancies: "1,170",
+    salary: "BS-07",
+    lastDate: "2026-10-31",
+    postedDate: "2026-10-16",
+    source: "Punjab Police Official (punjabpolice.gov.pk)",
+    featured: true,
+    shortDesc: "Punjab Police hiring 1,170 constables, lady constables & driver constables in Rahim Yar Khan and Rajanpur. Submit form at District Police Lines by Oct 31 (Rs 300 fee).",
+    description: `<p>The <strong>Punjab Police Department</strong> is recruiting <strong>1,170 Constables, Lady Constables and Driver Constables (BS-07)</strong> in <strong>Rahim Yar Khan and Rajanpur</strong> districts. Only domicile holders of these districts can apply.</p>
+    <h3>Vacancy Breakdown</h3>
+    <ul>
+      <li><strong>Rahim Yar Khan:</strong> 718 Constables + 1 Driver Constable</li>
+      <li><strong>Rajanpur (incl. tribal areas):</strong> 300 Constables + 1 Driver Constable</li>
+      <li><strong>Tehsil Rojhan:</strong> 150 Constables</li>
+      <li><strong>Quotas:</strong> 15% women, 10% ex-servicemen, 5% minorities</li>
+    </ul>
+    <h3>Eligibility Criteria</h3>
+    <ul>
+      <li><strong>Qualification:</strong> Matric (min 50% marks in settled areas)</li>
+      <li><strong>Age:</strong> 18-22 years (settled); up to 25-30 in tribal/Rojhan areas - no relaxation</li>
+      <li><strong>Height:</strong> 5'-7" (male), 5'-2" (female)</li>
+      <li><strong>Chest:</strong> 33" x 34.5" (male only)</li>
+      <li><strong>Running:</strong> 1.6 km in 7 min (male) / 10 min (female)</li>
+      <li><strong>Driver Constable:</strong> Matric + valid LTV licence + 2 years driving experience, age 21-30</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Download the form from <strong>punjabpolice.gov.pk</strong></li>
+      <li>Attach CNIC, domicile (RYK/Rajanpur), Matric result, 4 photos</li>
+      <li>Pay Rs 300 form fee</li>
+      <li>Submit at your <strong>District Police Lines between 12 and 31 October 2026</strong></li>
+    </ol>
+    <p><strong>Note:</strong> Candidates from other districts (Lahore, Multan etc.) are NOT eligible for this round.</p>`,
+    howToApply: [
+      "Download form from punjabpolice.gov.pk",
+      "Submit at District Police Lines (RYK/Rajanpur) with Rs 300 fee",
+      "Submission window: 12 - 31 October 2026",
+      "Only RYK/Rajanpur domicile holders eligible"
     ]
   },
   {
