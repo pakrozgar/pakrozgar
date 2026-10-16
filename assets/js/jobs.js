@@ -63,6 +63,8 @@ const JOBS = [
     lastDate: "2026-10-26",
     postedDate: "2026-10-16",
     source: "PPSC Advertisement No. 11/2026",
+    officialLink: "https://www.ppsc.gop.pk",
+    officialLinkLabel: "Apply Online at PPSC",
     featured: true,
     shortDesc: "PPSC announces 30 Intelligence Officer (BS-14) posts in Special Branch, Punjab Police. Punjab domicile holders apply online at ppsc.gop.pk by Oct 26.",
     description: `<p>The <strong>Punjab Public Service Commission (PPSC)</strong> has announced <strong>30 Intelligence Officer (BS-14)</strong> vacancies in the <strong>Special Branch, Punjab Police Department</strong> under Advertisement No. 11/2026 (Case No. 10-RH/2026).</p>
@@ -105,6 +107,8 @@ const JOBS = [
     lastDate: "2026-10-29",
     postedDate: "2026-10-16",
     source: "ProPakistani / Official Advertisement",
+    officialLink: "https://jobs.punjab.gov.pk",
+    officialLinkLabel: "Apply Online at Punjab Job Portal",
     featured: true,
     shortDesc: "PERA hiring 110 professionals - AI/ML, full stack, HR, audit, data analysis - in Lahore and districts on 3-year contract. Apply via Punjab Job Portal by Oct 29.",
     description: `<p>The <strong>Punjab Enforcement and Regulatory Authority (PERA)</strong>, established under the Punjab Enforcement and Regulation Act 2024, is hiring <strong>110 professionals</strong> - 10 at its Directorate General in Lahore and 100 at District Enforcement & Regulatory Board secretariats across Punjab.</p>
@@ -149,6 +153,8 @@ const JOBS = [
     lastDate: "2026-10-31",
     postedDate: "2026-10-16",
     source: "Punjab Police Official (punjabpolice.gov.pk)",
+    officialLink: "https://www.punjabpolice.gov.pk",
+    officialLinkLabel: "Punjab Police Official Website",
     featured: true,
     shortDesc: "Punjab Police hiring 1,170 constables, lady constables & driver constables in Rahim Yar Khan and Rajanpur. Submit form at District Police Lines by Oct 31 (Rs 300 fee).",
     description: `<p>The <strong>Punjab Police Department</strong> is recruiting <strong>1,170 Constables, Lady Constables and Driver Constables (BS-07)</strong> in <strong>Rahim Yar Khan and Rajanpur</strong> districts. Only domicile holders of these districts can apply.</p>
@@ -199,6 +205,8 @@ const JOBS = [
     lastDate: "2026-11-10",
     postedDate: "2026-10-16",
     source: "Bank Alfalah Careers",
+    officialLink: "https://www.bankalfalah.com",
+    officialLinkLabel: "Bank Alfalah Official Website",
     featured: true,
     shortDesc: "Bank Alfalah is hiring 120 cashiers/TBOs across Pakistan. Bachelor's degree holders apply online through the careers portal.",
     description: `<p><strong>Bank Alfalah Limited</strong>, one of Pakistan's leading commercial banks, is looking for energetic <strong>Cashiers / Teller Banking Officers (TBOs)</strong> for its branch network across Pakistan.</p>
@@ -237,6 +245,8 @@ const JOBS = [
     lastDate: "2026-11-20",
     postedDate: "2026-10-15",
     source: "FPSC Advertisement",
+    officialLink: "https://www.fpsc.gop.pk",
+    officialLinkLabel: "Apply Online at FPSC",
     featured: false,
     shortDesc: "FPSC announces 300+ Lecturer (BPS-17) posts in federal colleges. Master's degree holders apply online via fpsc.gov.pk.",
     description: `<p>The <strong>Federal Public Service Commission (FPSC)</strong> has advertised <strong>300+ Lecturer (BPS-17)</strong> vacancies in various subjects for federal government colleges.</p>
@@ -274,6 +284,8 @@ const JOBS = [
     lastDate: "2026-12-01",
     postedDate: "2026-10-15",
     source: "Express Newspaper",
+    officialLink: "https://www.joinpakarmy.gov.pk",
+    officialLinkLabel: "Join Pakistan Army - Apply Online",
     featured: false,
     shortDesc: "Join Pakistan Army as Soldier. Online registration open for Matric/Middle pass young men across Pakistan.",
     description: `<p><strong>Pakistan Army</strong> invites young, energetic men to join as <strong>Soldiers</strong>. Registration is open online and at Army Selection and Recruitment Centres (AS&RCs) nationwide.</p>
@@ -348,6 +360,8 @@ const JOBS = [
     lastDate: "2026-11-18",
     postedDate: "2026-10-14",
     source: "Dawn Newspaper",
+    officialLink: "https://www.wapda.gov.pk",
+    officialLinkLabel: "WAPDA Official Website",
     featured: false,
     shortDesc: "WAPDA announces Lineman and Meter Reader vacancies. Matric + DAE Electrical candidates apply.",
     description: `<p><strong>WAPDA</strong> requires <strong>Linemen (BPS-09)</strong> and <strong>Meter Readers (BPS-11)</strong> for distribution companies in Punjab.</p>

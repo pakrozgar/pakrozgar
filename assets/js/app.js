@@ -33,7 +33,7 @@ function jobCard(j) {
         <span><b>Vacancies:</b> ${esc(j.vacancies)}</span>
       </div>
       <p class="job-desc">${esc(j.shortDesc)}</p>
-      <div class="job-foot">${urgent}<a class="btn" href="job.html?id=${j.id}">View Details</a></div>
+      <div class="job-foot">${urgent}<span><a class="btn" href="job.html?id=${j.id}">View Details</a>${j.officialLink ? ` <a href="${j.officialLink}" target="_blank" rel="noopener" style="font-size:13px;font-weight:700">Official Site &#8599;</a>` : ""}</span></div>
     </div>
   </article>`;
 }
@@ -104,7 +104,8 @@ function initDetail() {
         <tr><td>Salary / Scale</td><td>${esc(j.salary)}</td></tr>
         <tr><td>Last Date</td><td><b>${fmtDate(j.lastDate)}</b></td></tr>
       </table>
-      <div class="apply-box"><h3>How to Apply</h3><ol>${j.howToApply.map(s => `<li>${esc(s)}</li>`).join("")}</ol></div>
+      <div class="apply-box"><h3>How to Apply</h3><ol>${j.howToApply.map(s => `<li>${esc(s)}</li>`).join("")}</ol>
+      ${j.officialLink ? `<p style="margin-top:12px"><a class="btn btn-gold" href="${j.officialLink}" target="_blank" rel="noopener">&#128279; ${esc(j.officialLinkLabel || "Visit Official Website")}</a></p>` : ""}</div>
       ${j.description}
       <div data-ad="belowcontent"></div>
       <p style="margin-top:16px"><a class="btn" href="index.html">&larr; Back to all jobs</a></p>
