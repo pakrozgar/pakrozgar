@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PakRozgar - Latest Jobs in Pakistan 2026 | Government & Private Jobs</title>
+<meta name="description" content="PakRozgar - Find latest government and private jobs in Pakistan. Daily updated job ads from Jang, Express, Dawn newspapers. Punjab Police, Army, Bank, Teaching, Health jobs with online apply details.">
+<meta name="keywords" content="jobs in pakistan, government jobs, pak jobs 2026, punjab police jobs, army jobs, bank jobs, teaching jobs">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<div class="topbar"><div class="container"><span>Rozgar ki khabar, sab se pehle</span><span id="today"></span></div></div>
+
+<header class="site">
+  <div class="container">
+    <a class="logo" href="index.html">Pak<span>Rozgar</span><span class="tagline">Latest Jobs in Pakistan</span></a>
+    <nav class="main">
+      <a href="index.html">Home</a>
+      <a href="index.html#jobs">All Jobs</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<div class="container"><div data-ad="header"></div></div>
+
+<section class="hero">
+  <div class="container">
+    <h1>Find Your Dream Job in Pakistan</h1>
+    <p>Daily updated government & private job ads - apply before the last date</p>
+    <div class="searchbar">
+      <input id="search-input" type="text" placeholder="Search jobs: police, bank, teacher, nurse...">
+      <button id="search-btn">Search</button>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <div class="chips" id="chips"></div>
+  <div class="layout">
+    <main>
+      <h2 class="section-title" id="jobs">Latest Job Ads</h2>
+      <div id="job-list"></div>
+    </main>
+    <aside class="sidebar">
+      <div class="sticky">
+        <div data-ad="sidebar"></div>
+        <div class="widget">
+          <h4>Latest Jobs</h4>
+          <ul id="latest-list"></ul>
+        </div>
+        <div class="widget">
+          <h4>Job Categories</h4>
+          <ul>
+            <li><a href="index.html">Government Jobs</a></li>
+            <li><a href="index.html">Bank Jobs</a></li>
+            <li><a href="index.html">Teaching Jobs</a></li>
+            <li><a href="index.html">Health Jobs</a></li>
+            <li><a href="index.html">Police & Army Jobs</a></li>
+            <li><a href="index.html">Private / IT Jobs</a></li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer class="site">
+  <div class="container">
+    <div class="cols">
+      <div><h4>PakRozgar</h4><p style="font-size:14px">Pakistan's daily job update website. Government and private job ads from all major newspapers, updated every day.</p></div>
+      <div><h4>Quick Links</h4><a href="index.html">Home</a><a href="about.html">About Us</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="disclaimer.html">Disclaimer</a></div>
+      <div><h4>Top Searches</h4><a href="index.html">Punjab Police Jobs</a><a href="index.html">Army Jobs 2026</a><a href="index.html">Bank Jobs</a><a href="index.html">Teaching Jobs</a></div>
+    </div>
+    <div class="copy">&copy; <span id="year"></span> PakRozgar. All rights reserved. | Rozgar ki khabar, sab se pehle.</div>
+  </div>
+</footer>
+
+<script src="assets/js/jobs.js"></script>
+<script src="assets/js/ads.js"></script>
+<script src="assets/js/app.js"></script>
+<script>document.getElementById("today").textContent = new Date().toLocaleDateString("en-GB", {weekday:"long", day:"numeric", month:"long", year:"numeric"});</script>
+</body>
+</html>

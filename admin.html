@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Add New Job - PakRozgar Admin</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header class="site"><div class="container">
+<a class="logo" href="index.html">Pak<span>Rozgar</span><span class="tagline">Admin - Add Job</span></a>
+<nav class="main"><a href="index.html">View Site</a></nav></div></header>
+
+<div class="container">
+<div class="admin-form">
+<h2 style="color:var(--green-dark)">Add New Job Post</h2>
+<p style="font-size:14px;color:#666">Form bharein &rarr; "Generate" dabayein &rarr; neeche wala code copy karke <b>assets/js/jobs.js</b> mein sab se upar paste kar dein. Bas!</p>
+
+<div class="form-row">
+<div><label>Job Title *</label><input id="f_title" placeholder="e.g. Punjab Police Constable Recruitment 2026"></div>
+<div><label>Department *</label><input id="f_dept" placeholder="e.g. Punjab Police Department"></div>
+</div>
+<div class="form-row">
+<div><label>Category *</label><select id="f_cat"><option>Government</option><option>Private</option><option>Bank</option><option>Teaching</option><option>Health</option><option>Police</option><option>Army</option><option>IT</option><option>WAPDA</option></select></div>
+<div><label>Subcategory</label><input id="f_sub" placeholder="e.g. Teaching, Health, Cashier"></div>
+</div>
+<div class="form-row">
+<div><label>City *</label><input id="f_city" placeholder="e.g. Lahore"></div>
+<div><label>Province</label><input id="f_prov" value="Punjab" placeholder="e.g. Punjab"></div>
+</div>
+<div class="form-row">
+<div><label>Qualification *</label><input id="f_qual" placeholder="e.g. Matric / Bachelor's"></div>
+<div><label>Vacancies</label><input id="f_vac" placeholder="e.g. 500"></div>
+</div>
+<div class="form-row">
+<div><label>Salary / Scale</label><input id="f_sal" placeholder="e.g. BPS-14"></div>
+<div><label>Age Limit</label><input id="f_age" placeholder="e.g. 18 - 25 years"></div>
+</div>
+<div class="form-row">
+<div><label>Last Date *</label><input id="f_last" type="date"></div>
+<div><label>Source</label><input id="f_src" placeholder="e.g. Jang Newspaper"></div>
+</div>
+<div><label>Short Description * (2 lines, homepage par nazar aayega)</label><textarea id="f_short"></textarea></div>
+<div><label>Full Description (simple HTML allowed: &lt;p&gt; &lt;ul&gt; &lt;li&gt; &lt;h3&gt;)</label><textarea id="f_desc" style="min-height:140px"></textarea></div>
+<div><label>How to Apply (har step alag line par)</label><textarea id="f_how"></textarea></div>
+<label style="display:flex;align-items:center;gap:8px;font-weight:400"><input type="checkbox" id="f_feat" style="width:auto"> Featured job (homepage par highlight)</label>
+
+<button class="btn btn-gold" style="margin-top:16px;font-size:16px" onclick="generate()">Generate Job Code</button>
+<pre class="output" id="out" style="display:none"></pre>
+<button class="btn" id="copybtn" style="display:none;margin-top:10px" onclick="copyCode()">Copy Code</button>
+</div>
+</div>
+
+<script>
+function v(id){ return document.getElementById(id).value.trim(); }
+function generate(){
+  const today = new Date().toISOString().slice(0,10);
+  const job = {
+    id: "NEXT_ID (jobs.js mein sab se bara id + 1 likhein)",
+    title: v("f_title"), department: v("f_dept"), category: v("f_cat"),
+    subcategory: v("f_sub") || v("f_cat"), city: v("f_city"), province: v("f_prov") || "Punjab",
+    qualification: v("f_qual"), experience: "As per advertisement",
+    ageLimit: v("f_age") || "As per rules", vacancies: v("f_vac") || "Multiple",
+    salary: v("f_sal") || "As per rules", lastDate: v("f_last"), postedDate: today,
+    source: v("f_src") || "Official advertisement",
+    featured: document.getElementById("f_feat").checked,
+    shortDesc: v("f_short"), description: v("f_desc") || ("<p>" + v("f_short") + "</p>"),
+    howToApply: v("f_how").split("\n").map(s=>s.trim()).filter(Boolean)
+  };
+  let code = "  {\n";
+  const str = (k,val)=> '    '+k+': '+JSON.stringify(val)+',\n';
+  for (const [k,val] of Object.entries(job)) code += str(k,val);
+  code = code.replace(/,\n$/, "\n") + "  },";
+  const out = document.getElementById("out");
+  out.textContent = code; out.style.display = "block";
+  document.getElementById("copybtn").style.display = "inline-block";
+  out.scrollIntoView({behavior:"smooth"});
+}
+function copyCode(){
+  const t = document.getElementById("out").textContent;
+  navigator.clipboard.writeText(t).then(()=>alert("Copied! jobs.js mein paste kar dein."));
+}
+</script>
+</body>
+</html>
