@@ -10,6 +10,191 @@
 
 const JOBS = [
   {
+    id: 15,
+    title: "PPSC Tehsil Sports Officer Jobs 2026 - 37 Posts (Adv 11/2026)",
+    department: "Youth Affairs & Sports Department, Punjab",
+    category: "Government",
+    subcategory: "Sports",
+    city: "Various",
+    province: "Punjab",
+    qualification: "As per PPSC Advertisement No. 11/2026",
+    experience: "As per advertisement",
+    ageLimit: "As per PPSC rules",
+    vacancies: "37",
+    salary: "BS-16 (contract)",
+    lastDate: "2026-10-26",
+    postedDate: "2026-10-17",
+    source: "PPSC Advertisement No. 11/2026",
+    officialLink: "https://www.ppsc.gop.pk",
+    officialLinkLabel: "Apply Online at PPSC",
+    featured: true,
+    shortDesc: "PPSC announces 37 Tehsil Sports Officer (BS-16) posts in the Youth Affairs & Sports Department under Adv 11/2026. Apply online at ppsc.gop.pk by Oct 26.",
+    description: `<p>The <strong>Punjab Public Service Commission (PPSC)</strong> has announced <strong>37 Tehsil Sports Officer (BS-16)</strong> vacancies in the <strong>Youth Affairs & Sports Department</strong> under Advertisement No. 11/2026 (published in Daily Dunya, 9 October 2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Posts:</strong> 37 (Tehsil Sports Officer, BS-16)</li>
+      <li><strong>Department:</strong> Youth Affairs & Sports, Government of Punjab</li>
+      <li><strong>Nature:</strong> Contract (2-5 years depending on case)</li>
+      <li><strong>Eligibility:</strong> Punjab domicile; male, female and transgender candidates</li>
+      <li><strong>Last date:</strong> 26 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the full Advertisement No. 11/2026 on ppsc.gop.pk and match your qualification, age and domicile to the post</li>
+      <li>Apply online through the PPSC portal only</li>
+      <li>Pay the fee via PSID (ATM, mobile/internet banking, JazzCash, Easypaisa, UPaisa)</li>
+      <li>Submit before <strong>26 October 2026</strong> and keep a copy of your application</li>
+    </ol>
+    <p><strong>Warning:</strong> PPSC says only its own website is authentic - beware of anyone asking for money or documents.</p>`,
+    howToApply: [
+      "Apply online at ppsc.gop.pk before 26 October 2026",
+      "Pay fee via PSID (JazzCash/Easypaisa/bank)",
+      "Check full Adv 11/2026 for eligibility and quotas"
+    ]
+  },
+  {
+    id: 14,
+    title: "PPSC Senior Registrar Jobs 2026 - 107 Doctor Posts in Punjab Hospitals (Adv 11/2026)",
+    department: "Specialized Healthcare & Medical Education Department",
+    category: "Government",
+    subcategory: "Health",
+    city: "Various",
+    province: "Punjab",
+    qualification: "MBBS + FCPS / MS / MD / FRCS / MRCP or equivalent (post-wise)",
+    experience: "As per advertisement",
+    ageLimit: "As per PPSC rules",
+    vacancies: "107",
+    salary: "BS-18 (3-year contract)",
+    lastDate: "2026-10-26",
+    postedDate: "2026-10-17",
+    source: "PPSC Advertisement No. 11/2026",
+    officialLink: "https://www.ppsc.gop.pk",
+    officialLinkLabel: "Apply Online at PPSC",
+    featured: true,
+    shortDesc: "PPSC announces 107 Senior Registrar (BS-18) doctor posts - Medicine, Surgery, Cardiac Anaesthesia, Paediatric Ophthalmology & Cardiology - in Punjab teaching hospitals. Apply online by Oct 26.",
+    description: `<p>The <strong>Punjab Public Service Commission (PPSC)</strong> has announced <strong>107 Senior Registrar (BS-18)</strong> vacancies in teaching hospitals across Punjab under the <strong>Specialized Healthcare and Medical Education Department</strong>, Advertisement No. 11/2026.</p>
+    <h3>Vacancy Breakup</h3>
+    <ul>
+      <li><strong>Medicine:</strong> 53 posts</li>
+      <li><strong>Surgery:</strong> 41 posts</li>
+      <li><strong>Cardiac Anaesthesia:</strong> 7 posts</li>
+      <li><strong>Paediatric Ophthalmology:</strong> 3 posts</li>
+      <li><strong>Paediatric Cardiology:</strong> 3 posts</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Education:</strong> MBBS or equivalent plus relevant postgraduate qualification (FCPS, MS, MD, FRCS, MRCP or equivalent)</li>
+      <li><strong>Registration & experience:</strong> Professional registration and post-wise experience as per advertisement</li>
+      <li><strong>Contract:</strong> Initially 3 years (extendable on performance)</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the full Advertisement No. 11/2026 on ppsc.gop.pk</li>
+      <li>Apply online through the PPSC portal only</li>
+      <li>Pay the fee via PSID (ATM, mobile/internet banking, JazzCash, Easypaisa, UPaisa)</li>
+      <li>Submit before <strong>26 October 2026</strong></li>
+    </ol>
+    <p><strong>Warning:</strong> PPSC says only its own website is authentic - beware of anyone asking for money or documents.</p>`,
+    howToApply: [
+      "Apply online at ppsc.gop.pk before 26 October 2026",
+      "Pay fee via PSID (JazzCash/Easypaisa/bank)",
+      "Check full Adv 11/2026 for post-wise qualifications"
+    ]
+  },
+  {
+    id: 13,
+    title: "PPCBL Jobs 2026 - 11 Officer & Manager Posts (Lahore & Sargodha) - Apply by Oct 19",
+    department: "The Punjab Provincial Cooperative Bank Limited",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Bachelor's (14 years education, HEC-recognized)",
+    experience: "2-10 years banking experience (post-wise)",
+    ageLimit: "As per advertisement (post-wise)",
+    vacancies: "11",
+    salary: "As per bank policy",
+    lastDate: "2026-10-19",
+    postedDate: "2026-10-17",
+    source: "Official Bank Advertisement",
+    officialLink: "https://hris.ppcbl.com.pk/jobs",
+    officialLinkLabel: "Apply Online at PPCBL",
+    featured: false,
+    shortDesc: "Punjab Provincial Cooperative Bank announces 11 officer & manager posts in retail banking, digital banking, IT, HR, strategy & administration (Lahore + Sargodha). Apply online by Oct 19.",
+    description: `<p><strong>The Punjab Provincial Cooperative Bank Limited (PPCBL)</strong> has announced <strong>11 vacancies</strong> from officer level to manager/head level in Lahore (head office) and Sargodha.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Retail Banking:</strong> Head Collection & Recovery (1), Regional Business Head (1 - Sargodha)</li>
+      <li><strong>Strategy, Products & Transformation:</strong> Product Manager Liabilities/EB/Islamic Conversion (1), Product Manager Assets & Cards (2)</li>
+      <li><strong>HR:</strong> Unit Manager Recruitment/L&D (1), Officer Recruitment/L&D (1)</li>
+      <li><strong>Digital Banking:</strong> Unit Manager Debit Card & SMS (1), Officer Debit Card & SMS (1)</li>
+      <li><strong>IT:</strong> Unit Manager System Administrator (1)</li>
+      <li><strong>General Administration:</strong> Officer Properties (1)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Education:</strong> Minimum 14 years of education from an HEC-recognized institution</li>
+      <li><strong>Experience:</strong> 2 to 10 years post-qualification banking/relevant experience (post-wise)</li>
+      <li><strong>Last date:</strong> 19 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online at the PPCBL recruitment portal: <strong>hris.ppcbl.com.pk/jobs</strong></li>
+      <li>Or email your application to <strong>careers@ppcbl.com.pk</strong> with the position name in the subject line</li>
+      <li>Only shortlisted candidates will be contacted</li>
+    </ol>`,
+    howToApply: [
+      "Apply online at hris.ppcbl.com.pk/jobs",
+      "Or email to careers@ppcbl.com.pk with post name in subject",
+      "Last date: 19 October 2026"
+    ]
+  },
+  {
+    id: 12,
+    title: "ZTBL Jobs 2026 - Zarai Taraqiati Bank Hiring (Branch Manager, Risk & Analytics) - Apply by Oct 25",
+    department: "Zarai Taraqiati Bank Limited",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Islamabad",
+    province: "Federal",
+    qualification: "Bachelor's from HEC-recognized institution",
+    experience: "3-8 years banking/financial institutions (post-wise)",
+    ageLimit: "35 years (OG-II) / 45 years (AVP)",
+    vacancies: "4",
+    salary: "Market-competitive",
+    lastDate: "2026-10-25",
+    postedDate: "2026-10-17",
+    source: "Daily Dawn (Official Advertisement)",
+    officialLink: "https://www.ztbl.com.pk/jobs",
+    officialLinkLabel: "Apply Online at ZTBL",
+    featured: false,
+    shortDesc: "Zarai Taraqiati Bank announces 4 vacancies - Branch Manager, Manager IFRS-9 & Risk Analytics, Environment Risk Officer, Market & Liquidity Risk Analyst. Apply online by Oct 25.",
+    description: `<p><strong>Zarai Taraqiati Bank Limited (ZTBL)</strong>, an AAA-rated specialized financial institution with 500+ branches nationwide, has announced <strong>4 vacancies</strong> for experienced professionals (advertised in Daily Dawn, October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Branch Manager (OG-I/AVP-I/AVP):</strong> Faisalabad, Gujranwala, Sialkot, Rahim Yar Khan, Swat, Chitral, Karachi, Shaheed Benazirabad, Larkana, Sukkur - 5 years banking incl. 1 year as Branch Manager, max age 45</li>
+      <li><strong>Manager IFRS-9 & Risk Analytics (AVP-I/AVP):</strong> Islamabad - 8 years incl. 1 year IFRS-9 implementation/reporting, max age 45</li>
+      <li><strong>Environment Risk Officer (OG-II):</strong> Islamabad - 3 years relevant experience, max age 35</li>
+      <li><strong>Market & Liquidity Risk Analyst (OG-II):</strong> Islamabad - 3 years in banking/financial institutions with market & liquidity risk experience, max age 35</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Education:</strong> Bachelor's degree from an HEC-recognized institution (professional qualifications considered for the IFRS-9 role)</li>
+      <li><strong>Equal opportunity:</strong> Women and persons with disabilities are encouraged to apply</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online only at <strong>ztbl.com.pk/jobs</strong> by <strong>25 October 2026</strong></li>
+      <li>Only online submissions within the due date are accepted</li>
+      <li>Only shortlisted candidates will be called for interview; no TA/DA admissible</li>
+    </ol>`,
+    howToApply: [
+      "Apply online only at ztbl.com.pk/jobs",
+      "Last date: 25 October 2026",
+      "Only shortlisted candidates will be contacted"
+    ]
+  },
+  {
     id: 11,
     title: "Suthra Punjab Jobs 2026 - 524 Sanitary Worker Vacancies Faisalabad",
     department: "Suthra Punjab Agency",
