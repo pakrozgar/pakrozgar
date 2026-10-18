@@ -10,6 +10,198 @@
 
 const JOBS = [
   {
+    id: 16,
+    title: "IRSA Jobs 2026 - 23 Telemetry Project Posts via NTS (Salary up to Rs. 157,500)",
+    department: "Indus River System Authority (IRSA)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Punjab",
+    qualification: "As per official advertisement (post-wise)",
+    experience: "As per advertisement",
+    ageLimit: "As per federal government rules",
+    vacancies: "23",
+    salary: "Rs. 70,000 - 157,500/month (PPS-05 to PPS-07)",
+    lastDate: "2026-10-26",
+    postedDate: "2026-10-18",
+    source: "Daily Dawn, 11 October 2026 (PID(I) 3326/26)",
+    officialLink: "https://www.nts.org.pk",
+    officialLinkLabel: "Apply Online via NTS",
+    featured: true,
+    shortDesc: "IRSA announces 23 project posts - GIS Analyst, Senior Auditor, Sub-Engineer & Supervisor (Electronics/Electrical) - under the national telemetry project. Apply through NTS by Oct 26.",
+    description: `<p>The <strong>Indus River System Authority (IRSA)</strong> has announced <strong>23 vacancies</strong> under its project "Telemetry System for Real Time Discharge Monitoring at 27 Key Sites on IBIS" (advertised in Daily Dawn, 11 October 2026).</p>
+    <h3>Vacancy Breakup</h3>
+    <ul>
+      <li><strong>GIS / Web GIS Analyst (PPS-07):</strong> 1 post - Rs. 157,500/month</li>
+      <li><strong>Senior Auditor (PPS-06):</strong> 1 post - Rs. 105,000/month</li>
+      <li><strong>Sub-Engineer - Electronics/Electrical (PPS-05):</strong> 17 posts - Rs. 70,000/month</li>
+      <li><strong>Supervisor - Electronics/Electrical (PPS-05):</strong> 4 posts - Rs. 70,000/month</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Nature:</strong> Project-based contract (1 year, extendable on performance)</li>
+      <li><strong>Selection:</strong> Open merit through the National Testing Service (NTS)</li>
+      <li><strong>Posting:</strong> Sub-Engineers and Supervisors may be posted anywhere in Pakistan</li>
+      <li><strong>Annual increment:</strong> 5% of salary</li>
+      <li><strong>Last date:</strong> 26 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the official advertisement (PID(I) 3326/26) and check post-wise qualification and experience</li>
+      <li>Apply online through the NTS website</li>
+      <li>Submit the NTS application and fee before the deadline</li>
+      <li>Government employees must apply through proper channel with NOC</li>
+    </ol>
+    <p><strong>Note:</strong> Candidates with minimum required qualification below second division are not eligible.</p>`,
+    howToApply: [
+      "Apply online through NTS before 26 October 2026",
+      "Check post-wise qualification in the official advertisement (PID(I) 3326/26)",
+      "Government employees apply through proper channel with NOC"
+    ]
+  },
+  {
+    id: 17,
+    title: "NBP Jobs 2026 - Senior Officer Credit Operations in 12 Cities (Apply by Oct 23)",
+    department: "National Bank of Pakistan",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Graduation or equivalent (HEC-recognized)",
+    experience: "3 years banking experience (1 year in Credit Operations)",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement",
+    salary: "Market-competitive (3-year renewable contract)",
+    lastDate: "2026-10-23",
+    postedDate: "2026-10-18",
+    source: "Official NBP Advertisement (published 14 October 2026)",
+    featured: true,
+    shortDesc: "National Bank of Pakistan is hiring Senior Officer - Credit Operations (OG-II/OG-I) across 12 cities. Minimum graduation with 3 years banking experience. Apply online by Oct 23.",
+    description: `<p>The <strong>National Bank of Pakistan (NBP)</strong> invites experienced bankers to apply for the post of <strong>Senior Officer - Credit Operations (Grade OG-II/OG-I)</strong> in twelve cities across Pakistan (advertised 14 October 2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Position:</strong> Senior Officer - Credit Operations</li>
+      <li><strong>Grade:</strong> OG-II / OG-I</li>
+      <li><strong>Cities:</strong> Abbottabad, Bahawalpur, Faisalabad, Hyderabad, Karachi, Larkana, Mirpur Khas, Multan, Muzaffarabad, Peshawar, Sahiwal & Sukkur</li>
+      <li><strong>Nature:</strong> Contract - 3 years, renewable at the discretion of Management</li>
+      <li><strong>Compensation:</strong> Market-competitive package and benefits as per bank policy</li>
+      <li><strong>Last date:</strong> 23 October 2026</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Education:</strong> Minimum graduation or equivalent from an HEC-recognized local or international institute</li>
+      <li><strong>Experience:</strong> At least 3 years of banking experience, including at least 1 year specifically in Credit Operations</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online through the bank's recruitment portal as per the official advertisement</li>
+      <li>Keep your updated CV, degrees, experience certificates, CNIC and photograph ready</li>
+      <li>Submit before <strong>23 October 2026</strong> - late applications will not be considered</li>
+    </ol>
+    <p><strong>Note:</strong> Only shortlisted candidates will be invited for test/interview. No TA/DA will be admissible.</p>`,
+    howToApply: [
+      "Apply online through the bank's recruitment portal before 23 October 2026",
+      "Keep CV, degrees, experience certificates, CNIC and photo ready",
+      "Only shortlisted candidates will be contacted for test/interview"
+    ]
+  },
+  {
+    id: 18,
+    title: "OGRA Chairman Jobs 2026 - Cabinet Division Recruiting via National Job Portal (Apply by Oct 30)",
+    department: "Cabinet Division / Oil and Gas Regulatory Authority (OGRA)",
+    category: "Government",
+    subcategory: "Regulatory",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Master's degree (minimum 16 years education, HEC-recognized)",
+    experience: "20 years relevant experience (3 years as head of organization)",
+    ageLimit: "Maximum 61 years",
+    vacancies: "1",
+    salary: "Equivalent to SPPS-I",
+    lastDate: "2026-10-30",
+    postedDate: "2026-10-18",
+    source: "The News International, 16 October 2026",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "Apply Online at National Job Portal",
+    featured: true,
+    shortDesc: "Cabinet Division announces the senior leadership vacancy of Chairman OGRA (SPPS-I) in Islamabad. Requires Master's + 20 years experience including 3 years as organizational head. Apply via NJP by Oct 30.",
+    description: `<p>The <strong>Cabinet Division, Government of Pakistan</strong>, has announced the senior leadership vacancy of <strong>Chairman, Oil and Gas Regulatory Authority (OGRA)</strong>, Islamabad (published in The News International, 16 October 2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Position:</strong> Chairman OGRA (1 vacancy)</li>
+      <li><strong>Remuneration:</strong> Equivalent to SPPS-I</li>
+      <li><strong>Tenure:</strong> Initial appointment of 4 years (cannot continue beyond age 65)</li>
+      <li><strong>Last date:</strong> 30 October 2026</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Nationality:</strong> Pakistani citizen</li>
+      <li><strong>Education:</strong> Master's degree (minimum 16 years of education) from an HEC-recognized institution - Law, Business, Engineering, Finance, Accounting, Economics, Petroleum, Technology, Public Administration or Management</li>
+      <li><strong>Experience:</strong> At least 20 years of relevant professional experience in large public-sector or national/multinational private-sector organizations, including at least 3 years as head of an organization</li>
+      <li><strong>Age:</strong> Maximum 61 years as of the closing date</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Register/sign in on the National Jobs Portal</li>
+      <li>Find the Chairman OGRA vacancy advertised by the Cabinet Division</li>
+      <li>Complete the online application form with qualifications and experience</li>
+      <li>Submit before <strong>30 October 2026</strong> - hard-copy applications will not be accepted</li>
+    </ol>
+    <p><strong>Note:</strong> No TA/DA will be provided for interviews. Serving government employees may apply through the proper channel.</p>`,
+    howToApply: [
+      "Apply online at njp.gov.pk before 30 October 2026",
+      "Register on the National Jobs Portal and complete the Chairman OGRA application",
+      "Serving government employees apply through proper channel"
+    ]
+  },
+  {
+    id: 19,
+    title: "Ministry of Railways Jobs 2026 - Director & Deputy Director (SPD&ME Project, Apply by Oct 31)",
+    department: "Ministry of Railways, Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "MBA/MS, MSc, ACCA, CA or related (minimum 16 years education)",
+    experience: "Director: 12 years project management; Deputy Director: 7 years post-qualification",
+    ageLimit: "Director max 50 years; Deputy Director max 45 years",
+    vacancies: "2",
+    salary: "PPS-10 / PPS-09 (as per project pay package)",
+    lastDate: "2026-10-31",
+    postedDate: "2026-10-18",
+    source: "Official Ministry of Railways Advertisement (published 16 October 2026)",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "Apply Online at National Job Portal",
+    featured: true,
+    shortDesc: "Ministry of Railways announces 2 project posts - Director/Business Development (PPS-10) and Deputy Director/Financial Analyst (PPS-09) - under the SPD&ME project in Islamabad. Apply via NJP by Oct 31.",
+    description: `<p>The <strong>Ministry of Railways</strong> has announced <strong>2 vacancies</strong> under the project "Strengthening of Planning, Development, Monitoring and Evaluation Directorate (SPD&ME)", Islamabad.</p>
+    <h3>Vacancy Breakup</h3>
+    <ul>
+      <li><strong>Director / Business Development (PPS-10):</strong> 1 post - MBA/MS in Marketing, Finance or Project Management; 16 years education; 12 years project management experience; max age 50</li>
+      <li><strong>Deputy Director (Financial Analyst), PPS-09:</strong> 1 post - MS Finance, MSc Economics, ACCA, CA or related; 16 years education; 7 years post-qualification experience; max age 45</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Nature:</strong> Contract (2 years or until project completion, extendable on satisfactory performance)</li>
+      <li><strong>Location:</strong> Project based in Islamabad; selected candidates may be posted anywhere in Pakistan</li>
+      <li><strong>Apply through:</strong> National Job Portal (online only)</li>
+      <li><strong>Last date:</strong> 31 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Access the National Job Portal and locate the Ministry of Railways SPD&ME vacancies</li>
+      <li>Select the position matching your qualifications and experience</li>
+      <li>Complete and submit the online application per the portal's instructions</li>
+      <li>Government/semi-government employees must apply through the proper channel with NOC</li>
+    </ol>
+    <p><strong>Note:</strong> Only shortlisted candidates will be called for test/interview. No TA/DA will be admissible.</p>`,
+    howToApply: [
+      "Apply online through the National Job Portal before 31 October 2026",
+      "Check portal for the official closing date before applying",
+      "Government employees apply through proper channel with NOC"
+    ]
+  },
+  {
     id: 15,
     title: "PPSC Tehsil Sports Officer Jobs 2026 - 37 Posts (Adv 11/2026)",
     department: "Youth Affairs & Sports Department, Punjab",
