@@ -10,6 +10,195 @@
 
 const JOBS = [
   {
+    id: 20,
+    title: "PPSC Livestock Jobs 2026 - 101 Veterinary Officer & Senior Veterinary Officer Posts (Adv 11/2026)",
+    department: "Punjab Public Service Commission (PPSC) - Livestock & Dairy Development Department",
+    category: "Government",
+    subcategory: "Punjab",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "DVM degree + PVMC registration (BS-17 posts); PhD/MPhil/MSc (Hons) with basic veterinary degree for BS-18 posts",
+    experience: "3-4 years relevant experience required for BS-18 posts (per eligibility route)",
+    ageLimit: "As per official advertisement",
+    vacancies: "101",
+    salary: "BS-17 & BS-18 pay scales (contract appointments)",
+    lastDate: "2026-10-26",
+    postedDate: "2026-10-19",
+    source: "PPSC Advertisement No. 11/2026 (published 9 October 2026) via Bloom Pakistan",
+    officialLink: "https://www.ppsc.gop.pk",
+    officialLinkLabel: "Apply Online at PPSC",
+    featured: true,
+    shortDesc: "PPSC invites online applications for 101 posts in the Livestock & Dairy Development Department - 61 Senior Veterinary Officer (BS-18) and 40 Veterinary Officer (BS-17). Apply by Oct 26.",
+    description: `<p>The <strong>Punjab Public Service Commission (PPSC)</strong> has announced <strong>101 vacancies</strong> in the <strong>Livestock & Dairy Development Department</strong> under Advertisement No. 11/2026 (published 9 October 2026).</p>
+    <h3>Vacancy Breakup</h3>
+    <ul>
+      <li><strong>Senior Veterinary Officer & related posts (BS-18):</strong> 61 posts - Extension Wing, Animal Health Cadre (Senior Veterinary Officer, Assistant Director, Deputy Director Livestock at Tehsil level)</li>
+      <li><strong>Veterinary Officer & related posts (BS-17):</strong> 40 posts - Directorate of Breed Improvement</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>BS-18:</strong> Relevant PhD with basic veterinary degree, or MPhil/MSc (Hons) in Veterinary Sciences/Animal Husbandry with required degree and 3 years relevant experience; alternate route with relevant master's degree plus 4 years experience</li>
+      <li><strong>BS-17:</strong> Recognised DVM degree with valid Pakistan Veterinary Medical Council (PVMC) registration</li>
+      <li><strong>Written test:</strong> 100 marks, 90 minutes, on Veterinary Science & Animal Husbandry</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the PPSC website and read Advertisement 11/2026 carefully (cases 04-RK/2026 & 05-RK/2026)</li>
+      <li>Click Apply Online, enter your CNIC and complete the application form</li>
+      <li>Generate your PSID fee challan and pay through approved channels - manual challans are not accepted</li>
+      <li>Submit before <strong>26 October 2026</strong></li>
+    </ol>
+    <p><strong>Note:</strong> PVMC registration must be obtained or applied for on or before the closing date.</p>`,
+    howToApply: [
+      "Apply online at ppsc.gop.pk before 26 October 2026 (cases 04-RK/2026 & 05-RK/2026)",
+      "Valid PVMC registration required on or before the closing date",
+      "Prepare for the 100-mark written test on Veterinary Science & Animal Husbandry"
+    ]
+  },
+  {
+    id: 21,
+    title: "PPSC Assistant Accounts Officer Jobs 2026 - 12 Posts in PHATA (BS-17, Adv 11/2026)",
+    department: "Punjab Public Service Commission (PPSC) - Housing Urban Development & PHED (PHATA)",
+    category: "Government",
+    subcategory: "Punjab",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "B.Com (Hons) / M.Com / MBA (Accounting & Finance) / ACCA - ACCA membership certificate mandatory",
+    experience: "As per official advertisement",
+    ageLimit: "Male 21-35 years; Female 21-38 years",
+    vacancies: "12",
+    salary: "BS-17 pay scale",
+    lastDate: "2026-10-26",
+    postedDate: "2026-10-19",
+    source: "PPSC Advertisement No. 11/2026, Case 27-RA/2026 (published 9 October 2026) via JobsLeap",
+    officialLink: "https://www.ppsc.gop.pk",
+    officialLinkLabel: "Apply Online at PPSC",
+    featured: true,
+    shortDesc: "PPSC invites online applications for 12 Assistant Accounts Officer (BS-17) posts in PHATA under Adv 11/2026. ACCA membership mandatory. Apply by Oct 26.",
+    description: `<p>The <strong>Punjab Public Service Commission (PPSC)</strong> is inviting online applications for <strong>12 Assistant Accounts Officer (BS-17)</strong> posts in the <strong>Housing Urban Development & Public Health Engineering Department (PHATA)</strong> under Advertisement No. 11/2026 (Case 27-RA/2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Posts:</strong> 12 (Open Merit-11, Minority Quota-01)</li>
+      <li><strong>Grade:</strong> BS-17</li>
+      <li><strong>Place of posting:</strong> Anywhere in Punjab</li>
+      <li><strong>Age limit:</strong> Male 21-35 years; Female 21-38 years</li>
+      <li><strong>Test syllabus:</strong> Accounting, Finance and Auditing</li>
+      <li><strong>Last date:</strong> 26 October 2026</li>
+    </ul>
+    <h3>Qualification</h3>
+    <ul>
+      <li>B.Com (Hons) / M.Com / MBS / BBA / MBA (Accounting & Finance), Inter C.A or ACCA</li>
+      <li><strong>Mandatory:</strong> possession of an ACCA membership certificate</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit ppsc.gop.pk and read the fee, written test and interview instructions</li>
+      <li>Click Apply Online, select the post, enter your CNIC and complete the form</li>
+      <li>Generate the 17-digit PSID and pay the fee via ATM, mobile/internet banking, 1Link member bank branches, JazzCash, Easypaisa or U Paisa</li>
+      <li>Upload your CNIC, photograph and academic documents, then submit before 26 October 2026</li>
+    </ol>
+    <p><strong>Note:</strong> Only online applications are accepted. PPSC takes the fee online only through its own portal PSID - do not pay any agent.</p>`,
+    howToApply: [
+      "Apply online at ppsc.gop.pk before 26 October 2026 (Case 27-RA/2026)",
+      "ACCA membership certificate is mandatory",
+      "Pay the fee through PSID only - manual challans and agents are not accepted"
+    ]
+  },
+  {
+    id: 22,
+    title: "NBP Processing Officer Jobs 2026 - Karachi (OG-III/OG-II, Apply by Oct 23)",
+    department: "National Bank of Pakistan",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Graduation (HEC-recognized); Master's degree preferred",
+    experience: "2 years banking experience (1 year in similar/support role)",
+    ageLimit: "Not specified in the advertisement",
+    vacancies: "As per official advertisement",
+    salary: "Market-competitive (3-year renewable contract)",
+    lastDate: "2026-10-23",
+    postedDate: "2026-10-19",
+    source: "Official NBP advertisement (published 14 October 2026) via JobsLeap",
+    officialLink: "https://www.sidathyder.com.pk/jobs",
+    officialLinkLabel: "Apply Online (Sidat Hyder Portal)",
+    featured: true,
+    shortDesc: "National Bank of Pakistan is hiring a Processing Officer (OG-III/OG-II) in Karachi to support a Divisional Head. 2 years banking experience required. Apply by Oct 23.",
+    description: `<p>The <strong>National Bank of Pakistan (NBP)</strong> invites banking professionals with support-function experience to apply for the post of <strong>Processing Officer (OG-III/OG-II)</strong> in its Operations division, based in Karachi (advertised 14 October 2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Position:</strong> Processing Officer (supports a Divisional Head)</li>
+      <li><strong>Grade:</strong> OG-III / OG-II</li>
+      <li><strong>Location:</strong> Karachi</li>
+      <li><strong>Nature:</strong> Contract - 3 years, renewable at the discretion of Management</li>
+      <li><strong>Compensation:</strong> Market-competitive package and benefits as per bank policy</li>
+      <li><strong>Last date:</strong> 23 October 2026 (within 10 working days of publication)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Education:</strong> Minimum graduation or equivalent from an HEC-recognised institute; Master's degree and professional certifications preferred</li>
+      <li><strong>Experience:</strong> Minimum 2 years of banking experience, including at least 1 year in a similar role and/or support function</li>
+      <li><strong>Skills:</strong> MS Word, Excel and Outlook; strong communication, multitasking and time-management skills</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Open the official recruitment portal at sidathyder.com.pk/jobs and find the NBP vacancies (recruitment partner: Sidat Hyder Morshed Associates)</li>
+      <li>Select the Processing Officer post and complete the online application form</li>
+      <li>Upload scanned copies of your updated CV, degrees, experience certificates, CNIC and photograph</li>
+      <li>Submit before <strong>23 October 2026</strong> - late and incomplete applications will not be considered</li>
+    </ol>
+    <p><strong>Note:</strong> Only shortlisted candidates meeting the eligibility criteria will be invited for a test and/or panel interview. No TA/DA will be admissible.</p>`,
+    howToApply: [
+      "Apply online through the Sidat Hyder portal (sidathyder.com.pk/jobs) before 23 October 2026",
+      "Keep CV, degrees, experience certificates, CNIC and photo ready to upload",
+      "Only shortlisted candidates will be called for test/interview - no TA/DA"
+    ]
+  },
+  {
+    id: 23,
+    title: "Bank of Khyber Jobs 2026 - HR Openings: Unit Head Batch Hiring & Officer Talent Acquisition (Apply by Oct 25)",
+    department: "The Bank of Khyber",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Peshawar",
+    province: "Khyber Pakhtunkhwa",
+    qualification: "Graduation (HEC-recognized); HR/Business Administration preferred",
+    experience: "7-13 years HR/talent acquisition (Unit Head); 2+ years talent acquisition (Officer)",
+    ageLimit: "As per bank policy",
+    vacancies: "2",
+    salary: "AVP to SVP-I (Unit Head); up to AVP (Officer Talent Acquisition)",
+    lastDate: "2026-10-25",
+    postedDate: "2026-10-19",
+    source: "Official Bank of Khyber advertisement (published 18 October 2026) via The Neutral",
+    officialLink: "https://www.bok.com.pk/careers",
+    officialLinkLabel: "Apply Online at Bank of Khyber",
+    featured: true,
+    shortDesc: "Bank of Khyber is hiring 2 HR professionals at its Peshawar head office - Unit Head Batch Hiring (AVP-SVP-I) and Officer Talent Acquisition. Apply by Oct 25.",
+    description: `<p>The <strong>Bank of Khyber (BoK)</strong> has announced two openings for experienced human resources professionals at its <strong>Head Office, Peshawar</strong>, in the bank's Human Resourcing Division (advertised 18 October 2026).</p>
+    <h3>Open Positions</h3>
+    <ul>
+      <li><strong>Unit Head - Batch Hiring (Grade AVP to SVP-I):</strong> leads the bank's batch recruitment strategy - annual hiring plans, assessment centres, employer branding, hiring dashboards and MIS reporting; requires 7-13 years of HR/talent-acquisition experience with at least 3 years in batch or volume hiring</li>
+      <li><strong>Officer Talent Acquisition (Grade up to AVP):</strong> manages the full recruitment cycle - manpower planning, sourcing, screening, interviews and offers; requires at least 2 years of relevant talent-acquisition experience</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Education:</strong> Graduation from an HEC-recognised or reputable foreign university; HR or Business Administration degree preferred</li>
+      <li>Experience in commercial banking or financial services is preferred</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the official Bank of Khyber careers portal at bok.com.pk/careers</li>
+      <li>Review the complete job descriptions and confirm the requirements</li>
+      <li>Submit your online application before <strong>25 October 2026</strong></li>
+    </ol>
+    <p><strong>Note:</strong> BoK is an equal opportunity employer - women and persons with special needs are strongly encouraged to apply.</p>`,
+    howToApply: [
+      "Apply online at bok.com.pk/careers before 25 October 2026",
+      "Confirm post-wise requirements on the official careers portal first",
+      "Women and persons with special needs are strongly encouraged to apply"
+    ]
+  },
+  {
     id: 16,
     title: "IRSA Jobs 2026 - 23 Telemetry Project Posts via NTS (Salary up to Rs. 157,500)",
     department: "Indus River System Authority (IRSA)",
