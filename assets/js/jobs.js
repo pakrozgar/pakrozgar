@@ -10,6 +10,197 @@
 
 const JOBS = [
   {
+    id: 24,
+    title: "PITB Jobs 2026 - 100+ Vacancies in 29 Categories (Ad MP009-2026, Apply by Nov 4)",
+    department: "Punjab Information Technology Board (PITB)",
+    category: "Government",
+    subcategory: "IT",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "12 to 16 years of education (post-wise)",
+    experience: "Entry-level to 10 years post-qualification experience (post-wise)",
+    ageLimit: "Up to 45 years (55 years for Joint Director GPU Infrastructure)",
+    vacancies: "100+ (29 position categories)",
+    salary: "Market-competitive contract package (Punjab Govt IT rules)",
+    lastDate: "2026-11-04",
+    postedDate: "2026-10-20",
+    source: "Daily Express, 17 October 2026 (Ad MP009-2026, IPL-11054) via Bloom Pakistan / ixjob.pk",
+    officialLink: "https://jobs.punjab.gov.pk",
+    officialLinkLabel: "Apply Online at Punjab Job Portal",
+    featured: true,
+    shortDesc: "PITB announces 100+ contract vacancies in 29 categories - Software Engineers, Programme Officers/Managers, Assistant Managers, Computer Operators, Domain Specialist, Joint Director (GPU Infrastructure) & more. Online only via Punjab Job Portal by Nov 4.",
+    description: `<p>The <strong>Punjab Information Technology Board (PITB)</strong> has announced <strong>100+ vacancies</strong> in <strong>29 position categories</strong> on a contract basis (Ad MP009-2026, IPL-11054; published in Daily Express, 17 October 2026).</p>
+    <h3>Key Positions</h3>
+    <ul>
+      <li><strong>Technology:</strong> Software Engineer, Associate Software Engineer, Senior Software Engineer, Principal Mobile App Developer, Infrastructure Automation Officer, Network Administrator, UC Administrator, Incident Response Officer, Domain Specialist, Joint Director (GPU Infrastructure)</li>
+      <li><strong>Programme & Management:</strong> Programme Manager, Senior Programme Manager, Senior Project Manager, Programme Officer, Senior Programme Officer, Assistant Programme Officer, Manager, Assistant Manager</li>
+      <li><strong>Support & Operations:</strong> Computer Operator, Customer Support Representative, DC Support Officer, Machine Operator, Receptionist, Assistant Officer (Operations), Regional Coordinator, Marketing & Strategy Lead, Startup Growth Lead, Video Animator</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Location:</strong> Mostly Lahore; Assistant Programme Officer, DC Support Officer and Programme Officer in multiple districts</li>
+      <li><strong>Education:</strong> 12, 14 or 16 years of education in IT, CS, Software Engineering, Business Administration, Media Sciences or relevant discipline (post-wise)</li>
+      <li><strong>Age:</strong> Up to 45 years for most posts; up to 55 years for Joint Director (GPU Infrastructure)</li>
+      <li><strong>Nature:</strong> Contract; quotas for women, persons with disabilities and minorities observed</li>
+      <li><strong>Last date:</strong> 4 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit <strong>jobs.punjab.gov.pk</strong> and search for PITB Ad MP009-2026</li>
+      <li>Review the detailed job description of your chosen position</li>
+      <li>Complete and submit the online application before <strong>4 November 2026</strong></li>
+      <li>Applications by post, email, courier or hand will NOT be entertained</li>
+    </ol>
+    <p><strong>Note:</strong> Government employees must apply through proper channel with NOC. No TA/DA for tests/interviews.</p>`,
+    howToApply: [
+      "Apply online ONLY at jobs.punjab.gov.pk (Ad MP009-2026) before 4 November 2026",
+      "No offline applications - email, post, courier or walk-in are not accepted",
+      "Government employees apply through proper channel with NOC"
+    ]
+  },
+  {
+    id: 25,
+    title: "Child Protection & Welfare Bureau Punjab Jobs 2026 - 120 Posts via NTS (Apply by Oct 31)",
+    department: "Child Protection & Welfare Bureau (Home Department), Government of Punjab",
+    category: "Government",
+    subcategory: "Welfare",
+    city: "Various",
+    province: "Punjab",
+    qualification: "SSC / HSSC / 3-year Nursing Diploma + Midwifery / B.Com (post-wise)",
+    experience: "2 years relevant experience (post-wise)",
+    ageLimit: "18 - 32 years (post-wise)",
+    vacancies: "120",
+    salary: "Lump-sum pay package (1-year contract, extendable)",
+    lastDate: "2026-10-31",
+    postedDate: "2026-10-20",
+    source: "Daily Jang (NTS Ad Code 2610201, published 18 October 2026) via RoziRasta / TMSForAll",
+    officialLink: "https://www.nts.org.pk",
+    officialLinkLabel: "Apply Online via NTS",
+    featured: true,
+    shortDesc: "Child Protection & Welfare Bureau Punjab hiring 120 staff through NTS - 111 Child Attendants, 3 Nurses, 4 Accountants, 1 Religious Teacher, 1 Dispenser. 1-year contract. Apply via NTS by Oct 31 (fee Rs 550).",
+    description: `<p>The <strong>Child Protection & Welfare Bureau (CPWB), Home Department, Government of Punjab</strong> is hiring <strong>120 staff</strong> through the <strong>National Testing Service (NTS)</strong> - Ad Code 2610201 (published 18 October 2026).</p>
+    <h3>Vacancy Breakup</h3>
+    <ul>
+      <li><strong>Child Attendant:</strong> 111 (26 Male, 85 Female) - SSC (2nd division) + 2 years child-care experience; age 25-32</li>
+      <li><strong>Nurse (Female):</strong> 3 - 3-year Nursing Diploma + 1-year Midwifery, PNC registered; age 22-28</li>
+      <li><strong>Accountant:</strong> 4 - B.Com (2nd division) + 2 years public-sector experience; age 21-28</li>
+      <li><strong>Religious Teacher (Male):</strong> 1 - HSSC (2nd division) + Hifz-e-Quran certificate + 2 years experience; age 20-28</li>
+      <li><strong>Dispenser (Female):</strong> 1 - SSC (2nd division) + Dispenser Diploma (Punjab Medical Faculty) + 1 year experience; age 18-25</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Domicile:</strong> Punjab (all districts); posting all over Punjab</li>
+      <li><strong>Nature:</strong> 1-year contract (extendable on budget/performance) with lump-sum pay package</li>
+      <li><strong>Test fee:</strong> Rs. 550 via 1Link/1Bill (bank, ATM, Easypaisa, JazzCash, TCS counter)</li>
+      <li><strong>Last date:</strong> 31 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online at <strong>nts.org.pk</strong> against NTS Ad Code 2610201</li>
+      <li>Pay the Rs. 550 test fee through 1Link/1Bill channels and keep the receipt</li>
+      <li>Print the submitted form and send it with 2 photographs, CNIC copy and attested documents to <strong>NTS Lahore, Office 201, FF Block, CCA, Phase IV, DHA, Lahore</strong></li>
+      <li>The form must reach NTS before <strong>31 October 2026</strong> - late forms are rejected</li>
+    </ol>
+    <p><strong>Note:</strong> Some aggregators report different totals (136/127 attendants) - verify against NTS Ad Code 2610201 at application time. No TA/DA for tests/interviews.</p>`,
+    howToApply: [
+      "Apply online at nts.org.pk (NTS Ad Code 2610201) before 31 October 2026",
+      "Pay Rs. 550 test fee via 1Link/1Bill and post the printed form to NTS Lahore",
+      "Late or incomplete applications will not be entertained"
+    ]
+  },
+  {
+    id: 26,
+    title: "PTA Jobs 2026 - 8 Posts: Director, IT Officers & Senior Assistant (Apply within 15 Days)",
+    department: "Pakistan Telecommunication Authority (PTA), Government of Pakistan",
+    category: "Government",
+    subcategory: "Regulatory",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "B.Tech / 16-18 years of education in Civil, IT, Telecom or Cybersecurity disciplines",
+    experience: "2 - 6 years relevant post-qualification experience (post-wise)",
+    ageLimit: "Maximum 40 years",
+    vacancies: "8",
+    salary: "Rs. 89,999 - 219,550/month (post-wise, 3-year contract)",
+    lastDate: "As per official advertisement (within 15 days of publication - check the official ad for the exact date)",
+    postedDate: "2026-10-20",
+    source: "Newspaper advertisement PID(I) 3524/26, October 2026 (published 18 October 2026) via JobUstad",
+    officialLink: "https://www.pta.gov.pk",
+    officialLinkLabel: "PTA Official Website",
+    featured: true,
+    shortDesc: "PTA invites applications for 8 contract posts - Director (Civil Works), 6 IT Officers and Senior Assistant SG-III. Monthly salary up to Rs. 219,550. Apply online within 15 days of the ad.",
+    description: `<p>The <strong>Pakistan Telecommunication Authority (PTA)</strong>, Government of Pakistan, invites applications for <strong>8 positions</strong> on a 3-year contract (extendable) - PID(I) 3524/26 (published 18 October 2026).</p>
+    <h3>Vacancy Breakup</h3>
+    <ul>
+      <li><strong>Director (Civil Works):</strong> 1 - Rs. 219,550/month - 18 years of education in Civil Engineering + 3 years experience, OR 16 years education + 6 years experience</li>
+      <li><strong>Information Technology Officer:</strong> 6 - Rs. 159,340/month - degree in Electrical/Electronics Engineering, CS, IT, Software Engineering, Telecom, Information Security or Cybersecurity; 18 years education + 2 years experience, OR 16 years education + 4 years experience</li>
+      <li><strong>Senior Assistant Staff SG-III (Civil Works):</strong> 1 - Rs. 89,999/month - 16 years education in Civil Engineering + 3 years experience, OR B.Tech Civil + 5 years experience</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Age limit:</strong> Maximum 40 years</li>
+      <li><strong>Degrees:</strong> HEC-recognized; engineering qualifications also PEC-accredited where applicable</li>
+      <li><strong>Posting:</strong> Islamabad and other locations across Pakistan including AJK and Gilgit-Baltistan</li>
+      <li><strong>Deadline:</strong> Within 15 days of the advertisement's publication - confirm the exact date on the official ad or recruitment portal</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the designated online recruitment portal (ejobportal.pk) and find the PTA advertisement</li>
+      <li>Select the post matching your qualifications and experience</li>
+      <li>Complete the online application with accurate personal and academic details</li>
+      <li>Submit within 15 days of publication; only shortlisted candidates will be contacted</li>
+    </ol>
+    <p><strong>Note:</strong> Women, minorities and persons with disabilities are encouraged to apply. No TA/DA. PTA reserves the right to cancel the process for any or all posts.</p>`,
+    howToApply: [
+      "Apply online through the designated recruitment portal within 15 days of the ad's publication",
+      "Confirm the exact closing date on the official advertisement before applying",
+      "Only shortlisted candidates will be contacted - no TA/DA"
+    ]
+  },
+  {
+    id: 27,
+    title: "DHQ Hospital Okara Jobs 2026 - 44 Sanitary Worker & Cleaner Posts (Apply by Oct 28)",
+    department: "District Headquarter Hospital South City, Okara (Health Department, Govt of Punjab)",
+    category: "Government",
+    subcategory: "Health",
+    city: "Okara",
+    province: "Punjab",
+    qualification: "No specific qualification required (able to read/write; hospital cleaning experience preferred)",
+    experience: "Hospital cleaning experience preferred",
+    ageLimit: "Maximum 50 years",
+    vacancies: "44",
+    salary: "Government-prescribed daily wages (89-day temporary contract)",
+    lastDate: "2026-10-28",
+    postedDate: "2026-10-20",
+    source: "Daily Jang (Ad IPL-10969, published 19 October 2026) via JobUstad",
+    featured: false,
+    shortDesc: "DHQ Hospital South City Okara needs 44 Sanitary Workers/Cleaners on an 89-day temporary contract. Okara domicile, max age 50. Submit applications by Oct 28; interviews Oct 29.",
+    description: `<p>The <strong>Office of the Medical Superintendent, District Headquarter Hospital South City, Okara</strong> invites applications from eligible candidates for <strong>44 Sanitary Worker / Cleaner</strong> positions (Ad IPL-10969, Daily Jang, 19 October 2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Posts:</strong> 44 (Sanitary Worker / Cleaner)</li>
+      <li><strong>Nature:</strong> Temporary - 89 days through the Health Council (no right to permanent employment)</li>
+      <li><strong>Qualification:</strong> No specific qualification stated; applicants should be able to read and write</li>
+      <li><strong>Experience:</strong> Previous hospital cleaning/sanitation experience preferred</li>
+      <li><strong>Age:</strong> Maximum 50 years</li>
+      <li><strong>Domicile:</strong> District Okara (resident or domicile holder)</li>
+      <li><strong>Wages:</strong> Government-prescribed rate, paid through crossed cheque or bank account</li>
+      <li><strong>Last date:</strong> 28 October 2026 - <strong>interviews on 29 October 2026</strong></li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Prepare an application for the Sanitary Worker / Cleaner post with your personal and domicile details</li>
+      <li>Attach attested copies of CNIC, domicile certificate, educational/experience certificates and recent photographs</li>
+      <li>Submit to the Office of the Medical Superintendent, DHQ Hospital South City, Okara before <strong>28 October 2026</strong></li>
+      <li>Attend the interview on <strong>29 October 2026</strong> with original documents</li>
+    </ol>
+    <p><strong>Note:</strong> No online application - submit in person. Confirm the submission point and interview time with the hospital administration. No TA/DA.</p>`,
+    howToApply: [
+      "Submit application with attested CNIC/domicile to DHQ Hospital South City, Okara before 28 October 2026",
+      "Attend interview on 29 October 2026 with original documents",
+      "Okara domicile holders only; maximum age 50"
+    ]
+  },
+  {
     id: 20,
     title: "PPSC Livestock Jobs 2026 - 101 Veterinary Officer & Senior Veterinary Officer Posts (Adv 11/2026)",
     department: "Punjab Public Service Commission (PPSC) - Livestock & Dairy Development Department",
