@@ -10,6 +10,189 @@
 
 const JOBS = [
   {
+    id: 28,
+    title: "Finance Division Jobs 2026 - Tax Policy Office Hiring Tax Lawyer & Analysts (4 Posts, Apply by Nov 15)",
+    department: "Finance Division, Government of Pakistan (Tax Policy Office)",
+    category: "Government",
+    subcategory: "Finance",
+    city: "Islamabad",
+    province: "Federal",
+    qualification: "As per official advertisement (detailed job descriptions on finance.gov.pk)",
+    experience: "As per official advertisement",
+    ageLimit: "As per official advertisement",
+    vacancies: "4 (Tax Lawyer: 1, Analyst-Personal Income Tax: 3)",
+    salary: "Special Professional Pay Scale SPPS-III (per Establishment Division OM dated 09.04.2024)",
+    lastDate: "2026-11-15",
+    postedDate: "2026-10-21",
+    source: "Daily Jang, 18 October 2026 via careerjoin.com",
+    officialLink: "https://www.finance.gov.pk",
+    officialLinkLabel: "Finance Division Official Website",
+    featured: true,
+    shortDesc: "Finance Division's Tax Policy Office is hiring 1 Tax Lawyer and 3 Analysts (Personal Income Tax) on SPPS-III. Apply online via the National Job Portal by 15 November 2026.",
+    description: `<p>The <strong>Finance Division, Government of Pakistan</strong> invites applications for <strong>4 positions</strong> in its <strong>Tax Policy Office</strong> (advertised in Daily Jang, 18 October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Tax Lawyer</strong> - SPPS-III - 01 post</li>
+      <li><strong>Analyst-Personal Income Tax</strong> - SPPS-III - 03 posts</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Pay package:</strong> As per Establishment Division's O.M. No.1/11/2018-E.6 dated 09.04.2024 (as amended)</li>
+      <li><strong>Detailed job descriptions,</strong> required qualifications and experience can be downloaded from finance.gov.pk</li>
+      <li><strong>Apply online</strong> through the National Job Portal (njp.gov.pk)</li>
+      <li><strong>Last date:</strong> 15 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Download the detailed job description, qualification and experience requirements from <strong>finance.gov.pk</strong></li>
+      <li>Apply online through the National Job Portal at <strong>njp.gov.pk</strong></li>
+      <li>Submit your application before <strong>15 November 2026</strong> - incomplete applications or those received after the closing date will not be entertained</li>
+    </ol>
+    <p><strong>Note:</strong> Only shortlisted candidates fulfilling the laid-down criteria will be called for interview. No TA/DA is admissible. Finance Division reserves the right to cancel the recruitment process at any time.</p>`,
+    howToApply: [
+      "Apply online through the National Job Portal (njp.gov.pk) by 15 November 2026",
+      "Download detailed job descriptions, qualification and experience requirements from finance.gov.pk before applying",
+      "Incomplete applications or those received after the closing date will not be entertained"
+    ]
+  },
+  {
+    id: 29,
+    title: "Ministry of Energy Jobs 2026 - Mineral Organization Hiring General Managers & Manager TTC (Quetta & Dalbandin, Apply by Nov 1)",
+    department: "Mineral sector organization (wholly owned by Ministry of Energy, Petroleum Division), Government of Pakistan",
+    category: "Government",
+    subcategory: "Management",
+    city: "Quetta / Dalbandin",
+    province: "Balochistan",
+    qualification: "MBA (HR) from HEC-recognized university (GM HR); Bachelor's/Master's in Mining, Metallurgy, Electrical or Mechanical Engineering, or Geology/Geophysics, PEC-registered (Technical posts)",
+    experience: "20-25 years post-qualification (GM posts); 7-10 years post-qualification (Manager TTC)",
+    ageLimit: "40-50 years (GM posts); 25-35 years (Manager TTC)",
+    vacancies: "3 (General Manager HR: 1, General Manager Technical: 1, Manager TTC: 1)",
+    salary: "SML Grades EG-IX / EG-VI (3-year contract, extendable on satisfactory performance)",
+    lastDate: "2026-11-01",
+    postedDate: "2026-10-21",
+    source: "Daily Dawn, 18 October 2026 via pakistanjobscity.com",
+    officialLink: "https://hrsi.careers-page.com",
+    officialLinkLabel: "Apply Online - Careers Portal",
+    featured: true,
+    shortDesc: "A leading mineral sector organization under the Ministry of Energy (Petroleum Division) seeks 2 General Managers (HR & Technical) and 1 Manager TTC for Quetta and TTC Dalbandin on 3-year contracts. Apply by 1 November 2026.",
+    description: `<p>A <strong>leading mineral sector organization wholly owned by the Ministry of Energy (Petroleum Division)</strong>, Government of Pakistan, is seeking talented professionals with extensive experience in the mineral industry for positions based at <strong>Quetta and TTC Dalbandin</strong> (advertised in Daily Dawn, 18 October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>General Manager (HR)</strong> - SML Grade EG-IX - 01 post - MBA (HR) from HEC-recognized university; 20-25 years post-qualification experience; age 40-50</li>
+      <li><strong>General Manager (Technical)</strong> - SML Grade EG-IX - 01 post - Bachelor's/Master's in Mining, Metallurgy, Electrical/Mechanical Engineering or Geology/Geophysics, PEC-registered; 20-25 years post-qualification experience; age 40-50</li>
+      <li><strong>Manager TTC</strong> - SML Grade EG-VI - 01 post - Bachelor's/Master's in Mining, Metallurgy, Electrical/Mechanical Engineering, PEC-registered; 7-10 years post-qualification experience; age 25-35</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Contract:</strong> 3 years, extendable on satisfactory performance</li>
+      <li><strong>Posting:</strong> Quetta and TTC Dalbandin</li>
+      <li><strong>Last date:</strong> 1 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Submit your application online at <strong>hrsi.careers-page.com</strong></li>
+      <li>Apply before <strong>1 November 2026</strong></li>
+      <li>Only shortlisted candidates who meet all criteria will be interviewed</li>
+    </ol>
+    <p><strong>Note:</strong> Government servants must apply through proper channel with NOC. No TA/DA for interviews. The department reserves the right to cancel the post at any time.</p>`,
+    howToApply: [
+      "Submit your application online at hrsi.careers-page.com before 1 November 2026",
+      "Only shortlisted candidates who meet all the criteria will be interviewed",
+      "Government servants apply through proper channel with NOC"
+    ]
+  },
+  {
+    id: 30,
+    title: "DHQ Hospital Lodhran Jobs 2026 - 59 Sanitary Worker & Cleaner Posts (Apply by Oct 31)",
+    department: "Office of the Medical Superintendent, DHQ Hospital Lodhran (Health Department, Govt of Punjab)",
+    category: "Government",
+    subcategory: "Health",
+    city: "Lodhran",
+    province: "Punjab",
+    qualification: "No formal degree required (medically and physically fit for cleaning duties)",
+    experience: "No experience required (hospital cleaning experience preferred)",
+    ageLimit: "Maximum 50 years",
+    vacancies: "59",
+    salary: "Government-prescribed daily wages (89-day temporary contract)",
+    lastDate: "2026-10-31",
+    postedDate: "2026-10-21",
+    source: "Daily Jang, 19 October 2026 via JobsBuzzPK",
+    featured: false,
+    shortDesc: "DHQ Hospital Lodhran needs 59 Sanitary Workers/Cleaners on an 89-day temporary contract. District Lodhran domicile, max age 50. Submit applications by Oct 31; walk-in interviews on Nov 2.",
+    description: `<p>The <strong>Office of the Medical Superintendent, DHQ Hospital Lodhran</strong> is hiring <strong>59 Sanitary Workers/Cleaners</strong> on a temporary, daily-wage basis for an 89-day period (advertised in Daily Jang, 19 October 2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Vacancies:</strong> 59 (Sanitary Worker / Cleaner)</li>
+      <li><strong>Contract:</strong> Temporary, daily-wage basis for 89 days</li>
+      <li><strong>Domicile:</strong> District Lodhran is mandatory</li>
+      <li><strong>Age:</strong> Maximum 50 years</li>
+      <li><strong>Qualification:</strong> No formal degree required - applicants must be medically and physically fit; hospital cleaning experience gets preference</li>
+      <li><strong>Last date:</strong> 31 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Write an application on plain paper and attach attested copies of your CNIC, domicile (District Lodhran), photographs and experience certificates</li>
+      <li>Submit it to the <strong>Office of the Medical Superintendent, DHQ Hospital Lodhran</strong> by <strong>31 October 2026</strong></li>
+      <li>Shortlisted candidates will be called for a walk-in interview with original documents on <strong>2 November 2026</strong></li>
+    </ol>
+    <p><strong>Note:</strong> Daily attendance is marked on the hospital's biometric system. Keep patient-care areas up to required hygiene standards.</p>`,
+    howToApply: [
+      "Write an application on plain paper with attested copies of CNIC, District Lodhran domicile, photographs and experience certificates",
+      "Submit to the Office of the Medical Superintendent, DHQ Hospital Lodhran by 31 October 2026",
+      "Shortlisted candidates will be called for a walk-in interview on 2 November 2026 with original documents"
+    ]
+  },
+  {
+    id: 31,
+    title: "Atomic Energy Jobs 2026 - Scientific Assistant-II (SPS-3), Apply Online by Nov 1",
+    department: "Federal public sector organization (Atomic Energy), Government of Pakistan",
+    category: "Government",
+    subcategory: "Technical",
+    city: "Anywhere in Pakistan",
+    province: "Federal",
+    qualification: "FSc / FA / Matric in the relevant discipline",
+    experience: "Relevant technical or laboratory experience preferred",
+    ageLimit: "18-35 years",
+    vacancies: "As per official advertisement",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-01",
+    postedDate: "2026-10-21",
+    source: "Newspaper advertisement, 18 October 2026 via JobsBuzzPK",
+    officialLink: "https://hrd1902.com.pk",
+    officialLinkLabel: "Apply Online - HRD Portal",
+    featured: false,
+    shortDesc: "A federal public sector organization under Pakistan's atomic energy program is hiring Scientific Assistant-II (SPS-3) for its facilities across the country. Apply online at hrd1902.com.pk by 1 November 2026.",
+    description: `<p>A <strong>federal public sector organization working under Pakistan's atomic energy program</strong> is recruiting <strong>Scientific Assistant-II (SPS-3)</strong> for its technical facilities across the country (advertised 18 October 2026).</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Post:</strong> Scientific Assistant-II (SPS-3)</li>
+      <li><strong>Qualification:</strong> FSc, FA or Matric in the relevant discipline</li>
+      <li><strong>Experience:</strong> Relevant technical or laboratory experience preferred</li>
+      <li><strong>Age:</strong> 18-35 years</li>
+      <li><strong>Posting:</strong> Anywhere in Pakistan</li>
+      <li><strong>Last date:</strong> 1 November 2026</li>
+    </ul>
+    <h3>Key Responsibilities</h3>
+    <ul>
+      <li>Assist scientists and engineers in laboratory and technical work</li>
+      <li>Maintain lab equipment, instruments and daily work logs</li>
+      <li>Prepare samples, reagents and testing materials for experiments</li>
+      <li>Follow facility safety and security protocols at all times</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online <strong>only</strong> at <strong>hrd1902.com.pk</strong></li>
+      <li>Submit before <strong>1 November 2026</strong> - incomplete or late applications will not be accepted</li>
+      <li>Only shortlisted candidates will be called for test or interview</li>
+    </ol>
+    <p><strong>Note:</strong> Government employees must apply through proper channel.</p>`,
+    howToApply: [
+      "Apply online only at hrd1902.com.pk before 1 November 2026",
+      "Incomplete applications or those received after the closing date will not be accepted",
+      "Only shortlisted candidates will be called for test or interview"
+    ]
+  },
+  {
     id: 24,
     title: "PITB Jobs 2026 - 100+ Vacancies in 29 Categories (Ad MP009-2026, Apply by Nov 4)",
     department: "Punjab Information Technology Board (PITB)",
