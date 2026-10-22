@@ -10,6 +10,206 @@
 
 const JOBS = [
   {
+    id: 32,
+    title: "PAA Model Schools & College Jobs 2026 - 71 Teaching & Non-Teaching Posts (Apply by Oct 25)",
+    department: "Pakistan Airports Authority (PAA) - Model Schools & College",
+    category: "Government",
+    subcategory: "Teaching",
+    city: "All Pakistan",
+    province: "All Pakistan",
+    qualification: "Matric to Master's (per post - teaching posts require Graduation/Master's in the relevant subject; support staff Matric/Intermediate)",
+    experience: "1 - 5 years (as per official advertisement)",
+    ageLimit: "18 - 45 years",
+    vacancies: "71 (Librarian, PT Instructor, Music Teacher, Art Teacher, Nazzra/Tajweed Teacher, Junior Teacher, Primary Teacher, Lower Secondary Teacher, Lecturers, Staff Nurse, Science Lab Assistant, Clerk, Sectt. Assistant, Admin Assistant, Personal Assistant, Accountant, Accounts Officer)",
+    salary: "PKR 40,000 - 150,000",
+    lastDate: "2026-10-25",
+    postedDate: "2026-10-22",
+    source: "Daily Jang (October 2026) via jobsscholarshiphub.com",
+    officialLink: "https://www.paa.gov.pk",
+    officialLinkLabel: "Pakistan Airports Authority Official Website",
+    featured: true,
+    shortDesc: "Pakistan Airports Authority's Model Schools & College system is hiring 71 teachers and staff across Pakistan - Lecturers, school teachers, librarians, nurses, clerks and accounts staff. Apply online before 25 October 2026.",
+    description: `<p>The <strong>Pakistan Airports Authority (PAA)</strong> invites applications for <strong>71 teaching and non-teaching posts</strong> in its <strong>Model Schools & College</strong> system across Pakistan (advertised in Daily Jang, October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Teaching:</strong> Lecturers, Lower Secondary Teachers, Primary Teachers, Junior Teachers, PT Instructor, Music Teacher, Art Teacher, Nazzra/Tajweed Teacher</li>
+      <li><strong>Medical & Technical:</strong> Staff Nurse, Science Lab Assistant, Librarian</li>
+      <li><strong>Admin & Accounts:</strong> Clerk, Sectt. Assistant, Admin Assistant, Personal Assistant, Accountant, Accounts Officer</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 71 - open to male and female candidates</li>
+      <li><strong>Age limit:</strong> 18 - 45 years</li>
+      <li><strong>Salary range:</strong> PKR 40,000 - 150,000</li>
+      <li><strong>Education:</strong> Matric to Master's depending on the post</li>
+      <li><strong>Last date:</strong> 25 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Fill out the online application form with accurate details</li>
+      <li>Upload all required documents - CNIC, academic certificates and recent photographs</li>
+      <li>Double-check your information and submit the application</li>
+      <li>Submit before <strong>25 October 2026</strong> - late applications will not be considered</li>
+    </ol>
+    <p><strong>Note:</strong> Review the official advertisement carefully and confirm your eligibility (age, education, gender) for the post you choose before applying.</p>`,
+    howToApply: [
+      "Fill out the online application form with accurate details",
+      "Upload CNIC, academic certificates and recent photographs",
+      "Double-check all information before submitting",
+      "Apply before 25 October 2026 - late applications will not be considered"
+    ]
+  },
+  {
+    id: 33,
+    title: "Daanish Schools Jobs 2026 - 2 Principal Posts at Centres of Excellence Kasur (Phoolnagar & Sarai Mughal, Apply by Nov 10)",
+    department: "Punjab Daanish Schools & Centres of Excellence Authority (PDS&CEA), Government of Punjab",
+    category: "Government",
+    subcategory: "Teaching",
+    city: "Phoolnagar / Sarai Mughal (Kasur)",
+    province: "Punjab",
+    qualification: "Master's degree (minimum 2nd division) from an HEC-recognized educational institution",
+    experience: "Preferably 5 years' administrative experience in schools as Principal or senior faculty member",
+    ageLimit: "Up to 63 years (male candidates only)",
+    vacancies: "2 (Principal: 1 at Phoolnagar, 1 at Sarai Mughal)",
+    salary: "OG-III (equivalent to BPS-19) + fringe benefits as per PDS&CEA rules",
+    lastDate: "2026-11-10",
+    postedDate: "2026-10-22",
+    source: "Daily Jang, 20 October 2026 (Ad No. PDS/COEPri-PS-10/2026) via ixjob.pk",
+    officialLink: "https://www.daanishschools.edu.pk",
+    officialLinkLabel: "Daanish Schools Official Website",
+    featured: true,
+    shortDesc: "Punjab Daanish Schools Authority is hiring 2 Principals (OG-III / BPS-19 equivalent) for its newly constructed Centre of Excellence Boys Schools at Phoolnagar and Sarai Mughal, District Kasur. Handwritten applications by post before 10 November 2026.",
+    description: `<p>The <strong>Punjab Daanish Schools & Centres of Excellence Authority (PDS&CEA)</strong>, Government of Punjab, is hiring <strong>Principals</strong> for two newly constructed <strong>Centre of Excellence (Boys) Schools</strong> at <strong>Phoolnagar</strong> and <strong>Sarai Mughal</strong>, District Kasur, on contract basis (Advertisement No. PDS/COEPri-PS-10/2026, published 20 October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Principal</strong> - Centre of Excellence (Boys) School, Phoolnagar, District Kasur - 01 post</li>
+      <li><strong>Principal</strong> - Centre of Excellence (Boys) School, Sarai Mughal, District Kasur - 01 post</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Pay:</strong> OG-III (equivalent to BPS-19) + fringe benefits as per PDS&CEA rules</li>
+      <li><strong>Qualification:</strong> Master's degree (minimum 2nd division), HEC-recognized</li>
+      <li><strong>Experience:</strong> Preferably 5 years' administrative experience in schools as Principal or senior faculty</li>
+      <li><strong>Age limit:</strong> Up to 63 years - male candidates only (Boys schools)</li>
+      <li><strong>Skills:</strong> Excellent English communication and computer skills are mandatory</li>
+      <li><strong>Last date:</strong> 10 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Write the application <strong>by hand</strong> - typed or computer-generated applications are not accepted</li>
+      <li>Attach a handwritten write-up expressing your own ideas about public schooling</li>
+      <li>Attach detailed CV/resume, attested/certified copies of qualifications and experience certificates, latest copy of valid CNIC and 2 passport-size photographs</li>
+      <li>Clearly mark the envelope with the "post & location applied for"</li>
+      <li>Send by post/courier to: <strong>Manager (Admin/HR & Coordination), PDS&CEA, Japanese Cell Building, Research Station, Near Punjab University, Canal Bank, Lahore</strong> - it must reach before <strong>10 November 2026</strong></li>
+    </ol>
+    <p><strong>Note:</strong> Only shortlisted candidates will be called for interview. No TA/DA is admissible. Incomplete or late applications are not entertained.</p>`,
+    howToApply: [
+      "Write the application by hand - typed applications are not accepted",
+      "Attach a handwritten write-up with your ideas about public schooling, plus CV, attested qualification/experience copies, CNIC copy and 2 photographs",
+      "Mark the envelope with the post and location applied for",
+      "Send to Manager (Admin/HR & Coordination), PDS&CEA, Japanese Cell Building, Research Station, Near Punjab University, Canal Bank, Lahore - must reach before 10 November 2026"
+    ]
+  },
+  {
+    id: 34,
+    title: "Sadiq Public School Bahawalpur Jobs 2026 - House Matron & House Superintendent (Apply by Nov 2)",
+    department: "Sadiq Public School, Bahawalpur",
+    category: "Government",
+    subcategory: "Teaching",
+    city: "Bahawalpur",
+    province: "Punjab",
+    qualification: "B.Sc. / B.A. / ADP; good spoken and written English",
+    experience: "Candidates with relevant hostel/boarding management experience will be preferred",
+    ageLimit: "Not stated in the advertisement",
+    vacancies: "2 positions advertised (House Matron - Female; House Superintendent - Male)",
+    salary: "Competitive salary package, negotiable (plus free single accommodation, free utilities, free meals, free medical for self and CPF)",
+    lastDate: "2026-11-02",
+    postedDate: "2026-10-22",
+    source: "Daily Dawn, 20 October 2026 via pakistanjobscity.com",
+    officialLink: "https://www.sadiqpublicschool.com",
+    officialLinkLabel: "Sadiq Public School Official Website",
+    featured: true,
+    shortDesc: "Sadiq Public School Bahawalpur invites applications for House Matron (Female) and House Superintendent (Male) on 3-year contracts, with free accommodation, meals, utilities and medical. Apply by courier or post before 2 November 2026.",
+    description: `<p><strong>Sadiq Public School, Bahawalpur</strong> invites applications for <strong>House Matron (Female)</strong> and <strong>House Superintendent (Male)</strong> for its boys' hostel (advertised in Daily Dawn, 20 October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>House Matron</strong> (Female)</li>
+      <li><strong>House Superintendent</strong> (Male)</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Qualification:</strong> B.Sc. / B.A. / ADP with good spoken and written English</li>
+      <li><strong>Residence:</strong> Required to live in the boys' hostel to look after the boarders</li>
+      <li><strong>Contract:</strong> 3-year contract in the first instance with a one-year probationary period</li>
+      <li><strong>Package:</strong> Competitive salary, negotiable based on qualifications and experience</li>
+      <li><strong>Benefits:</strong> Free single accommodation, free utilities, free meals, free medical for self, CPF</li>
+      <li><strong>Last date:</strong> 2 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Download the application proforma from the school's website (sadiqpublicschool.com)</li>
+      <li>Write a covering letter addressed to the Principal, Sadiq Public School, Bahawalpur</li>
+      <li>Attach attested copies of testimonials/certificates, CNIC, one recent passport-size photograph and your WhatsApp number</li>
+      <li>Send by courier service or post so it reaches before <strong>2 November 2026</strong></li>
+    </ol>
+    <p><strong>Note:</strong> Incomplete applications will not be entertained. Only shortlisted candidates will be called for interview. No TA/DA is admissible.</p>`,
+    howToApply: [
+      "Download the application proforma from sadiqpublicschool.com",
+      "Write a covering letter addressed to the Principal, Sadiq Public School, Bahawalpur",
+      "Attach attested copies of testimonials/certificates, CNIC, one recent passport-size photograph and your WhatsApp number",
+      "Send by courier or post so it reaches before 2 November 2026"
+    ]
+  },
+  {
+    id: 35,
+    title: "SHC&ME Punjab Jobs 2026 - Professor & Associate Professor Contracts in 27 Specialties (Apply by Nov 5)",
+    department: "Specialized Healthcare & Medical Education Department (SHC&ME), Government of the Punjab",
+    category: "Government",
+    subcategory: "Health",
+    city: "Various (medical institutions across Punjab)",
+    province: "Punjab",
+    qualification: "As per service rules - academic qualifications, clinical experience and research publications required for the rank and specialty",
+    experience: "As per service rules (open to retired SHC&ME professors/associate professors and qualified specialists from private sector or other organizations)",
+    ageLimit: "Up to 65 years",
+    vacancies: "Multiple contract posts - 13 Professor specialties and 14 Associate Professor specialties",
+    salary: "As per applicable service rules",
+    lastDate: "2026-11-05",
+    postedDate: "2026-10-22",
+    source: "The Nation, 18 October 2026 via jobsbuzzpk.blogspot.com",
+    officialLink: "",
+    officialLinkLabel: "",
+    featured: true,
+    shortDesc: "The Specialized Healthcare & Medical Education Department, Punjab is appointing Professors (13 specialties) and Associate Professors (14 specialties) on contract across Punjab's medical institutions. Apply by email before 5 November 2026.",
+    description: `<p>The <strong>Specialized Healthcare & Medical Education Department (SHC&ME)</strong>, Government of the Punjab, is appointing <strong>Professors</strong> and <strong>Associate Professors</strong> on contract through open competitive selection for medical institutions across the province (advertised in The Nation, 18 October 2026).</p>
+    <h3>Specialties - Professor (13)</h3>
+    <ul>
+      <li>Biochemistry, Cardiac Surgery, Forensic Medicine, Paediatric Surgery, Anaesthesia, Psychiatry, Pulmonology, Oncology, Plastic Surgery, Radiology, Cardiology, Paediatric Cardiology, Pathology</li>
+    </ul>
+    <h3>Specialties - Associate Professor (14)</h3>
+    <ul>
+      <li>Biochemistry, Forensic Medicine, Anaesthesia, Cardiac Surgery, Pulmonology, Oncology, Paediatric Surgery, Psychiatry, Cardiology, Paediatric Cardiac Surgery, Radiology, Paediatric Cardiology, Plastic Surgery</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Job type:</strong> Contract - open competitive selection</li>
+      <li><strong>Eligibility:</strong> Retired SHC&ME professors/associate professors as well as qualified specialists from the private sector or other organizations</li>
+      <li><strong>Age limit:</strong> Up to 65 years</li>
+      <li><strong>Last date:</strong> 5 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Email your application along with all attested documents to <strong>jobs.shcmed@punjab.gov.pk</strong> - applications through any other channel are not accepted</li>
+      <li>Attach domicile, CNIC, attested degrees, research papers and experience certificates</li>
+      <li>Submit before <strong>5 November 2026</strong> - incomplete or late applications will be rejected</li>
+    </ol>
+    <p><strong>Note:</strong> Only shortlisted candidates will be called for interview. No TA/DA is admissible.</p>`,
+    howToApply: [
+      "Email your application with all attested documents to jobs.shcmed@punjab.gov.pk - no other application channel is accepted",
+      "Attach domicile, CNIC, attested degrees, research papers and experience certificates",
+      "Submit before 5 November 2026 - incomplete or late applications will be rejected"
+    ]
+  },
+  {
     id: 28,
     title: "Finance Division Jobs 2026 - Tax Policy Office Hiring Tax Lawyer & Analysts (4 Posts, Apply by Nov 15)",
     department: "Finance Division, Government of Pakistan (Tax Policy Office)",
