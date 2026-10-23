@@ -10,6 +10,204 @@
 
 const JOBS = [
   {
+    id: 39,
+    title: "Rescue 1122 Punjab Jobs 2026 - 239 Posts (EMT, Rescue Driver, Fire Rescuer) via CTS (Apply by Nov 6)",
+    department: "Emergency Services Department, Government of Punjab - Rescue 1122",
+    category: "Government",
+    subcategory: "Emergency Services",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Post-wise: MBBS (PMDC/PMC registration) for Emergency Officer; Bachelor's for Wardens; Matric with housekeeping certificate for Attendant; DAE (2nd division) for Fire Rescuer; Nursing/Paramedical degree or diploma (2nd division) for EMT; SSC (2nd division) + valid LTV licence for Rescue Driver",
+    experience: "As per official advertisement",
+    ageLimit: "20 - 35 years (post-wise)",
+    vacancies: "239 (Emergency Officer (Medical) 5, Hostel Warden (Female) 1, Assistant Hostel Warden (Female) 1, Attendant (Female) 4, Fire DERT Rescuer 28, Emergency Medical Technician 92, Rescue Driver (LTV) 108)",
+    salary: "PPS-02 to PPS-07 (project pay scales, as per government policy)",
+    lastDate: "2026-11-06",
+    postedDate: "2026-10-23",
+    source: "Daily Nawa-i-Waqt, 15 October 2026 via skillzdunya.com / jobs.com.pk / millanonline.com",
+    officialLink: "https://www.rescue.gov.pk",
+    officialLinkLabel: "Rescue 1122 Official Website",
+    featured: true,
+    shortDesc: "Rescue 1122 Punjab is hiring 239 staff for its Lahore Headquarters, Emergency Services Academy and District Lahore - 92 Emergency Medical Technicians, 108 Rescue Drivers, 28 Fire Rescuers and officers. Apply online through CTS before 6 November 2026.",
+    description: `<p>The <strong>Emergency Services Department, Government of Punjab (Rescue 1122)</strong> is hiring <strong>239 staff</strong> for its Headquarters, Emergency Services Academy and District Lahore (advertised in Daily Nawa-i-Waqt, 15 October 2026). Posts are temporary and non-transferable.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Emergency Officer (Medical)</strong> - PPS-07 - 05 posts (MBBS with valid PMDC/PMC registration, age 24-32)</li>
+      <li><strong>Hostel Warden (Female)</strong> - PPS-05 - 01 post (Bachelor's in Social Sciences/Psychology/Management, age 24-35)</li>
+      <li><strong>Assistant Hostel Warden (Female)</strong> - PPS-03 - 01 post (Bachelor's in Social Sciences/Psychology/Management, age 22-30)</li>
+      <li><strong>Attendant (Female)</strong> - PPS-02 - 04 posts (Matric with housekeeping certificate, age 22-35)</li>
+      <li><strong>Fire DERT Rescuer</strong> - PPS-03 - 28 posts (DAE 2nd division, age 20-30)</li>
+      <li><strong>Emergency Medical Technician (EMT)</strong> - PPS-03 - 92 posts (Nursing/paramedical degree or diploma 2nd division, age 20-30)</li>
+      <li><strong>Rescue Driver (LTV)</strong> - PPS-02 - 108 posts (SSC 2nd division + valid LTV licence, age 20-30)</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 239 - male and female candidates</li>
+      <li><strong>Testing agency:</strong> Central Testing Service (CTS)</li>
+      <li><strong>Salary:</strong> PPS-02 to PPS-07 as per government policy</li>
+      <li><strong>Last date:</strong> 6 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online through the Central Testing Service at <strong>www.ctspak.com</strong></li>
+      <li>Print the submitted application form and send it by post with the fee to the CTS address given in the advertisement</li>
+      <li>Selection includes written, psychological, physical and skill tests</li>
+      <li>Submit before <strong>6 November 2026</strong> - no TA/DA is admissible</li>
+    </ol>
+    <p><strong>Note:</strong> No age or qualification relaxation for Army or civil candidates; only ESD employees get 5 years' upper-age relaxation for administrative posts.</p>`,
+    howToApply: [
+      "Apply online through the Central Testing Service at www.ctspak.com",
+      "Print the application form and send it by post with the fee to the CTS address in the advertisement",
+      "Selection includes written, psychological, physical and skill tests",
+      "Apply before 6 November 2026 - no TA/DA is admissible"
+    ]
+  },
+  {
+    id: 38,
+    title: "Peshawar High Court Jobs 2026 - 41 Posts (Assistant, Computer Operator, Junior Clerk, Driver) via ETEA (Apply by Nov 20)",
+    department: "Peshawar High Court",
+    category: "Government",
+    subcategory: "Judiciary",
+    city: "Peshawar",
+    province: "Khyber Pakhtunkhwa",
+    qualification: "Post-wise: Bachelor's degree for Assistant; BS Computer Science/IT for Computer Operator; Master's in Library Science for Assistant Librarian; Intermediate + 30 wpm typing for Junior Clerk; valid HTV/LTV licence for Driver",
+    experience: "Driver: 5 years relevant driving experience; other posts as per official advertisement",
+    ageLimit: "18 - 35 years (post-wise)",
+    vacancies: "41 (Assistant 8, Computer Operator 7, Assistant Librarian 1, CCTV Camera Operator 6, Junior Clerk 7, Driver 12)",
+    salary: "BPS-06 to BPS-16 (government pay scales)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-10-23",
+    source: "Suno News (English), 21 October 2026 - official advertisement",
+    officialLink: "https://etea.edu.pk",
+    officialLinkLabel: "ETEA Official Website (Apply Online)",
+    featured: true,
+    shortDesc: "Peshawar High Court is hiring 41 staff across 6 categories for KP domicile holders - Assistants, Computer Operators, Junior Clerks, CCTV Operators and Drivers (BPS-06 to BPS-16). Apply online through ETEA before 20 November 2026.",
+    description: `<p>The <strong>Peshawar High Court</strong> has announced <strong>41 job vacancies</strong> for 2026, open to candidates holding a Khyber Pakhtunkhwa domicile, with pay scales from BPS-06 to BPS-16 (published 21 October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Assistant</strong> - BPS-16 - 08 posts (Bachelor's degree, age 25-30)</li>
+      <li><strong>Computer Operator</strong> - BPS-16 - 07 posts (BS Computer Science/IT, age 25-35)</li>
+      <li><strong>Assistant Librarian</strong> - BPS-16 - 01 post (Master's in Library Science, age 25-30)</li>
+      <li><strong>CCTV Camera Operator</strong> - BPS-12 - 06 posts (Electrical/Electronics technical qualification, age 25-30)</li>
+      <li><strong>Junior Clerk</strong> - BPS-11 - 07 posts (Intermediate + 30 wpm typing speed, age 18-30)</li>
+      <li><strong>Driver</strong> - BPS-06 - 12 posts (valid HTV/LTV licence + 5 years experience, age 25-35)</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 41 - KP domicile holders only</li>
+      <li><strong>Pay scales:</strong> BPS-06 to BPS-16</li>
+      <li><strong>Testing:</strong> ETEA screening tests - notifications via SMS, roll number slips from the ETEA website</li>
+      <li><strong>Last date:</strong> 20 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online through the official ETEA website: <strong>etea.edu.pk</strong></li>
+      <li>Complete the NADRA E-Sahulat verification and fill out the online application form</li>
+      <li>Generate the deposit slip and pay the prescribed fee through an approved OneLink payment channel</li>
+      <li>Submit before <strong>20 November 2026</strong> - documents are not required at the initial stage</li>
+    </ol>
+    <p><strong>Note:</strong> Government employees must provide a No Objection Certificate where required. No TA/DA is admissible for tests or interviews.</p>`,
+    howToApply: [
+      "Apply online through the official ETEA website: etea.edu.pk",
+      "Complete NADRA E-Sahulat verification and fill out the online application form",
+      "Generate the deposit slip and pay the fee through an approved OneLink payment channel",
+      "Apply before 20 November 2026 - no documents needed at the initial stage"
+    ]
+  },
+  {
+    id: 37,
+    title: "Ministry of Planning Jobs 2026 - APS & Accountant Posts under PSDP M&E Project (Apply within 15 Days)",
+    department: "Ministry of Planning, Development & Special Initiatives",
+    category: "Government",
+    subcategory: "Administration",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "APS: BA/BSc with 80/40 wpm shorthand/typing speed. Accountant: MBA (Finance), M.Com, CA Inter or ACCA Foundation",
+    experience: "APS: 2 years relevant experience. Accountant: 1 year in cash/accounts books maintenance and AGPR reconciliation",
+    ageLimit: "APS: up to 50 years; Accountant: up to 45 years",
+    vacancies: "2 (APS (equiv. PPS-6) 1, Accountant (equiv. PPS-6) 1)",
+    salary: "PPS-06 (contract, as per project terms)",
+    lastDate: "2026-11-04",
+    postedDate: "2026-10-23",
+    source: "Daily Ausaf, 20 October 2026 via careerjoin.com",
+    officialLink: "https://www.pc.gov.pk",
+    officialLinkLabel: "Ministry of Planning Official Website",
+    featured: false,
+    shortDesc: "Ministry of Planning, Development & Special Initiatives is hiring an Assistant Private Secretary and an Accountant (PPS-6 each) on contract under its 'Strengthening of M/o PD&SI in M&E of PSDP' project. Apply via the National Job Portal within 15 days of publication.",
+    description: `<p>The <strong>Ministry of Planning, Development & Special Initiatives</strong> invites applications on purely contract and merit basis under the project <strong>"Strengthening of M/o PD&SI in M&E of PSDP"</strong> (advertised in Daily Ausaf, 20 October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>APS (equivalent PPS-6)</strong> - BA/BSc, 80/40 wpm shorthand/typing speed, 2 years' experience - max age 50</li>
+      <li><strong>Accountant (equivalent PPS-6)</strong> - MBA (Finance), M.Com, CA Inter or ACCA Foundation, 1 year in accounts books maintenance and AGPR reconciliation - max age 45</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 2 - contract basis</li>
+      <li><strong>Detailed ToRs:</strong> available on the Ministry's website</li>
+      <li><strong>Deadline:</strong> within 15 days of publication (4 November 2026)</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online at the National Job Portal: <strong>www.njp.gov.pk</strong></li>
+      <li>Government servants must apply through the proper channel</li>
+      <li>Submit within <strong>15 days of publication</strong> - incomplete applications will not be entertained</li>
+      <li>Only shortlisted candidates will be called for interview; no TA/DA is admissible</li>
+    </ol>`,
+    howToApply: [
+      "Apply online at the National Job Portal: www.njp.gov.pk",
+      "Government servants must apply through the proper channel",
+      "Submit within 15 days of publication (by 4 November 2026)",
+      "Only shortlisted candidates will be called for interview; no TA/DA"
+    ]
+  },
+  {
+    id: 36,
+    title: "Pakistan Railways Jobs 2026 - Director (Business Development) & Deputy Director (Financial Analyst) (Apply by Oct 30)",
+    department: "Ministry of Railways (Strengthening of Planning, Development, Monitoring & Evaluation Directorate - SPD&ME Project)",
+    category: "Government",
+    subcategory: "Management",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "Director: MBA or MS (Marketing/Finance/Project Management, 16 years education, HEC-recognized). Deputy Director: MS Finance, MSc Economics, ACCA or CA",
+    experience: "Director: 12 years project management with 5+ years in PPP projects. Deputy Director: 7 years post-qualification with 2 years in project financial modelling",
+    ageLimit: "Director: up to 50 years; Deputy Director: up to 45 years",
+    vacancies: "2 (Director/Business Development PPS-10 1, Deputy Director (Financial Analyst) PPS-09 1)",
+    salary: "PPS-10 / PPS-09 (project pay scales, 2-year contract)",
+    lastDate: "2026-10-30",
+    postedDate: "2026-10-23",
+    source: "newsguru.pk, 19 October 2026 - official advertisement",
+    officialLink: "https://www.railways.gov.pk",
+    officialLinkLabel: "Ministry of Railways Official Website",
+    featured: false,
+    shortDesc: "Ministry of Railways is hiring a Director (Business Development, PPS-10) and a Deputy Director (Financial Analyst, PPS-09) on contract under its SPD&ME project. Apply online via the National Job Portal before 30 October 2026.",
+    description: `<p>The <strong>Ministry of Railways</strong> has announced <strong>2 contract-based vacancies</strong> under its <strong>Strengthening of Planning, Development, Monitoring and Evaluation Directorate (SPD&ME)</strong> project, based in Islamabad (published 19 October 2026).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Director / Business Development</strong> - PPS-10 - 01 post (MBA/MS Marketing/Finance/Project Management; 12 years project management experience with 5+ years in PPP projects; max age 50)</li>
+      <li><strong>Deputy Director (Financial Analyst)</strong> - PPS-09 - 01 post (MS Finance / MSc Economics / ACCA / CA; 7 years post-qualification experience with 2 years in project financial modelling; max age 45)</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 2 - contract for 2 years or until project completion (extendable)</li>
+      <li><strong>Location:</strong> Islamabad (posting anywhere in Pakistan possible)</li>
+      <li><strong>Last date:</strong> 30 October 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal: <strong>njp.gov.pk</strong> and search for Ministry of Railways vacancies</li>
+      <li>Select the post, read the full job description and eligibility criteria</li>
+      <li>Submit your online application before <strong>30 October 2026</strong></li>
+      <li>Government employees must apply through the proper channel with NOC where applicable</li>
+    </ol>
+    <p><strong>Note:</strong> Only shortlisted candidates will be called for test or interview. Incomplete and late applications will not be accepted.</p>`,
+    howToApply: [
+      "Visit the National Job Portal: njp.gov.pk and search for Ministry of Railways vacancies",
+      "Select the post and read the full job description and eligibility criteria",
+      "Submit your online application before 30 October 2026",
+      "Government employees must apply through the proper channel with NOC where applicable"
+    ]
+  },
+  {
     id: 32,
     title: "PAA Model Schools & College Jobs 2026 - 71 Teaching & Non-Teaching Posts (Apply by Oct 25)",
     department: "Pakistan Airports Authority (PAA) - Model Schools & College",
