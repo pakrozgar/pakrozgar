@@ -10,6 +10,191 @@
 
 const JOBS = [
   {
+    id: 40,
+    title: "Pakistan Airports Authority (PAA) Jobs 2026 - 5 Assistant Director IT Posts (Notice 05/2026, Apply by Nov 7)",
+    department: "Pakistan Airports Authority (PAA)",
+    category: "Government",
+    subcategory: "IT & Technology",
+    city: "Karachi",
+    province: "Federal",
+    qualification: "BS/BE (minimum 16 years of education) in a relevant discipline - Computer Science, IT, Networking, Cyber Security or Software Engineering",
+    experience: "Minimum 3 years post-qualification professional experience",
+    ageLimit: "Maximum 30 years (relaxation as per government rules)",
+    vacancies: "5 (Assistant Director IT: IT Network Engineer, IT Operations Engineer, Technology Transformation, Cyber Security, Software Development - Full Stack; 1 post each)",
+    salary: "EG-01: Rs 56,280 - 168,880 per month (regular appointment under Defined Contribution Scheme)",
+    lastDate: "2026-11-07",
+    postedDate: "2026-10-24",
+    source: "Daily Dawn, 23 October 2026 (Situation Vacant Notice No. 05/2026) via jobportal.marks.com.pk / pakjobalert.pk / bloompakistan.com",
+    officialLink: "https://paa.gov.pk",
+    officialLinkLabel: "PAA Official Website",
+    featured: true,
+    shortDesc: "Pakistan Airports Authority is hiring 5 Assistant Director IT officers (Network Engineer, IT Operations, Technology Transformation, Cyber Security, Full-Stack Development) in EG-01 on regular basis. Apply online at paa.gov.pk before 7 November 2026.",
+    description: `<p>The <strong>Pakistan Airports Authority (PAA)</strong> has announced <strong>5 Assistant Director IT positions</strong> (Situation Vacant Notice No. 05/2026, advertised in Daily Dawn, 23 October 2026). Appointments are regular, under the Defined Contribution Scheme, strictly on merit and suitability. Selected candidates may be posted anywhere in Pakistan.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Assistant Director IT (Network Engineer)</strong> - EG-01 - 1 post</li>
+      <li><strong>Assistant Director IT (Operations Engineer)</strong> - EG-01 - 1 post</li>
+      <li><strong>Assistant Director IT (Technology Transformation)</strong> - EG-01 - 1 post</li>
+      <li><strong>Assistant Director IT (Cyber Security)</strong> - EG-01 - 1 post</li>
+      <li><strong>Assistant Director IT (Software Development - Full Stack)</strong> - EG-01 - 1 post</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 5 (one per specialization)</li>
+      <li><strong>Pay scale:</strong> EG-01 (Rs 56,280 - 168,880)</li>
+      <li><strong>Qualification:</strong> Relevant BS/BE (minimum 16 years of education)</li>
+      <li><strong>Experience:</strong> Minimum 3 years post-qualification</li>
+      <li><strong>Max age:</strong> 30 years (relaxation as per rules)</li>
+      <li><strong>Application fee:</strong> Rs 500 per position (non-refundable)</li>
+      <li><strong>Last date:</strong> Within 15 days of publication (7 November 2026)</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the Terms of Reference (TOR) for the post on <strong>paa.gov.pk</strong></li>
+      <li>Deposit the non-refundable test fee of Rs 500 into Allied Bank of Pakistan Account No. 0010011740150017 (IBAN PK03ABPA0010011740150017), titled Pakistan Airports Authority</li>
+      <li>Fill the online job application form on the PAA website</li>
+      <li>Upload your CV with photograph, PDF copies of degrees/certificates, and CNIC</li>
+      <li>Submit within fifteen days of the advertisement, by <strong>7 November 2026</strong> - applications without the fee are not considered</li>
+    </ol>`,
+    howToApply: [
+      "Read the Terms of Reference (TOR) for the post on paa.gov.pk",
+      "Deposit the non-refundable Rs 500 test fee per post to Allied Bank A/C 0010011740150017 (Pakistan Airports Authority)",
+      "Fill the online job application form and upload CV with photo, degrees/certificates in PDF, and CNIC",
+      "Submit within 15 days of the advertisement, by 7 November 2026"
+    ]
+  },
+  {
+    id: 41,
+    title: "ANF Jobs 2026 - Special Prosecutor (Contract) at Regional Directorate KPK, Peshawar (Apply by Nov 10)",
+    department: "Anti Narcotics Force (ANF), Regional Directorate Khyber Pakhtunkhwa",
+    category: "Government",
+    subcategory: "Legal",
+    city: "Peshawar",
+    province: "Khyber Pakhtunkhwa",
+    qualification: "Practising Advocate of the High Court with criminal litigation experience (particularly narcotics, assets and money laundering cases); member of a Bar Association in Khyber Pakhtunkhwa; Pakistani citizen resident/settled in Peshawar",
+    experience: "Criminal litigation experience, particularly narcotics, assets and money laundering cases",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement (Special Prosecutor - contract basis)",
+    salary: "Negotiable retainership up to Rs 110,000 per month (inclusive of taxes), with up to 10% annual performance increment",
+    lastDate: "2026-11-10",
+    postedDate: "2026-10-24",
+    source: "Daily Dawn, 23 October 2026 (PID(P)215/26) via pakjobalert.pk / opportunity.pk",
+    officialLink: "https://www.anf.gov.pk",
+    officialLinkLabel: "ANF Official Website",
+    featured: true,
+    shortDesc: "Anti Narcotics Force (Regional Directorate KP, Peshawar) is hiring a Special Prosecutor on contract basis. Practising High Court advocates with criminal litigation experience can apply by 10 November 2026. Retainership up to Rs 110,000/month.",
+    description: `<p>The <strong>Anti Narcotics Force (ANF), Regional Directorate Khyber Pakhtunkhwa, Peshawar</strong> has advertised (PID(P)215/26, published in Daily Dawn, 23 October 2026) the appointment of a <strong>Special Prosecutor on a contract/retainership basis</strong> to appear in Special Courts (CNS), the Anti-Smuggling Court, the High Court and Appellate Courts, Peshawar.</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Post:</strong> Special Prosecutor (contract/retainership)</li>
+      <li><strong>Eligibility:</strong> Practising Advocate of the High Court, member of a Bar Association in Khyber Pakhtunkhwa, resident of / settled in Peshawar</li>
+      <li><strong>Experience:</strong> Contesting criminal cases, particularly narcotics, assets and money laundering cases</li>
+      <li><strong>Retainership:</strong> Negotiable up to Rs 110,000 per month (inclusive of taxes), up to 10% annual performance increment</li>
+      <li><strong>Restriction:</strong> The selected advocate cannot appear as defence counsel in narcotics-related cases for any law enforcement agency during the contract</li>
+      <li><strong>Last date:</strong> 10 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Complete the prescribed application form and attach your CV and attested documents (no online portal - submit by post/courier or in person)</li>
+      <li>Send the application to: <strong>Regional Directorate, Anti Narcotics Force Khyber Pakhtunkhwa, 13/14 Industrial Estate, Jamrud Road, Hayatabad, Peshawar</strong></li>
+      <li>Contact: 091-9217309 / 091-9217310</li>
+      <li>Apply before <strong>10 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Complete the prescribed application form and attach CV with attested documents (no online application)",
+      "Submit by post/courier or in person to Regional Directorate ANF KP, 13/14 Industrial Estate, Jamrud Road, Hayatabad, Peshawar",
+      "Contact 091-9217309 or 091-9217310 for queries",
+      "Apply before 10 November 2026"
+    ]
+  },
+  {
+    id: 42,
+    title: "Baba Guru Nanak University Jobs 2026 - Daily-Wage Support Staff (Chowkidar, Helper Gang, Khakrob) - Walk-in Interview Nov 9",
+    department: "Baba Guru Nanak University (BGNU), Nankana Sahib",
+    category: "Government",
+    subcategory: "Education / Support Staff",
+    city: "Nankana Sahib",
+    province: "Punjab",
+    qualification: "Literate (can read and write)",
+    experience: "Not required",
+    ageLimit: "18 - 25 years (relaxation as per Punjab government policy)",
+    vacancies: "As per official advertisement (Chowkidar, Helper Gang (male/female), Khakrob / Sanitary Worker (male/female))",
+    salary: "Daily wages as per Punjab Labour Department policy (89-day basis, extendable up to 1 year)",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-24",
+    source: "Daily Jang, 23 October 2026 via opportunity.pk",
+    officialLink: "https://bgnu.edu.pk",
+    officialLinkLabel: "BGNU Official Website",
+    featured: false,
+    shortDesc: "Baba Guru Nanak University, Nankana Sahib is hiring support staff (Chowkidar, Helper Gang, Khakrob/Sanitary Worker) on daily wages. Literate candidates aged 18-25 (Punjab domicile) can appear for the walk-in interview on 9 November 2026.",
+    description: `<p><strong>Baba Guru Nanak University (BGNU), Nankana Sahib</strong> has advertised support-staff posts on a daily-wage basis (advertised in Daily Jang, 23 October 2026). The engagement is for 89 days, extendable up to one year as required, purely on daily wages per the Punjab Labour Department policy.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Chowkidar</strong> - Male - 18 to 25 years - literate (height 5 ft 6 in minimum, chest 32-34 in)</li>
+      <li><strong>Helper Gang</strong> - Male & Female - 18 to 25 years - literate</li>
+      <li><strong>Khakrob / Sanitary Worker</strong> - Male & Female - 18 to 25 years - literate</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Domicile:</strong> Punjab only (male and female candidates eligible)</li>
+      <li><strong>Fee:</strong> Rs 300 per post (non-refundable), Bank of Punjab A/C 6510227249000019 (Baba Guru Nanak University)</li>
+      <li><strong>Interview:</strong> Walk-in on <strong>Monday, 9 November 2026 at 9:00 AM</strong> - no separate call letter</li>
+      <li><strong>Venue:</strong> Registrar Office, Baba Guru Nanak University, Faculty Hostel Building, Danish School, Kachahri Road, Nankana Sahib</li>
+      <li><strong>Contact:</strong> 056-9201171, registrar@bgnu.edu.pk</li>
+    </ul>`,
+    howToApply: [
+      "Deposit Rs 300 non-refundable fee per post at Bank of Punjab A/C 6510227249000019 (Baba Guru Nanak University)",
+      "Appear for the walk-in interview on Monday 9 November 2026 at 9:00 AM at the Registrar Office, BGNU, Faculty Hostel Building, Danish School, Kachahri Road, Nankana Sahib",
+      "Bring original documents and the fee deposit receipt (no separate call letter is issued)",
+      "Only Punjab domicile holders are eligible - contact 056-9201171 or registrar@bgnu.edu.pk"
+    ]
+  },
+  {
+    id: 43,
+    title: "AIDU Punjab Jobs 2026 - 6 AI Product / Deployment Manager Posts via Punjab Job Portal (Apply by Nov 12)",
+    department: "Artificial Intelligence Delivery Unit (AIDU), Services & General Administration Department, Government of the Punjab",
+    category: "Government",
+    subcategory: "IT & Technology",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "16 years of education (Bachelor's or Master's) in Computer Science, Software Engineering, Artificial Intelligence, Data Science or a related technical field from an HEC-recognized university; foreign-qualified candidates with a proven track record preferred",
+    experience: "At least 4 years of professional experience including 2+ years in product management of software, data or AI products; demonstrated record of shipping products to production",
+    ageLimit: "As per official advertisement",
+    vacancies: "6",
+    salary: "Highly competitive market-based package (contract)",
+    lastDate: "2026-11-12",
+    postedDate: "2026-10-24",
+    source: "Daily Jang, 21 October 2026 (ad ref IPL-11159) via jobsbuzzpk.blogspot.com",
+    officialLink: "https://www.jobs.punjab.gov.pk",
+    officialLinkLabel: "Punjab Job Portal",
+    featured: true,
+    shortDesc: "The Artificial Intelligence Delivery Unit (AIDU), S&GAD Government of Punjab, is hiring 6 AI Product / Deployment Managers on contract with a market-based package. Apply online only through the Punjab job portal before 12 November 2026.",
+    description: `<p>The <strong>Artificial Intelligence Delivery Unit (AIDU)</strong> - the AI Wing of the Services & General Administration Department, Government of the Punjab - is hiring <strong>6 AI Product / Deployment Managers</strong> (advertised in Daily Jang, 21 October 2026, ad ref IPL-11159) on contract with a highly competitive market-based package. The unit designs and deploys AI products and digital services across the public sector.</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Posts:</strong> 6 - AI Product / Deployment Manager</li>
+      <li><strong>Location:</strong> Lahore, Punjab</li>
+      <li><strong>Qualification:</strong> 16 years of education in CS, software engineering, AI, data science or a related field (HEC-recognized); foreign qualification with proven track record preferred</li>
+      <li><strong>Experience:</strong> At least 4 years professional experience, including 2+ years in product management of software, data or AI products; demonstrable record of shipping products to production</li>
+      <li><strong>Role:</strong> Own delivery and deployment of AI/data products from design through production release; coordinate engineering, data and delivery teams</li>
+      <li><strong>Last date:</strong> 12 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the detailed job description for the post on <strong>ai.punjab.gov.pk</strong></li>
+      <li>Apply online ONLY through the Punjab government's job portal at <strong>jobs.punjab.gov.pk</strong></li>
+      <li>Only shortlisted candidates are contacted for interviews; no TA/DA is admissible</li>
+      <li>For queries: pd.aidu@punjab.gov.pk</li>
+      <li>Apply before <strong>12 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Read the detailed job description on ai.punjab.gov.pk",
+      "Apply online only through the Punjab government's job portal at jobs.punjab.gov.pk",
+      "Only shortlisted candidates are contacted for interviews - no TA/DA is admissible",
+      "For queries: pd.aidu@punjab.gov.pk - apply before 12 November 2026"
+    ]
+  },
+  {
     id: 39,
     title: "Rescue 1122 Punjab Jobs 2026 - 239 Posts (EMT, Rescue Driver, Fire Rescuer) via CTS (Apply by Nov 6)",
     department: "Emergency Services Department, Government of Punjab - Rescue 1122",
