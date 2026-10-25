@@ -10,6 +10,189 @@
 
 const JOBS = [
   {
+    id: 44,
+    title: "Port Qasim Authority Jobs 2026 - 6 Director & Assistant Manager Posts (BPS-17 to BPS-20, Apply by Nov 8)",
+    department: "Port Qasim Authority (PQA), Ministry of Maritime Affairs",
+    category: "Government",
+    subcategory: "Management & Engineering",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "2nd Class Master's degree in Administrative/Social Sciences, MPA or MBA for Director posts; MBA (Finance) or M.Com for Assistant Manager Internal Audit; Bachelor's in Mechanical Engineering (PEC registered) or Class-II Competency for Assistant Executive Engineer Mechanical; Master's in Social Sciences or MBA for Assistant Manager Secretariat; Bachelor's in Civil Engineering or MBA/MPA for Assistant Manager Estate",
+    experience: "17 years in personnel administration for Director posts; 3 years relevant experience for Assistant Manager / Assistant Executive Engineer posts",
+    ageLimit: "Maximum 50 years for BPS-20 posts; maximum 30 years for BPS-17 posts",
+    vacancies: "6 (Director Administration, Director Human Resource, Assistant Manager Internal Audit, Assistant Executive Engineer Mechanical, Assistant Manager Secretariat, Assistant Manager Estate - 1 post each)",
+    salary: "BPS-20 for Director posts; BPS-17 for Assistant Manager / Assistant Executive Engineer posts (contract, 2 years extendable)",
+    lastDate: "2026-11-08",
+    postedDate: "2026-10-25",
+    source: "Daily Jang, 24 October 2026 via worksmartpk.com / pakvacancy.com / balochjobs.com",
+    officialLink: "https://www.pqa.gov.pk",
+    officialLinkLabel: "PQA Official Website",
+    featured: true,
+    shortDesc: "Port Qasim Authority, Karachi is hiring 6 officers on 2-year contract (extendable): 2 Directors (BPS-20) and 4 Assistant Managers / Assistant Executive Engineer (BPS-17). Apply by post within 15 days of the advertisement, by 8 November 2026.",
+    description: `<p>The <strong>Port Qasim Authority (PQA)</strong>, Ministry of Maritime Affairs, has advertised <strong>6 posts</strong> (Daily Jang, 24 October 2026) on a two-year contract basis, extendable, at its Bin Qasim, Karachi head office.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Director (Administration)</strong> - BPS-20 - 1 post - Merit domicile</li>
+      <li><strong>Director (Human Resource)</strong> - BPS-20 - 1 post - Merit domicile</li>
+      <li><strong>Assistant Manager (Internal Audit)</strong> - BPS-17 - 1 post - Khyber Pakhtunkhwa domicile</li>
+      <li><strong>Assistant Executive Engineer (Mechanical)</strong> - BPS-17 - 1 post - Sindh Urban domicile</li>
+      <li><strong>Assistant Manager (Secretariat)</strong> - BPS-17 - 1 post</li>
+      <li><strong>Assistant Manager (Estate)</strong> - BPS-17 - 1 post</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 6</li>
+      <li><strong>Director experience:</strong> 17 years in personnel administration</li>
+      <li><strong>Assistant Manager experience:</strong> 3 years relevant experience</li>
+      <li><strong>Max age:</strong> 50 years (BPS-20), 30 years (BPS-17)</li>
+      <li><strong>Last date:</strong> Within 15 days of publication (8 November 2026)</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Fill the official application form printed in the newspaper advertisement</li>
+      <li>Enclose a detailed CV, two passport-size photographs, and attested copies of academic certificates, experience letters, CNIC and domicile</li>
+      <li>Send the sealed envelope by registered courier to: <strong>Director (HRM), Port Qasim Authority, Bin Qasim, Karachi 75020</strong></li>
+      <li>Apply within 15 days of publication, by <strong>8 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Fill the official application form printed in the newspaper advertisement",
+      "Enclose CV, two passport photos, and attested copies of certificates, experience letters, CNIC and domicile",
+      "Send by registered courier to Director (HRM), Port Qasim Authority, Bin Qasim, Karachi 75020",
+      "Apply within 15 days of publication, by 8 November 2026"
+    ]
+  },
+  {
+    id: 45,
+    title: "Airport Hotel Karachi Jobs 2026 - General Manager (Skyrooms / PIA Holding, Apply by Nov 10)",
+    department: "Skyrooms Private Limited (Airport Hotel Karachi), subsidiary of PIA Holding Company Limited",
+    category: "Government",
+    subcategory: "Hospitality",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Master's degree in Hospitality Management, Hotel Management, Business Administration or equivalent from an HEC-recognized institution",
+    experience: "At least 15 years progressive experience in hospitality or hotel management, including minimum 5 years as General Manager or Hotel Manager",
+    ageLimit: "40 - 55 years (up to 5 years relaxation in upper age limit may be considered as per policy)",
+    vacancies: "1 (General Manager - Airport Hotel)",
+    salary: "As per official advertisement (performance-based, KPI-driven contract, extendable subject to performance)",
+    lastDate: "2026-11-10",
+    postedDate: "2026-10-25",
+    source: "Daily Dawn, 24 October 2026 via worksmartpk.com",
+    officialLink: "https://www.airporthotel.com.pk/careers",
+    officialLinkLabel: "Airport Hotel Careers",
+    featured: true,
+    shortDesc: "Skyrooms Private Limited (PIA Holding) is hiring a General Manager for the Airport Hotel Karachi on a performance-based contract. Hospitality leaders with 15+ years experience can apply by email by 10 November 2026.",
+    description: `<p><strong>Skyrooms Private Limited</strong>, a subsidiary of PIA Holding Company Limited, has advertised the post of <strong>General Manager - Airport Hotel, Karachi</strong> (Daily Dawn, 24 October 2026). The appointment is on a performance-based, KPI-driven contract, extendable subject to performance evaluation and business needs.</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Post:</strong> General Manager - Airport Hotel (1 post)</li>
+      <li><strong>Qualification:</strong> Master's in Hospitality / Hotel Management / Business Administration or equivalent (HEC-recognized)</li>
+      <li><strong>Experience:</strong> At least 15 years in hospitality, including 5 years as General Manager or Hotel Manager</li>
+      <li><strong>Age:</strong> 40 - 55 years (up to 5 years relaxation may be considered)</li>
+      <li><strong>Requirement:</strong> Applicants must satisfy fit-and-proper requirements under Section 16 of the SOE Act 2023</li>
+      <li><strong>Last date:</strong> 10 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Review the detailed job description and eligibility criteria at airporthotel.com.pk/careers</li>
+      <li>Prepare a cover letter, CV, academic/professional credentials, experience records, and a fit-and-proper declaration</li>
+      <li>Email the complete document package to <strong>mgrhr.sr@piac.aero</strong> on or before <strong>10 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Review the detailed job description at airporthotel.com.pk/careers",
+      "Prepare cover letter, CV, academic/professional credentials, experience records, and a fit-and-proper declaration",
+      "Email the complete package to mgrhr.sr@piac.aero on or before 10 November 2026"
+    ]
+  },
+  {
+    id: 46,
+    title: "Hayatabad Medical Complex Peshawar Jobs 2026 - Finance, QA, HR Officers & Clinical Technicians via ETEA (Apply by Nov 15)",
+    department: "Medical & Teaching Institution (MTI), Hayatabad Medical Complex / Khyber Girls Medical College, Peshawar",
+    category: "Government",
+    subcategory: "Health",
+    city: "Peshawar",
+    province: "Khyber Pakhtunkhwa",
+    qualification: "CA / ACCA / M.Com / MBA Finance / MSc Economics for Finance Officer; Master's / Bachelor's (16 years) or BS/MS Social Science for Quality Assurance & HR Officers; Diploma / BS in relevant field for Speech Therapist & Junior Clinical Technicians",
+    experience: "1 to 5 years post-qualification experience in audit, quality assurance, HR or clinical technologies (no experience required for CA candidates applying for Finance Officer)",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement (Finance Officer IPS-11, Quality Assurance Officer IPS-10, Human Resource Officer IPS-10, Speech Therapist IPS-09, Junior Clinical Technicians IPS-08 in Ophthalmology, Neurology and Pulmonology)",
+    salary: "IPS-11 / IPS-10 / IPS-09 / IPS-08 as per post (contractual, 3 years extendable)",
+    lastDate: "2026-11-15",
+    postedDate: "2026-10-25",
+    source: "Daily Dawn, 24 October 2026 via worksmartpk.com",
+    officialLink: "https://www.etea.edu.pk",
+    officialLinkLabel: "ETEA Official Website",
+    featured: true,
+    shortDesc: "Hayatabad Medical Complex (MTI), Peshawar is hiring Finance, Quality Assurance and HR Officers plus Speech Therapist and Junior Clinical Technicians on 3-year contracts via ETEA. Apply online by 15 November 2026.",
+    description: `<p>The <strong>Medical & Teaching Institution (MTI), Hayatabad Medical Complex / Khyber Girls Medical College, Peshawar</strong> has advertised hospital and administration posts (Daily Dawn, 24 October 2026) on a three-year contractual basis, extendable, for candidates holding Khyber Pakhtunkhwa domicile.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Finance Officer</strong> - IPS-11</li>
+      <li><strong>Quality Assurance Officer</strong> - IPS-10</li>
+      <li><strong>Human Resource Officer</strong> - IPS-10</li>
+      <li><strong>Speech Therapist</strong> - IPS-09</li>
+      <li><strong>Junior Clinical Technician / Technologist</strong> (Ophthalmology, Neurology, Pulmonology) - IPS-08</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Contract:</strong> 3 years, extendable</li>
+      <li><strong>Domicile:</strong> Khyber Pakhtunkhwa</li>
+      <li><strong>Experience:</strong> 1 to 5 years post-qualification (CA candidates exempt for Finance Officer)</li>
+      <li><strong>Last date:</strong> 15 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit etea.edu.pk from 25 October 2026 and create an online applicant profile</li>
+      <li>Print the generated E-Sahulat token, verify your CNIC at any NADRA E-Sahulat franchise, then deposit the prescribed test fee via Easy Paisa or 1Link</li>
+      <li>Complete the online job form on the ETEA website by <strong>15 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Visit etea.edu.pk from 25 October 2026 and create an online applicant profile",
+      "Print the E-Sahulat token, verify CNIC at a NADRA E-Sahulat franchise, and deposit the test fee via Easy Paisa or 1Link",
+      "Complete the online job form on the ETEA website by 15 November 2026"
+    ]
+  },
+  {
+    id: 47,
+    title: "PSDF Jobs 2026 - Management Associate (Program Design) in Lahore (Apply by Nov 9)",
+    department: "Punjab Skills Development Fund (PSDF)",
+    category: "Government",
+    subcategory: "Management",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Bachelor's degree (Honors) in Management, Social Sciences or equivalent from an HEC-recognized university",
+    experience: "0 - 1 year relevant experience in program management, data analysis, application coordination or complaint tracking (fresh graduates eligible)",
+    ageLimit: "As per official advertisement",
+    vacancies: "1 (Management Associate - Program Design)",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-25",
+    source: "Daily Jang, 24 October 2026 via worksmartpk.com",
+    officialLink: "https://www.psdf.org.pk/careers",
+    officialLinkLabel: "PSDF Careers",
+    featured: true,
+    shortDesc: "Punjab Skills Development Fund (PSDF), Lahore is hiring a Management Associate (Program Design). Fresh graduates with a Bachelor's (Hons) in Management or Social Sciences can apply online by 9 November 2026.",
+    description: `<p>The <strong>Punjab Skills Development Fund (PSDF)</strong>, a non-profit company established by the Government of Punjab, has advertised the post of <strong>Management Associate - Program Design</strong> (Daily Jang, 24 October 2026) at its Lahore office.</p>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Post:</strong> Management Associate - Program Design (1 post)</li>
+      <li><strong>Qualification:</strong> Bachelor's degree (Honors) in Management, Social Sciences or equivalent (HEC-recognized)</li>
+      <li><strong>Experience:</strong> 0 - 1 year in program management, data analysis, application coordination or complaint tracking</li>
+      <li><strong>Eligibility:</strong> Fresh graduates with a relevant academic background are eligible</li>
+      <li><strong>Last date:</strong> 9 November 2026</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the PSDF career portal at psdf.org.pk/careers</li>
+      <li>Read the terms of reference and complete the online application form</li>
+      <li>Submit the online profile before the closing date on <strong>9 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Visit the PSDF career portal at psdf.org.pk/careers",
+      "Read the terms of reference and complete the online application form",
+      "Submit the online profile before 9 November 2026"
+    ]
+  },
+  {
     id: 40,
     title: "Pakistan Airports Authority (PAA) Jobs 2026 - 5 Assistant Director IT Posts (Notice 05/2026, Apply by Nov 7)",
     department: "Pakistan Airports Authority (PAA)",
