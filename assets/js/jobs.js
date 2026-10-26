@@ -10,6 +10,199 @@
 
 const JOBS = [
   {
+    id: 48,
+    title: "Competition Commission of Pakistan Jobs 2026 - 7 Legal, Finance, Exemptions, Data & Support Posts in Islamabad (Apply within 15 Days)",
+    department: "Competition Commission of Pakistan (CCP)",
+    category: "Government",
+    subcategory: "Regulatory",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "LL.B or equivalent Law degree (HEC-recognized) for Legal Advisor and Assistant Director (Legal); Bachelor's in Finance, Accounting, Commerce or Business Administration or ACCA/ACMA for Assistant Director (Finance); Bachelor's in Law, Economics or Finance or ACCA/ACMA for Assistant Director (Exemptions); Bachelor's in Econometrics and Data Sciences or related field for Assistant Director (MIU); Matric for Qasid/Cook; no formal qualification for Sweeper",
+    experience: "7 years post-qualification for Legal Advisor; 3 years for Assistant Director posts (not applicable for ACCA/ACMA holders for Finance and Exemptions posts); 5 years for Qasid/Cook; 3 years for Sweeper",
+    ageLimit: "35 years for Legal Advisor; 30 years for Assistant Director and Qasid/Cook posts; 27 years for Sweeper (plus 5 years general age relaxation as admissible under the rules)",
+    vacancies: "7 (Legal Advisor, Assistant Director Legal, Assistant Director Finance, Assistant Director Exemptions, Assistant Director MIU, Qasid/Cook, Sweeper - 1 post each)",
+    salary: "As per official advertisement (competitive packages with allied benefits; 2-year contract, extendable on satisfactory performance)",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-26",
+    source: "Competition Commission of Pakistan Career Opportunities advertisement, PID(I)3763/26, listed 25 October 2026 via ixjob.pk",
+    officialLink: "https://www.cc.gov.pk",
+    officialLinkLabel: "CCP Official Website",
+    featured: true,
+    shortDesc: "Competition Commission of Pakistan is hiring 7 staff in Islamabad on 2-year contracts: Legal Advisor, 4 Assistant Directors (Legal, Finance, Exemptions, MIU), Qasid/Cook and Sweeper. Apply online only, within 15 days of publication (around 9 November 2026 - confirm on the official website, as the ad prints no calendar date).",
+    description: `<p>The <strong>Competition Commission of Pakistan (CCP)</strong> has announced <strong>7 contract posts</strong> at its Islamabad head office (9th Floor, ISE Tower, Jinnah Avenue) under its Career Opportunities advertisement, PID(I)3763/26. Appointments are on a two-year contract, extendable on satisfactory performance.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Legal Advisor</strong> - 1 post - LL.B, 7 years experience, max age 35</li>
+      <li><strong>Assistant Director (Legal)</strong> - CCP Grade-5 - 1 post - LL.B, 3 years experience, max age 30</li>
+      <li><strong>Assistant Director (Finance)</strong> - CCP Grade-5 - 1 post - Bachelor's in Finance/Accounting/Commerce/Business Administration or ACCA/ACMA, max age 30</li>
+      <li><strong>Assistant Director (Exemptions)</strong> - CCP Grade-5 - 1 post - Bachelor's in Law/Economics/Finance or ACCA/ACMA, max age 30</li>
+      <li><strong>Assistant Director (MIU)</strong> - CCP Grade-5 - 1 post - Bachelor's in Econometrics and Data Sciences or related field, 3 years experience, max age 30</li>
+      <li><strong>Qasid/Cook</strong> - CCP Grade-2 - 1 post - Matric, 5 years experience, max age 30</li>
+      <li><strong>Sweeper</strong> - CCP Grade-2 - 1 post - No formal qualification, 3 years experience, max age 27</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 7 (one vacancy per post)</li>
+      <li><strong>Age relaxation:</strong> 5 years general relaxation in the upper age limit, as admissible under the rules</li>
+      <li><strong>Last date:</strong> Within 15 days of publication - the advertisement prints no calendar date, so confirm the closing date on cc.gov.pk before applying (15 days from the 25 October 2026 listing works out to 9 November 2026)</li>
+      <li><strong>Note:</strong> No TA/DA is admissible for test/interview; only shortlisted candidates will be called</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the official website <strong>cc.gov.pk</strong> and find the Career Opportunities advertisement</li>
+      <li>Check the qualification, experience and age limit for your post</li>
+      <li>Complete the online application with accurate details and submit within 15 days of publication</li>
+      <li>Government employees must apply through proper channel with an NOC</li>
+    </ol>`,
+    howToApply: [
+      "Visit cc.gov.pk and find the Career Opportunities advertisement",
+      "Check the qualification, experience and age limit for your post",
+      "Complete the online application and submit within 15 days of publication",
+      "Government employees must apply through proper channel with an NOC"
+    ]
+  },
+  {
+    id: 49,
+    title: "EXIM Bank of Pakistan Jobs 2026 - Legal Team Lead / Senior Manager / Manager & Senior Officer Finance & Accounts, Islamabad (Apply by Nov 3)",
+    department: "EXIM Bank of Pakistan (Pak EXIM)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "LLB from an HEC-recognized university with a valid Advocate High Courts licence for Legal posts (LLM, Barrister or JD/foreign law qualification preferred); Bachelor's degree in Accounting and Finance from an HEC-recognized university for Senior Officer Finance & Accounts",
+    experience: "Minimum 10 years for Team Lead / Senior Manager Legal and 7 years for Manager Legal, including at least 5 years as an Advocate High Courts; minimum 3 years professional experience for Senior Officer Finance & Accounts",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement (Team Lead / Senior Manager / Manager Legal and Senior Officer Finance & Accounts)",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-03",
+    postedDate: "2026-10-26",
+    source: "Daily The Nation, 20 October 2026 via careerjoin.com",
+    officialLink: "https://www.eximbank.gov.pk/careers",
+    officialLinkLabel: "EXIM Bank Careers",
+    featured: true,
+    shortDesc: "EXIM Bank of Pakistan (the country's official Export Credit Agency) is hiring Legal officers (Team Lead / Senior Manager / Manager) and a Senior Officer Finance & Accounts in Islamabad. Apply through the National Job Portal or by email by 3 November 2026.",
+    description: `<p><strong>EXIM Bank of Pakistan (Pak EXIM)</strong>, Pakistan's official Export Credit Agency, has advertised posts in Islamabad (Daily The Nation, 20 October 2026) for its high-performance team.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Team Lead / Senior Manager / Manager Legal</strong> - Islamabad - LLB with valid Advocate High Courts licence; 10 years experience for Team Lead/Senior Manager, 7 years for Manager, including at least 5 years as an Advocate High Courts; legal experience in a bank or financial institution is an added advantage</li>
+      <li><strong>Senior Officer Finance &amp; Accounts</strong> - Islamabad - Bachelor's degree in Accounting and Finance; minimum 3 years professional experience; experience in/with financial institutions is advantageous</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Last date:</strong> 3 November 2026</li>
+      <li><strong>Note:</strong> Pak EXIM may consider your application for any position in the advertisement in addition to the one applied for, subject to eligibility; only shortlisted candidates will be contacted</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit <strong>eximbank.gov.pk/careers</strong> for the full job descriptions</li>
+      <li>Apply through the National Job Portal at <strong>njp.gov.pk</strong>, OR email your CV/resume (with dated durations of each designation) with the position title as the subject line</li>
+      <li>Submit by <strong>3 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Visit eximbank.gov.pk/careers for full job descriptions",
+      "Apply through the National Job Portal (njp.gov.pk) or email your CV/resume with the position title as the subject line",
+      "Submit by 3 November 2026"
+    ]
+  },
+  {
+    id: 50,
+    title: "Auditor General of Pakistan Jobs 2026 - 36 Posts under Balochistan Quota (Junior Auditor, Stenotypist, Driver, Naib Qasid via NJP)",
+    department: "Department of the Auditor-General of Pakistan",
+    category: "Government",
+    subcategory: "Finance",
+    city: "Quetta",
+    province: "Balochistan",
+    qualification: "Intermediate with 80/40 w.p.m. shorthand/typing speed and computer literacy for Stenotypist; 2nd Class or Grade C Bachelor's degree in Commerce, Banking & Finance, Accounting, Business Administration or Information Technology with 30 w.p.m. typing speed and computer literacy for Junior Auditor; Primary pass with a valid driving licence for Staff Car Driver; Primary pass for Naib Qasid",
+    experience: "As per official advertisement",
+    ageLimit: "18 to 30 years for Stenotypist, Junior Auditor and Naib Qasid; 18 to 35 years for Staff Car Driver (including 5 years general age relaxation)",
+    vacancies: "36 (Junior Auditor BPS-11: 31, Stenotypist BPS-14: 1, Staff Car Driver BPS-04: 1, Naib Qasid BPS-01: 3)",
+    salary: "BPS-14 / BPS-11 / BPS-04 / BPS-01 as per post",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-26",
+    source: "Auditor-General of Pakistan advertisement, 25 October 2026 via jobbazaar.info",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal",
+    featured: true,
+    shortDesc: "The Department of the Auditor-General of Pakistan is recruiting 36 posts against the Balochistan quota (6%): 31 Junior Auditors, 1 Stenotypist, 1 Staff Car Driver and 3 Naib Qasids. Apply online through the National Job Portal within 15 days of the advertisement (around 9 November 2026 - confirm on NJP).",
+    description: `<p>The <strong>Department of the Auditor-General of Pakistan</strong> has announced <strong>36 vacancies</strong> for recruitment against the <strong>Balochistan quota (6%)</strong>. Applications are accepted online only, through the National Job Portal.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Stenotypist (BPS-14)</strong> - 1 post - Balochistan Merit - Intermediate, 80/40 w.p.m. shorthand/typing, computer literate, age 18-30</li>
+      <li><strong>Junior Auditor (BPS-11)</strong> - 31 posts - Balochistan (Merit 26, Women 3, Minority 1, Disabled 1) - 2nd Class or Grade C Bachelor's in Commerce/Banking &amp; Finance/Accounting/Business Administration/IT, 30 w.p.m. typing, computer literate, age 18-30</li>
+      <li><strong>Staff Car Driver (BPS-04)</strong> - 1 post - Quetta local - Primary pass, valid driving licence, age 18-35</li>
+      <li><strong>Naib Qasid (BPS-01)</strong> - 3 posts - Quetta local - Primary pass, age 18-30</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Total posts:</strong> 36</li>
+      <li><strong>Age relaxation:</strong> Age limits include 5 years general relaxation; an additional upper-age relaxation applies for this special exercise as per the advertisement</li>
+      <li><strong>Posting:</strong> Selected candidates may be posted in any field office of the department, except for the Driver and Naib Qasid posts (Quetta local)</li>
+      <li><strong>Last date:</strong> Within 15 days of the advertisement - the ad prints no calendar date, so confirm the closing date on njp.gov.pk (15 days from the 25 October 2026 advertisement works out to around 9 November 2026)</li>
+      <li><strong>Note:</strong> No TA/DA is admissible; direct applications to the office will not be entertained</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong></li>
+      <li>Find the Auditor-General of Pakistan vacancies and submit a separate online application for each post you apply for</li>
+      <li>Government servants must apply through proper channel</li>
+      <li>Submit within 15 days of the advertisement</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk",
+      "Submit a separate online application for each post you apply for",
+      "Government servants must apply through proper channel",
+      "Submit within 15 days of the advertisement"
+    ]
+  },
+  {
+    id: 51,
+    title: "Meezan Bank Jobs 2026 - Transaction Associates Batch No. 01 (Intermediate / Graduates, Multiple Cities, Apply by Nov 3)",
+    department: "Meezan Bank Limited",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Multiple Cities",
+    province: "All Pakistan",
+    qualification: "Minimum Intermediate (FA, FSc, ICS or I.Com); graduates preferred; a qualification in Islamic Finance is an added advantage",
+    experience: "No specific experience required; fresh Intermediate and graduate candidates are eligible",
+    ageLimit: "18 to 26 years as of 30 November 2026 (2 years relaxation, up to 28 years, for Hafiz-e-Quran, Dars-e-Nizami / Shahadat Ul Alamiyah holders with HEC equivalence, and differently-abled candidates)",
+    vacancies: "As per official advertisement (Transaction Associates, Batch No. 01 - number of vacancies not stated in the advertisement)",
+    salary: "Market-competitive salary with annual increment and performance-based bonus (permanent position for graduates; bank contract for Intermediate candidates)",
+    lastDate: "2026-11-03",
+    postedDate: "2026-10-26",
+    source: "Meezan Bank official advertisement, October 2026 via reviewpakistanijobs.com",
+    officialLink: "https://www.meezanbank.com/careers",
+    officialLinkLabel: "Meezan Bank Careers",
+    featured: true,
+    shortDesc: "Meezan Bank is hiring Transaction Associates (Batch No. 01) for its Transaction Solutions team in multiple cities. Intermediate and graduate candidates aged 18-26 can apply online through the bank's careers page by 3 November 2026.",
+    description: `<p><strong>Meezan Bank Limited</strong>, Pakistan's premier Islamic bank, is hiring <strong>Transaction Associates (Batch No. 01)</strong> for its Transaction Solutions team in multiple cities across Pakistan.</p>
+    <h3>Role</h3>
+    <ul>
+      <li>Conduct field visits to Meezan payroll partners to facilitate account-opening activities</li>
+      <li>Carry out biometric verification and complete account-opening documentation</li>
+      <li>Coordinate with stakeholders to resolve discrepancies and complete cases on time</li>
+      <li>Maintain accurate records and reports on account-opening activities and field visits</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Qualification:</strong> Minimum Intermediate; graduates preferred; Islamic Finance qualification an added advantage</li>
+      <li><strong>Age:</strong> 18 to 26 years as of 30 November 2026 (up to 28 with relaxation for eligible categories)</li>
+      <li><strong>Benefits:</strong> Graduates get a permanent position with Provident Fund, gratuity, subsidized housing finance, zero-percent auto financing and Takaful coverage; Intermediate candidates get a bank contract with Takaful coverage</li>
+      <li><strong>Last date:</strong> 3 November 2026</li>
+      <li><strong>Note:</strong> The advertisement does not state the number of vacancies, city names or exact salary - check the careers page for further details; only shortlisted candidates will be called</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit <strong>meezanbank.com/careers</strong></li>
+      <li>Find the "Transaction Associates - Batch No. 01" listing</li>
+      <li>Fill in the online application form and submit before <strong>3 November 2026</strong></li>
+    </ol>`,
+    howToApply: [
+      "Visit meezanbank.com/careers",
+      "Find the Transaction Associates (Batch No. 01) listing",
+      "Fill in the online application form and submit before 3 November 2026"
+    ]
+  },
+  {
     id: 44,
     title: "Port Qasim Authority Jobs 2026 - 6 Director & Assistant Manager Posts (BPS-17 to BPS-20, Apply by Nov 8)",
     department: "Port Qasim Authority (PQA), Ministry of Maritime Affairs",
