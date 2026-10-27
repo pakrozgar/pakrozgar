@@ -10,6 +10,194 @@
 
 const JOBS = [
   {
+    id: 52,
+    title: "NTC Jobs 2026 - Assistant Divisional Engineer (BPS-17) & Assistant Private Secretary (BPS-16), Balochistan Quota, Islamabad (Apply by Nov 17)",
+    department: "National Telecommunication Corporation (NTC)",
+    category: "Government",
+    subcategory: "Telecom",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Bachelor's degree in the relevant discipline of Engineering with mandatory Pakistan Engineering Council (PEC) registration for Assistant Divisional Engineer; Bachelor's degree from a recognized university for Assistant Private Secretary",
+    experience: "As per official advertisement",
+    ageLimit: "35 years for Assistant Divisional Engineer (30 years + 5 years general relaxation); 33 years for Assistant Private Secretary (28 years + 5 years general relaxation)",
+    vacancies: "2 (Assistant Divisional Engineer BPS-17 - 1 post; Assistant Private Secretary BPS-16 - 1 post; Balochistan quota, regular basis)",
+    salary: "As per official advertisement (BPS-16 and BPS-17 federal pay scales with allowances)",
+    lastDate: "2026-11-17",
+    postedDate: "2026-10-27",
+    source: "National Telecommunication Corporation advertisement published in Daily Express on 26 October 2026, via jobportal.marks.com.pk",
+    officialLink: "https://www.ntc.net.pk",
+    officialLinkLabel: "NTC Official Website",
+    featured: true,
+    shortDesc: "National Telecommunication Corporation (NTC), Islamabad is hiring 2 staff on a regular basis under the Balochistan quota: Assistant Divisional Engineer (BPS-17) and Assistant Private Secretary (BPS-16). Apply online only through the National Job Portal by 17 November 2026.",
+    description: `<p>The <strong>National Telecommunication Corporation (NTC)</strong>, under the Ministry of Information Technology & Telecom, has announced <strong>2 regular posts</strong> at NTC Headquarters, G-5/2, Islamabad, reserved for Balochistan domicile/local holders. The advertisement was published in the Daily Express on 26 October 2026.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Assistant Divisional Engineer (NPS-7 / BPS-17)</strong> - 1 post - Bachelor's degree in the relevant engineering discipline with mandatory PEC registration, max age 35</li>
+      <li><strong>Assistant Private Secretary (NPS-6 / BPS-16)</strong> - 1 post - Bachelor's degree from a recognized university, max age 33</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Quota:</strong> Balochistan domicile / local certificate holders only</li>
+      <li><strong>Appointment:</strong> Regular basis under NTC service rules</li>
+      <li><strong>Age calculation:</strong> Age is calculated with effect from the last date of submission; 5 years general age relaxation is already included in the limits above</li>
+      <li><strong>Note:</strong> Applications by hand, post or courier will NOT be accepted; no TA/DA is admissible for test/interview</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong> and find the NTC vacancies</li>
+      <li>Complete the online application form with accurate details before 17 November 2026</li>
+      <li>Shortlisted candidates must bring original documents plus one set of attested photocopies, including the Balochistan domicile/local certificate and, for engineers, the PEC registration certificate</li>
+      <li>Government servants must apply through proper channel with an NOC</li>
+    </ol>`,
+    howToApply: [
+      "Visit njp.gov.pk and find the NTC vacancies",
+      "Complete the online application before 17 November 2026",
+      "Keep your Balochistan domicile/local certificate and PEC registration (for engineers) ready for the test/interview",
+      "Government servants must apply through proper channel with an NOC"
+    ]
+  },
+  {
+    id: 53,
+    title: "Ministry of Energy Petroleum Division Jobs 2026 - 4 Expert Posts (Technical Consultants, Oil Refining & Marketing Expert, Financial Analyst Gas) Islamabad (Apply by Nov 9)",
+    department: "Ministry of Energy, Petroleum Division (Policy Wing)",
+    category: "Government",
+    subcategory: "Energy",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Minimum 16 years of education in Mining Engineering, Geological Engineering or Geology for Technical Consultant (Minerals) SPPS-II; Master's degree (16 years education) in Mining Engineering, Geology, Mineral Economics or related field for Technical Consultant (Minerals) SPPS-III; Bachelor's or Master's degree (16 years education) in Chemical or Mechanical Engineering, Business Administration or Industrial Management for Oil Refining & Marketing Expert; Bachelor's or Master's degree (16 years education) in Finance, Accounting, Economics or Business Administration for Financial Analyst (Gas)",
+    experience: "Minimum 9 years including 2 years in the mineral sector for the SPPS-II post; at least 7 years of relevant professional experience for the SPPS-III posts; minimum 3 years of financial analysis, pricing models or tariff assessment experience related to the gas sector for Financial Analyst (Gas)",
+    ageLimit: "As per official advertisement",
+    vacancies: "4 (Technical Consultant Minerals SPPS-II - 1; Technical Consultant Minerals SPPS-III - 1; Oil Refining & Marketing Expert SPPS-III - 1; Financial Analyst Gas SPPS-IV - 1; 2-year contract)",
+    salary: "As per official advertisement (SPPS-II, SPPS-III and SPPS-IV scales)",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-27",
+    source: "Ministry of Energy Petroleum Division Policy Wing advertisement, verified from Daily Dunya dated 25 October 2026, via pakvacancy.com",
+    officialLink: "https://www.petroleum.gov.pk",
+    officialLinkLabel: "Petroleum Division Official Website",
+    featured: true,
+    shortDesc: "The Policy Wing of the Petroleum Division, Ministry of Energy, is hiring 4 high-level professionals in Islamabad on 2-year contracts: 2 Technical Consultants (Minerals), an Oil Refining & Marketing Expert and a Financial Analyst (Gas). Apply online via the National Job Portal and by post by 9 November 2026.",
+    description: `<p>The <strong>Policy Wing of the Petroleum Division</strong>, under the Ministry of Energy, has announced <strong>4 expert posts</strong> in Islamabad on a contract basis for an initial period of two years. The advertisement was published in Daily Dunya on 25 October 2026.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Technical Consultant (Minerals)</strong> - SPPS-II - 1 post - Minimum 16 years education in Mining Engineering, Geological Engineering or Geology; minimum 9 years experience including 2 years in the mineral sector</li>
+      <li><strong>Technical Consultant (Minerals)</strong> - SPPS-III - 1 post - Master's degree (16 years education) in Mining Engineering, Geology, Mineral Economics or related field; at least 7 years relevant experience</li>
+      <li><strong>Oil Refining & Marketing Expert</strong> - SPPS-III - 1 post - Bachelor's or Master's degree (16 years education) in Chemical or Mechanical Engineering, Business Administration or Industrial Management; at least 7 years relevant experience</li>
+      <li><strong>Financial Analyst (Gas)</strong> - SPPS-IV - 1 post - Bachelor's or Master's degree (16 years education) in Finance, Accounting, Economics or Business Administration; minimum 3 years of financial analysis, pricing models or tariff assessment experience in the gas sector</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Contract:</strong> Initial period of two years</li>
+      <li><strong>Last date:</strong> 9 November 2026 (within 15 days of publication)</li>
+      <li><strong>Note:</strong> No TA/DA is admissible for test/interview; government employees must apply through proper channel</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online through the National Job Portal at <strong>njp.gov.pk</strong></li>
+      <li>Download the prescribed application form and Terms of Reference from the official Petroleum Division portal</li>
+      <li>Send the signed application form, printed NJP application slip and attested copies of CNIC, domicile, educational degrees and experience certificates to: Assistant Director (Admin), Policy Wing, Petroleum Division, Petroleum House, Ataturk Avenue, Sector G-5/2, Islamabad</li>
+      <li>Submit before 9 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Apply online through the National Job Portal at njp.gov.pk",
+      "Download the prescribed form and Terms of Reference from the official Petroleum Division portal",
+      "Send the signed form, printed NJP slip and attested documents to Assistant Director (Admin), Policy Wing, Petroleum Division, Petroleum House, Ataturk Avenue, G-5/2, Islamabad",
+      "Submit before 9 November 2026"
+    ]
+  },
+  {
+    id: 54,
+    title: "Cabinet Division Jobs 2026 - Staff Car Driver (BPS-04, 5 Posts) & Stenotypist (BPS-14, 2 Posts), Balochistan Quota, Islamabad (Apply by Nov 10)",
+    department: "Cabinet Division, Government of Pakistan",
+    category: "Government",
+    subcategory: "Administration",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Primary pass from a recognized institution plus a valid driving licence and knowledge of traffic rules for Staff Car Driver; qualification for Stenotypist as per official advertisement",
+    experience: "No specific years stated for Staff Car Driver; a valid driving licence and good knowledge of traffic rules are required",
+    ageLimit: "Maximum 35 years for Staff Car Driver (federal age relaxation rules applied); age limit for Stenotypist as per official advertisement",
+    vacancies: "7 (Staff Car Driver BPS-04 - 5 posts; Stenotypist BPS-14 - 2 posts; Balochistan quota, regular posts)",
+    salary: "As per official advertisement (BPS-04 and BPS-14 government pay scales)",
+    lastDate: "2026-11-10",
+    postedDate: "2026-10-27",
+    source: "Cabinet Division advertisement, PID(I)3766/26, published 25 October 2026, via jobsbuzzpk.blogspot.com",
+    officialLink: "https://www.cabinet.gov.pk",
+    officialLinkLabel: "Cabinet Division Official Website",
+    featured: true,
+    shortDesc: "The Cabinet Division, Government of Pakistan, is hiring 7 staff in Islamabad under the Balochistan quota: 5 Staff Car Drivers (BPS-04) and 2 Stenotypists (BPS-14). Apply online only through the National Job Portal by 10 November 2026.",
+    description: `<p>The <strong>Cabinet Division</strong>, Government of Pakistan, has announced <strong>7 regular posts</strong> at the Cabinet Secretariat, Islamabad, under the Balochistan quota. The advertisement (PID(I)3766/26) was published on 25 October 2026.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Staff Car Driver (BPS-04)</strong> - 5 posts - Primary pass with a valid driving licence and knowledge of traffic rules, max age 35</li>
+      <li><strong>Stenotypist (BPS-14)</strong> - 2 posts - Qualification and age limit as per official advertisement</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Quota:</strong> Balochistan domicile holders (Balochistan Initiative quota)</li>
+      <li><strong>Application mode:</strong> Online ONLY through the National Job Portal - applications by hand, post or courier will not be entertained</li>
+      <li><strong>Note:</strong> No TA/DA is admissible for test/interview; government employees must apply through proper channel with an NOC</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong> and search for Cabinet Division vacancies (reference PID(I)3766/26)</li>
+      <li>Select Staff Car Driver (BPS-04) or Stenotypist (BPS-14) and complete the online application</li>
+      <li>Upload your educational certificates, valid driving licence (for drivers), CNIC, Balochistan domicile certificate and a recent photograph</li>
+      <li>Submit before 10 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit njp.gov.pk and search for Cabinet Division vacancies (PID(I)3766/26)",
+      "Select Staff Car Driver (BPS-04) or Stenotypist (BPS-14) and complete the online application",
+      "Upload educational certificates, driving licence (for drivers), CNIC, Balochistan domicile certificate and a recent photograph",
+      "Submit before 10 November 2026"
+    ]
+  },
+  {
+    id: 55,
+    title: "PMIU Punjab Jobs 2026 - Software Team Lead (PPS-10) at Program Monitoring & Implementation Unit, School Education Department, Lahore (Apply by Nov 8)",
+    department: "Program Monitoring and Implementation Unit (PMIU), Punjab School Education Department",
+    category: "Government",
+    subcategory: "IT",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Bachelor's (Hons) or Master's degree in Computer Science, Information Technology, Artificial Intelligence or a related field from an HEC-recognized university",
+    experience: "6 years of relevant software experience; relevant certifications such as PMP, PRINCE2, DBA, DevOps, CCNP, HCNP or JCNP are preferred",
+    ageLimit: "As per official advertisement",
+    vacancies: "1 (Software Team Lead, PPS-10, project-based contract until the project ends; the same PMIU batch also advertises Database Administrator, DevOps Engineer + Cyber Security, Senior Software Engineer, Senior Software Developer (UI/UX), QA/Test Engineer, Network/System Administrator and Junior Software Engineer posts)",
+    salary: "As per official advertisement (PPS-10 project pay scale)",
+    lastDate: "2026-11-08",
+    postedDate: "2026-10-27",
+    source: "PMIU-PESRP advertisement published 26 October 2026, via jobsbuzzpk.blogspot.com",
+    officialLink: "https://pesrp.edu.pk",
+    officialLinkLabel: "PESRP Official Website",
+    featured: true,
+    shortDesc: "The Program Monitoring and Implementation Unit (PMIU) of the Punjab School Education Department is hiring a Software Team Lead (PPS-10) in Lahore on a project-based contract. Apply online only through the PESRP website by 8 November 2026.",
+    description: `<p>The <strong>Program Monitoring and Implementation Unit (PMIU)</strong>, working under the Punjab School Education Department, is hiring a <strong>Software Team Lead (PPS-10)</strong> in Lahore on a project-based contract (until the project ends) under PMIU-PESRP. The advertisement was published on 26 October 2026.</p>
+    <h3>Position Details</h3>
+    <ul>
+      <li><strong>Software Team Lead (PPS-10)</strong> - 1 post - Bachelor's (Hons) or Master's degree in Computer Science, IT, AI or a related field from an HEC-recognized university, with 6 years of relevant software experience</li>
+      <li><strong>Role:</strong> Lead a software development team, own product delivery, plan development work, review code quality, keep releases on schedule and coordinate engineers, testers and stakeholders</li>
+      <li><strong>Preferred:</strong> Certifications such as PMP, PRINCE2, DBA, DevOps, CCNP, HCNP or JCNP</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Same batch:</strong> The PMIU batch also advertises Database Administrator, DevOps Engineer + Cyber Security, Senior Software Engineer, Senior Software Developer (UI/UX), QA/Test Engineer, Network/System Administrator and Junior Software Engineer posts through the same portal and deadline</li>
+      <li><strong>Application mode:</strong> Online ONLY through pesrp.edu.pk - applications by hand, courier or email are not accepted</li>
+      <li><strong>Note:</strong> Only shortlisted candidates will be contacted; no TA/DA is admissible</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the official PESRP website at <strong>pesrp.edu.pk</strong></li>
+      <li>Upload your updated CV, educational degrees and certificates, experience certificates and valid CNIC</li>
+      <li>Government employees must apply through proper channel with an NOC</li>
+      <li>Submit before 8 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the official PESRP website at pesrp.edu.pk",
+      "Upload your updated CV, educational degrees and certificates, experience certificates and valid CNIC",
+      "Government employees must apply through proper channel with an NOC",
+      "Submit before 8 November 2026"
+    ]
+  },
+  {
     id: 48,
     title: "Competition Commission of Pakistan Jobs 2026 - 7 Legal, Finance, Exemptions, Data & Support Posts in Islamabad (Apply within 15 Days)",
     department: "Competition Commission of Pakistan (CCP)",
