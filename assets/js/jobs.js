@@ -10,6 +10,189 @@
 
 const JOBS = [
   {
+    id: 56,
+    title: "PITB Jobs 2026 - 29 Contract Titles (Software Engineers, Managers, Programme Officers, Computer Operators) Lahore, Ad MP009-2026 (Apply by Nov 4)",
+    department: "Punjab Information Technology Board (PITB)",
+    category: "Government",
+    subcategory: "IT",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "12 to 16 years of education depending on the post: 12 years for Computer Operator and UC Administrator, 14 years for Customer Support Representative and Receptionist, and 16 years for most other roles including Software Engineer, Senior Software Engineer, Principal Mobile App Developer, Manager, Programme Manager and Senior Project Manager",
+    experience: "Minimum experience varies by post, from up to 6 months for Computer Operator to 10 years for Joint Director (GPU Infrastructure); most technical and management roles ask for 1-7 years",
+    ageLimit: "Maximum 45 years for nearly all posts; up to 55 years for Joint Director (GPU Infrastructure); age relaxation as per Punjab government notification",
+    vacancies: "29 job titles on contract basis (exact posts per title not stated in the advertisement; several titles marked as Multiple vacancies); most posts based in Lahore, some linked to multiple districts of Punjab",
+    salary: "As per official advertisement (no pay package stated)",
+    lastDate: "2026-11-04",
+    postedDate: "2026-10-28",
+    source: "Punjab Information Technology Board advertisement MP009-2026, published 27 October 2026, via pakkhabar.com",
+    officialLink: "https://jobs.punjab.gov.pk",
+    officialLinkLabel: "Punjab Job Portal (Apply Online)",
+    featured: true,
+    shortDesc: "The Punjab Information Technology Board (PITB) is hiring for 29 contract job titles in Lahore under advertisement MP009-2026, from Software Engineers and Principal Mobile App Developers to Managers, Programme Officers, Computer Operators and Receptionists. Apply online only through the Punjab Job Portal by 4 November 2026.",
+    description: `<p>The <strong>Punjab Information Technology Board (PITB)</strong> has announced a fresh recruitment round for <strong>29 job titles</strong> under advertisement code <strong>MP009-2026</strong>, all on a contract basis. Most posts are based in Lahore, while a few are linked to multiple districts of Punjab. The advertisement was published on 27 October 2026.</p>
+    <h3>Posts on Offer (selection)</h3>
+    <ul>
+      <li><strong>Technical:</strong> Software Engineer, Senior Software Engineer, Associate Software Engineer, Principal Mobile App Developer, Network Administrator (Central Surveillance Room), Incident Response Officer, Infrastructure Automation Officer (Datacenter), Joint Director (GPU Infrastructure), Domain Specialist, Video Animator / Photographer</li>
+      <li><strong>Management:</strong> Manager, Programme Manager, Senior Programme Manager, Senior Project Manager, Assistant Manager, Marketing and Strategy Lead, Startup Growth Lead, Regional Coordinator</li>
+      <li><strong>Operations & support:</strong> Programme Officer, Senior Programme Officer, Assistant Programme Officer, Assistant Officer (Operations), Computer Operator, Customer Support Representative, Receptionist, UC Administrator, DC Support Officer, Machine Operator</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Education:</strong> 12 years (Computer Operator, UC Administrator), 14 years (Customer Support Representative, Receptionist), 16 years (most other roles)</li>
+      <li><strong>Age:</strong> Maximum 45 years for nearly all posts, 55 years for Joint Director (GPU Infrastructure)</li>
+      <li><strong>Quotas:</strong> Punjab government quotas for women, persons with disabilities and minorities apply</li>
+      <li><strong>Note:</strong> Applications by email, fax, post, courier or in person will NOT be accepted; only shortlisted candidates will be contacted; no TA/DA</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the Punjab Job Portal at <strong>jobs.punjab.gov.pk</strong></li>
+      <li>Find the PITB advertisement (Code MP009-2026) and select the post matching your education and experience</li>
+      <li>Read the detailed eligibility criteria, selection criteria and job description for that post</li>
+      <li>Fill in the online application with correct personal, academic and experience details and submit before 4 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the Punjab Job Portal at jobs.punjab.gov.pk",
+      "Find the PITB advertisement (Code MP009-2026) and select the matching post",
+      "Read the detailed eligibility and selection criteria for that post",
+      "Submit the online application before 4 November 2026"
+    ]
+  },
+  {
+    id: 57,
+    title: "Ministry of Railways Jobs 2026 - Project Manager Software & Deputy Director IT Infrastructure (MP-III, 2 Posts), Islamabad (Apply by Nov 11)",
+    department: "Ministry of Railways, Government of Pakistan",
+    category: "Government",
+    subcategory: "IT",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "PhD or Master's degree in Computer Science, Computer Engineering, Software Engineering, Data Sciences or Information Technology",
+    experience: "PhD holders: at least 3 years of professional experience in programme/project management (Project Manager) or in the IT field (Deputy Director); Master's degree holders: at least 5 years of experience in programme/project management or the relevant field",
+    ageLimit: "Maximum 62 years",
+    vacancies: "2 (Project Manager Software (Information Technology) MP-III - 1 post; Deputy Director IT Infrastructure MP-III - 1 post; initial 3-year contract, extendable up to 2 more years)",
+    salary: "As per official advertisement (MP-III scale under the MP Scales Policy 2020; no fixed salary amount stated)",
+    lastDate: "2026-11-11",
+    postedDate: "2026-10-28",
+    source: "Ministry of Railways advertisement PID(I)3791/26, published 27 October 2026, via pakjobalert.pk",
+    officialLink: "https://www.railways.gov.pk",
+    officialLinkLabel: "Ministry of Railways Official Website",
+    featured: true,
+    shortDesc: "The Ministry of Railways is hiring 2 senior IT professionals in Islamabad on MP-III contracts: a Project Manager Software and a Deputy Director IT Infrastructure. Both posts are based in Islamabad with frequent travel across Pakistan Railways. Apply online only through the National Job Portal within 15 days of publication, i.e. by 11 November 2026.",
+    description: `<p>The <strong>Ministry of Railways</strong>, Government of Pakistan, has invited applications for <strong>2 senior IT management posts</strong> under the MP-III scale. The advertisement (PID(I)3791/26) was published on 27 October 2026, with a 15-day application period, giving a calculated closing date of 11 November 2026. Applicants should confirm the closing date shown on the National Job Portal.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Project Manager Software (Information Technology)</strong> - MP-III - 1 post - PhD or Master's in Computer Science, Computer Engineering, Software Engineering, Data Sciences or IT; PhD holders need 3 years of programme management experience, Master's holders need 5 years</li>
+      <li><strong>Deputy Director IT Infrastructure</strong> - MP-III - 1 post - PhD or Master's in the same disciplines; PhD holders need 3 years of IT experience, Master's holders need 5 years</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Posting:</strong> Islamabad, with frequent travel across Pakistan Railways</li>
+      <li><strong>Contract:</strong> Initial 3 years, extendable up to 2 additional years on an annual basis subject to performance</li>
+      <li><strong>Note:</strong> Incomplete, late or non-NJP applications will not be considered; only shortlisted candidates will be called for interview</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong> and sign in or create an account</li>
+      <li>Search for the Ministry of Railways vacancies and select the relevant position</li>
+      <li>Review the eligibility requirements and detailed terms of reference</li>
+      <li>Complete and submit the online application by 11 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk and sign in or create an account",
+      "Search for the Ministry of Railways vacancies and select the relevant position",
+      "Review the eligibility requirements and terms of reference",
+      "Submit the online application by 11 November 2026"
+    ]
+  },
+  {
+    id: 58,
+    title: "OGRA Jobs 2026 - Balochistan Quota: Senior Assistant, Assistant, Driver & Office Attendant (6 Posts), Islamabad (Apply by Nov 8)",
+    department: "Oil and Gas Regulatory Authority (OGRA)",
+    category: "Government",
+    subcategory: "Regulatory",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Bachelor degree from a recognized university for Senior Assistant and Assistant; Matric with LTV licence for Driver; Matric for Office Attendant",
+    experience: "3 years of post-qualification office experience for Senior Assistant; 3 years of driving experience for Driver; no experience required for Assistant and Office Attendant",
+    ageLimit: "Maximum 35 years for every post, with up to 5 years additional relaxation possible for this special round only at the Authority's discretion (outer edge 40 years)",
+    vacancies: "6, all reserved for the Balochistan quota (Senior Assistant S-4 - 2 posts; Assistant S-3 - 2 posts; Driver S-2 - 1 post; Office Attendant S-1 - 1 post; OGRA Head Office, Islamabad)",
+    salary: "As per official advertisement (S-1 to S-4 scales; no salary figure stated)",
+    lastDate: "2026-11-08",
+    postedDate: "2026-10-28",
+    source: "Oil and Gas Regulatory Authority advertisement PID(I)3751/26, published 27 October 2026, via ixjob.pk",
+    officialLink: "https://www.ogra.org.pk",
+    officialLinkLabel: "OGRA Official Website",
+    featured: true,
+    shortDesc: "The Oil and Gas Regulatory Authority (OGRA) is hiring 6 staff at its Islamabad head office, all reserved for the Balochistan quota: 2 Senior Assistants, 2 Assistants, 1 Driver and 1 Office Attendant. Apply online through the National Job Portal or by post to the HR Department by Sunday 8 November 2026.",
+    description: `<p>The <strong>Oil and Gas Regulatory Authority (OGRA)</strong> has announced <strong>6 posts</strong> at its head office in Islamabad, all reserved for the <strong>Balochistan quota</strong>. The advertisement (PID(I)3751/26) was published on 27 October 2026, and both application routes close on Sunday 8 November 2026.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Senior Assistant (S-4)</strong> - 2 posts - Bachelor degree from a recognized university plus 3 years of post-qualification office experience, max age 35</li>
+      <li><strong>Assistant (S-3)</strong> - 2 posts - Bachelor degree from a recognized university, no experience required, max age 35</li>
+      <li><strong>Driver (S-2)</strong> - 1 post - Matric with LTV licence plus 3 years of driving experience, max age 35</li>
+      <li><strong>Office Attendant (S-1)</strong> - 1 post - Matric, no experience required, max age 35</li>
+    </ul>
+    <h3>Key Details</h3>
+    <ul>
+      <li><strong>Quota:</strong> Balochistan quota only - applicants outside the quota cannot use this round</li>
+      <li><strong>Age relaxation:</strong> Up to 5 extra years may be approved for this special round only, taking the outer edge to 40 years, at the Authority's discretion</li>
+      <li><strong>Note:</strong> Incomplete forms are not entertained; no TA/DA is paid; government employees must apply through proper channel</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Pick the single post that matches your qualification, experience and age</li>
+      <li><strong>Online route:</strong> Apply through the National Job Portal at <strong>njp.gov.pk</strong> by 8 November 2026</li>
+      <li><strong>Postal route:</strong> Download the form from ogra.org.pk, fill a typed copy, write the post name on the envelope and post it to: HR Department, OGRA Head Office, Plot No. 37 and 39, G-10/4, Mauve Area, Service Road (South), Islamabad, so it arrives by 8 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Pick the single post matching your qualification, experience and age",
+      "Online route: apply through the National Job Portal at njp.gov.pk by 8 November 2026",
+      "Postal route: download the form from ogra.org.pk, fill a typed copy, write the post name on the envelope and post it to HR Department, OGRA Head Office, G-10/4, Islamabad, so it arrives by 8 November 2026"
+    ]
+  },
+  {
+    id: 59,
+    title: "Pakistan Navy War College Jobs 2026 - Research Associate (Research Faculty, BPS-17 Reference), Maritime Centre of Excellence, Lahore (Apply before Nov 12)",
+    department: "Pakistan Navy, Maritime Centre of Excellence, Pakistan Navy War College",
+    category: "Government",
+    subcategory: "Research",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "MPhil/MS covering 18 years of education with a minimum CGPA of 3 in International Relations, Political Science, Defense and Strategic Studies, or an equivalent subject, from an HEC-recognized university",
+    experience: "Preference for research experience in related subjects (a preference at shortlisting, not a separate eligibility bar)",
+    ageLimit: "Not more than 35 years on 01 December 2026",
+    vacancies: "1 (Research Associate, Research Faculty, contractual basis, Lahore; pay package commensurate with qualification and experience, BPS-17 reference)",
+    salary: "As per official advertisement (commensurate with qualification and experience, BPS-17 reference; no salary amount printed)",
+    lastDate: "2026-11-11",
+    postedDate: "2026-10-28",
+    source: "Pakistan Navy War College advertisement PID(I)3365/26, published 28 October 2026, via ixjob.pk",
+    officialLink: "",
+    officialLinkLabel: "Apply by Email (see How to Apply)",
+    featured: true,
+    shortDesc: "The Maritime Centre of Excellence, Pakistan Navy War College, Lahore is hiring 1 Research Associate (Research Faculty) on a contractual basis. Applicants need an MPhil/MS with minimum 3 CGPA in International Relations, Political Science, Defense and Strategic Studies or an equivalent field, and must be not more than 35 years old on 1 December 2026. Send one CV by email before Thursday 12 November 2026.",
+    description: `<p>The <strong>Maritime Centre of Excellence, Pakistan Navy War College, Lahore</strong> has announced <strong>1 Research Associate (Research Faculty)</strong> post on a contractual basis. The advertisement (PID(I)3365/26) was published on 28 October 2026, and applications must be sent before Thursday 12 November 2026.</p>
+    <h3>Position Details</h3>
+    <ul>
+      <li><strong>Research Associate</strong> - 1 post - MPhil/MS, 18 years of education, minimum CGPA 3, in International Relations, Political Science, Defense and Strategic Studies or an equivalent subject from an HEC-recognized university</li>
+      <li><strong>Age:</strong> Not more than 35 years on 01 December 2026 (measure age on that date, not on the application date)</li>
+      <li><strong>Preference:</strong> Research experience in related subjects earns preference at shortlisting</li>
+      <li><strong>Pay:</strong> Package commensurate with qualification and experience (BPS-17 reference); no salary amount is printed</li>
+      <li><strong>Note:</strong> Only shortlisted candidates will be called for interview; no TA/DA is admissible</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Check the degree field, CGPA of 3, HEC recognition and the age test (not more than 35 on 01 December 2026) together</li>
+      <li>Prepare ONE CV stating the degree, subject field, CGPA, university and any related research experience</li>
+      <li>Email that single CV to <strong>mcecapkistan@gmail.com</strong> (check the address letter by letter before sending) before Thursday 12 November 2026</li>
+      <li>Keep a copy of the sent email; for inquiries call 042-66960793 or WhatsApp 0326-2200170</li>
+    </ol>`,
+    howToApply: [
+      "Check the degree field, CGPA of 3, HEC recognition and the age test (not more than 35 on 01 December 2026)",
+      "Prepare one CV stating degree, subject field, CGPA, university and related research experience",
+      "Email the single CV to mcecapkistan@gmail.com (check the address letter by letter) before Thursday 12 November 2026",
+      "Keep a copy of the sent email; inquiries: 042-66960793 or WhatsApp 0326-2200170"
+    ]
+  },
+  {
     id: 52,
     title: "NTC Jobs 2026 - Assistant Divisional Engineer (BPS-17) & Assistant Private Secretary (BPS-16), Balochistan Quota, Islamabad (Apply by Nov 17)",
     department: "National Telecommunication Corporation (NTC)",
