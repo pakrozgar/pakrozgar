@@ -11,50 +11,48 @@
 const JOBS = [
   {
     id: 56,
-    title: "PITB Jobs 2026 - 29 Contract Titles (Software Engineers, Managers, Programme Officers, Computer Operators) Lahore, Ad MP009-2026 (Apply by Nov 4)",
-    department: "Punjab Information Technology Board (PITB)",
+    title: "Communication Engineer Jobs 2026 - 9 Posts (Rawalpindi, Azad Kashmir & Gilgit-Baltistan) via Post Box 95, GPO Rawalpindi (Apply by Nov 15)",
+    department: "Public Sector Organization (Post Box No. 95, GPO Rawalpindi)",
     category: "Government",
-    subcategory: "IT",
-    city: "Lahore",
+    subcategory: "Engineering",
+    city: "Rawalpindi",
     province: "Punjab",
-    qualification: "12 to 16 years of education depending on the post: 12 years for Computer Operator and UC Administrator, 14 years for Customer Support Representative and Receptionist, and 16 years for most other roles including Software Engineer, Senior Software Engineer, Principal Mobile App Developer, Manager, Programme Manager and Senior Project Manager",
-    experience: "Minimum experience varies by post, from up to 6 months for Computer Operator to 10 years for Joint Director (GPU Infrastructure); most technical and management roles ask for 1-7 years",
-    ageLimit: "Maximum 45 years for nearly all posts; up to 55 years for Joint Director (GPU Infrastructure); age relaxation as per Punjab government notification",
-    vacancies: "29 job titles on contract basis (exact posts per title not stated in the advertisement; several titles marked as Multiple vacancies); most posts based in Lahore, some linked to multiple districts of Punjab",
-    salary: "As per official advertisement (no pay package stated)",
-    lastDate: "2026-11-04",
+    qualification: "BE or BSc in Telecom, Software, Electrical, Electronics, Computer Science, IT Engineering or equivalent",
+    experience: "2 to 5 years of relevant field experience for all posts",
+    ageLimit: "35 years for civilian candidates; 45 years for retired Army personnel",
+    vacancies: "9 (Communication Engineer, in lieu of Captain - 3 posts in Azad Jammu & Kashmir, 3 posts in Gilgit-Baltistan, 3 posts in Rawalpindi; contract basis)",
+    salary: "As per official advertisement (not mentioned in the advertisement)",
+    lastDate: "2026-11-15",
     postedDate: "2026-10-28",
-    source: "Punjab Information Technology Board advertisement MP009-2026, published 27 October 2026, via pakkhabar.com",
-    officialLink: "https://jobs.punjab.gov.pk",
-    officialLinkLabel: "Punjab Job Portal (Apply Online)",
+    source: "Government organization advertisement verified from The News dated 27 October 2026, via pakvacancy.com",
+    officialLink: "",
+    officialLinkLabel: "Apply by Post (see How to Apply)",
     featured: true,
-    shortDesc: "The Punjab Information Technology Board (PITB) is hiring for 29 contract job titles in Lahore under advertisement MP009-2026, from Software Engineers and Principal Mobile App Developers to Managers, Programme Officers, Computer Operators and Receptionists. Apply online only through the Punjab Job Portal by 4 November 2026.",
-    description: `<p>The <strong>Punjab Information Technology Board (PITB)</strong> has announced a fresh recruitment round for <strong>29 job titles</strong> under advertisement code <strong>MP009-2026</strong>, all on a contract basis. Most posts are based in Lahore, while a few are linked to multiple districts of Punjab. The advertisement was published on 27 October 2026.</p>
-    <h3>Posts on Offer (selection)</h3>
+    shortDesc: "A government organization is hiring 9 Communication Engineers (in lieu of Captain) on contract: 3 posts each in Azad Jammu & Kashmir, Gilgit-Baltistan and Rawalpindi. Applicants need a BE/BSc in telecom, software, electrical, electronics, computer or IT engineering with 2-5 years of experience. Apply by post by 15 November 2026.",
+    description: `<p>A <strong>government organization</strong> has invited applications from qualified candidates for <strong>9 Communication Engineer posts</strong> (in lieu of Captain) on a contract basis. The advertisement was verified from <strong>The News dated 27 October 2026</strong>.</p>
+    <h3>Available Posts</h3>
     <ul>
-      <li><strong>Technical:</strong> Software Engineer, Senior Software Engineer, Associate Software Engineer, Principal Mobile App Developer, Network Administrator (Central Surveillance Room), Incident Response Officer, Infrastructure Automation Officer (Datacenter), Joint Director (GPU Infrastructure), Domain Specialist, Video Animator / Photographer</li>
-      <li><strong>Management:</strong> Manager, Programme Manager, Senior Programme Manager, Senior Project Manager, Assistant Manager, Marketing and Strategy Lead, Startup Growth Lead, Regional Coordinator</li>
-      <li><strong>Operations & support:</strong> Programme Officer, Senior Programme Officer, Assistant Programme Officer, Assistant Officer (Operations), Computer Operator, Customer Support Representative, Receptionist, UC Administrator, DC Support Officer, Machine Operator</li>
+      <li><strong>Communication Engineer (in lieu of Captain)</strong> - 3 posts - Azad Jammu & Kashmir</li>
+      <li><strong>Communication Engineer (in lieu of Captain)</strong> - 3 posts - Gilgit-Baltistan</li>
+      <li><strong>Communication Engineer (in lieu of Captain)</strong> - 3 posts - Rawalpindi</li>
     </ul>
     <h3>Key Details</h3>
     <ul>
-      <li><strong>Education:</strong> 12 years (Computer Operator, UC Administrator), 14 years (Customer Support Representative, Receptionist), 16 years (most other roles)</li>
-      <li><strong>Age:</strong> Maximum 45 years for nearly all posts, 55 years for Joint Director (GPU Infrastructure)</li>
-      <li><strong>Quotas:</strong> Punjab government quotas for women, persons with disabilities and minorities apply</li>
-      <li><strong>Note:</strong> Applications by email, fax, post, courier or in person will NOT be accepted; only shortlisted candidates will be contacted; no TA/DA</li>
+      <li><strong>Qualification:</strong> BE or BSc in Telecom, Software, Electrical, Electronics, Computer Science, IT Engineering or equivalent</li>
+      <li><strong>Experience:</strong> 2 to 5 years of relevant field experience for all posts</li>
+      <li><strong>Age:</strong> 35 years for civilian candidates, 45 years for retired Army personnel</li>
+      <li><strong>Note:</strong> Only shortlisted candidates will be called for test/interview; no TA/DA will be paid</li>
     </ul>
     <h3>How to Apply</h3>
     <ol>
-      <li>Visit the Punjab Job Portal at <strong>jobs.punjab.gov.pk</strong></li>
-      <li>Find the PITB advertisement (Code MP009-2026) and select the post matching your education and experience</li>
-      <li>Read the detailed eligibility criteria, selection criteria and job description for that post</li>
-      <li>Fill in the online application with correct personal, academic and experience details and submit before 4 November 2026</li>
+      <li>Prepare attested copies of your academic degrees/certificates, domicile, CNIC, 2 passport-size photographs and 2 thumb-size photographs</li>
+      <li>Send your application by post to <strong>Post Box No. 95, GPO Rawalpindi</strong></li>
+      <li>Ensure the application reaches before 15 November 2026</li>
     </ol>`,
     howToApply: [
-      "Visit the Punjab Job Portal at jobs.punjab.gov.pk",
-      "Find the PITB advertisement (Code MP009-2026) and select the matching post",
-      "Read the detailed eligibility and selection criteria for that post",
-      "Submit the online application before 4 November 2026"
+      "Prepare attested copies of academic degrees/certificates, domicile, CNIC, 2 passport-size photographs and 2 thumb-size photographs",
+      "Send your application by post to Post Box No. 95, GPO Rawalpindi",
+      "Ensure the application reaches before 15 November 2026"
     ]
   },
   {
