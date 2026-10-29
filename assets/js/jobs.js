@@ -10,6 +10,172 @@
 
 const JOBS = [
   {
+    id: 60,
+    title: "NBP Jobs 2026 - Teller OG-III (Operations Group) in Multiple Cities across Punjab, KP & Balochistan (Apply by Nov 5)",
+    department: "National Bank of Pakistan (NBP)",
+    category: "Banking",
+    subcategory: "Banking Operations",
+    city: "Multiple Cities",
+    province: "Punjab, Khyber Pakhtunkhwa & Balochistan",
+    qualification: "Minimum Graduation or equivalent from an HEC-recognized local or international university",
+    experience: "Fresh graduates and candidates with relevant banking experience are encouraged to apply",
+    ageLimit: "Maximum 30 years as on last date of submission",
+    vacancies: "Multiple Teller (OG-III) posts in the Operations Group (number of posts not mentioned in the advertisement)",
+    salary: "As per official advertisement (OG-III grade; 3-year contract, extendable at management discretion)",
+    lastDate: "2026-11-05",
+    postedDate: "2026-10-29",
+    source: "National Bank of Pakistan advertisement verified from Dawn dated 25 October 2026, via pakvacancy.com",
+    officialLink: "http://www.sidathyder.com.pk/careers",
+    officialLinkLabel: "Apply Online (Sidat Hyder Careers)",
+    featured: true,
+    shortDesc: "National Bank of Pakistan is hiring Tellers (OG-III) in its Operations Group across dozens of cities in Punjab, Khyber Pakhtunkhwa and Balochistan. Graduates (fresh or experienced) up to 30 years of age can apply online by 5 November 2026 on a 3-year contract.",
+    description: `<p>The <strong>National Bank of Pakistan (NBP)</strong> invites applications for <strong>Teller (OG-III)</strong> positions in its Operations Group across dozens of cities. The advertisement was verified from <strong>Dawn dated 25 October 2026</strong>.</p>
+    <h3>Position Details</h3>
+    <ul>
+      <li><strong>Teller (OG-III)</strong> - Multiple posts - Operations Group, contractual basis for 3 years, extendable at the discretion of management</li>
+      <li><strong>Qualification:</strong> Minimum Graduation or equivalent from an HEC-recognized local or international university</li>
+      <li><strong>Experience:</strong> Fresh graduates and candidates with relevant banking experience are encouraged to apply</li>
+      <li><strong>Age:</strong> Maximum 30 years as on the last date of submission</li>
+      <li><strong>Posting cities include:</strong> Attock, Bahawalpur, Buner, Chaman, Dera Bugti, Gujrat, Khanewal, Kohat, Loralai, Mansehra, Mardan, Mianwali, Multan, Nankana Sahib, Narowal, Nowshera, Okara, Peshawar, Rawalpindi, Sanghar, Sargodha, Sheikhupura, Sialkot, Swat, Upper Dir, Vehari, Washuk and more</li>
+      <li><strong>Note:</strong> Selected candidates must serve at their initial place of posting for at least three years; transfer requests will not be entertained. Shortlisted candidates will appear for a mandatory assessment test and panel interviews</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the Sidat Hyder careers portal at www.sidathyder.com.pk/careers and select the NBP Teller vacancy</li>
+      <li>Apply online within 10 working days of the advertisement publication (last date 5 November 2026)</li>
+      <li>Upload your updated CV, CNIC, latest photograph, graduation or masters transcripts and experience letters in Word or PDF format (each file under 10MB)</li>
+    </ol>`,
+    howToApply: [
+      "Visit www.sidathyder.com.pk/careers and select the NBP Teller vacancy",
+      "Apply online by 5 November 2026 (within 10 working days of publication)",
+      "Upload CV, CNIC, photograph, transcripts and experience letters in Word or PDF format, each under 10MB"
+    ]
+  },
+  {
+    id: 61,
+    title: "NUMS Jobs 2026 - Director HR, Managing Editor, Assistant Director Admin & Audit Officer, Rawalpindi (Apply by Nov 9)",
+    department: "National University of Medical Sciences (NUMS)",
+    category: "Government",
+    subcategory: "Education",
+    city: "Rawalpindi",
+    province: "Punjab",
+    qualification: "Post-wise: MBA/Management or higher for Director (HR); PhD/MPhil preferably in Community Medicine with basic MBBS for Managing Editor; Masters/Bachelor preferably in Management/Administration for Assistant Director (Administration); Masters/Bachelor in Accounting/Finance/Commerce for Audit Officer",
+    experience: "Relevant experience of 4 to 17 years depending on the post",
+    ageLimit: "As per official advertisement (not mentioned in the advertisement)",
+    vacancies: "4 posts (Director Human Resource, Managing Editor, Assistant Director Administration, Audit Officer; number of posts per post not mentioned in the advertisement)",
+    salary: "As per official advertisement (not mentioned in the advertisement)",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-29",
+    source: "National University of Medical Sciences advertisement verified from Daily Jang dated 25 October 2026, via pakvacancy.com",
+    officialLink: "http://careers.numspak.edu.pk",
+    officialLinkLabel: "Apply Online (NUMS Careers Portal)",
+    featured: true,
+    shortDesc: "National University of Medical Sciences, Rawalpindi is hiring a Director (Human Resource), Managing Editor, Assistant Director (Administration) and Audit Officer. Relevant experience of 4 to 17 years is required depending on the post. Apply online by 9 November 2026.",
+    description: `<p>The <strong>National University of Medical Sciences (NUMS), Rawalpindi</strong> invites applications from competent professionals for career opportunities at its Secretariat, Abid Majeed Road, Rawalpindi Cantt. The advertisement was verified from <strong>Daily Jang dated 25 October 2026</strong>.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>Director (Human Resource)</strong> - Masters in Business Administration/Management or higher in the relevant field</li>
+      <li><strong>Managing Editor</strong> - PhD/MPhil, preferably in Community Medicine with a basic MBBS degree or higher</li>
+      <li><strong>Assistant Director (Administration)</strong> - Masters/Bachelor or equivalent, preferably in Management/Administration or higher</li>
+      <li><strong>Audit Officer</strong> - Masters/Bachelor or equivalent in Accounting/Finance/Commerce or higher</li>
+      <li><strong>Experience:</strong> 4 to 17 years of relevant experience depending on the post</li>
+      <li><strong>Note:</strong> Incomplete submissions will not be considered; no application fee is mentioned in the advertisement</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply ONLINE through the NUMS job portal at careers.numspak.edu.pk</li>
+      <li>Submit your complete application before 9 November 2026</li>
+      <li>For details contact the Director Human Resource, NUMS Secretariat, Abid Majeed Road, Rawalpindi Cantt (051-9275316); more information at www.numspak.edu.pk</li>
+    </ol>`,
+    howToApply: [
+      "Apply online through the NUMS job portal at careers.numspak.edu.pk",
+      "Submit your complete application before 9 November 2026",
+      "For details contact Director Human Resource, NUMS Secretariat, Abid Majeed Road, Rawalpindi Cantt (051-9275316)"
+    ]
+  },
+  {
+    id: 62,
+    title: "Deputy Commissioner Office Jobs 2026 - 11 Support Staff Posts (Driver, Dispatch Rider, Chowkidar, Naib Qasid & More), Shikarpur (Apply by Nov 12)",
+    department: "Deputy Commissioner Office, Shikarpur",
+    category: "Government",
+    subcategory: "Administration",
+    city: "Shikarpur",
+    province: "Sindh",
+    qualification: "Post-wise: Primary, Middle, Matric, Intermediate, Graduation or Masters as per the post",
+    experience: "1 to 5 years of relevant experience",
+    ageLimit: "18 to 28 years",
+    vacancies: "11 (Driver, Dispatch Rider, Chowkidar, Naib Qasid, Sanitary Worker, Generator Operator, Mali, Plumber, Kotar and others)",
+    salary: "PKR 40,000 to 90,000 per month (as reported for these posts)",
+    lastDate: "2026-11-12",
+    postedDate: "2026-10-29",
+    source: "Deputy Commissioner Office advertisement published in Jang newspaper, via jobsscholarshiphub.com (published 28 October 2026)",
+    officialLink: "",
+    officialLinkLabel: "Apply as per official advertisement (see How to Apply)",
+    featured: true,
+    shortDesc: "The Deputy Commissioner Office, Shikarpur has announced 11 government support-staff posts including Driver, Dispatch Rider, Chowkidar, Naib Qasid, Sanitary Worker, Generator Operator, Mali, Plumber and Kotar. Candidates aged 18 to 28 with Primary to Masters qualifications can apply by 12 November 2026.",
+    description: `<p>The <strong>Deputy Commissioner Office, Shikarpur</strong> has announced <strong>11 government job openings</strong> for male and female candidates. The advertisement appeared in the <strong>Jang newspaper</strong>.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>Driver, Dispatch Rider, Chowkidar, Naib Qasid, Sanitary Worker, Generator Operator, Mali, Plumber, Kotar</strong> and other support roles - 11 posts in total</li>
+      <li><strong>Qualification:</strong> Primary, Middle, Matric, Intermediate, Graduation or Masters, depending on the post</li>
+      <li><strong>Experience:</strong> 1 to 5 years of relevant experience</li>
+      <li><strong>Age:</strong> 18 to 28 years</li>
+      <li><strong>Salary:</strong> PKR 40,000 to 90,000 per month as reported for these posts</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the complete official advertisement and confirm your eligibility (education, age, gender and experience) for the post you want</li>
+      <li>Fill out the application form with accurate details and upload CNIC, academic certificates and recent photographs</li>
+      <li>Double-check all details and submit before the last date, 12 November 2026 - late applications will not be considered</li>
+    </ol>`,
+    howToApply: [
+      "Read the official advertisement and confirm eligibility for your chosen post",
+      "Fill the application form with accurate details and attach CNIC, academic certificates and recent photographs",
+      "Submit before 12 November 2026 - late applications will not be considered"
+    ]
+  },
+  {
+    id: 63,
+    title: "ASF Jobs 2026 - Assistant Sub Inspector, Corporal, Corporal Driver & Support Staff (Dawn 28 Oct, Apply by ~Nov 20)",
+    department: "Airport Security Force (ASF)",
+    category: "Government",
+    subcategory: "Security",
+    city: "Multiple Locations",
+    province: "All Pakistan",
+    qualification: "Post-wise: Primary, Middle, Matric or Intermediate (ASI: Intermediate; Corporal: Matric; trade posts: relevant technical qualification)",
+    experience: "As per official advertisement (trade and driving posts require the prescribed licence/skills; verify from the official advertisement)",
+    ageLimit: "As per official advertisement (not specified in the available summary; verify from the official advertisement)",
+    vacancies: "Multiple posts (Assistant Sub Inspector, Corporal, Corporal Driver, Naib Qasid, Cook, Waiter, Tailor, Electrician, Auto Electrician, Plumber, Welder, Painter, Mali, Sweeper and others; total number not specified in the available summary)",
+    salary: "As per official advertisement (not mentioned in the available summary)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-10-29",
+    source: "Airport Security Force advertisement published in Daily Dawn on 28 October 2026, via thepronews.com",
+    officialLink: "",
+    officialLinkLabel: "Apply as per official advertisement (see How to Apply)",
+    featured: true,
+    shortDesc: "Airport Security Force has announced new government jobs in its 28 October 2026 Dawn advertisement, including Assistant Sub Inspector, Corporal, Corporal Driver and trade/support posts for Primary, Middle, Matric and Intermediate qualified candidates, including female posts. The expected closing date is around 20 November 2026 - confirm the exact deadline from the official advertisement.",
+    description: `<p>The <strong>Airport Security Force (ASF)</strong> has announced multiple government job vacancies in security, technical and support categories. The advertisement was published in <strong>Daily Dawn on 28 October 2026</strong>.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>Assistant Sub Inspector</strong> (including Female ASI) - Intermediate or as specified in the official advertisement</li>
+      <li><strong>Corporal</strong> (including Female Corporal) and <strong>Corporal Driver</strong> - Matric or as specified, with required driving licence for driver posts</li>
+      <li><strong>Trade posts:</strong> Electrician, Auto Electrician, Plumber, Welder, Painter, Denter, Tailor</li>
+      <li><strong>Support posts:</strong> Naib Qasid, Cook (including Female Cook), Waiter, Mali, Sweeper (including Female Sweeper)</li>
+      <li><strong>Note:</strong> Security positions may carry prescribed physical standards and fitness requirements; exact post-wise qualifications, age limits and vacancy counts must be confirmed from the official advertisement</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the complete ASF advertisement published in Daily Dawn on 28 October 2026 carefully</li>
+      <li>Check the post-wise eligibility, age limit, physical standards and required documents for your desired post</li>
+      <li>Apply through the official ASF recruitment portal or the method specified in the advertisement before the closing date (expected around 20 November 2026 - verify the exact deadline from the official advertisement)</li>
+    </ol>`,
+    howToApply: [
+      "Read the complete ASF advertisement published in Daily Dawn on 28 October 2026",
+      "Check post-wise eligibility, age limit, physical standards and documents for your post",
+      "Apply through the official ASF recruitment portal or the method in the advertisement before the closing date (expected around 20 November 2026 - verify the exact deadline)"
+    ]
+  },
+  {
     id: 56,
     title: "Communication Engineer Jobs 2026 - 9 Posts (Rawalpindi, Azad Kashmir & Gilgit-Baltistan) via Post Box 95, GPO Rawalpindi (Apply by Nov 15)",
     department: "Public Sector Organization (Post Box No. 95, GPO Rawalpindi)",
