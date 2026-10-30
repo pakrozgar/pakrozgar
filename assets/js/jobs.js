@@ -10,6 +10,184 @@
 
 const JOBS = [
   {
+    id: 64,
+    title: "BISP Jobs 2026 - 197 Posts (Assistant, UDC, LDC, Driver, Chowkidar, Naib Qasid & Sweeper), Balochistan Quota (Apply by Nov 12)",
+    department: "Benazir Income Support Programme (BISP)",
+    category: "Government",
+    subcategory: "Administration",
+    city: "Islamabad & Balochistan Region",
+    province: "Islamabad Capital Territory & Balochistan",
+    qualification: "Post-wise: Bachelor's degree for Assistant posts (Finance/Accounts/Commerce for Accounts posts; Law LLB for Assistant Legal); F.A/F.Sc/HSSC for UDC; Matric for LDC (with 30 w.p.m. typing); Primary pass for Driver, Chowkidar and Naib Qasid; Literate for Sweeper",
+    experience: "As per official advertisement (valid LTV/HTV driving licence for Driver posts; good physical health for Chowkidar, ex-servicemen preferred)",
+    ageLimit: "18 to 25 years for most posts; 18 to 30 years for Driver; 18 to 40 years for Chowkidar (plus 5 years general age relaxation as per rules; age calculated as of last date of submission)",
+    vacancies: "197 (8 at BISP HQ Islamabad + 189 in Balochistan Region; SPS-01 to SPS-15, temporary basis, Balochistan domicile/local certificate holders only)",
+    salary: "As per official advertisement (SPS-01 to SPS-15 scales; not mentioned in the advertisement)",
+    lastDate: "2026-11-12",
+    postedDate: "2026-10-30",
+    source: "Benazir Income Support Programme advertisement verified from Daily Dawn dated 29 October 2026, via vulearning.com",
+    officialLink: "https://www.bisp.gov.pk",
+    officialLinkLabel: "BISP Official Website",
+    featured: true,
+    shortDesc: "Benazir Income Support Programme is hiring 197 staff under the Balochistan quota: Assistants, UDC, LDC, Drivers, Chowkidars, Naib Qasids and Sweepers at BISP HQ Islamabad and Balochistan regional offices. Recruitment is through walk-in interview with no written test. Apply online via the National Job Portal by 12 November 2026.",
+    description: `<p>The <strong>Benazir Income Support Programme (BISP)</strong>, Government of Pakistan, has announced <strong>197 vacant positions</strong> under the Balochistan quota, on a purely temporary basis, for BISP Headquarters Islamabad and BISP Balochistan Regional Offices. The advertisement was verified from <strong>Daily Dawn dated 29 October 2026</strong>.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>BISP HQ Islamabad (8 posts):</strong> Assistant Accounts SPS-15 (1), Executive Assistant SPS-15 (3), Upper Division Clerk SPS-13 (1), Lower Division Clerk SPS-11 (2), Driver SPS-04 (1)</li>
+      <li><strong>Balochistan Region (189 posts):</strong> Assistant Admin/Complaint/NSER/M&amp;E/Field SPS-15 (72), Assistant Admin &amp; Accounts SPS-15 (29), Assistant Legal SPS-15 (1), Driver SPS-04 (24), Chowkidar SPS-01 (30), Naib Qasid SPS-01 (31), Sweeper SPS-01 (2)</li>
+      <li><strong>Qualification:</strong> Bachelor's degree for Assistant posts (Finance/Accounts/Commerce for Accounts posts; LLB for Assistant Legal); F.A/F.Sc/HSSC for UDC; Matric with 30 w.p.m. typing for LDC; Primary pass for Driver, Chowkidar and Naib Qasid; Literate for Sweeper</li>
+      <li><strong>Age:</strong> 18 to 25 years for most posts, 18 to 30 for Driver, 18 to 40 for Chowkidar, plus 5 years general age relaxation as per rules</li>
+      <li><strong>Selection:</strong> Recruitment for all posts (SPS-1 to 15) will be strictly through walk-in interview, with no entry or written test; no TA/DA will be paid</li>
+      <li><strong>Eligibility:</strong> Only candidates holding a valid Balochistan Local/Domicile Certificate can apply; transgender persons can apply as per the Transgender Persons Act 2018</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong> and fill out the prescribed online application form</li>
+      <li>Submit a separate online application form for each post you apply for</li>
+      <li>Appear for the walk-in interview at designated locations in major districts of Balochistan on dates to be announced later, bringing original documents and one set of attested photocopies</li>
+      <li>Submit before 12 November 2026; government servants must apply through proper channel</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk and fill the online application form",
+      "Submit a separate form for each post you apply for",
+      "Appear for the walk-in interview in Balochistan districts on announced dates with original documents and one set of attested photocopies",
+      "Submit before 12 November 2026; government servants must apply through proper channel"
+    ]
+  },
+  {
+    id: 65,
+    title: "NHMP Jobs 2026 - 93 Posts (Junior Patrol Officer, Assistant, Stenotypist, Photographer, LDC & Paramedical Staff), Balochistan Quota (Apply by Nov 12)",
+    department: "National Highways and Motorway Police (NHMP)",
+    category: "Government",
+    subcategory: "Police",
+    city: "Multiple Locations",
+    province: "All Pakistan",
+    qualification: "Post-wise: FA/FSc (2nd Division) with driving licence for Constable/Junior Patrol Officer; BA/BSc for Assistant; Intermediate with 80/40 w.p.m. shorthand/typing for Stenotypist; Intermediate with 3 years photography experience for Photographer; Matric with 30 w.p.m. typing for LDC; Matric with Science plus 1-year Nursing Diploma for Paramedical Staff",
+    experience: "3 years experience in still and video photography for Photographer; 1-year Diploma in Nursing for Paramedical Staff; driving licence for Junior Patrol Officer",
+    ageLimit: "18 to 25 years for all posts (5 years general age relaxation for non-uniform posts as per rules; no age relaxation for Constable/Junior Patrol Officer)",
+    vacancies: "93 (Constable/Junior Patrol Officer BPS-07 - 80; Assistant BPS-15 - 1; Stenotypist BPS-14 - 3; Photographer BPS-13 - 5; LDC BPS-11 - 2; Paramedical Staff BPS-07 - 2; Balochistan quota, BPS-07 to BPS-15)",
+    salary: "As per official advertisement (BPS-07 to BPS-15 government pay scales)",
+    lastDate: "2026-11-12",
+    postedDate: "2026-10-30",
+    source: "National Highways and Motorway Police advertisement verified from Daily Express dated 29 October 2026, via vulearning.com",
+    officialLink: "https://www.nhmp.gov.pk",
+    officialLinkLabel: "NHMP Official Website",
+    featured: true,
+    shortDesc: "National Highways and Motorway Police, under the Ministry of Communications, is hiring 93 staff under the Balochistan quota, including 80 Constables/Junior Patrol Officers plus Assistant, Stenotypist, Photographer, LDC and Paramedical Staff posts. Apply online via the National Job Portal by 12 November 2026.",
+    description: `<p>The <strong>National Highways and Motorway Police (NHMP)</strong>, under the Ministry of Communications, Government of Pakistan, has announced career opportunities under the <strong>Balochistan quota</strong> for Pakistani nationals holding a Balochistan Domicile/Local Certificate. The advertisement was verified from <strong>Daily Express dated 29 October 2026</strong>.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>Constable / Junior Patrol Officer (BPS-07)</strong> - 80 posts - FA/FSc (2nd Division), driving licence, 18 to 25 years; height 5 feet 8 inches (male) / 5 feet 3 inches (female), chest 33 x 35 inches (male); physical test: 1 mile run in 8 minutes (male) / 14 minutes (female), 15 pushups and 15 bicycle crunches in 1 minute (male)</li>
+      <li><strong>Assistant (BPS-15)</strong> - 1 post - BA/BSc degree, 18 to 25 years</li>
+      <li><strong>Stenotypist (BPS-14)</strong> - 3 posts - Intermediate, 80/40 w.p.m. shorthand/typing, computer literate, 18 to 25 years</li>
+      <li><strong>Photographer (BPS-13)</strong> - 5 posts - Intermediate, 3 years experience in still and video photography, 18 to 25 years</li>
+      <li><strong>LDC (BPS-11)</strong> - 2 posts - Matriculation with 30 w.p.m. typing speed, 18 to 25 years</li>
+      <li><strong>Paramedical Staff (BPS-07)</strong> - 2 posts - Matric with Science, 1-year Diploma in Nursing, 18 to 25 years</li>
+      <li><strong>Quotas:</strong> 10 percent women and 5 percent minority quotas apply; 5 years general age relaxation for non-uniform posts only, no age relaxation for Constable/Junior Patrol Officer</li>
+      <li><strong>Note:</strong> Assistant and LDC appointees must complete the mandatory IT Training Course from NITB before probation completion; no TA/DA is admissible</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong></li>
+      <li>Fill out and submit the online application form within 15 days of advertisement publication, by 12 November 2026</li>
+      <li>Submit a separate online application form for each position you apply for</li>
+      <li>Government servants must apply through proper channel and provide an NOC at the time of interview</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk",
+      "Fill and submit the online application form by 12 November 2026",
+      "Submit a separate form for each position you apply for",
+      "Government servants must apply through proper channel with an NOC at interview"
+    ]
+  },
+  {
+    id: 66,
+    title: "Pakistan Digital Authority Jobs 2026 - 15 Professional Posts (AI, Software, Media & Program Delivery), Islamabad (Apply by Nov 13)",
+    department: "Pakistan Digital Authority (PDA)",
+    category: "Government",
+    subcategory: "IT",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "As per official advertisement (detailed job descriptions and eligibility criteria are available on the official PDA careers page at pda.gov.pk/careers)",
+    experience: "As per official advertisement (see the detailed job descriptions on the official PDA careers page)",
+    ageLimit: "As per official advertisement (not mentioned in the advertisement)",
+    vacancies: "15 (PR Liaison; Photographer/Videographer; Graphic Designer; Content Writer; Research Assistant; Social Media Manager/Digital Communications & Media Manager; Director Program Delivery; Manager Program Delivery; Director Delivery Excellence; Manager Delivery Excellence; Digital Solutions Specialist; AI Model Deployment Engineer; MLOps Engineer - AI Observability and Monitoring; Agentic System Engineer; Manager National Digital Alignment and Coordination)",
+    salary: "Market competitive (as stated in the advertisement)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-10-30",
+    source: "Pakistan Digital Authority advertisement verified from Daily Jang dated 29 October 2026, via pakvacancy.com",
+    officialLink: "https://www.pda.gov.pk/careers",
+    officialLinkLabel: "PDA Careers Page",
+    featured: true,
+    shortDesc: "Pakistan Digital Authority, Islamabad is hiring 15 professionals across artificial intelligence, software engineering, digital media and program management, including AI Model Deployment Engineer, MLOps Engineer, Agentic System Engineer and media roles. Apply by email by 13 November 2026.",
+    description: `<p>The <strong>Pakistan Digital Authority (PDA)</strong> has announced <strong>15 new professional vacancies</strong> across artificial intelligence, software engineering, digital media and program management in Islamabad. The advertisement was verified from <strong>Daily Jang dated 29 October 2026</strong>.</p>
+    <h3>Available Positions (with Job IDs)</h3>
+    <ul>
+      <li><strong>PR Liaison</strong> (PDA-J0173), <strong>Photographer / Videographer</strong> (PDA-J0174), <strong>Graphic Designer</strong> (PDA-J0175), <strong>Content Writer</strong> (PDA-J0176), <strong>Research Assistant</strong> (PDA-J0177)</li>
+      <li><strong>Social Media Manager / Digital Communications &amp; Media Manager</strong> (PDA-J0178), <strong>Director Program Delivery</strong> (PDA-J0179), <strong>Manager Program Delivery</strong> (PDA-J0180)</li>
+      <li><strong>Director Delivery Excellence</strong> (PDA-J0181), <strong>Manager Delivery Excellence</strong> (PDA-J0182), <strong>Digital Solutions Specialist</strong> (PDA-J0183)</li>
+      <li><strong>AI Model Deployment Engineer</strong> (PDA-J0184), <strong>MLOps Engineer: AI Observability and Monitoring</strong> (PDA-J0185), <strong>Agentic System Engineer</strong> (PDA-J0186), <strong>Manager National Digital Alignment and Coordination</strong> (PDA-J0187)</li>
+      <li><strong>Salary:</strong> Market competitive for all posts</li>
+      <li><strong>Note:</strong> Detailed job descriptions and eligibility criteria are on the official PDA careers page; government employees must submit a valid NOC; no TA/DA will be provided for interviews</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Check the detailed job description and eligibility for your post at <strong>pda.gov.pk/careers</strong></li>
+      <li>Email your updated CV (maximum 4 pages) and cover letter to <strong>jobs@pda.gov.pk</strong>, clearly mentioning the Job ID and position applied for in the subject line</li>
+      <li>No hard copies will be accepted; only shortlisted candidates will be contacted for interview</li>
+      <li>Submit by 13 November 2026 (15 days from publication)</li>
+    </ol>`,
+    howToApply: [
+      "Check the detailed job description and eligibility at pda.gov.pk/careers",
+      "Email your updated CV (max 4 pages) and cover letter to jobs@pda.gov.pk, mentioning the Job ID and position in the subject line",
+      "No hard copies will be accepted; only shortlisted candidates will be contacted",
+      "Submit by 13 November 2026"
+    ]
+  },
+  {
+    id: 67,
+    title: "HEC Jobs 2026 - Accountant (BPS-16) & Lower Division Clerk (BPS-11), Balochistan Quota, Islamabad (Apply by Nov 10)",
+    department: "Higher Education Commission (HEC)",
+    category: "Government",
+    subcategory: "Education",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Accountant: B.Com or BBA from a recognised university; Lower Division Clerk: Matric with minimum typing speed of 30 w.p.m.",
+    experience: "Accountant: 3 years relevant experience in a Government, Semi-Government or Autonomous Body (part-time, honorary, apprentice and internee work does not count); LDC: no experience stated, but a 3-week Basic IT Training Course (including MS Office) by NITB within one year of selection is required",
+    ageLimit: "Accountant: 21 to 30 years (+ 5 years general age relaxation + 5 years additional relaxation for Balochistan candidates, as printed); LDC: 18 to 25 years (same two relaxation layers, as printed)",
+    vacancies: "2 (Accountant BPS-16 - 1 post; Lower Division Clerk BPS-11 - 1 post; Balochistan 6% provincial quota, regular basis; selected candidates can be posted anywhere in Pakistan)",
+    salary: "As per official advertisement (BPS-16 and BPS-11 government pay scales; no salary figure printed)",
+    lastDate: "2026-11-10",
+    postedDate: "2026-10-30",
+    source: "Higher Education Commission advertisement published in Daily Jang on 29 October 2026, via ixjob.pk",
+    officialLink: "https://www.hec.gov.pk",
+    officialLinkLabel: "HEC Official Website",
+    featured: true,
+    shortDesc: "Higher Education Commission, Islamabad is hiring 2 staff under the Balochistan quota on a regular basis: an Accountant (BPS-16) and a Lower Division Clerk (BPS-11). Apply online only through the National Job Portal by 10 November 2026; no hard copy is needed.",
+    description: `<p>The <strong>Higher Education Commission (HEC), Islamabad</strong> has announced <strong>2 posts</strong> under the Balochistan 6% provincial quota on a regular basis. The advertisement was published in <strong>Daily Jang on 29 October 2026</strong>.</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Accountant (BPS-16)</strong> - 1 post - B.Com or BBA from a recognised university, with 3 years relevant experience in a Government, Semi-Government or Autonomous Body; age 21 to 30 years plus 5 years general age relaxation plus 5 years additional relaxation for Balochistan candidates, as printed</li>
+      <li><strong>Lower Division Clerk (BPS-11)</strong> - 1 post - Matric with minimum typing speed of 30 w.p.m.; age 18 to 25 years with the same two relaxation layers, as printed; selected candidate must complete a 3-week Basic IT Training Course (including MS Office) by NITB within one year</li>
+      <li><strong>Quota:</strong> Balochistan domicile/local certificate holders only; selected candidates can be posted anywhere in Pakistan</li>
+      <li><strong>Note:</strong> No hard copy of the CV and documents needs to be sent; no TA/DA is admissible; HEC reserves the right to reject any or all applications without assigning any reason</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Confirm that your Balochistan domicile, qualification, experience and age fit one post in the table above</li>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong> and find the Higher Education Commission vacancy</li>
+      <li>Complete the online application with accurate degree, experience and domicile details</li>
+      <li>Submit online by Tuesday 10 November 2026; government servants must apply through proper channel</li>
+      <li>For queries contact Assistant Director (HRM), H-9, Islamabad (051-90400000, 051-90401413, 051-90401425) or sup_careers@hec.gov.pk</li>
+    </ol>`,
+    howToApply: [
+      "Confirm your Balochistan domicile, qualification, experience and age fit one post",
+      "Visit the National Job Portal at njp.gov.pk and find the HEC vacancy",
+      "Complete the online application with accurate details",
+      "Submit online by 10 November 2026; government servants must apply through proper channel",
+      "Queries: Assistant Director (HRM), H-9, Islamabad (051-90400000) or sup_careers@hec.gov.pk"
+    ]
+  },
+  {
     id: 60,
     title: "NBP Jobs 2026 - Teller OG-III (Operations Group) in Multiple Cities across Punjab, KP & Balochistan (Apply by Nov 5)",
     department: "National Bank of Pakistan (NBP)",
