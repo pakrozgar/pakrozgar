@@ -11,44 +11,44 @@
 const JOBS = [
   {
     id: 68,
-    title: "PTA Jobs 2026 - 8 Posts (Assistant Director Civil Works, IT Officers & Senior Assistant), Islamabad (Apply by Nov 2)",
-    department: "Pakistan Telecommunication Authority (PTA)",
-    category: "Government",
-    subcategory: "Telecom",
-    city: "Islamabad (posting anywhere in Pakistan, including AJK & Gilgit Baltistan)",
-    province: "All Pakistan",
-    qualification: "Post-wise: MS (18 years education) in Civil Engineering with 3 years experience OR BE (16 years) in Civil Engineering with 5 years experience for Assistant Director (Civil Works); MS (18 years) in Electrical/Electronics Engineering, Computer Science, Software Engineering, Telecommunications, Cyber Security, Information Security, Geo Informatics, Remote Sensing, Space Science, Data Science or equivalent with 2 years experience OR Bachelor's (16 years) in the same fields with 4 years experience for Information Technology Officer; 16 years education in Civil Engineering with 3 years experience OR 14 years education / B-Tech (Civil) with 5 years experience for Senior Assistant",
-    experience: "3 to 5 years relevant post-qualification experience as per post (see qualification); degrees must be HEC-recognised, engineering degrees PEC-recognised",
-    ageLimit: "Maximum 40 years for all posts",
-    vacancies: "8 (Assistant Director Civil Works EG-II - 1, Merit; Information Technology Officer EG-I - 6, SOC / Incident Handler / GIS, 2 Merit, 3 Punjab, 1 Sindh Urban; Senior Assistant SG-III Civil Works - 1, Merit; 3-year contract, extendable on performance)",
-    salary: "Rs. 219,556 per month for Assistant Director (Civil Works); Rs. 159,340 gross per month for Information Technology Officer; Rs. 89,999 gross per month for Senior Assistant, plus perks under PTA policy",
-    lastDate: "2026-11-02",
+    title: "Bank of Punjab Jobs 2026 - Regional Audit Head, Faisalabad (Band-5 to Band-3), Operational Audit Division (Apply by Nov 11)",
+    department: "The Bank of Punjab",
+    category: "Bank",
+    subcategory: "Bank",
+    city: "Faisalabad",
+    province: "Punjab",
+    qualification: "Bachelor's degree, MBA, M.Com, MSc in Accounting or Finance, CA, ACCA or CBA from an HEC-recognised university; CIA, CICA, CISA or equivalent certification preferred",
+    experience: "9 to 12 years of professional experience, including at least 3 years in the Internal Audit Group of a commercial bank; strong background in internal audit, audit planning, sampling, risk-based resource allocation, reviewing reports and working papers, and banking regulations",
+    ageLimit: "Up to 55 years as on the date of application",
+    vacancies: "1 (Regional Audit Head, Faisalabad, Operational Audit Division - Internal Audit Group, Band-5 to Band-3)",
+    salary: "Market-based competitive remuneration (no figure printed in the advertisement)",
+    lastDate: "2026-11-11",
     postedDate: "2026-10-31",
-    source: "Pakistan Telecommunication Authority advertisement (PID(I) 3524/26) verified from jobdost.org summary of the October 2026 advertisement",
-    officialLink: "https://www.pta.gov.pk",
-    officialLinkLabel: "PTA Official Website",
+    source: "The Bank of Punjab advertisement verified from Daily Jang dated 28 October 2026, via ixjob.pk and pakjobalert.pk",
+    officialLink: "https://www.bop.com.pk",
+    officialLinkLabel: "Bank of Punjab Official Website",
     featured: true,
-    shortDesc: "Pakistan Telecommunication Authority is hiring 8 staff on 3-year contracts: one Assistant Director (Civil Works), six Information Technology Officers (SOC, Incident Handling & GIS) and one Senior Assistant. Apply online through ejobportal.pk by 2 November 2026.",
-    description: `<p>The <strong>Pakistan Telecommunication Authority (PTA)</strong>, Government of Pakistan, has announced <strong>8 vacancies</strong> on an initial 3-year contract (extendable on performance) under advertisement reference PID(I) 3524/26.</p>
-    <h3>Available Posts</h3>
+    shortDesc: "The Bank of Punjab is hiring a Regional Audit Head for Faisalabad in its Operational Audit Division (Internal Audit Group), Band-5 to Band-3. Requires an accounting/finance degree or CA/ACCA/CBA plus 9-12 years experience with 3 years in a commercial bank's Internal Audit Group. Apply online through the bank career portal by 11 November 2026.",
+    description: `<p><strong>The Bank of Punjab</strong> invites applications for the position of <strong>Regional Audit Head, Faisalabad</strong>, in its Operational Audit Division under the Internal Audit Group (Band-5 to Band-3). The advertisement appeared in Daily Jang on 28 October 2026.</p>
+    <h3>Role & Eligibility</h3>
     <ul>
-      <li><strong>Assistant Director (Civil Works) EG-II</strong> - 1 post (Merit) - MS Civil Engineering with 3 years experience OR BE Civil Engineering with 5 years experience - Rs. 219,556 per month</li>
-      <li><strong>Information Technology Officer EG-I</strong> - 6 posts (2 Merit, 3 Punjab, 1 Sindh Urban) - SOC, Incident Handler and GIS - MS in a listed discipline with 2 years experience OR Bachelor's in a listed discipline with 4 years experience - Rs. 159,340 gross per month</li>
-      <li><strong>Senior Assistant SG-III (Civil Works)</strong> - 1 post (Merit) - 16 years Civil Engineering education with 3 years experience OR 14 years education / B-Tech (Civil) with 5 years experience - Rs. 89,999 gross per month</li>
-      <li><strong>Posting:</strong> Islamabad or anywhere in Pakistan, including AJK and Gilgit Baltistan; women, minorities and differently abled candidates encouraged to apply; no TA/DA for tests or interviews</li>
+      <li><strong>Qualification:</strong> Bachelor's degree, MBA, M.Com, MSc in Accounting or Finance, CA, ACCA or CBA from an HEC-recognised university; CIA, CICA, CISA or equivalent certification preferred</li>
+      <li><strong>Experience:</strong> 9 to 12 years of professional experience, including at least 3 years in the Internal Audit Group of a commercial bank; strong background in internal audit, audit planning, sampling and risk-based resource allocation, reviewing reports and working papers, and familiarity with regulatory directions and banking laws</li>
+      <li><strong>Age:</strong> Up to 55 years as on the date of application</li>
+      <li><strong>Terms:</strong> Market-based competitive remuneration; only shortlisted candidates called for interview; no TA/DA</li>
     </ul>
     <h3>How to Apply</h3>
     <ol>
-      <li>Visit the PTA application portal at <strong>ejobportal.pk</strong> and find the relevant vacancy</li>
-      <li>Read the post's requirements and complete the online application with accurate personal, educational and professional details</li>
-      <li>Attach copies of degrees and transcripts, CNIC, experience certificates and domicile certificate</li>
-      <li>Submit before 2 November 2026; only shortlisted candidates will be contacted</li>
+      <li>Confirm your qualification, 9-12 years of experience (including 3 years in a commercial bank Internal Audit Group) and age fit the post</li>
+      <li>Open the Bank of Punjab careers portal and find the Regional Audit Head Faisalabad post</li>
+      <li>Read the full post detail on the portal before starting the form</li>
+      <li>Complete and submit the online application before 11 November 2026</li>
     </ol>`,
     howToApply: [
-      "Visit the PTA application portal at ejobportal.pk and find the relevant vacancy",
-      "Read the post requirements and complete the online application with accurate details",
-      "Attach degrees/transcripts, CNIC, experience certificates and domicile certificate",
-      "Submit before 2 November 2026; only shortlisted candidates will be contacted"
+      "Confirm your qualification, 9-12 years experience and age fit the post",
+      "Open the Bank of Punjab careers portal and find the Regional Audit Head Faisalabad post",
+      "Read the full post detail on the portal before starting the form",
+      "Complete and submit the online application before 11 November 2026"
     ]
   },
   {
@@ -2145,7 +2145,7 @@ const JOBS = [
     ageLimit: "Maximum 40 years",
     vacancies: "8",
     salary: "Rs. 89,999 - 219,550/month (post-wise, 3-year contract)",
-    lastDate: "As per official advertisement (within 15 days of publication - check the official ad for the exact date)",
+    lastDate: "2026-11-02",
     postedDate: "2026-10-20",
     source: "Newspaper advertisement PID(I) 3524/26, October 2026 (published 18 October 2026) via JobUstad",
     officialLink: "https://www.pta.gov.pk",
