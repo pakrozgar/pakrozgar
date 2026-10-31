@@ -10,6 +10,175 @@
 
 const JOBS = [
   {
+    id: 68,
+    title: "PTA Jobs 2026 - 8 Posts (Assistant Director Civil Works, IT Officers & Senior Assistant), Islamabad (Apply by Nov 2)",
+    department: "Pakistan Telecommunication Authority (PTA)",
+    category: "Government",
+    subcategory: "Telecom",
+    city: "Islamabad (posting anywhere in Pakistan, including AJK & Gilgit Baltistan)",
+    province: "All Pakistan",
+    qualification: "Post-wise: MS (18 years education) in Civil Engineering with 3 years experience OR BE (16 years) in Civil Engineering with 5 years experience for Assistant Director (Civil Works); MS (18 years) in Electrical/Electronics Engineering, Computer Science, Software Engineering, Telecommunications, Cyber Security, Information Security, Geo Informatics, Remote Sensing, Space Science, Data Science or equivalent with 2 years experience OR Bachelor's (16 years) in the same fields with 4 years experience for Information Technology Officer; 16 years education in Civil Engineering with 3 years experience OR 14 years education / B-Tech (Civil) with 5 years experience for Senior Assistant",
+    experience: "3 to 5 years relevant post-qualification experience as per post (see qualification); degrees must be HEC-recognised, engineering degrees PEC-recognised",
+    ageLimit: "Maximum 40 years for all posts",
+    vacancies: "8 (Assistant Director Civil Works EG-II - 1, Merit; Information Technology Officer EG-I - 6, SOC / Incident Handler / GIS, 2 Merit, 3 Punjab, 1 Sindh Urban; Senior Assistant SG-III Civil Works - 1, Merit; 3-year contract, extendable on performance)",
+    salary: "Rs. 219,556 per month for Assistant Director (Civil Works); Rs. 159,340 gross per month for Information Technology Officer; Rs. 89,999 gross per month for Senior Assistant, plus perks under PTA policy",
+    lastDate: "2026-11-02",
+    postedDate: "2026-10-31",
+    source: "Pakistan Telecommunication Authority advertisement (PID(I) 3524/26) verified from jobdost.org summary of the October 2026 advertisement",
+    officialLink: "https://www.pta.gov.pk",
+    officialLinkLabel: "PTA Official Website",
+    featured: true,
+    shortDesc: "Pakistan Telecommunication Authority is hiring 8 staff on 3-year contracts: one Assistant Director (Civil Works), six Information Technology Officers (SOC, Incident Handling & GIS) and one Senior Assistant. Apply online through ejobportal.pk by 2 November 2026.",
+    description: `<p>The <strong>Pakistan Telecommunication Authority (PTA)</strong>, Government of Pakistan, has announced <strong>8 vacancies</strong> on an initial 3-year contract (extendable on performance) under advertisement reference PID(I) 3524/26.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>Assistant Director (Civil Works) EG-II</strong> - 1 post (Merit) - MS Civil Engineering with 3 years experience OR BE Civil Engineering with 5 years experience - Rs. 219,556 per month</li>
+      <li><strong>Information Technology Officer EG-I</strong> - 6 posts (2 Merit, 3 Punjab, 1 Sindh Urban) - SOC, Incident Handler and GIS - MS in a listed discipline with 2 years experience OR Bachelor's in a listed discipline with 4 years experience - Rs. 159,340 gross per month</li>
+      <li><strong>Senior Assistant SG-III (Civil Works)</strong> - 1 post (Merit) - 16 years Civil Engineering education with 3 years experience OR 14 years education / B-Tech (Civil) with 5 years experience - Rs. 89,999 gross per month</li>
+      <li><strong>Posting:</strong> Islamabad or anywhere in Pakistan, including AJK and Gilgit Baltistan; women, minorities and differently abled candidates encouraged to apply; no TA/DA for tests or interviews</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the PTA application portal at <strong>ejobportal.pk</strong> and find the relevant vacancy</li>
+      <li>Read the post's requirements and complete the online application with accurate personal, educational and professional details</li>
+      <li>Attach copies of degrees and transcripts, CNIC, experience certificates and domicile certificate</li>
+      <li>Submit before 2 November 2026; only shortlisted candidates will be contacted</li>
+    </ol>`,
+    howToApply: [
+      "Visit the PTA application portal at ejobportal.pk and find the relevant vacancy",
+      "Read the post requirements and complete the online application with accurate details",
+      "Attach degrees/transcripts, CNIC, experience certificates and domicile certificate",
+      "Submit before 2 November 2026; only shortlisted candidates will be contacted"
+    ]
+  },
+  {
+    id: 69,
+    title: "PSCA Jobs 2026 - 49 Posts (Data Science, AI/ML, Procurement, Drivers, Electricians & Attendants), Punjab (Apply by Nov 9)",
+    department: "Punjab Safe Cities Authority (PSCA)",
+    category: "Government",
+    subcategory: "Punjab",
+    city: "Lahore & multiple Punjab cities",
+    province: "Punjab",
+    qualification: "As per official advertisement (detailed job descriptions and eligibility criteria for each post are available on the official PSCA careers page at psca.gop.pk/career)",
+    experience: "As per official advertisement (see the detailed job descriptions on the official PSCA careers page; part-time, honorary, self-employed, apprentice or internee experience will not be counted)",
+    ageLimit: "As per official advertisement (not mentioned in the advertisement summary; check the PSCA careers page)",
+    vacancies: "49 (6 contractual: Executive Officer Data Science - 1, Deputy Executive Officer AI/ML - 1, Deputy Executive Officer Procurement & Supply Chain Management - 1, Nanny / Baby Sitter Day Care Centre - 3; 43 short-term contractual: Electrician - 6, Drivers Motor Vehicle - 26, Mason Mistry - 1, Plumber - 1, Attendant - 9; notice reference IPL-11355)",
+    salary: "Rs. 40,000 to Rs. 323,810 per month (Executive Officer Data Science Rs. 323,810; Deputy Executive Officers Rs. 200,000; Nanny Rs. 48,500; Electrician Rs. 51,347; Driver Rs. 47,424; Mason/Plumber Rs. 45,945; Attendant Rs. 40,000)",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-31",
+    source: "Punjab Safe Cities Authority advertisement (IPL-11355) verified from millanonline.com summary of the October 2026 advertisement",
+    officialLink: "https://psca.gop.pk/career",
+    officialLinkLabel: "PSCA Careers Page",
+    featured: true,
+    shortDesc: "Punjab Safe Cities Authority, Lahore, is hiring 49 staff: Executive Officer Data Science, Deputy Executive Officers (AI/ML, Procurement), Nanny, plus 43 short-term posts including 26 Drivers, Electricians and Attendants across Punjab. Apply online via psca.gop.pk/career by 9 November 2026.",
+    description: `<p>The <strong>Punjab Safe Cities Authority (PSCA)</strong>, Lahore, has advertised <strong>49 posts</strong> (notice reference IPL-11355): 6 on a contractual basis and 43 on a short-term contractual basis, for the PPIC3 Centre Lahore and other Punjab cities.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>Contractual:</strong> Executive Officer Data Science (1, Rs. 323,810), Deputy Executive Officer AI/ML (1, Rs. 200,000), Deputy Executive Officer Procurement &amp; Supply Chain Management (1, Rs. 200,000), Nanny / Baby Sitter Day Care Centre (3, Rs. 48,500)</li>
+      <li><strong>Short-term contractual:</strong> Electrician (6, Rs. 51,347), Drivers Motor Vehicle (26, Rs. 47,424), Mason Mistry (1, Rs. 45,945), Plumber (1, Rs. 45,945), Attendant (9, Rs. 40,000)</li>
+      <li><strong>Cities:</strong> Driver posts in Murree, Attock, Chakwal, Talagang, Taxila, Hasan Abdal, Sialkot, Gujrat, Narowal, Gujranwala, Wazirabad, Hafizabad, Rajanpur, Chiniot, Layyah and Rahim Yar Khan; Electrician and Attendant posts in Rawalpindi, Faisalabad, Lahore, Gujranwala, Multan, Sargodha, Sahiwal, Dera Ghazi Khan and Bahawalpur</li>
+      <li><strong>Note:</strong> Result-awaiting candidates are not eligible; government employees must apply through proper channel; foreign degrees need HEC equivalence; no TA/DA for test or interview</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Open the PSCA career page at <strong>psca.gop.pk/career</strong> and read the detailed job description for your post</li>
+      <li>Submit your online application through the PSCA website on or before 9 November 2026</li>
+      <li>Short-term posts and the Nanny post may also be submitted in hard copy as per the advertisement's instructions</li>
+      <li>Only shortlisted candidates will be called for interview; queries: 042-99051606-8 or recruitment@psca.gop.pk</li>
+    </ol>`,
+    howToApply: [
+      "Open the PSCA career page at psca.gop.pk/career and read your post's detailed job description",
+      "Submit your online application through the PSCA website by 9 November 2026",
+      "Short-term posts and the Nanny post may also be submitted in hard copy as per the advertisement",
+      "Only shortlisted candidates will be called for interview"
+    ]
+  },
+  {
+    id: 70,
+    title: "Auditor-General of Pakistan Jobs 2026 - 36 Posts (Junior Auditor, Stenotypist, Driver & Naib Qasid), Balochistan Quota (Apply by Nov 9)",
+    department: "Department of the Auditor-General of Pakistan",
+    category: "Government",
+    subcategory: "Administration",
+    city: "Quetta (Driver & Naib Qasid posts local-based)",
+    province: "Balochistan",
+    qualification: "Post-wise: Second-class / Grade C Bachelor's degree in Commerce, Banking and Finance, Accounting, Business Administration or Information Technology (HEC-recognised) with computer literacy and 30 w.p.m. typing for Junior Auditor; Intermediate with computer knowledge, 80 w.p.m. shorthand and 40 w.p.m. typing for Stenotypist; Primary pass with valid driving licence and knowledge of traffic rules for Staff Car Driver; Primary pass for Naib Qasid",
+    experience: "As per official advertisement (computer literacy and typing for Junior Auditor; valid driving licence for Driver)",
+    ageLimit: "18 to 30 years including 5 years general age relaxation for Junior Auditor, Stenotypist and Naib Qasid; 18 to 35 years including 5 years general age relaxation for Staff Car Driver",
+    vacancies: "36 (Junior Auditor BPS-11 - 31; Stenotypist BPS-14 - 1; Staff Car Driver BPS-04 - 1; Naib Qasid BPS-01 - 3; 6 percent Balochistan quota; Balochistan domicile holders only)",
+    salary: "As per official advertisement (BPS-01 to BPS-14 government pay scales)",
+    lastDate: "2026-11-09",
+    postedDate: "2026-10-31",
+    source: "Department of the Auditor-General of Pakistan advertisement verified from ProPakistani dated 26 October 2026",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal - Apply Online",
+    featured: true,
+    shortDesc: "The Department of the Auditor-General of Pakistan is hiring 36 staff under the Balochistan quota: 31 Junior Auditors plus a Stenotypist, a Staff Car Driver and 3 Naib Qasids. Apply online through the National Job Portal by 9 November 2026.",
+    description: `<p>The <strong>Department of the Auditor-General of Pakistan</strong> has announced <strong>36 vacancies</strong> for candidates holding a Balochistan domicile, under the 6 percent Balochistan quota, for positions from BPS-01 to BPS-14.</p>
+    <h3>Available Posts</h3>
+    <ul>
+      <li><strong>Junior Auditor (BPS-11)</strong> - 31 posts - Second-class / Grade C Bachelor's degree in Commerce, Banking and Finance, Accounting, Business Administration or IT, computer literate, 30 w.p.m. typing, age 18 to 30 years including relaxation</li>
+      <li><strong>Stenotypist (BPS-14)</strong> - 1 post - Intermediate with computer knowledge, 80 w.p.m. shorthand and 40 w.p.m. typing, age 18 to 30 years including relaxation</li>
+      <li><strong>Staff Car Driver (BPS-04)</strong> - 1 post, Quetta-based - Primary pass with valid driving licence and knowledge of traffic rules, age 18 to 35 years including relaxation</li>
+      <li><strong>Naib Qasid (BPS-01)</strong> - 3 posts, Quetta-based - Primary pass, age 18 to 30 years including relaxation</li>
+      <li><strong>Note:</strong> Applications submitted directly to the department's office will not be accepted; apply only through the National Job Portal</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at <strong>njp.gov.pk</strong>, create an account or log in</li>
+      <li>Search for the vacancies advertised by the Auditor-General of Pakistan and select your post</li>
+      <li>Complete the online application form, checking your qualifications and domicile details before submitting</li>
+      <li>Submit before 9 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk and log in or create an account",
+      "Search for the Auditor-General of Pakistan vacancies and select your post",
+      "Complete the online form, checking qualifications and domicile details before submitting",
+      "Submit before 9 November 2026; direct applications to the office are not accepted"
+    ]
+  },
+  {
+    id: 71,
+    title: "Bank of Punjab Jobs 2026 - Unit Head Credit Card Reconciliation (Band-5 to Band-3), Lahore (Apply by Nov 12)",
+    department: "The Bank of Punjab",
+    category: "Bank",
+    subcategory: "Bank",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Minimum Bachelor's degree or equivalent from an HEC-recognised local or foreign university",
+    experience: "Minimum 9 years of banking or non-banking experience, including card settlement and reconciliation work",
+    ageLimit: "Up to 55 years as on the date of application",
+    vacancies: "As per official advertisement (the advertisement prints no vacancy count for this post; one post title advertised)",
+    salary: "Market-based competitive remuneration (no figure printed in the advertisement)",
+    lastDate: "2026-11-12",
+    postedDate: "2026-10-31",
+    source: "The Bank of Punjab advertisement verified from Daily Jang dated 29 October 2026, via ixjob.pk",
+    officialLink: "https://www.bop.com.pk",
+    officialLinkLabel: "Bank of Punjab Official Website",
+    featured: true,
+    shortDesc: "The Bank of Punjab is hiring a Unit Head - Credit Card Reconciliation (Band-5 to Band-3) for its Credit Cards and Digital Banking Operations Division in Lahore. Minimum Bachelor's degree plus 9 years experience required; apply online through the bank career portal by 12 November 2026.",
+    description: `<p><strong>The Bank of Punjab</strong> has opened a senior operations post in Lahore: <strong>Unit Head - Credit Card Reconciliation</strong> (Band-5 to Band-3) in the Credit Cards and Digital Banking Operations Division, Operations Group. The advertisement appeared in Daily Jang on 29 October 2026 and prints no vacancy count.</p>
+    <h3>Role & Eligibility</h3>
+    <ul>
+      <li><strong>Qualification:</strong> Minimum Bachelor's degree or equivalent from an HEC-recognised university</li>
+      <li><strong>Experience:</strong> Minimum 9 years of banking or non-banking experience, covering daily, weekly and monthly card settlement reconciliation, merchant discount rates, interchange fees, processor statements, breaks investigation, chargebacks and manual transaction review</li>
+      <li><strong>Age:</strong> Up to 55 years as on the date of application</li>
+      <li><strong>Terms:</strong> Market-based competitive remuneration; only shortlisted candidates called for interview; no TA/DA; females, minorities, differently abled persons and transgender applicants encouraged to apply</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Confirm your degree, 9 years of experience and age fit the post</li>
+      <li>Open the Bank of Punjab career portal and find this post</li>
+      <li>Read the full post detail on the portal before starting the form</li>
+      <li>Complete and submit the online application before 12 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Confirm your degree, 9 years of experience and age fit the post",
+      "Open the Bank of Punjab career portal and find the Unit Head - Credit Card Reconciliation post",
+      "Read the full post detail on the portal before starting the form",
+      "Complete and submit the online application before 12 November 2026"
+    ]
+  },
+  {
     id: 64,
     title: "BISP Jobs 2026 - 197 Posts (Assistant, UDC, LDC, Driver, Chowkidar, Naib Qasid & Sweeper), Balochistan Quota (Apply by Nov 12)",
     department: "Benazir Income Support Programme (BISP)",
