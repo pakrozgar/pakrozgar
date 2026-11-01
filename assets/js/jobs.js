@@ -10,6 +10,175 @@
 
 const JOBS = [
   {
+    id: 72,
+    title: "Pakistan Army JCO Jobs 2026 - Junior Commissioned Officer, Army Education Corps (Registration 1 Nov - 15 Dec)",
+    department: "Pakistan Army - Army Education Corps",
+    category: "Army",
+    subcategory: "Army",
+    city: "Pakistan-wide (Army Selection & Recruitment Centres)",
+    province: "All Pakistan",
+    qualification: "BSc or equivalent in Physics, Chemistry, Mathematics, Biology, Geography, Commerce or Computer Science; BS/MS in the relevant subject preferred",
+    experience: "As per official advertisement",
+    ageLimit: "As per official advertisement (confirm age, height and marital-status conditions from the original advertisement or your nearest Army Selection & Recruitment Centre; reported minimum height 167.5 cm / 5 ft 6 in)",
+    vacancies: "Not specified in the advertisement (Junior Commissioned Officer - Army Education Corps)",
+    salary: "As per Pakistan Army pay rules (no figure printed in the advertisement)",
+    lastDate: "2026-12-15",
+    postedDate: "2026-11-01",
+    source: "Pakistan Army recruitment advertisement (Personnel Administration Directorate), registration 1 November to 15 December 2026, verified via pakjobalert.pk",
+    officialLink: "https://www.joinpakarmy.gov.pk",
+    officialLinkLabel: "Join Pakistan Army Official Website",
+    featured: true,
+    shortDesc: "Pakistan Army is recruiting Junior Commissioned Officers (JCO) for the Army Education Corps. Registration runs from 1 November to 15 December 2026 at Army Selection & Recruitment Centres. BSc graduates in science, maths, geography, commerce or computer science can apply; BS/MS holders get preference.",
+    description: `<p><strong>Pakistan Army</strong> invites applications for <strong>Junior Commissioned Officer (JCO)</strong> in the <strong>Army Education Corps</strong>. Registration is open from <strong>1 November to 15 December 2026</strong> at Army Selection &amp; Recruitment Centres across Pakistan.</p>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Qualification:</strong> BSc or equivalent in Physics, Chemistry, Mathematics, Biology, Geography, Commerce or Computer Science; BS/MS in the relevant subject preferred</li>
+      <li><strong>Height:</strong> Reported minimum height 167.5 cm (approx. 5 ft 6 in)</li>
+      <li><strong>Age &amp; other conditions:</strong> As per official advertisement - confirm age limits, nationality and marital-status conditions from the original advertisement or your nearest Army Selection &amp; Recruitment Centre</li>
+      <li><strong>Vacancies:</strong> The advertisement does not specify a confirmed total number of vacancies</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Read the original advertisement and check your subject eligibility</li>
+      <li>Prepare your original educational certificates and other required documents</li>
+      <li>Visit your nearest Army Selection &amp; Recruitment Centre during the registration period (1 November - 15 December 2026)</li>
+      <li>Complete registration as per the centre's instructions and follow directions for tests, medical and interview</li>
+      <li>Check joinpakarmy.gov.pk for announcements and guidance</li>
+    </ol>`,
+    howToApply: [
+      "Read the original advertisement and check your subject eligibility",
+      "Prepare your original educational certificates and other required documents",
+      "Visit your nearest Army Selection & Recruitment Centre between 1 November and 15 December 2026",
+      "Complete registration as per the centre's instructions and follow directions for tests, medical and interview"
+    ]
+  },
+  {
+    id: 73,
+    title: "Finance Division Jobs 2026 - 7 Posts (Stenotypist BPS-14 & Driver BPS-04), Balochistan Quota, Islamabad (Apply by Nov 14)",
+    department: "Finance Division, Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Federal",
+    qualification: "Intermediate (Stenotypist); Primary (Driver)",
+    experience: "Stenotypist: shorthand 80 wpm and typing 40 wpm, computer literacy preferred; Driver: valid driving licence and good knowledge of traffic rules",
+    ageLimit: "18-35 years",
+    vacancies: "7 (Stenotypist BPS-14: 5, Driver BPS-04: 2) - Balochistan quota",
+    salary: "As per Basic Pay Scale (no figure printed in the advertisement)",
+    lastDate: "2026-11-14",
+    postedDate: "2026-11-01",
+    source: "Finance Division advertisement published in Daily Dawn on 30 October 2026, verified via bloompakistan.com; last date is 15 days from the advertisement date as reported",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Finance Division (Government of Pakistan) is hiring 7 regular posts under the Balochistan quota for its Islamabad office: 5 Stenotypists (BPS-14) and 2 Drivers (BPS-04). Candidates from 12 districts of Southern Balochistan get preference. Apply online through the National Job Portal by 14 November 2026.",
+    description: `<p><strong>Finance Division, Government of Pakistan</strong> invites applications for <strong>7 regular posts</strong> under the Balochistan quota for its Islamabad office, as advertised in Daily Dawn on 30 October 2026.</p>
+    <h3>Vacancies &amp; Eligibility</h3>
+    <ul>
+      <li><strong>Stenotypist (BPS-14) - 5 posts:</strong> Intermediate qualification; shorthand speed 80 wpm; typing speed 40 wpm; computer literacy preferred</li>
+      <li><strong>Driver (BPS-04) - 2 posts:</strong> Primary qualification; valid driving licence; good knowledge of traffic rules</li>
+      <li><strong>Age:</strong> 18-35 years</li>
+      <li><strong>Preference:</strong> Candidates from 12 districts of Southern Balochistan; women and minority candidates encouraged to apply</li>
+      <li><strong>Posting:</strong> Islamabad; no TA/DA for tests/interviews</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at njp.gov.pk and create an account or log in</li>
+      <li>Search for the Finance Division vacancies and select your post</li>
+      <li>Complete and submit the online application form before 14 November 2026</li>
+      <li>Keep original documents ready for presentation at interview</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk and create an account or log in",
+      "Search for the Finance Division vacancies and select your post",
+      "Complete and submit the online application form before 14 November 2026",
+      "Keep original documents ready for presentation at interview"
+    ]
+  },
+  {
+    id: 74,
+    title: "Punjab Fisheries Shrimp Aquaculture Project Jobs 2026 - 28 Posts (PPS-02 to PPS-07), Muzaffargarh & Sargodha (Apply by Nov 13)",
+    department: "Fisheries Department, Government of Punjab - Shrimp Aquaculture Project",
+    category: "Government",
+    subcategory: "Punjab",
+    city: "Muzaffargarh & Sargodha",
+    province: "Punjab",
+    qualification: "Varies by post - Matric to Master's degree (e.g. BSc/BS Zoology, Biology, Fisheries or Aquaculture for Research Assistant; relevant trade certificates for technical posts)",
+    experience: "Varies by post as per the official advertisement on the Punjab Job Portal",
+    ageLimit: "As per official advertisement",
+    vacancies: "28 (Accounts Operations & Supervisor, Trade Compliance Assistant, Sub Engineer Electrical, Drone Operator, Tractor Operator, Tubewell Technician, Plumber, Chauffeur, Horticulture Worker, Lab Helper, Office Boy, Janitor and others)",
+    salary: "Rs. 40,000 - 200,000 per month depending on Project Pay Scale (PPS-02 to PPS-07 and lump-sum posts)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-11-01",
+    source: "Punjab Fisheries Department / Shrimp Aquaculture Project advertisement verified via propakistani.pk, pakistanjobscity.com and jobsnexer.com; online applications close 13 November 2026, printed applications due 16 November 2026",
+    officialLink: "https://jobs.punjab.gov.pk",
+    officialLinkLabel: "Punjab Job Portal",
+    featured: true,
+    shortDesc: "Punjab Fisheries Department is hiring 28 staff on contract (PPS-02 to PPS-07 and lump-sum) for its Shrimp Aquaculture projects at Rakh Ali Wali, Muzaffargarh and 58 NB, Sargodha. Posts range from Accounts Supervisor and Drone Operator to drivers and lab helpers, with salaries of Rs. 40,000-200,000. Punjab domicile holders apply online by 13 November 2026.",
+    description: `<p><strong>Fisheries Department, Government of Punjab</strong> invites applications from Punjab domicile holders for <strong>28 contract posts</strong> under the Shrimp Aquaculture Project - "Establishment of Shrimp Farms at Rakh Ali Wali, Muzaffargarh" and "Establishment of Shrimp Estate with Value Chain Components at 58 NB Sargodha" (2025-26 to 2028-29).</p>
+    <h3>Vacancies &amp; Terms</h3>
+    <ul>
+      <li><strong>Posts include:</strong> Accounts Operations &amp; Supervisor (PPS-7), Trade Compliance Assistant (PPS-5), Sub Engineer Electrical (PPS-5), Drone Operator (PPS-4), Tractor Operator, Tubewell Technician, Plumber, Chauffeur, Horticulture Worker, Lab Helper, Office Boy and Janitor</li>
+      <li><strong>Salary:</strong> Rs. 40,000 - 200,000 per month depending on the post's Project Pay Scale</li>
+      <li><strong>Contract:</strong> Initially 1 year, extendable up to the project gestation period (30 June 2028)</li>
+      <li><strong>Eligibility:</strong> Punjab domicile holders only; qualification varies by post (Matric to Master's)</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online at jobs.punjab.gov.pk on or before 13 November 2026</li>
+      <li>Send the printed application with attested documents to Project Director (Shrimp Aquaculture), 9-A Bahawalpur Road, Chauburji, Lahore, so it reaches by 16 November 2026 before 5:00 PM</li>
+      <li>Shortlisted candidates will be notified of test/interview schedules via email or the contact details given at registration</li>
+    </ol>`,
+    howToApply: [
+      "Apply online at jobs.punjab.gov.pk on or before 13 November 2026",
+      "Send the printed application with attested documents to Project Director (Shrimp Aquaculture), 9-A Bahawalpur Road, Chauburji, Lahore, by 16 November 2026 before 5:00 PM",
+      "Shortlisted candidates will be notified of test/interview schedules via email or registered contact details"
+    ]
+  },
+  {
+    id: 75,
+    title: "Peshawar High Court Jobs 2026 - 41 Posts (Assistant, Computer Operator, Junior Clerk, Driver & More) via ETEA (Apply by Nov 20)",
+    department: "Peshawar High Court",
+    category: "Government",
+    subcategory: "Judiciary",
+    city: "Peshawar",
+    province: "Khyber Pakhtunkhwa",
+    qualification: "Varies by post - graduation for Assistant/Computer Operator/Assistant Librarian posts; relevant qualifications and driving licence for Driver and clerical posts (confirm post-wise education in the official advertisement)",
+    experience: "As per official advertisement",
+    ageLimit: "Assistant: 25-30 years; Driver: 25-35 years (other posts as per official advertisement)",
+    vacancies: "41 (Assistant BPS-16: 8, Computer Operator BPS-16: 7, Assistant Librarian: 1, CCTV Camera Operator: 6, Junior Clerk: 7, Driver BPS-06: 12) - ETEA Project Code 882",
+    salary: "BPS-06 to BPS-16 as per post (no figure printed in the advertisement)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-11-01",
+    source: "Peshawar High Court advertisement (INF(P) 5226/26) through ETEA, verified via pakera.pk, propakistani.pk and thetruthinternational.com; ETEA project code 882",
+    officialLink: "https://etea.edu.pk",
+    officialLinkLabel: "ETEA Official Website",
+    featured: true,
+    shortDesc: "Peshawar High Court is hiring 41 regular posts through ETEA (Project 882) for Khyber Pakhtunkhwa domicile holders: 8 Assistants, 7 Computer Operators, 1 Assistant Librarian, 6 CCTV Camera Operators, 7 Junior Clerks and 12 Drivers (BPS-06 to BPS-16). Earlier advertisements for these posts stand cancelled, so all candidates must apply afresh online by 20 November 2026.",
+    description: `<p><strong>Peshawar High Court</strong> invites applications from Khyber Pakhtunkhwa domicile holders for <strong>41 regular posts</strong> through the Educational Testing and Evaluation Agency (ETEA), Project Code 882. The advertisement (INF(P) 5226/26) cancels all earlier advertisements for these posts, so candidates who applied before must apply again.</p>
+    <h3>Vacancies (BPS-06 to BPS-16)</h3>
+    <ul>
+      <li><strong>Assistant (BPS-16) - 8 posts:</strong> age 25-30 years</li>
+      <li><strong>Computer Operator (BPS-16) - 7 posts</strong></li>
+      <li><strong>Assistant Librarian - 1 post</strong></li>
+      <li><strong>CCTV Camera Operator - 6 posts</strong></li>
+      <li><strong>Junior Clerk - 7 posts</strong></li>
+      <li><strong>Driver (BPS-06) - 12 posts:</strong> age 25-35 years</li>
+      <li><strong>Eligibility:</strong> Only permanent residents holding a Khyber Pakhtunkhwa domicile; post-wise education and experience as per the official advertisement</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the ETEA website at etea.edu.pk and open Project 882 (Peshawar High Court, Peshawar)</li>
+      <li>Fill the online application form and submit it before 20 November 2026</li>
+      <li>Do not send documents to ETEA at the initial application stage; roll number slips are issued online via SMS</li>
+    </ol>`,
+    howToApply: [
+      "Visit the ETEA website at etea.edu.pk and open Project 882 (Peshawar High Court, Peshawar)",
+      "Fill the online application form and submit it before 20 November 2026",
+      "Do not send documents to ETEA at the initial application stage; roll number slips are issued online via SMS"
+    ]
+  },
+  {
     id: 68,
     title: "Bank of Punjab Jobs 2026 - Regional Audit Head, Faisalabad (Band-5 to Band-3), Operational Audit Division (Apply by Nov 11)",
     department: "The Bank of Punjab",
