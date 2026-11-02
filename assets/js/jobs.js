@@ -10,6 +10,185 @@
 
 const JOBS = [
   {
+    id: 76,
+    title: "Cabinet Secretariat Islamabad Jobs 2026 - Assistant (BS-15), Balochistan Quota (Apply by Nov 15)",
+    department: "Cabinet Secretariat, Establishment Division (Main), Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad (district-level recruitment in Balochistan)",
+    province: "Federal",
+    qualification: "Graduation degree from a recognized university; selected candidate must complete a six-week Basic IT Training Course (including MS Office) by NITB during probation",
+    experience: "As per official advertisement (no prior professional experience specified)",
+    ageLimit: "18-28 years plus 5 years general age relaxation and an additional 5 years special Balochistan recruitment relaxation (up to 38 years, subject to applicable rules)",
+    vacancies: "1 (Assistant BS-15, 6% Balochistan quota; reference F.No.3/1/2023-ADMN-II, PID(I)4011/26)",
+    salary: "As per official advertisement (BS-15 government pay scale)",
+    lastDate: "2026-11-15",
+    postedDate: "2026-11-02",
+    source: "Cabinet Secretariat, Establishment Division (Main) advertisement published 1 November 2026, verified via balochjobs.com",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Cabinet Secretariat, Establishment Division (Main), Islamabad is hiring 1 Assistant (BS-15) under the 6% Balochistan quota. Graduates holding a Balochistan domicile can apply online through the National Job Portal by 15 November 2026; selection is through walk-in interviews with no written test.",
+    description: `<p><strong>Cabinet Secretariat, Establishment Division (Main), Islamabad</strong> invites applications from Balochistan domicile holders for <strong>1 Assistant (BS-15)</strong> post under the 6% Balochistan quota. The advertisement was published on <strong>1 November 2026</strong> (reference F.No.3/1/2023-ADMN-II, PID(I)4011/26).</p>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Qualification:</strong> Graduation degree from a recognized university</li>
+      <li><strong>Age:</strong> 18-28 years, plus 5 years general age relaxation and an additional 5 years special Balochistan recruitment relaxation (up to 38 years, subject to applicable rules)</li>
+      <li><strong>Domicile:</strong> Valid Balochistan domicile is mandatory</li>
+      <li><strong>IT training:</strong> Selected candidate must complete a six-week Basic IT Training Course (including MS Office) by NITB during probation</li>
+      <li><strong>Selection:</strong> District-level walk-in interviews in Balochistan through newly established Employment Cells; no entry test or written examination</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at njp.gov.pk and create an account or log in</li>
+      <li>Search for the Assistant (BS-15) post in the Establishment Division, Government of Pakistan</li>
+      <li>Complete the online application form with accurate personal, educational and domicile information</li>
+      <li>Submit before 15 November 2026; government servants must apply through proper channel</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk and create an account or log in",
+      "Search for the Assistant (BS-15) post in the Establishment Division",
+      "Complete the online application form with accurate details",
+      "Submit before 15 November 2026; government servants must apply through proper channel"
+    ]
+  },
+  {
+    id: 77,
+    title: "Punjab S&GAD PPMU Jobs 2026 - 49 Posts (General Manager, Data Analyst, Field Officer & More), Lahore (Apply by Nov 17)",
+    department: "Services & General Administration Department (S&GAD), Government of Punjab - Punjab Performance Management Unit (PPMU)",
+    category: "Government",
+    subcategory: "Punjab",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Varies by post - 16 years of education in Public Administration, Business Administration, Management, Data Analysis or IT for management posts; Bachelor's degree for Personal Assistant and Computer Operator; Intermediate for Field Officer (see post-wise details in the official advertisement)",
+    experience: "Varies by post - 10 years for General Manager and Manager (Admin & Finance); 8 years for Manager (Policy & Research); 6 years for Data Analyst and Assistant Managers; 2-7 years for other posts",
+    ageLimit: "Varies by post - General Manager 35-45; Manager (Admin & Finance) 30-50; Manager (Policy & Research) and Assistant Managers 30-40; Data Analyst 25-35; Personal Assistant 25-40; Research Associate and Field Officer 21-35; Computer Operator 20-30",
+    vacancies: "49 (General Manager 1, Manager Admin & Finance 1, Manager Policy & Research 1, Data Analyst 5, Assistant Manager Operations 2, Assistant Manager Inspections 9, Assistant Manager Finance 1, Personal Assistant 3, Research Associate 3, Computer Operator 5, Field Officer 18; PPS-6 to PPS-10; advertisement IPL-11597)",
+    salary: "Rs. 150,000 - 625,000 per month depending on post (General Manager Rs. 625,000; Manager Admin & Finance Rs. 425,000; Manager Policy & Research and Data Analyst Rs. 305,000; Assistant Managers Rs. 210,000-220,000; Personal Assistant Rs. 200,000; Research Associate, Computer Operator and Field Officer Rs. 150,000)",
+    lastDate: "2026-11-17",
+    postedDate: "2026-11-02",
+    source: "Punjab S&GAD / PPMU advertisement (IPL-11597) verified via pakjobalert.pk and ixjob.pk, 1-2 November 2026",
+    officialLink: "https://jobs.punjab.gov.pk",
+    officialLinkLabel: "Punjab Job Portal",
+    featured: true,
+    shortDesc: "Punjab Performance Management Unit (PPMU), S&GAD, is hiring 49 contract staff (PPS-6 to PPS-10) in Lahore: General Manager, Managers, Data Analysts, Assistant Managers, Personal Assistants, Research Associates, Computer Operators and 18 Field Officers, with salaries of Rs. 150,000-625,000. Punjab domicile holders must apply online AND send documents by courier by 17 November 2026 before 5:00 PM.",
+    description: `<p><strong>Services &amp; General Administration Department (S&amp;GAD), Government of Punjab</strong> invites applications from Punjab domicile holders for <strong>49 contract posts</strong> in the Punjab Performance Management Unit (PPMU), Implementation &amp; Coordination Wing (advertisement IPL-11597).</p>
+    <h3>Vacancies &amp; Salary (PPS-6 to PPS-10)</h3>
+    <ul>
+      <li><strong>General Manager (Monitoring, Policy &amp; Research Analysis) - 1:</strong> PPS-10, Rs. 625,000, age 35-45, 16 years education + 10 years experience</li>
+      <li><strong>Manager (Admin &amp; Finance) - 1:</strong> PPS-9, Rs. 425,000, age 30-50, MBA Finance/M.Com or equivalent + 10 years experience</li>
+      <li><strong>Manager (Policy &amp; Research Analysis) - 1:</strong> PPS-8, Rs. 305,000, age 30-40, 16 years education + 8 years experience</li>
+      <li><strong>Data Analyst - 5:</strong> PPS-8, Rs. 305,000, age 25-35, 16 years education + 6 years experience</li>
+      <li><strong>Assistant Manager (Operations) - 2, Assistant Manager (Inspections) - 9, Assistant Manager (Finance) - 1:</strong> PPS-7, Rs. 210,000-220,000</li>
+      <li><strong>Personal Assistant - 3:</strong> PPS-7, Rs. 200,000, Bachelor's degree + 5-7 years experience, shorthand 80 wpm and typing 40 wpm</li>
+      <li><strong>Research Associate - 3, Computer Operator - 5, Field Officer - 18:</strong> PPS-6, Rs. 150,000 (Field Officer requires Intermediate + 2 years experience)</li>
+      <li><strong>Terms:</strong> Purely contractual under a development project; no right to regularization; no TA/DA</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Apply online at jobs.punjab.gov.pk and print the completed application proforma</li>
+      <li>Send the printed proforma with CV, photograph, attested educational and experience certificates, Punjab domicile and CNIC copy by courier to Section Officer (Development), Implementation &amp; Coordination Wing, S&amp;GAD, H-Block Building, Punjab Civil Secretariat, Lahore</li>
+      <li>Both steps must be completed by 17 November 2026 before 5:00 PM - online-only or courier-only applications will be rejected</li>
+      <li>Use a separate application form and envelope for each post applied for</li>
+    </ol>`,
+    howToApply: [
+      "Apply online at jobs.punjab.gov.pk and print the completed application proforma",
+      "Send the proforma with CV, photograph, attested certificates, Punjab domicile and CNIC copy by courier to Section Officer (Development), I&C Wing, S&GAD, H-Block Building, Punjab Civil Secretariat, Lahore",
+      "Complete both steps by 17 November 2026 before 5:00 PM; use a separate form and envelope for each post"
+    ]
+  },
+  {
+    id: 78,
+    title: "Lahore High Court Jobs 2026 - Additional District & Sessions Judge (BS-20) via Central Examination Secretariat (Apply by Nov 16)",
+    department: "Lahore High Court, Lahore - Central Examination Secretariat",
+    category: "Government",
+    subcategory: "Judiciary",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Law degree from a recognized university entitling the holder to practise law (alternative: eligibility for membership of the Faculty of Advocates of Scotland, as specified in the advertisement)",
+    experience: "At least 7 years of qualifying legal practice as a practising advocate of the High Court and courts subordinate to the High Court, calculated from registration as a member of a Bar Association",
+    ageLimit: "35-45 years as on the closing date, 16 November 2026",
+    vacancies: "Not specified in the advertisement (Additional District & Sessions Judge BS-20; Advertisement No. 01/2026/AD&SJ/CES)",
+    salary: "As per official advertisement (BS-20 judicial pay scale)",
+    lastDate: "2026-11-16",
+    postedDate: "2026-11-02",
+    source: "Lahore High Court advertisement No. 01/2026/AD&SJ/CES dated 1 November 2026, verified via pakjobalert.pk",
+    officialLink: "https://lhc.gov.pk/jobs",
+    officialLinkLabel: "Lahore High Court Jobs Portal",
+    featured: true,
+    shortDesc: "Lahore High Court is recruiting Additional District & Sessions Judges (BS-20) through its Central Examination Secretariat (Advertisement 01/2026/AD&SJ/CES). Practising advocates with at least 7 years of qualifying practice, aged 35-45, apply online and send the hard-copy application to the Registrar by 16 November 2026; examination fee Rs. 6,000.",
+    description: `<p><strong>Lahore High Court, Lahore</strong> invites applications for <strong>Additional District &amp; Sessions Judge (BS-20)</strong> through the Central Examination Secretariat (Advertisement No. 01/2026/AD&amp;SJ/CES, dated 1 November 2026). The appointment is initially temporary but may become permanent under the Punjab Judicial Service Rules. The advertisement does not specify the total number of posts.</p>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Qualification:</strong> Law degree from a recognized university entitling the holder to practise law (or the specified Faculty of Advocates of Scotland alternative)</li>
+      <li><strong>Experience:</strong> At least 7 years of qualifying legal practice as a practising advocate of the High Court and subordinate courts, calculated from Bar Association registration</li>
+      <li><strong>Age:</strong> 35-45 years as on 16 November 2026</li>
+      <li><strong>Quotas:</strong> 3% for differently abled persons, 5% for minority candidates</li>
+      <li><strong>Selection:</strong> Written examination (minimum 40% in each paper, 45% in aggregate), psychological and aptitude assessment (300 marks, 150 to pass) and mandatory interview</li>
+      <li><strong>Fee:</strong> Non-refundable examination fee Rs. 6,000, deposited through the designated MCB Bank procedure under account title Human Resource - Judiciary</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Open the Lahore High Court jobs portal at lhc.gov.pk/jobs and find Advertisement No. 01/2026/AD&amp;SJ/CES</li>
+      <li>Download and read the prescribed form, examination syllabus and instructions</li>
+      <li>Complete the online application and deposit the Rs. 6,000 fee through the designated MCB Bank procedure</li>
+      <li>Send the printed application form, original fee deposit slip and supporting documents by courier to Registrar, Lahore High Court, Lahore (Attention: Central Examination Secretariat)</li>
+      <li>Complete both online and hard-copy steps by 16 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Open lhc.gov.pk/jobs and find Advertisement No. 01/2026/AD&SJ/CES",
+      "Download and read the prescribed form, syllabus and instructions",
+      "Complete the online application and deposit the Rs. 6,000 fee through the designated MCB Bank procedure",
+      "Send the printed form, original fee slip and documents by courier to Registrar, Lahore High Court, Lahore (Attention: Central Examination Secretariat)",
+      "Complete both steps by 16 November 2026"
+    ]
+  },
+  {
+    id: 79,
+    title: "Atomic Energy Jobs 2026 - Technician, Scientific Assistant, Junior Assistant & Moazzin/Qari (Public Notice S-15/2026) (Apply by Nov 15)",
+    department: "Public Sector Organization (Atomic Energy) - Public Notice No. S-15/2026",
+    category: "Government",
+    subcategory: "Technical",
+    city: "All Pakistan",
+    province: "All Pakistan",
+    qualification: "Varies by post - 3-year DAE (Civil), 1st Division for Technician-I; FSc 1st Division for Scientific Assistant-II and Technician-II; FA/FSc 1st Division with 6-month office automation course for Junior Assistant-II; Matric with Hafiz of the Quran and Qari for Moazzin/Qari",
+    experience: "As per official advertisement (Technician-II Medical: Matric Science with course plus experience, or FSc Pre-Medical with 1-year diploma; see the portal for post-wise routes)",
+    ageLimit: "As per official advertisement",
+    vacancies: "Not specified in the notice (Technician-I Civil SPS-04, Scientific Assistant-II SPS-03, Technician-II Medical SPS-03, Junior Assistant-II Admin SPS-03, Technician-II SPS-03, Moazzin/Qari SPS-03)",
+    salary: "As per official advertisement (SPS-03 to SPS-04 scales; no figure printed in the notice summary)",
+    lastDate: "2026-11-15",
+    postedDate: "2026-11-02",
+    source: "Public Notice No. S-15/2026, posted 1 November 2026, verified via pakkhabar.com; apply only through the official portal hrd1902.com.pk",
+    officialLink: "https://hrd1902.com.pk/Recruitment/CareerOpportunities/",
+    officialLinkLabel: "Official Recruitment Portal (HRD)",
+    featured: true,
+    shortDesc: "A public sector organization (Atomic Energy) has announced technical, scientific, administrative and religious posts under Public Notice S-15/2026: Technician-I (Civil), Scientific Assistant-II, Technician-II (Medical), Junior Assistant-II (Admin), Technician-II and Moazzin/Qari (SPS-03 to SPS-04). Pakistani nationals apply online through hrd1902.com.pk by 15 November 2026.",
+    description: `<p>A public sector organization (Atomic Energy) invites applications from Pakistani nationals for several technical, scientific, administrative and religious posts under <strong>Public Notice No. S-15/2026</strong>. The notice does not state the number of seats, age limit, salary or job location - check the full instructions on the official portal.</p>
+    <h3>Posts &amp; Qualifications (SPS-03 to SPS-04)</h3>
+    <ul>
+      <li><strong>Technician-I, Civil (SPS-04):</strong> 3-year DAE (Civil), 1st Division, from a recognized polytechnic institute</li>
+      <li><strong>Scientific Assistant-II (SPS-03):</strong> FSc, 1st Division (Pre-Medical named for one listing)</li>
+      <li><strong>Technician-II, Medical (SPS-03):</strong> Matric (Science) with a course and experience, or FSc Pre-Medical with a 1-year diploma</li>
+      <li><strong>Junior Assistant-II, Admin (SPS-03):</strong> FA/FSc, 1st Division, with a 6-month office automation course or equivalent</li>
+      <li><strong>Technician-II (SPS-03):</strong> FSc Pre-Engineering, 1st Division</li>
+      <li><strong>Moazzin / Qari (SPS-03):</strong> Matric or equivalent, Hafiz of the Quran and Qari</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Open the official recruitment portal at hrd1902.com.pk/Recruitment/CareerOpportunities/</li>
+      <li>Find Public Notice No. S-15/2026 under Career Opportunities</li>
+      <li>Choose the post matching your qualification and fill in the online form with correct details</li>
+      <li>Review, submit before 15 November 2026 and keep a copy of the confirmation</li>
+      <li>Apply only through the official portal; do not rely on any phone or WhatsApp number shown on copies of the advertisement</li>
+    </ol>`,
+    howToApply: [
+      "Open hrd1902.com.pk/Recruitment/CareerOpportunities/",
+      "Find Public Notice No. S-15/2026 under Career Opportunities",
+      "Choose the post matching your qualification and fill in the online form",
+      "Review, submit before 15 November 2026 and keep a copy of the confirmation"
+    ]
+  },
+  {
     id: 72,
     title: "Pakistan Army JCO Jobs 2026 - Junior Commissioned Officer, Army Education Corps (Registration 1 Nov - 15 Dec)",
     department: "Pakistan Army - Army Education Corps",
