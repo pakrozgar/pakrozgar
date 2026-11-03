@@ -10,6 +10,177 @@
 
 const JOBS = [
   {
+    id: 80,
+    title: "ZTBL Jobs 2026 - 11 Posts (Head Business, Planning, Fraud Prevention, IT Finance, Front Office Dealer & More) (Apply by Nov 15)",
+    department: "Zarai Taraqiati Bank Limited (ZTBL)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Islamabad (Head Office, postings across Pakistan)",
+    province: "All Pakistan",
+    qualification: "Varies by post - Bachelor's degree or higher from an HEC-recognized university in a relevant discipline; senior Head posts require a Master's or equivalent professional qualification",
+    experience: "5 to 12 years of relevant experience depending on the post (Head Business / Staff Relation & Welfare: 12 years; Head Planning & Research: 10 years; IT Finance Manager / Database Administrator: 8 years; Head Fraud Prevention / Front Office Dealer / Legal & Recovery posts: 5 years)",
+    ageLimit: "Maximum 50 years for VP-I/VP/SVP-I/SVP posts and 40 years for OG-I/AVP-I/AVP posts, as on the closing date",
+    vacancies: "11 (8 banking, treasury, finance, research and IT posts + 3 legal and recovery posts; 1 seat each, advertisement reference PID(I)0405-D/26)",
+    salary: "Market-competitive remuneration as per official advertisement",
+    lastDate: "2026-11-15",
+    postedDate: "2026-11-03",
+    source: "ZTBL career opportunities advertisement published 1 November 2026, verified via the official ZTBL careers portal and pakjobalert.pk",
+    officialLink: "https://www.ztbl.com.pk/jobs",
+    officialLinkLabel: "ZTBL Careers Portal",
+    featured: true,
+    shortDesc: "Zarai Taraqiati Bank Limited (ZTBL) is hiring 11 experienced professionals for regular positions in business, planning, fraud prevention, finance, treasury, legal, recovery and IT. Apply online through the official ZTBL careers portal by 15 November 2026.",
+    description: `<p>Zarai Taraqiati Bank Limited (ZTBL), a AAA-rated specialized financial institution with over 500 branches across Pakistan, invites applications from energetic professionals for <strong>11 regular positions</strong> across two advertisements published on <strong>1 November 2026</strong> (reference PID(I)0405-D/26).</p>
+    <h3>Posts (1 seat each)</h3>
+    <ul>
+      <li><strong>Head Business Department (SVP-I/SVP):</strong> 12 years of relevant experience</li>
+      <li><strong>Head Planning &amp; Research Department:</strong> 10 years of relevant experience</li>
+      <li><strong>Head Staff Relation &amp; Welfare Department:</strong> 12 years of relevant experience</li>
+      <li><strong>Head Fraud Prevention Unit:</strong> 5 years of relevant experience</li>
+      <li><strong>IT Finance Manager:</strong> 8 years of relevant experience</li>
+      <li><strong>Front Office Dealer - Conventional and Islamic (OG-I/AVP-I/AVP):</strong> 5 years of treasury / money market experience</li>
+      <li><strong>Database Administrator (Oracle, MSSQL &amp; MySQL):</strong> 8 years of relevant experience</li>
+      <li><strong>Head Corporate &amp; Service Law Matter Department (VP-I/VP):</strong> legal experience</li>
+      <li><strong>Unit Head Settlement (AVP-I/AVP) and Head Recovery &amp; Settlement Unit (AVP-I/AVP)</strong></li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the official ZTBL careers portal at ztbl.com.pk/jobs</li>
+      <li>Select the post matching your qualification and experience</li>
+      <li>Complete the online application form with accurate details</li>
+      <li>Submit before 15 November 2026; only online applications will be accepted and only shortlisted candidates will be called for interview (no TA/DA)</li>
+    </ol>`,
+    howToApply: [
+      "Visit the official ZTBL careers portal at ztbl.com.pk/jobs",
+      "Select the post matching your qualification and experience",
+      "Complete the online application form with accurate details",
+      "Submit before 15 November 2026; only online applications are accepted"
+    ]
+  },
+  {
+    id: 81,
+    title: "NAB Jobs 2026 - Driver (BPS-04), Headquarters Islamabad, 4 Posts (Apply by Nov 16)",
+    department: "National Accountability Bureau (NAB), Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Federal",
+    qualification: "Primary pass with a valid driving licence and knowledge of traffic rules",
+    experience: "As per official advertisement (candidates must be well-versed in traffic rules)",
+    ageLimit: "As per official advertisement",
+    vacancies: "4 (Driver BPS-04: Punjab including Islamabad Minority Quota 1, Sindh Urban Open Merit 2, Khyber Pakhtunkhwa Open Merit 1; advertisement PID(I)4012/26)",
+    salary: "As per official advertisement (BPS-04 government pay scale)",
+    lastDate: "2026-11-16",
+    postedDate: "2026-11-03",
+    source: "NAB Headquarters Driver advertisement PID(I)4012/26, published 1 November 2026, verified via multiple job listings",
+    officialLink: "https://www.nab.gov.pk",
+    officialLinkLabel: "NAB Official Website",
+    featured: true,
+    shortDesc: "The National Accountability Bureau (NAB) is hiring 4 Drivers (BPS-04) at its Headquarters in Islamabad. Primary pass candidates holding a valid driving licence can apply online through the official NAB website by 16 November 2026.",
+    description: `<p>The National Accountability Bureau (NAB), Government of Pakistan, invites applications for <strong>4 Driver (BPS-04)</strong> posts at its Headquarters in Islamabad (advertisement PID(I)4012/26, published <strong>1 November 2026</strong>).</p>
+    <h3>Quota-wise Seats</h3>
+    <ul>
+      <li><strong>Punjab (including Islamabad) Minority Quota:</strong> 1 post</li>
+      <li><strong>Sindh Urban Open Merit:</strong> 2 posts</li>
+      <li><strong>Khyber Pakhtunkhwa Open Merit:</strong> 1 post</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Qualification:</strong> Primary pass</li>
+      <li><strong>Licence:</strong> Valid driving licence and knowledge of traffic rules</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the official NAB website at nab.gov.pk</li>
+      <li>Find the Driver (BPS-04) Headquarters advertisement and read the full instructions</li>
+      <li>Submit the online application before 16 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the official NAB website at nab.gov.pk",
+      "Find the Driver (BPS-04) Headquarters advertisement",
+      "Submit the online application before 16 November 2026"
+    ]
+  },
+  {
+    id: 82,
+    title: "NAVTTC Paid Internship 2026 - 15 Internships for Fresh Graduates, Rs 60,000/Month Stipend (Apply by Nov 14)",
+    department: "National Vocational and Technical Training Commission (NAVTTC), Government of Pakistan",
+    category: "Government",
+    subcategory: "Internship",
+    city: "Islamabad (Headquarters)",
+    province: "Federal",
+    qualification: "At least 16 years of education in a relevant discipline - Economics, Finance, Law, Social Sciences, Engineering, Technology or IT",
+    experience: "No previous professional experience required (fresh graduates)",
+    ageLimit: "20-30 years as listed on the official portal",
+    vacancies: "15 paid internships (up to 6 months; number may be increased or decreased as per NAVTTC requirements)",
+    salary: "Rs 60,000 per month lump-sum stipend, subject to monthly performance reports",
+    lastDate: "2026-11-14",
+    postedDate: "2026-11-03",
+    source: "NAVTTC internship advertisement published 30 October 2026 on the National Job Portal, verified via propakistani.pk and the official portal listing",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "NAVTTC is offering 15 paid internships for fresh graduates at its Islamabad headquarters, with a Rs 60,000 monthly stipend for up to six months. Apply online through the National Job Portal by 14 November 2026.",
+    description: `<p>The National Vocational and Technical Training Commission (NAVTTC), Government of Pakistan, has announced <strong>15 paid internships</strong> for fresh graduates at its Islamabad headquarters. Selected interns receive a <strong>Rs 60,000 per month lump-sum stipend</strong> for an internship of up to <strong>six months</strong>, gaining experience in federal public-sector governance, technical education and research.</p>
+    <h3>Eligibility</h3>
+    <ul>
+      <li><strong>Education:</strong> At least 16 years of education in Economics, Finance, Law, Social Sciences, Engineering, Technology or IT</li>
+      <li><strong>Experience:</strong> None required - fresh graduates</li>
+      <li><strong>Age:</strong> 20-30 years as listed on the official portal</li>
+      <li><strong>Stipend:</strong> Rs 60,000 per month, subject to monthly performance reports</li>
+    </ul>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at njp.gov.pk and log in or create an account</li>
+      <li>Search for the NAVTTC internship advertisement</li>
+      <li>Complete and submit the online application before 14 November 2026; only online applications are considered</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk and log in or create an account",
+      "Search for the NAVTTC internship advertisement",
+      "Complete and submit the online application before 14 November 2026"
+    ]
+  },
+  {
+    id: 83,
+    title: "State Bank of Pakistan Jobs 2026 - Cyber Security & IT Operations, Karachi (Senior Cyber Operations Analyst, SOC Administrator, NOC Engineer) (Apply by Nov 16)",
+    department: "State Bank of Pakistan (SBP)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Relevant qualification in Cyber Security / Information Technology as per the official SBP careers page for each post (see the official listing for post-wise eligibility)",
+    experience: "Relevant professional experience in cyber operations / SOC / network operations as per the official SBP careers page for each post",
+    ageLimit: "As per official advertisement (see the official SBP careers page)",
+    vacancies: "3 advertised job titles (the advertisement does not state a total seat count - do not confuse the 3 titles with 3 confirmed seats)",
+    salary: "As per official advertisement (OG-3 for the two Cyber Security posts; NOC Engineer on contract)",
+    lastDate: "2026-11-16",
+    postedDate: "2026-11-03",
+    source: "SBP career opportunities advertisement published 1 November 2026 in Jang, reference PID K. 1459/26, verified on the official SBP vacancies page (sbp.org.pk/vacancies, closing 16 November 2026)",
+    officialLink: "https://www.sbp.org.pk/careers/status.asp",
+    officialLinkLabel: "SBP Careers Portal",
+    featured: true,
+    shortDesc: "The State Bank of Pakistan is hiring experienced cyber security and IT professionals in Karachi: Senior Cyber Operations Analyst (OG-3), SOC Administrator (OG-3) and NOC Engineer (contract). Apply online through the official SBP careers portal by 16 November 2026.",
+    description: `<p>The State Bank of Pakistan (SBP), the country's central bank, invites talented and energetic professionals to join its <strong>Cyber Security Department (CySD)</strong> and <strong>Information Technology Operations Department (ITOD)</strong> in Karachi. The advertisement was published on <strong>1 November 2026</strong> (reference PID K. 1459/26) and is confirmed live on the official SBP vacancies page with a closing date of 16 November 2026.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Senior Cyber Operations Analyst (OG-3), Cyber Security Department</strong></li>
+      <li><strong>SOC Administrator (OG-3), Cyber Security Department</strong></li>
+      <li><strong>Network Operation Center (NOC) Engineer (on contract), Information Technology Operations Department</strong></li>
+    </ul>
+    <p>Detailed eligibility criteria, including age, qualification and experience for each post, are given on the official SBP careers page.</p>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the official SBP careers page at sbp.org.pk/careers/status.asp</li>
+      <li>Open the Cyber Security / IT Operations vacancy and read the full eligibility criteria</li>
+      <li>Submit the online application before 16 November 2026; applications submitted in person or by email will not be entertained</li>
+    </ol>`,
+    howToApply: [
+      "Visit the official SBP careers page at sbp.org.pk/careers/status.asp",
+      "Open the Cyber Security / IT Operations vacancy and check the full eligibility criteria",
+      "Submit the online application before 16 November 2026; in-person or email applications are not accepted"
+    ]
+  },
+  {
     id: 76,
     title: "Cabinet Secretariat Islamabad Jobs 2026 - Assistant (BS-15), Balochistan Quota (Apply by Nov 15)",
     department: "Cabinet Secretariat, Establishment Division (Main), Government of Pakistan",
