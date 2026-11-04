@@ -10,6 +10,171 @@
 
 const JOBS = [
   {
+    id: 84,
+    title: "NIH Jobs 2026 - Assistant Scientific Officer, Junior Technician & Assistant (Balochistan Quota), 3 Posts (Apply by Nov 16)",
+    department: "National Institute of Health (NIH), Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad & Quetta",
+    province: "Federal / Balochistan",
+    qualification: "Assistant Scientific Officer (BPS-16): MSc/BS in Microbiology, Biochemistry, Biotechnology or Pharmacy from an HEC-recognized institution; Junior Technician (BPS-09): FSc in Medical Laboratory Technology; Assistant (BPS-15): Graduation plus a six-week basic IT training course (including MS Office) from NITB",
+    experience: "As per official advertisement; no additional professional experience specified for Junior Technician",
+    ageLimit: "Assistant Scientific Officer 18-28 years; Junior Technician 18-25 years; Assistant 18-28 years (plus 5 years general age relaxation and additional Balochistan concession as per rules)",
+    vacancies: "3 (Assistant Scientific Officer BPS-16: 1, Islamabad; Junior Technician BPS-09: 1, Islamabad; Assistant BPS-15: 1, Quetta; Balochistan quota; advertisement PID(I)4061/26)",
+    salary: "As per official advertisement (BPS-09, BPS-15 and BPS-16 government pay scales)",
+    lastDate: "2026-11-16",
+    postedDate: "2026-11-04",
+    source: "NIH Situation Vacant advertisement (Balochistan quota), PID(I)4061/26, published 2 November 2026, verified via the National Job Portal listing",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "The National Institute of Health (NIH) is hiring 3 candidates under the Balochistan quota: Assistant Scientific Officer (BPS-16), Junior Technician (BPS-09) and Assistant (BPS-15) in Islamabad and Quetta. Apply online through the National Job Portal by 16 November 2026.",
+    description: `<p>The National Institute of Health (NIH), Islamabad, invites applications from Balochistan domicile holders for <strong>3 posts</strong> under the Balochistan quota (advertisement PID(I)4061/26, published <strong>2 November 2026</strong>).</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Assistant Scientific Officer (BPS-16), Islamabad:</strong> MSc/BS in Microbiology, Biochemistry, Biotechnology or Pharmacy from an HEC-recognized institution; age 18-28 years</li>
+      <li><strong>Junior Technician (BPS-09), Islamabad:</strong> FSc in Medical Laboratory Technology; age 18-25 years</li>
+      <li><strong>Assistant (BPS-15), Quetta:</strong> Graduation plus a six-week basic IT training course (including MS Office) from NITB; age 18-28 years</li>
+    </ul>
+    <p>Five years of general age relaxation applies, with an additional concession for Balochistan candidates under the applicable rules. Only shortlisted candidates will be called for a test/interview; no TA/DA is admissible. Applications submitted by hand will not be accepted.</p>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at njp.gov.pk and open the Balochistan recruitment section</li>
+      <li>Find the National Institute of Health vacancies and select your post</li>
+      <li>Complete the online application with accurate details and submit before 16 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk and open the Balochistan recruitment section",
+      "Find the National Institute of Health vacancies and select your post",
+      "Complete the online application and submit before 16 November 2026"
+    ]
+  },
+  {
+    id: 85,
+    title: "NBP Jobs 2026 - Associate, Relationship Managers & Assistant Resident Engineer (Contract, 3 Years) (Apply by Nov 13)",
+    department: "National Bank of Pakistan (NBP)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Karachi, Islamabad, Multan, Lahore & Peshawar",
+    province: "All Pakistan",
+    qualification: "Associate / Relationship Managers: Minimum graduation or equivalent from an HEC-recognized institution (Master's and professional qualifications preferred; Corporate Banking: graduation in Business, Finance, Commerce, Economics, Accounting, Engineering or a relevant field); Assistant Resident Engineer - Civil: Bachelor's degree in Civil Engineering (B.E./B.Sc.), valid PEC registration preferred",
+    experience: "Associate / Relationship Managers: Minimum 2 years in banking/financial institutions, including 1 year in the relevant area (corporate/investment banking, cash management sales, or corporate credit/lending); Assistant Resident Engineer: Relevant civil engineering / construction supervision experience (see official advertisement for exact requirement)",
+    ageLimit: "As per official advertisement",
+    vacancies: "4 job titles (Associate; Relationship Manager - Cash Management; Relationship Manager - Corporate Banking; Assistant Resident Engineer - Civil); the advertisement does not state a total seat count",
+    salary: "Associate: Rs 100,000-180,000/month; Relationship Managers: Rs 150,000-250,000/month; Assistant Resident Engineer: Rs 80,000-130,000/month (compensation as per Bank policy)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-11-04",
+    source: "National Bank of Pakistan recruitment advertisement published 1 November 2026, verified via the Sidat Hyder careers portal listing (applications within 10 working days of publication)",
+    officialLink: "https://www.sidathyder.com.pk/careers",
+    officialLinkLabel: "Sidat Hyder Careers Portal (NBP Recruitment)",
+    featured: true,
+    shortDesc: "The National Bank of Pakistan is hiring professionals on 3-year contracts: Associate (Karachi), Relationship Manager - Cash Management (Islamabad & Multan), Relationship Manager - Corporate Banking (Lahore) and Assistant Resident Engineer - Civil (Peshawar). Apply online through the Sidat Hyder careers portal by 13 November 2026.",
+    description: `<p>The National Bank of Pakistan (NBP), "The Nation's Bank", invites professionals for <strong>4 contract positions</strong> (3-year contracts, renewable at the Management's discretion), advertised on <strong>1 November 2026</strong>.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Associate (OG-II/OG-I), Karachi:</strong> Graduation (HEC-recognized), minimum 2 years in banking/financial institutions including 1 year in corporate/investment banking</li>
+      <li><strong>Relationship Manager - Cash Management (OG-II/OG-I), Islamabad &amp; Multan:</strong> Graduation, minimum 2 years in banking including 1 year in cash management (sales) and/or corporate banking</li>
+      <li><strong>Relationship Manager - Corporate Banking (OG-II/OG-I), Lahore:</strong> Graduation in Business, Finance, Commerce, Economics, Accounting, Engineering or a relevant field, minimum 2 years in banking including 1 year in corporate credit/lending; CA, ICMA, ACCA, CMA, CFA or FRM preferred</li>
+      <li><strong>Assistant Resident Engineer - Civil (OG-III), Peshawar:</strong> Bachelor's degree in Civil Engineering, valid PEC registration preferred</li>
+    </ul>
+    <p>Only online applications through the Sidat Hyder portal are accepted. Only shortlisted candidates who strictly meet the eligibility criteria will be invited for a test and/or panel interview; no TA/DA is admissible.</p>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the Sidat Hyder careers portal at sidathyder.com.pk/careers</li>
+      <li>Search for National Bank of Pakistan vacancies and open the position you want</li>
+      <li>Fill in the online application form, upload your CV and documents, and submit before 13 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the Sidat Hyder careers portal at sidathyder.com.pk/careers",
+      "Search for National Bank of Pakistan vacancies and open your position",
+      "Fill in the online application form, upload your CV and documents, and submit before 13 November 2026"
+    ]
+  },
+  {
+    id: 86,
+    title: "Bank of Punjab Jobs 2026 - Team Leader-Agri, Regional Audit Head, Unit Head & Manager Audit (Apply by Nov 8-12)",
+    department: "The Bank of Punjab (BOP)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Lahore & Faisalabad",
+    province: "Punjab",
+    qualification: "Team Leader-Agri: Minimum Bachelor's or equivalent from an HEC-recognized university (agriculture graduates preferred); Regional Audit Head: Bachelor's/MBA/M.Com/MSc in Accounting or Finance plus CA, ACCA or CBA (CIA, CICA, CISA preferred); Manager - Management Services Audit: MBA/M.Com/MSc in Accounting or Finance, or CA, ACCA or CBA (CIA, CICA, CISA preferred); Unit Head - Credit Card Reconciliation: Minimum Bachelor's or equivalent from an HEC-recognized university",
+    experience: "Team Leader-Agri: 7-9 years (preference for 5 years relevant banking experience); Regional Audit Head: 9-12 years including at least 3 years in the Internal Audit Group of a commercial bank; Manager - Management Services Audit: 9-12 years including 5 years in Internal Audit; Unit Head - Credit Card Reconciliation: Minimum 9 years of banking or non-banking experience",
+    ageLimit: "Up to 55 years as of the closing date of each post",
+    vacancies: "4 senior positions (Team Leader-Agri, Lahore; Regional Audit Head - Operational Audit Division, Faisalabad; Manager - Management Services Audit, Lahore; Unit Head - Credit Card Reconciliation, Lahore); number of seats per post not stated in the advertisement",
+    salary: "Market-based competitive remuneration as per official advertisement (Team Leader-Agri Rs 250,000-400,000/month; Regional Audit Head Rs 350,000-550,000/month; Unit Head Rs 300,000-500,000/month; Manager Audit Rs 200,000-350,000/month as listed on the careers portal)",
+    lastDate: "2026-11-12",
+    postedDate: "2026-11-04",
+    source: "The Bank of Punjab recruitment advertisement published 31 October 2026, verified via the official BOP careers portal",
+    officialLink: "https://www.bop.com.pk/available-jobs",
+    officialLinkLabel: "BOP Careers Portal",
+    featured: true,
+    shortDesc: "The Bank of Punjab is hiring 4 experienced professionals: Team Leader-Agri (Lahore, closes 8 November), Regional Audit Head (Faisalabad, closes 11 November), Unit Head - Credit Card Reconciliation and Manager - Management Services Audit (Lahore, close 12 November). Apply online through the BOP careers portal.",
+    description: `<p>The Bank of Punjab (BOP), with a network of over 900 branches, invites experienced professionals for <strong>4 senior positions</strong> across its Consumer Banking, Internal Audit and Operations Groups, advertised on <strong>31 October 2026</strong>.</p>
+    <h3>Posts &amp; Closing Dates</h3>
+    <ul>
+      <li><strong>Team Leader-Agri (Band-7 to Band-5), Lahore - closes 8 November 2026:</strong> Minimum Bachelor's (agriculture graduates preferred); 7-9 years of experience</li>
+      <li><strong>Regional Audit Head - Operational Audit Division (Band-5 to Band-3), Faisalabad - closes 11 November 2026:</strong> Accounting/Finance degree plus CA, ACCA or CBA; 9-12 years of experience including 3 years in a commercial bank's Internal Audit Group</li>
+      <li><strong>Manager - Management Services Audit (Band-9 to Band-7), Lahore - closes 12 November 2026:</strong> MBA/M.Com/MSc in Accounting or Finance, or CA, ACCA or CBA; 9-12 years of experience including 5 years in Internal Audit</li>
+      <li><strong>Unit Head - Credit Card Reconciliation (Band-5 to Band-3), Lahore - closes 12 November 2026:</strong> Minimum Bachelor's; minimum 9 years of banking or non-banking experience</li>
+    </ul>
+    <p>Age limit for all four posts is up to 55 years as of each post's closing date. Only online applications are accepted; only shortlisted candidates will be contacted for interview and no TA/DA is admissible.</p>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the BOP careers portal at bop.com.pk/available-jobs</li>
+      <li>Select the role matching your qualification and experience</li>
+      <li>Complete the online application and submit before that role's closing date (8, 11 or 12 November 2026)</li>
+    </ol>`,
+    howToApply: [
+      "Visit the BOP careers portal at bop.com.pk/available-jobs",
+      "Select the role matching your qualification and experience",
+      "Complete the online application and submit before that role's closing date (8, 11 or 12 November 2026)"
+    ]
+  },
+  {
+    id: 87,
+    title: "PARC Jobs 2026 - Scientific Assistant, Driver, Farm & Lab Attendants, Naib Qasid (Balochistan Quota), 11 Posts (Apply by Nov 13)",
+    department: "Pakistan Agricultural Research Council (PARC), Ministry of National Food Security & Research",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Quetta & Lasbella",
+    province: "Balochistan",
+    qualification: "Scientific Assistant-I (SPS-05): Matric Science with a two-year Field Assistant diploma or a diploma in Agricultural Sciences; Driver (SPS-02): Matric with a valid LTV licence; Farm Attendant-I / Lab Attendant-I (SPS-02): Matric with relevant experience or a trade certificate; Lab Attendant-II / Naib Qasid (SPS-01): Matric (relevant experience or trade certificate preferred for Lab Attendant-II)",
+    experience: "Scientific Assistant-I: 8 years of relevant experience; Driver: 3 years of practical experience after obtaining the licence; Farm Attendant-I / Lab Attendant-I: 5 years of relevant experience (or a relevant trade certificate); Lab Attendant-II / Naib Qasid: As per official advertisement",
+    ageLimit: "Scientific Assistant-I, Lab Attendant-II and Naib Qasid: 18-30 years; Driver, Farm Attendant-I and Lab Attendant-I: 18-35 years; plus 5 years additional relaxation for Balochistan candidates",
+    vacancies: "11 (Scientific Assistant-I: 1; Driver: 2; Farm Attendant-I: 3; Lab Attendant-I: 2; Lab Attendant-II: 1; Naib Qasid: 2; contract basis; Balochistan domicile only)",
+    salary: "As per official advertisement (SPS-01, SPS-02 and SPS-05 pay scales)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-11-04",
+    source: "PARC recruitment advertisement published 30 October 2026, verified via the National Job Portal listing and parc.gov.pk",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "The Pakistan Agricultural Research Council (PARC) is hiring 11 Balochistan-domicile candidates on contract at its Quetta and Lasbella facilities: Scientific Assistant-I, Driver, Farm Attendants, Lab Attendants and Naib Qasid. Apply online through the National Job Portal by 13 November 2026.",
+    description: `<p>The Pakistan Agricultural Research Council (PARC), under the Ministry of National Food Security &amp; Research, invites applications from Balochistan domicile holders for <strong>11 contract posts</strong> at its facilities in Quetta (BARDC) and Lasbella (CARI), advertised on <strong>30 October 2026</strong>.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Scientific Assistant-I (SPS-05), Quetta:</strong> 1 post; Matric Science with a two-year Field Assistant diploma or a diploma in Agricultural Sciences; 8 years of relevant experience; age 18-30 years</li>
+      <li><strong>Driver (SPS-02), Quetta:</strong> 2 posts; Matric with a valid LTV licence; 3 years of practical experience after obtaining the licence; age 18-35 years</li>
+      <li><strong>Farm Attendant-I (SPS-02), Quetta:</strong> 3 posts; Matric with 5 years of relevant experience or a relevant trade certificate; age 18-35 years</li>
+      <li><strong>Lab Attendant-I (SPS-02), Quetta &amp; Lasbella:</strong> 2 posts; Matric with 5 years of relevant experience or a relevant trade certificate; age 18-35 years</li>
+      <li><strong>Lab Attendant-II (SPS-01), Lasbella:</strong> 1 post; Matric, preferably with relevant experience or a trade certificate; age 18-30 years</li>
+      <li><strong>Naib Qasid (SPS-01):</strong> 2 posts; Matric; age 18-30 years</li>
+    </ul>
+    <p>All posts carry 5 years of additional age relaxation for Balochistan candidates. Only shortlisted candidates will be invited for interviews. Government employees should apply through the proper channel with an NOC.</p>
+    <h3>How to Apply</h3>
+    <ol>
+      <li>Visit the National Job Portal at njp.gov.pk</li>
+      <li>Search for Pakistan Agricultural Research Council (PARC) vacancies and select your position</li>
+      <li>Complete the online application with accurate details and submit before 13 November 2026</li>
+    </ol>`,
+    howToApply: [
+      "Visit the National Job Portal at njp.gov.pk",
+      "Search for Pakistan Agricultural Research Council (PARC) vacancies and select your position",
+      "Complete the online application and submit before 13 November 2026"
+    ]
+  },
+  {
     id: 80,
     title: "ZTBL Jobs 2026 - 11 Posts (Head Business, Planning, Fraud Prevention, IT Finance, Front Office Dealer & More) (Apply by Nov 15)",
     department: "Zarai Taraqiati Bank Limited (ZTBL)",
