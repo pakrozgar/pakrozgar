@@ -10,6 +10,129 @@
 
 const JOBS = [
   {
+    id: 88,
+    title: "FBR Customs Jobs 2026 - UDC, LDC & Wireless Operator (Balochistan Quota), 4 Posts (Apply by Nov 15)",
+    department: "Federal Board of Revenue (FBR), Customs Department, Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad & Karachi (walk-in interviews in Quetta, Gwadar & Gadani)",
+    province: "Balochistan",
+    qualification: "Upper Division Clerk (BPS-13): Intermediate; Lower Division Clerk (BPS-11): Matric with 30 wpm typing speed; Wireless Operator (BPS-09): Matric with 3 years of relevant experience OR DAE in Telecommunication or Electronics; UDC/LDC must complete a 3-week Basic IT Training Course (including MS Office) from NITB during probation",
+    experience: "Wireless Operator: 3 years of relevant experience (or DAE in Telecommunication/Electronics); UDC/LDC: As per official advertisement",
+    ageLimit: "18-30 years (18-25 years plus 5 years general relaxation; additional Balochistan relaxation as per rules)",
+    vacancies: "4 (Upper Division Clerk BPS-13: 2 - one each at Directorate General of Intelligence & Risk Management-Customs, Islamabad, and Directorate General of Customs Valuation, Karachi; Lower Division Clerk BPS-11: 1, Islamabad; Wireless Operator BPS-09: 1, Islamabad; Balochistan quota only)",
+    salary: "As per official advertisement (BPS-09, BPS-11 and BPS-13 government pay scales)",
+    lastDate: "2026-11-15",
+    postedDate: "2026-11-05",
+    source: "FBR Customs Situation Vacant advertisement published 31 October 2026 in Express Tribune, verified via the published advertisement text",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "The Federal Board of Revenue (FBR) Customs Department is hiring 4 Balochistan-domicile candidates: Upper Division Clerks, a Lower Division Clerk and a Wireless Operator in Islamabad and Karachi. Apply online through the National Job Portal by 15 November 2026; walk-in interviews will be held in Quetta, Gwadar and Gadani.",
+    description: `<p>The Federal Board of Revenue (FBR), Customs Department, invites applications from Balochistan domicile holders for <strong>4 posts</strong> under the Balochistan quota, advertised on <strong>31 October 2026</strong> in the Express Tribune.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Upper Division Clerk (BPS-13), Islamabad:</strong> 1 post; Intermediate; age 18-30 years</li>
+      <li><strong>Upper Division Clerk (BPS-13), Karachi:</strong> 1 post; Intermediate; age 18-30 years</li>
+      <li><strong>Lower Division Clerk (BPS-11), Islamabad:</strong> 1 post; Matric with 30 wpm typing speed; age 18-30 years</li>
+      <li><strong>Wireless Operator (BPS-09), Islamabad:</strong> 1 post; Matric with 3 years of relevant experience OR DAE in Telecommunication or Electronics; age 18-30 years</li>
+    </ul>
+    <p>UDC and LDC appointees must complete a 3-week Basic IT Training Course (including MS Office) from NITB during the probation period. Walk-in interviews will be held in Quetta (16-18 November 2026), Gwadar (19-21 November 2026) and Gadani (23-25 November 2026). No TA/DA will be admissible.</p>`,
+    howToApply: ["Visit the National Job Portal at njp.gov.pk and apply online for each post separately", "Submit your online application before 15 November 2026", "Bring original documents (educational, domicile and experience certificates) along with one set of attested copies to the walk-in interview", "Government employees must bring a Departmental Permission Certificate from their employer"]
+  },
+  {
+    id: 89,
+    title: "Federal Tax Ombudsman (FTO) Jobs 2026 - Assistant (BPS-15, Balochistan Quota), 1 Post (Apply by Nov 13)",
+    department: "Federal Tax Ombudsman Secretariat, Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Balochistan",
+    qualification: "Graduation from an HEC-recognized institution; a six-week Basic IT Training Course (including MS Office) from NITB must be completed after selection and before completion of the probation period",
+    experience: "As per official advertisement",
+    ageLimit: "18-38 years (as stated in the advertisement; age relaxation as per federal government rules)",
+    vacancies: "1 (Assistant BPS-15, 6% Balochistan quota, place of posting Islamabad)",
+    salary: "As per official advertisement (BPS-15 government pay scale)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-11-05",
+    source: "Federal Tax Ombudsman Secretariat advertisement for Balochistan quota, verified via the National Job Portal listing",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "The Federal Tax Ombudsman (FTO) Secretariat is hiring 1 Assistant (BPS-15) from Balochistan domicile holders for posting in Islamabad. Apply online through the National Job Portal by 13 November 2026.",
+    description: `<p>The Federal Tax Ombudsman (FTO) Secretariat, Government of Pakistan, invites applications from Balochistan domicile holders for <strong>1 post of Assistant (BPS-15)</strong> under the 6% Balochistan quota, for posting in <strong>Islamabad</strong>.</p>
+    <p>Applicants must be graduates from an HEC-recognized institution and must complete a six-week Basic IT Training Course (including MS Office) from NITB after selection and before completion of the probation period. Selection is through a walk-in interview process; no written test will be held. No TA/DA will be paid.</p>`,
+    howToApply: ["Visit the National Job Portal at njp.gov.pk and log in to your account", "Search for the Federal Tax Ombudsman Secretariat Assistant (BPS-15) Balochistan quota vacancy", "Complete and submit the online application before 13 November 2026", "Keep original documents, CNIC and domicile certificate ready for the interview"]
+  },
+  {
+    id: 90,
+    title: "BASIP Jobs 2026 - Technical Assistant & Upper Division Clerk (Balochistan Quota), 2 Posts (Apply by Nov 13)",
+    department: "Bureau of Aircraft Safety Investigation Pakistan (BASIP)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Rawalpindi (HQ), Lahore & Karachi regional offices",
+    province: "Balochistan",
+    qualification: "Technical Assistant (BPS-11): Second Class/Grade C Pre-Engineering (12 years education) or DAE in Aerospace/Avionics or equivalent, plus B1/B2 Technician qualification; Upper Division Clerk (BPS-13): Second Division Intermediate with 30 wpm typing speed in Urdu and English and computer literacy",
+    experience: "Technical Assistant: Minimum 3 years post-qualification experience in civil or military aviation maintenance/engineering OR at least 1 year of experience in aircraft accident investigation; UDC: As per official advertisement",
+    ageLimit: "18-25 years plus 5 years additional relaxation for Balochistan candidates (maximum age 35 years as per advertisement); other relaxations as per government rules",
+    vacancies: "2 (Technical Assistant to Aircraft Accident Investigators BPS-11: 1; Upper Division Clerk BPS-13: 1; Balochistan quota; ad hoc basis under the Establishment Division one-time dispensation policy for FY 2026-27; advertisement PID(I)4030/26)",
+    salary: "As per official advertisement (BPS-11 and BPS-13 government pay scales)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-11-05",
+    source: "BASIP recruitment advertisement, PID(I)4030/26, verified via the published advertisement text",
+    officialLink: "",
+    officialLinkLabel: "Apply as per official advertisement (see How to Apply)",
+    featured: true,
+    shortDesc: "The Bureau of Aircraft Safety Investigation Pakistan (BASIP) is hiring 2 Balochistan-domicile candidates: a Technical Assistant to Aircraft Accident Investigators and an Upper Division Clerk. Apply by registered post/courier to BASIP Headquarters, Rawalpindi, by 13 November 2026.",
+    description: `<p>The Bureau of Aircraft Safety Investigation Pakistan (BASIP) invites applications from Balochistan domicile holders for <strong>2 posts</strong> on an ad hoc basis under the Establishment Division one-time dispensation policy for FY 2026-27 (advertisement PID(I)4030/26).</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Technical Assistant to Aircraft Accident Investigators (BPS-11):</strong> 1 post; Pre-Engineering or DAE Aerospace/Avionics with B1/B2 qualification and aviation maintenance/engineering or accident investigation experience; valid Class 1 Medical Certification required for shortlisted technical candidates</li>
+      <li><strong>Upper Division Clerk (BPS-13):</strong> 1 post; Second Division Intermediate with 30 wpm typing speed in Urdu and English, computer literacy, and a 3-week NITB Basic IT Training Course during probation</li>
+    </ul>
+    <p>Selected staff may be posted or deployed anywhere in Pakistan; BASIP offices are in Rawalpindi (HQ), Lahore and Karachi. No TA/DA will be admissible.</p>`,
+    howToApply: ["Prepare your application with attested copies of all required documents", "Government employees must apply through the proper channel or attach an NOC", "Send the application by registered post or courier to: HQ BASIP, Near PAF Jinnah Camp, Khanna Road, Rawalpindi", "Apply separately for each post; applications must reach before 13 November 2026"]
+  },
+  {
+    id: 91,
+    title: "SMBBIT Karachi Jobs 2026 - Consultant, Fellows, RMO, SMO, MO & Admin Staff, 19 Posts (Apply by Nov 16)",
+    department: "Shaheed Mohtarma Benazir Bhutto Institute of Trauma (SMBBIT), Government of Sindh",
+    category: "Government",
+    subcategory: "Sindh",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Consultant Orthopaedic Trauma Surgery: FCPS Orthopaedic Surgery with valid PM&DC registration and 5 years post-qualification experience; Fellows: FCPS in the relevant specialty; RMO/SMO/MO: MBBS with house job and FCPS/MCPS/DMRD training as per post; Assistant Manager HR: MBA (HR) with HR certification; Procurement posts: MBA (Supply Chain) or Bachelors with relevant experience; Pharmacist: Pharm-D; Assistant Librarian: Bachelors in Library Sciences; Technicians: Diploma from Sindh Medical Faculty",
+    experience: "Consultant: 5 years post-qualification experience at a tertiary care hospital (must be a recognised CPSP Supervisor); RMO/MO: As per post (see description); HR/Procurement/Store/Pharmacy/Library posts: 2-5 years of relevant experience in a tertiary care hospital; only post-qualification experience counts",
+    ageLimit: "Consultant: up to 50 years; Fellows/RMO/SMO: up to 40-45 years as per post; all other posts: up to 35 years (age limits as stated in the advertisement)",
+    vacancies: "19 (Consultant Orthopaedic Trauma Surgery: 1; Fellow Orthopaedic Surgery: 1; Fellow Plastic Surgery: 1; RMO Plastic Surgery, Radiology & Thoracic Surgery: 3; SMO Vascular Surgery: 1; MO Thoracic & Vascular Surgery: 2; Assistant Manager HR: 1; Assistant Manager Planning & Procurement: 1; Senior Procurement Officer: 1; Procurement Officer: 1; Procurement Assistant: 1; Store Officer: 1; Pharmacist: 1; Assistant Librarian: 1; Anaesthesia Technician: 1; CSSD Technician: 1; contractual for 2 years, renewable; Sindh domicile only; advertisement INF-KRY 4958-26)",
+    salary: "As per Trauma Pay Scale",
+    lastDate: "2026-11-16",
+    postedDate: "2026-11-05",
+    source: "SMBBIT official advertisement INF-KRY 4958-26, published 4 November 2026 through the Information Department, Government of Sindh",
+    officialLink: "https://jobs.smbbit.gos.pk",
+    officialLinkLabel: "SMBBIT Jobs Portal",
+    featured: true,
+    shortDesc: "Shaheed Mohtarma Benazir Bhutto Institute of Trauma (SMBBIT), Karachi, is hiring 19 candidates on contract: Consultant, Fellows, RMOs, SMO, MOs, HR and procurement staff, Pharmacist, Librarian and Technicians. Sindh domicile only; apply online by 11:59 pm on 16 November 2026.",
+    description: `<p>Shaheed Mohtarma Benazir Bhutto Institute of Trauma (SMBBIT), Karachi, invites applications from Sindh domicile holders for <strong>19 contractual posts</strong> (2 years, renewable on satisfactory performance; not a basis for regularisation), advertised on <strong>4 November 2026</strong> (INF-KRY 4958-26).</p>
+    <h3>Clinical posts (9)</h3>
+    <ul>
+      <li><strong>Consultant Orthopaedic Trauma Surgery:</strong> FCPS Orthopaedic Surgery, valid PM&DC registration, 5 years post-qualification experience, recognised CPSP Supervisor; age up to 50</li>
+      <li><strong>Fellow Orthopaedic Surgery / Fellow Plastic Surgery:</strong> FCPS in the relevant specialty with valid PM&DC registration; age up to 40/45</li>
+      <li><strong>Resident Medical Officers (Plastic Surgery, Radiology, Thoracic Surgery):</strong> MBBS with house job and FCPS/MCPS/DMRD training as per specialty; age up to 45</li>
+      <li><strong>Senior Medical Officer (Vascular Surgery):</strong> MBBS with house job and completed FCPS training in General Surgery; age up to 40</li>
+      <li><strong>Medical Officers (Thoracic Surgery, Vascular Surgery):</strong> MBBS with house job and 1 year General Surgery experience (or 3 months specialty house job); age up to 35</li>
+    </ul>
+    <h3>Administrative, pharmacy &amp; technical posts (10)</h3>
+    <ul>
+      <li><strong>Assistant Manager HR, Assistant Manager Planning &amp; Procurement, Senior Procurement Officer, Procurement Officer, Procurement Assistant, Store Officer:</strong> MBA/Bachelors with 2-5 years of relevant hospital experience</li>
+      <li><strong>Pharmacist:</strong> Pharm-D with 2 years of hospital experience and valid Pharmacy Council registration</li>
+      <li><strong>Assistant Librarian:</strong> Bachelors in Library Sciences with 2 years of library experience</li>
+      <li><strong>Anaesthesia Technician / CSSD Technician:</strong> Diploma from Sindh Medical Faculty with 2 years of hospital experience (CSSD: experienced candidates preferred)</li>
+    </ul>
+    <p>Candidates already in government service are ineligible. Only shortlisted candidates will be called for interview; no TA/DA will be admissible.</p>`,
+    howToApply: ["Visit the SMBBIT jobs portal at jobs.smbbit.gos.pk", "Fill in the online E-Form for the post you are applying for and upload the required documents", "Submit before 11:59 pm on 16 November 2026", "Note down your application number after submission - it will be needed for future reference"]
+  },
+  {
     id: 84,
     title: "NIH Jobs 2026 - Assistant Scientific Officer, Junior Technician & Assistant (Balochistan Quota), 3 Posts (Apply by Nov 16)",
     department: "National Institute of Health (NIH), Government of Pakistan",
