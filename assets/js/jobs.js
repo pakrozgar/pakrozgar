@@ -10,6 +10,142 @@
 
 const JOBS = [
   {
+    id: 95,
+    title: "Shaikh Zayed Hospital Lahore Jobs 2026 - Specialists, Consultants, Deputy Administrators & Assistants, 13 Posts (Apply by Nov 18)",
+    department: "Shaikh Zayed Hospital / Shaikh Zayed Postgraduate Medical Institute, Lahore",
+    category: "Government",
+    subcategory: "Punjab",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Assistant (BPS-15): Graduation plus 6-week Basic IT Training Course (including MS Office) by NITB; Infectious Disease Specialist: MBBS or equivalent with FCPS/MD/MS and 7 years clinical experience; Interventional Radiologist: MBBS with postgraduate degree in Radiology and 7 years experience; Consultant Incharge (ICU): MBBS with FCPS/FRCS/MD/MRCP and 5 years practical experience in BS-18 and above; Consultant Incharge (A&E) and Senior Consultant Anaesthetist/Intensivist: MBBS with relevant postgraduate degree and 7 years experience; Deputy Administrator (Medical): MBBS with postgraduate training in Hospital Administration and 10-15 years experience; Deputy Administrator (General): MBA/CMA/CA or MPA or Master's in Social Sciences with 10-15 years experience; Chief Nursing Superintendent: Postgraduate qualification in Nursing / B.Sc in Hospital Administration, Registered Grade A Nurse with 15 years experience as Nursing Superintendent",
+    experience: "Specialist/Consultant posts: 5-7 years post-qualification experience; Deputy Administrator posts: 10-15 years experience; Chief Nursing Superintendent: 15 years experience; Assistant: as per official advertisement",
+    ageLimit: "Assistant: 18-35 years; all other posts: 30-50 years",
+    vacancies: "13 (Assistant BPS-15: 4; Infectious Disease Specialist BPS-19: 1; Interventional Radiologist BPS-19: 1; Consultant Incharge (ICU) BPS-19: 1; Consultant Incharge (A&E) BPS-19: 1; Senior Consultant Anaesthetist / Intensivist BPS-19: 1; Deputy Administrator (Medical) BPS-19: 1; Deputy Administrator (General) BPS-19: 2; Chief Nursing Superintendent BPS-20: 1; regular basis; advertisement PID(L)1128/26)",
+    salary: "As per official advertisement (BPS-15 to BPS-20 government pay scales)",
+    lastDate: "2026-11-18",
+    postedDate: "2026-11-06",
+    source: "Shaikh Zayed Hospital advertisement PID(L)1128/26, published 4 November 2026 in Daily Jang (also 92 News, 3 November 2026), verified via the published advertisement text",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Shaikh Zayed Hospital and Shaikh Zayed Postgraduate Medical Institute, Lahore, are hiring 13 candidates on a regular basis: medical specialists, consultants, deputy administrators, a Chief Nursing Superintendent and Assistants (BPS-15 to BPS-20). Apply online through the National Job Portal by 18 November 2026.",
+    description: `<p>Shaikh Zayed Hospital / Shaikh Zayed Postgraduate Medical Institute, Lahore, invites applications from eligible Pakistani candidates for <strong>13 regular posts</strong> (BPS-15 to BPS-20), advertised on <strong>4 November 2026</strong> (PID(L)1128/26).</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Assistant (BPS-15):</strong> 4 posts; Graduation plus 6-week Basic IT Training Course (including MS Office) by NITB; age 18-35</li>
+      <li><strong>Infectious Disease Specialist (BPS-19):</strong> 1 post; MBBS with FCPS/MD/MS and 7 years clinical experience; age 30-50</li>
+      <li><strong>Interventional Radiologist (BPS-19):</strong> 1 post; MBBS with postgraduate degree in Radiology and 7 years experience; age 30-50</li>
+      <li><strong>Consultant Incharge (ICU) (BPS-19):</strong> 1 post; MBBS with FCPS/FRCS/MD/MRCP and 5 years practical experience in BS-18 and above; age 30-50</li>
+      <li><strong>Consultant Incharge (A&amp;E) (BPS-19):</strong> 1 post; MBBS with relevant postgraduate degree and 7 years experience; age 30-50</li>
+      <li><strong>Senior Consultant Anaesthetist / Intensivist (BPS-19):</strong> 1 post; MBBS with relevant postgraduate degree and 7 years experience; age 30-50</li>
+      <li><strong>Deputy Administrator (Medical) (BPS-19):</strong> 1 post; MBBS with postgraduate training in Hospital Administration and 10-15 years experience; age 30-50</li>
+      <li><strong>Deputy Administrator (General) (BPS-19):</strong> 2 posts; MBA/CMA/CA or MPA or Master's in Social Sciences with 10-15 years experience; age 30-50</li>
+      <li><strong>Chief Nursing Superintendent (BPS-20):</strong> 1 post; Postgraduate qualification in Nursing / B.Sc in Hospital Administration, Registered Grade A Nurse, 15 years experience as Nursing Superintendent; age 30-50</li>
+    </ul>
+    <p>Applications must be submitted online through the National Job Portal within 15 days of the advertisement's publication. The written screening test will be managed by Candidates Testing Services (CTS).</p>`,
+    howToApply: ["Visit the National Job Portal at www.njp.gov.pk", "Complete your online profile and submit the application for your post", "Apply within 15 days of the advertisement's publication (last date 18 November 2026)", "The written screening test will be conducted by Candidates Testing Services (CTS) via www.cts.org.pk"]
+  },
+  {
+    id: 94,
+    title: "Islamabad Police Dolphin Force Jobs 2026 - Sub Inspector, ASI & Constable, 790 Posts (Apply by Nov 15)",
+    department: "Islamabad Capital Territory Police (Ministry of Interior & Narcotics Control)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "As per official advertisement (Sub Inspector / ASI: Graduation; Constable: Matriculation — confirm education and physical standards from the official advertisement)",
+    experience: "As per official advertisement",
+    ageLimit: "18-25 years (plus 5 years general age relaxation); age calculated as on 15 November 2026",
+    vacancies: "790 (Sub Inspector BS-14: 2; Assistant Sub Inspector BS-11: 38; Constable BS-07: 750; male and female candidates from across Pakistan; provincial/regional quotas as per federal government rules)",
+    salary: "As per official advertisement (BS-07, BS-11 and BS-14 government pay scales)",
+    lastDate: "2026-11-15",
+    postedDate: "2026-11-06",
+    source: "ICT Police Executive Staff (Dolphin Force) 2026 advertisement, published 1 November 2026 in Daily Express and 2 November 2026 in Dawn, verified via the Islamabad Police recruitment notice",
+    officialLink: "https://npftas.pk",
+    officialLinkLabel: "NPFTAS Recruitment Portal",
+    featured: true,
+    shortDesc: "Islamabad Capital Territory Police is hiring 790 candidates for its Dolphin Force: 2 Sub Inspectors, 38 Assistant Sub Inspectors and 750 Constables (BS-07 to BS-14), open to male and female candidates from across Pakistan. Apply online only through NPFTAS by 15 November 2026.",
+    description: `<p>Islamabad Capital Territory Police (Ministry of Interior &amp; Narcotics Control) invites online applications from eligible male and female Pakistani nationals for <strong>790 Executive Staff posts</strong> in the Dolphin Force, advertised on <strong>1 November 2026</strong> in Daily Express and <strong>2 November 2026</strong> in Dawn.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Sub Inspector (BS-14):</strong> 2 posts</li>
+      <li><strong>Assistant Sub Inspector (BS-11):</strong> 38 posts</li>
+      <li><strong>Constable (BS-07):</strong> 750 posts</li>
+    </ul>
+    <p>Vacancies are distributed according to the provincial and regional quotas prescribed by the Federal Government. The age limit is <strong>18-25 years</strong> (plus 5 years general age relaxation), calculated as on the closing date, 15 November 2026. Testing and selection will be conducted by the National Police Foundation Testing and Assessment Services (NPF-TAS).</p>
+    <p>Applications are accepted <strong>online only</strong>; a non-refundable fee of Rs 2,000 per post applies (payable via 1Link-1Bill). Applications by hand or courier will not be accepted.</p>`,
+    howToApply: ["Visit the NPFTAS recruitment portal at www.npftas.pk (or www.islamabadpolice.gov.pk)", "Fill in the online application form for your post and pay the Rs 2,000 fee per post via 1Link-1Bill", "Submit the online application before 15 November 2026", "Do not send applications by hand or courier - online applications only"]
+  },
+  {
+    id: 93,
+    title: "Forestry, Wildlife & Fisheries Punjab Jobs 2026 - Animator, Data Analyst & Assistant Directors (GIS/Drone), 7 Posts (Apply by Nov 15)",
+    department: "Forestry, Wildlife & Fisheries Department, Government of Punjab",
+    category: "Government",
+    subcategory: "Punjab",
+    city: "Lahore & across Punjab",
+    province: "Punjab",
+    qualification: "Animator (PPS-08): Master's/Bachelor's (16 years) in Fine Arts, Film & TV or Computer Science with 7 years experience in animation (Adobe Animate, After Effects, Maya); Data Analyst (PPS-07): Master's/Bachelor's (16 years) in Data Science, Computer Science or MBA IT with 3 years experience (Excel, SQL, Tableau/Power BI); Assistant Director Geospatial Modelling (PPS-07): 16 years education in Space Science / Remote Sensing & GIS / Geo-informatics with 2 years relevant experience including 1 year GIS application in forestry or natural resources; Assistant Director Drone & GPS Survey (PPS-07): 16 years education in Space Science / Remote Sensing & GIS with 1 year relevant experience including 6 months drone and drone image data analysis; GIS Assistant (PPS-05): Bachelor's (2nd division) in Space Sciences / GIS / RS & GIS / Geography / Geomatics",
+    experience: "Animator: 7 years; Data Analyst: 3 years; Assistant Director Geospatial Modelling: 2 years; Assistant Director Drone & GPS Survey: 1 year; GIS Assistant: as per official advertisement",
+    ageLimit: "Animator: 28-35 years; Data Analyst / Assistant Directors: 23-30 years; GIS Assistant: 22-28 years (plus 5 years general age relaxation for males and 8 years for females as per Punjab S&GAD rules)",
+    vacancies: "7 (Animator PPS-08: 1; Data Analyst PPS-07: 1; Assistant Director Geospatial Modelling PPS-07: 3; Assistant Director Drone & GPS Survey PPS-07: 1; GIS Assistant PPS-05: 1; contractual for the project period under the development project 'GIS-Based Protection Regime and Establishment of Digital Communication Cell in Forestry, Wildlife & Fisheries Department'; Punjab domicile only)",
+    salary: "Animator: Rs 350,000/month; Data Analyst: Rs 200,000/month; Assistant Directors: Rs 157,500/month; GIS Assistant: Rs 70,000/month",
+    lastDate: "2026-11-15",
+    postedDate: "2026-11-06",
+    source: "Forestry, Wildlife & Fisheries Department Punjab advertisement published 1 November 2026 in Daily Jang, verified via the published advertisement text",
+    officialLink: "https://jobs.punjab.gov.pk",
+    officialLinkLabel: "Punjab Job Portal",
+    featured: true,
+    shortDesc: "The Forestry, Wildlife & Fisheries Department Punjab is hiring 7 staff for its GIS-Based Protection Regime project: an Animator, Data Analyst, Assistant Directors (Geospatial Modelling and Drone & GPS Survey) and a GIS Assistant, with salaries up to Rs 350,000/month. Apply online by 15 November 2026.",
+    description: `<p>The Forestry, Wildlife &amp; Fisheries Department, Government of Punjab, invites applications from Punjab domicile holders for <strong>7 contractual posts</strong> under the development project "GIS-Based Protection Regime and Establishment of Digital Communication Cell in Forestry, Wildlife &amp; Fisheries Department", advertised on <strong>1 November 2026</strong> in Daily Jang.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Animator (PPS-08):</strong> 1 post, Lahore; Master's/Bachelor's (16 years) in Fine Arts, Film &amp; TV or Computer Science with 7 years animation experience; age 28-35; Rs 350,000/month</li>
+      <li><strong>Data Analyst (PPS-07):</strong> 1 post, anywhere in Punjab; Master's/Bachelor's (16 years) in Data Science, Computer Science or MBA IT with 3 years experience; age 23-30; Rs 200,000/month</li>
+      <li><strong>Assistant Director Geospatial Modelling (PPS-07):</strong> 3 posts; 16 years education in Space Science / Remote Sensing &amp; GIS with 2 years relevant experience; age 23-30; Rs 157,500/month</li>
+      <li><strong>Assistant Director Drone &amp; GPS Survey (PPS-07):</strong> 1 post; 16 years education in Space Science / Remote Sensing &amp; GIS with 1 year relevant experience including 6 months drone image data analysis; age 23-30; Rs 157,500/month</li>
+      <li><strong>GIS Assistant (PPS-05):</strong> 1 post; Bachelor's in Space Sciences / GIS / Geography / Geomatics; age 22-28; Rs 70,000/month</li>
+    </ul>
+    <p>Recruitment is purely contractual for the project period. Candidates must apply online on jobs.punjab.gov.pk <strong>and</strong> send a hard copy of the submitted form with attested copies of CNIC, domicile, academic and experience certificates to the Director Geo-Spatial Planning &amp; Monitoring, Forest GIS Lab, 108-Ravi Road, Forest Colony, Lahore, by 15 November 2026. Submission of hard copies is mandatory.</p>`,
+    howToApply: ["Apply online on jobs.punjab.gov.pk", "Send a hard copy of the submitted online form with attested copies of CNIC, domicile, academic and experience certificates to: Director Geo-Spatial Planning & Monitoring, Forest GIS Lab, 108-Ravi Road, Forest Colony, Lahore", "Clearly mention the post name on the application and envelope", "Submit both online and hard copy by 15 November 2026 during office hours"]
+  },
+  {
+    id: 92,
+    title: "DRAP Jobs 2026 - Superintendent, Assistant, Computer Operator, DEO, LDC, Driver & Naib Qasid, 7 Posts (Apply by Nov 16)",
+    department: "Drug Regulatory Authority of Pakistan (DRAP), Government of Pakistan",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad & Quetta",
+    province: "Balochistan",
+    qualification: "Superintendent (RO-11): MA/MSc/MBA/MPA with minimum 5 years administrative experience; Assistant (RO-10): Graduation with computer knowledge; Computer Operator (RO-10): Graduation with 40 wpm typing speed; Data Entry Operator (RO-10): Intermediate with 35 wpm typing speed; Lower Division Clerk (RO-07): Matric with computer knowledge and 30 wpm typing speed; Driver (RO-04): Matric with valid HTV/LTV driving licence; Naib Qasid (RO-01): Middle pass",
+    experience: "Superintendent: minimum 5 years administrative experience; all other posts: as per official advertisement",
+    ageLimit: "Superintendent / Assistant / LDC / Naib Qasid: up to 40 years; Computer Operator / Data Entry Operator: up to 35 years; Driver: up to 45 years (maximum age limits including relaxation; age calculated as on the closing date)",
+    vacancies: "7 (Superintendent RO-11: 1; Assistant RO-10: 1; Computer Operator RO-10: 1; Data Entry Operator RO-10: 1; Lower Division Clerk RO-07: 1; Driver RO-04: 1; Naib Qasid RO-01: 1; Balochistan quota only)",
+    salary: "As per official advertisement (RO-01 to RO-11 pay scales)",
+    lastDate: "2026-11-16",
+    postedDate: "2026-11-06",
+    source: "DRAP Situation Vacant advertisement published 1 November 2026 in Daily Jang, verified via the published advertisement text",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "The Drug Regulatory Authority of Pakistan (DRAP) is hiring 7 Balochistan-domicile candidates: Superintendent, Assistant, Computer Operator, Data Entry Operator, LDC, Driver and Naib Qasid at its Islamabad head office and Quetta field office. Apply online through the National Job Portal by 16 November 2026.",
+    description: `<p>The Drug Regulatory Authority of Pakistan (DRAP), Government of Pakistan, invites applications from Pakistani nationals holding a Balochistan local/domicile certificate for <strong>7 posts</strong>, advertised on <strong>1 November 2026</strong> in Daily Jang.</p>
+    <h3>DRAP Head Office, Islamabad (5 posts)</h3>
+    <ul>
+      <li><strong>Superintendent (RO-11):</strong> 1 post; MA/MSc/MBA/MPA with minimum 5 years administrative experience; max age 40 years</li>
+      <li><strong>Assistant (RO-10):</strong> 1 post; Graduation with computer knowledge; max age 40 years</li>
+      <li><strong>Computer Operator (RO-10):</strong> 1 post; Graduation with 40 wpm typing speed; max age 35 years</li>
+      <li><strong>Data Entry Operator (RO-10):</strong> 1 post; Intermediate with 35 wpm typing speed; max age 35 years</li>
+      <li><strong>Lower Division Clerk (RO-07):</strong> 1 post; Matric with computer knowledge and 30 wpm typing speed; max age 40 years</li>
+    </ul>
+    <h3>DRAP Field Office, Quetta (2 posts)</h3>
+    <ul>
+      <li><strong>Driver (RO-04):</strong> 1 post; Matric with valid HTV/LTV driving licence; max age 45 years</li>
+      <li><strong>Naib Qasid (RO-01):</strong> 1 post; Middle pass; max age 40 years</li>
+    </ul>
+    <p>Shortlisted candidates will be called for walk-in interviews. Serving government employees must apply through proper channel with an NOC. No TA/DA will be paid for appearing in the interview.</p>`,
+    howToApply: ["Submit your application online through the National Job Portal at www.njp.gov.pk", "Submit a separate online application for each post you apply for", "Ensure all personal details, post title, domicile district, qualifications, CNIC and contact numbers are entered correctly", "Shortlisted candidates must bring one set of attested copies of all documents along with originals to the walk-in interview"]
+  },
+  {
     id: 88,
     title: "FBR Customs Jobs 2026 - UDC, LDC & Wireless Operator (Balochistan Quota), 4 Posts (Apply by Nov 15)",
     department: "Federal Board of Revenue (FBR), Customs Department, Government of Pakistan",
