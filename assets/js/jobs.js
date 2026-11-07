@@ -10,6 +10,139 @@
 
 const JOBS = [
   {
+    id: 99,
+    title: "FPSC Consolidated Advertisement 4/2026 - 278 Federal Posts BS-16 to BS-20, incl. 160 Assistant Audit Officers (Apply by Nov 23)",
+    department: "Federal Public Service Commission (FPSC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "As per official advertisement (varies by case: commerce, accounting or finance graduates for Assistant Audit Officer; MBBS for Demonstrator at Federal Medical College; economics/statistics for Research, Planning & Survey Officer; nursing qualification for Nurse at AFIRM; postgraduate medical qualifications with teaching experience for Professor at PIMS — confirm your case in the official advertisement)",
+    experience: "As per official advertisement (varies by case)",
+    ageLimit: "As per official advertisement (varies by case; check the age limit on the closing date)",
+    vacancies: "About 278 posts in 48 cases (FPSC does not print a total; count reported by Pakera): Assistant Audit Officer BS-17: 160; Demonstrator BS-17 (Federal Medical College): 25; Research / Planning / Survey Officer BS-17 (Economists Group, Planning): 12; Nurse BS-16 (AFIRM, Rawalpindi): 10; Professor BS-20 (PIMS, Islamabad, 6 specialties): 6; plus other cases",
+    salary: "As per official advertisement (BS-16 to BS-20 federal government pay scales)",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-07",
+    source: "FPSC Consolidated Advertisement No. 4/2026, published 6 November 2026 on the FPSC website, verified via FPSC Jobs (General Recruitment) and case-wise details reported by Pakera",
+    officialLink: "https://www.fpsc.gov.pk",
+    officialLinkLabel: "FPSC Official Website",
+    featured: true,
+    shortDesc: "FPSC has announced Consolidated Advertisement 4/2026 with about 278 federal posts (BS-16 to BS-20) in 48 cases — led by 160 Assistant Audit Officers (BS-17) in the Office of the Auditor General of Pakistan. Apply online only through the FPSC portal by 23 November 2026.",
+    description: `<p>The Federal Public Service Commission (FPSC) has announced <strong>Consolidated Advertisement No. 4/2026</strong>, published on <strong>6 November 2026</strong>, inviting online applications for about <strong>278 federal government posts (BS-16 to BS-20)</strong> across 48 cases.</p>
+    <h3>Main Posts</h3>
+    <ul>
+      <li><strong>Assistant Audit Officer (BS-17):</strong> 160 posts — Office of the Auditor General of Pakistan</li>
+      <li><strong>Demonstrator (BS-17):</strong> 25 posts — Federal Medical College</li>
+      <li><strong>Research / Planning / Survey Officer (BS-17):</strong> 12 posts — Economists Group, Planning</li>
+      <li><strong>Nurse (BS-16):</strong> 10 posts — AFIRM, Rawalpindi</li>
+      <li><strong>Professor (BS-20):</strong> 6 posts (6 specialties) — PIMS, Islamabad</li>
+    </ul>
+    <p>Each case has its own qualification, age limit and domicile quota — check your case number, qualification and quota in the official advertisement before applying. The application fee is <strong>Rs 600</strong> for BS-16/BS-17, <strong>Rs 1,500</strong> for BS-18, <strong>Rs 2,500</strong> for BS-19 and <strong>Rs 3,000</strong> for BS-20 and above, paid through a PSID generated on the portal. Written tests are tentatively scheduled to begin from January 2027.</p>
+    <p>Applications are accepted <strong>online only</strong>; no hard copy or manual application is accepted.</p>`,
+    howToApply: ["Read the official Consolidated Advertisement 4/2026 on www.fpsc.gov.pk and note your case number", "Open the FPSC online General Recruitment portal and create an account with an active email and mobile number", "Generate the PSID and pay the fee (Rs 600 for BS-16/BS-17, Rs 1,500 for BS-18, Rs 2,500 for BS-19, Rs 3,000 for BS-20+) via ATM, mobile banking, Easypaisa, JazzCash or over the counter", "Submit the form before 23 November 2026 and save your application tracking details", "Government employees must obtain a Departmental Permission Certificate and enter its reference number"]
+  },
+  {
+    id: 98,
+    title: "Metropolitan Corporation Islamabad Jobs 2026 - Project Manager, Architect, IT Expert & More, 12 Posts BPS-17 (Apply by Nov 15)",
+    department: "Metropolitan Corporation Islamabad (MCI)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Relevant Bachelor's or Master's degree (16 years of education) for most posts; five-year B.Arch for Architect; three-year DAE in Architecture or Civil Technology for Draftsman",
+    experience: "Experience is not compulsory; relevant professional experience gained after the required qualification earns additional weight at the interview",
+    ageLimit: "Maximum 30 years as of 15 November 2026 (age relaxation under government rules)",
+    vacancies: "12 (Project Manager BPS-17: 2; Architect BPS-17: 3; IT Expert BPS-17: 2; Urban Planning Expert BPS-17: 1; Draftsman BPS-17: 1; Graphic Designer BPS-17: 1; Cultural Arts Expert BPS-17: 1; Interior Spatial Expert BPS-17: 1; one-year contract, extendable on satisfactory performance)",
+    salary: "As per official advertisement (BPS-17 government pay scale)",
+    lastDate: "2026-11-15",
+    postedDate: "2026-11-07",
+    source: "Metropolitan Corporation Islamabad advertisement, published 6 November 2026, verified via the published advertisement text",
+    officialLink: "",
+    officialLinkLabel: "Apply as per official advertisement (see How to Apply)",
+    featured: true,
+    shortDesc: "Metropolitan Corporation Islamabad is hiring 12 officers (BPS-17) on one-year contracts: Project Managers, Architects, IT Experts, Urban Planning Experts, Draftsman, Graphic Designer, Cultural Arts Expert and Interior Spatial Expert. Applications by post must reach before 4:00 p.m. on 15 November 2026.",
+    description: `<p>The Metropolitan Corporation Islamabad (MCI), the local government body for the federal capital, invites applications for <strong>12 officer posts (BPS-17)</strong> in eight professional fields on one-year contracts (extendable on satisfactory performance), advertised on <strong>6 November 2026</strong>.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Project Manager (BPS-17):</strong> 2 posts — 16 years of education in Civil, Electrical or Computer Engineering, Project Management, MBA or Urban Planning</li>
+      <li><strong>Architect (BPS-17):</strong> 3 posts — five-year Bachelor of Architecture (B.Arch)</li>
+      <li><strong>IT Expert (BPS-17):</strong> 2 posts — BS or MS in Computer Science, Software Engineering or IT</li>
+      <li><strong>Urban Planning Expert (BPS-17):</strong> 1 post — 16 years of education in Urban and Regional Planning, City Planning or Town Planning</li>
+      <li><strong>Draftsman (BPS-17):</strong> 1 post — three-year DAE in Architecture or Civil Technology</li>
+      <li><strong>Graphic Designer (BPS-17):</strong> 1 post — 16 years of education in Graphic Design, Visual Communication, Fine Arts or an equivalent discipline</li>
+      <li><strong>Cultural Arts Expert (BPS-17):</strong> 1 post — 16 years of education in Fine Arts, Cultural Studies, Art History or Heritage Management</li>
+      <li><strong>Interior Spatial Expert (BPS-17):</strong> 1 post — 16 years of education in Interior Design, Interior Architecture or Spatial Design</li>
+    </ul>
+    <p>The maximum age is <strong>30 years as of 15 November 2026</strong> (age relaxation under government rules). Experience is not compulsory. Selection is through interviews only; no TA/DA will be paid.</p>`,
+    howToApply: ["Complete the prescribed application form or prepare an application on plain paper with an updated CV and two recent passport-size photographs", "Attach attested copies of your CNIC, domicile, degrees, transcripts and experience certificates", "Write the post title clearly on the envelope and send it to the Head Office, Metropolitan Corporation Islamabad, Sector G-6, Islamabad", "Application must reach before 4:00 p.m. on 15 November 2026", "Government servants must apply through the proper channel with an NOC"]
+  },
+  {
+    id: 97,
+    title: "National Insurance Company Limited (NICL) Jobs 2026 - Executive Officer & Assistant, 25 Posts, Balochistan Quota (Apply by Nov 19)",
+    department: "National Insurance Company Limited (NICL), Ministry of Commerce",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Executive Officer: minimum 16 years of education from a recognised institution; Assistant: minimum 12 years of education (Intermediate, FA or FSc); computer / MS Office literacy preferred",
+    experience: "No specific experience stated in the advertisement; computer literacy is preferred",
+    ageLimit: "Maximum 45 years (age relaxation already included)",
+    vacancies: "25 (Executive Officer equivalent to BS-16: 15; Assistant equivalent to BS-14: 10; Balochistan quota — valid Balochistan local/domicile certificate mandatory; induction training at NICL Head Office, Karachi; posting anywhere in Pakistan afterwards)",
+    salary: "Market-competitive statutory pay package equivalent to federal BPS-14 and BPS-16, with corporate allowances (exact figures not stated in the advertisement)",
+    lastDate: "2026-11-19",
+    postedDate: "2026-11-07",
+    source: "National Insurance Company Limited advertisement, published 4 November 2026 in Daily Express, verified via the published advertisement text",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "National Insurance Company Limited (NICL) is hiring 25 officers and assistants under the Balochistan quota: 15 Executive Officers (BS-16 equivalent) and 10 Assistants (BS-14 equivalent). Apply online through the National Job Portal by 19 November 2026.",
+    description: `<p>The National Insurance Company Limited (NICL), under the Ministry of Commerce — Pakistan's state-owned general insurance company — invites applications from Balochistan domicile holders for <strong>25 posts</strong> under the special Balochistan quota, advertised on <strong>4 November 2026</strong> in Daily Express.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Executive Officer (equivalent to BS-16):</strong> 15 posts — minimum 16 years of education</li>
+      <li><strong>Assistant (equivalent to BS-14):</strong> 10 posts — minimum 12 years of education (Intermediate, FA or FSc)</li>
+    </ul>
+    <p>A valid <strong>Balochistan local/domicile certificate is mandatory</strong>. The maximum age is <strong>45 years</strong> (age relaxation already included). Induction training will be held at the NICL Head Office, Karachi, with posting anywhere in Pakistan afterwards. Apply separately for each post if applying for more than one. No TA/DA will be paid for the interview.</p>`,
+    howToApply: ["Apply online through the National Job Portal at www.njp.gov.pk using the dedicated tab for this recruitment", "Alternatively, send your application to the HR consultant at talent@peopleperfect.com within 15 days of publication", "Apply separately for each post if applying for more than one", "Submit before 19 November 2026", "Government servants must apply through the proper channel with an NOC"]
+  },
+  {
+    id: 96,
+    title: "Population Welfare Department Islamabad Jobs 2026 - Clerk, Stenotypist, Driver & Support Staff, 9 Categories, Balochistan Quota (Apply by Nov 19)",
+    department: "Population Welfare Department, Islamabad",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Primary, Middle or Matric pass, depending on the post; valid driving licence and driving experience for Driver posts; typing and shorthand speed for the Stenotypist post",
+    experience: "As per official advertisement (varies by post; drivers need driving experience and a valid licence, stenotypists need typing and shorthand speed)",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement (9 post categories: Duplicate Machine Operator, Sweeper, Staff Car Driver, Chowkidar, Farash, Clerk, Naib Qasid, Stenotypist and Dispatch Rider; total number of posts not stated in the advertisement; Balochistan quota)",
+    salary: "As per official advertisement (government pay scales apply)",
+    lastDate: "2026-11-19",
+    postedDate: "2026-11-07",
+    source: "Population Welfare Department advertisement, published 4 November 2026 in Daily Jang, verified via the published advertisement text (closing date expected — confirm from the original advertisement)",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Population Welfare Department, Islamabad is hiring support, clerical, driving and administrative staff in 9 categories — including Clerk, Stenotypist, Staff Car Driver, Naib Qasid and Chowkidar — under the Balochistan quota. Apply online through the National Job Portal by 19 November 2026.",
+    description: `<p>The Population Welfare Department, Islamabad invites applications from eligible candidates for support staff, clerical, driving and administrative positions in <strong>9 categories</strong> under the Balochistan quota, advertised on <strong>4 November 2026</strong> in Daily Jang.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Duplicate Machine Operator (DMO)</strong></li>
+      <li><strong>Sweeper</strong></li>
+      <li><strong>Staff Car Driver</strong></li>
+      <li><strong>Chowkidar</strong></li>
+      <li><strong>Farash</strong></li>
+      <li><strong>Clerk</strong></li>
+      <li><strong>Naib Qasid</strong></li>
+      <li><strong>Stenotypist</strong></li>
+      <li><strong>Dispatch Rider</strong></li>
+    </ul>
+    <p>Candidates with <strong>Primary, Middle or Matric</strong> qualifications may be eligible, depending on the post. A valid Balochistan domicile is required (Balochistan quota). The expected closing date is <strong>19 November 2026</strong> — confirm it from the original newspaper advertisement.</p>`,
+    howToApply: ["Read the complete job advertisement published in Daily Jang on 4 November 2026", "Check the eligibility criteria for your desired position", "Apply online through the National Job Portal at www.njp.gov.pk — check the original Jang advertisement for the exact post-wise procedure", "Prepare your updated CV and copies of relevant educational and experience documents", "Submit your application before the closing date"]
+  },
+  {
     id: 95,
     title: "Shaikh Zayed Hospital Lahore Jobs 2026 - Specialists, Consultants, Deputy Administrators & Assistants, 13 Posts (Apply by Nov 18)",
     department: "Shaikh Zayed Hospital / Shaikh Zayed Postgraduate Medical Institute, Lahore",
