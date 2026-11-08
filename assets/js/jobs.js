@@ -10,6 +10,143 @@
 
 const JOBS = [
   {
+    id: 103,
+    title: "BPSC Consolidated Advertisement 09/2026 - 250 Balochistan Govt Posts incl. Sub-Engineers, Lecturers & Veterinary Officers (Apply by Nov 11)",
+    department: "Balochistan Public Service Commission (BPSC)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Quetta",
+    province: "Balochistan",
+    qualification: "As per official advertisement (varies by post: B.E. Civil or DAE Civil for Sub-Engineer; Master's / relevant degree for Assistant Director, Lecturer, Research Officer and Veterinary Officer; computer qualification for Computer Instructor, Hardware/Network Technician and Computer Operator — confirm your post in the official advertisement)",
+    experience: "As per official advertisement (varies by post)",
+    ageLimit: "As per official advertisement (age counted on the closing date, 11 November 2026, from the date of birth on the Matric certificate)",
+    vacancies: "250 (Sub-Engineer BPS-11: 118 across Local Government 32, Public Health Engineering 30 and Communication Works 6 B.E. Civil + 50 DAE Civil; Assistant Director / Lecturer / Research Officer / Veterinary Officer BPS-17: 109 in Animal Health & Extension Services plus 13 in Farm & Feed Resources, Livestock & Dairy Development Department; Computer Instructor BPS-17: 3; Hardware/Network Technician BPS-16: 3; Computer Operator BPS-16: 4 — Science & Information Technology Department)",
+    salary: "As per official advertisement (BPS-11 to BPS-17 provincial government pay scales)",
+    lastDate: "2026-11-11",
+    postedDate: "2026-11-08",
+    source: "Balochistan Public Service Commission Consolidated Advertisement No. 09/2026, published 9 October 2026, verified via the BPSC website and Pakera's commission tracker (checked 6-7 November 2026)",
+    officialLink: "https://www.bpsc.gob.pk",
+    officialLinkLabel: "BPSC Official Website",
+    featured: true,
+    shortDesc: "Balochistan Public Service Commission has announced Consolidated Advertisement 09/2026 with 250 posts across Balochistan government departments — led by 118 Sub-Engineers (BPS-11) and 109 Assistant Director / Lecturer / Research Officer / Veterinary Officer posts (BPS-17). Balochistan domicile holders apply online through bpsc.gob.pk by 11 November 2026.",
+    description: `<p>The Balochistan Public Service Commission (BPSC) has announced <strong>Consolidated Advertisement No. 09/2026</strong>, published on <strong>9 October 2026</strong>, inviting online applications from Balochistan domicile holders for <strong>250 posts</strong> in various departments of the Government of Balochistan.</p>
+    <h3>Main Posts</h3>
+    <ul>
+      <li><strong>Sub-Engineer (BPS-11):</strong> 118 posts — Local Government (32), Public Health Engineering (30) and Communication Works (6 B.E. Civil + 50 DAE Civil)</li>
+      <li><strong>Assistant Director / Lecturer / Research Officer / Veterinary Officer (BPS-17):</strong> 109 posts — Animal Health &amp; Extension Services, plus 13 more in Farm &amp; Feed Resources (Livestock &amp; Dairy Development Department)</li>
+      <li><strong>Computer Instructor (BPS-17):</strong> 3 posts — Science &amp; Information Technology Department</li>
+      <li><strong>Hardware/Network Technician (BPS-16):</strong> 3 posts — Science &amp; Information Technology Department</li>
+      <li><strong>Computer Operator (BPS-16):</strong> 4 posts — Science &amp; Information Technology Department</li>
+    </ul>
+    <p>Only candidates holding a <strong>Balochistan local domicile</strong> are eligible. Age is counted on the closing date from the date of birth on the Matric certificate. Each post has its own qualification and age conditions — read the official advertisement on the BPSC website before applying. Note: the signed BPSC addendum of 2 November 2026 extending the last date to 17 November applies only to two posts of Advertisement No. 07/2026 (Agriculture Officer / Research Officer and Assistant Engineer), not to Advertisement 09/2026, which still closes on <strong>11 November 2026</strong>.</p>`,
+    howToApply: ["Read Consolidated Advertisement No. 09/2026 on www.bpsc.gob.pk and note your post and its qualification and age conditions", "Apply online through the BPSC portal and deposit the prescribed fee as instructed in the advertisement", "Submit the online application before 11 November 2026", "Government servants must apply through the proper channel with an NOC"]
+  },
+  {
+    id: 102,
+    title: "Ministry of Planning Jobs 2026 - 77 Regular Posts incl. 58 Naib Qasid, Balochistan Quota (Apply by Nov 16)",
+    department: "Ministry of Planning, Development & Special Initiatives",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "As per official advertisement (varies by post: Primary pass for Naib Qasid and other BPS-01 posts; Middle for some support posts; Matric / Intermediate with typing and shorthand speed for Stenotypist and LDC; valid driving licence for Staff Car Driver)",
+    experience: "As per official advertisement (varies by post)",
+    ageLimit: "18 to 35 years",
+    vacancies: "77 (Naib Qasid BS-01: 58; Farash: 5; Staff Car Driver: 4; Stenotypist BS-14: 2; Dispatch Rider: 2; Chowkidar: 2; Sweeper: 2; plus Lower Division Clerk and Duplicating Machine Operator; regular posts, Balochistan quota, to be filled in Islamabad)",
+    salary: "As per official advertisement (BS-01 to BS-14 federal government pay scales)",
+    lastDate: "2026-11-16",
+    postedDate: "2026-11-08",
+    source: "Ministry of Planning, Development & Special Initiatives advertisement, published 4 November 2026 in The Nation (PID(I) 4141/26), verified via the National Job Portal listing",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Ministry of Planning, Development & Special Initiatives is hiring 77 regular staff (BS-01 to BS-14) under the Balochistan quota — led by 58 Naib Qasid posts — to be filled in Islamabad. Balochistan domicile holders apply online through the National Job Portal by 16 November 2026.",
+    description: `<p>The Ministry of Planning, Development &amp; Special Initiatives, Government of Pakistan, Islamabad, invites applications from Balochistan domicile holders for <strong>77 regular posts (BS-01 to BS-14)</strong> under the Balochistan quota, advertised on <strong>4 November 2026</strong> in The Nation (PID(I) 4141/26).</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Naib Qasid (BS-01):</strong> 58 posts (49 Balochistan merit, 6 women, 3 minorities) — Primary pass</li>
+      <li><strong>Farash:</strong> 5 posts</li>
+      <li><strong>Staff Car Driver:</strong> 4 posts</li>
+      <li><strong>Stenotypist (BS-14):</strong> 2 posts</li>
+      <li><strong>Dispatch Rider:</strong> 2 posts</li>
+      <li><strong>Chowkidar:</strong> 2 posts</li>
+      <li><strong>Sweeper:</strong> 2 posts</li>
+      <li><strong>Lower Division Clerk and Duplicating Machine Operator:</strong> remaining posts</li>
+    </ul>
+    <p>Only candidates holding a <strong>Balochistan local/domicile certificate</strong> are eligible. The age limit is <strong>18 to 35 years</strong>. Recruitment will take place at the district level through newly established Employment Cells in Balochistan. Applications are accepted <strong>online only</strong> through the National Job Portal — no email or hard-copy applications are entertained. The advertisement says to apply within 15 days of publication; the National Job Portal shows the last date as <strong>16 November 2026</strong>, so apply before that date and confirm it on the portal.</p>`,
+    howToApply: ["Open the National Job Portal at www.njp.gov.pk and find the dedicated tab for this Ministry of Planning recruitment", "Select your post and submit the online application before 16 November 2026", "Keep your Balochistan local/domicile certificate ready — only Balochistan domicile holders are eligible", "Government servants must apply through the proper channel with an NOC"]
+  },
+  {
+    id: 101,
+    title: "Ministry of Defence NASTP Jobs 2026 - 14 Posts incl. Project Manager, Assistant & Computer Operator, Rawalpindi (Apply by Nov 20)",
+    department: "Ministry of Defence - National Aerospace Science & Technology Park (NASTP)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Rawalpindi",
+    province: "Punjab",
+    qualification: "As per official advertisement (varies by post: BE/BSc Engineering or MSc Project Management for Project Manager (Coordinator); Bachelor's degree, 14 years of education, for Assistant; Matriculation for Support Staff; relevant qualifications for Manager Contracts, Manager Finance, Quantity Surveyor and Computer Operator — confirm your post in the official advertisement)",
+    experience: "As per official advertisement (varies by post)",
+    ageLimit: "As per official advertisement",
+    vacancies: "14 (Project Manager (Coordinator) PPS-09: 1; Assistant Project Manager: 1; Manager – Contracts: 1; Manager Finance: 1; Quantity Surveyor: 1; Assistant: 3; Computer Operator: 3; Support Staff: 3; one-year contract, extendable on performance)",
+    salary: "As per official advertisement (PPS-01 to PPS-09 project pay scales)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-11-08",
+    source: "Ministry of Defence / NASTP advertisement (PID(I) 4151/26), published 5 November 2026, verified via the National Job Portal listing and published advertisement text",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Ministry of Defence is hiring 14 staff for the NASTP High End Skill Development Centre in Aerospace Industry, Rawalpindi — Project Manager (Coordinator), Assistant Project Manager, Manager Contracts, Manager Finance, Quantity Surveyor, Assistants, Computer Operators and Support Staff on one-year contracts. Apply online through the National Job Portal by 20 November 2026.",
+    description: `<p>The Ministry of Defence, Government of Pakistan, invites applications for <strong>14 posts</strong> with the Project Management Unit of the <strong>National Aerospace Science &amp; Technology Park (NASTP)</strong> — High End Skill Development Centre in Aerospace Industry, Rawalpindi — advertised on <strong>5 November 2026</strong> (PID(I) 4151/26).</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Project Manager (Coordinator) (PPS-09):</strong> 1 post — BE/BSc Engineering or MSc Project Management</li>
+      <li><strong>Assistant Project Manager:</strong> 1 post</li>
+      <li><strong>Manager – Contracts:</strong> 1 post</li>
+      <li><strong>Manager Finance:</strong> 1 post</li>
+      <li><strong>Quantity Surveyor:</strong> 1 post</li>
+      <li><strong>Assistant:</strong> 3 posts — Bachelor's degree (14 years of education)</li>
+      <li><strong>Computer Operator:</strong> 3 posts</li>
+      <li><strong>Support Staff:</strong> 3 posts — Matriculation</li>
+    </ul>
+    <p>All posts are on a <strong>one-year contract, extendable on satisfactory performance</strong>, under a PSDP project at NASTP, Alpha 19, Old Airport Road, Chaklala, Rawalpindi. Applications are accepted <strong>online only</strong> through the National Job Portal. Only shortlisted candidates will be called for a test and interview.</p>`,
+    howToApply: ["Open the National Job Portal at www.njp.gov.pk and find the NASTP / Ministry of Defence vacancies", "Select your post and submit the online application before 20 November 2026", "For queries, contact the Project Director, NASTP High End Skill Development Centre in Aerospace Industry, Alpha 19, Old Airport Road, Chaklala, Rawalpindi (Ph: 051-8890301)", "Government servants must apply through the proper channel with an NOC"]
+  },
+  {
+    id: 100,
+    title: "Printing Corporation of Pakistan Jobs 2026 - 8 Regular Posts incl. Computer Operator, LDC & Driver, Balochistan Quota (Apply by Nov 10/13)",
+    department: "Printing Corporation of Pakistan (PCP)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "As per official advertisement (varies by post: computer qualification for Computer Operator; Intermediate or equivalent for LDC and Jr. Accounts Clerk; relevant trade experience for Assistant Offset Machine Man; valid driving licence for Driver; literate, preferably Matric, for Regular Labourer and Sanitary Worker)",
+    experience: "As per official advertisement (varies by post)",
+    ageLimit: "Maximum 35 years",
+    vacancies: "8 (one post each: Computer Operator BPS-12, L.D.C. BPS-11, Assistant Offset Machine Man BPS-7, Jr. Accounts Clerk BPS-7 — close 10 November 2026; Driver BPS-4, Security Guard BPS-1, Regular Labourer BPS-1, Sanitary Worker BPS-1 — close 13 November 2026; regular posts, Balochistan quota)",
+    salary: "As per official advertisement (BPS-01 to BPS-12 federal government pay scales)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-11-08",
+    source: "Printing Corporation of Pakistan advertisement under the Balochistan Initiative, posted 29 October 2026 on the National Job Portal, verified via NJP listings",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Printing Corporation of Pakistan is hiring 8 regular staff (BPS-01 to BPS-12) under the Balochistan Initiative — Computer Operator, L.D.C., Assistant Offset Machine Man, Jr. Accounts Clerk, Driver, Security Guard, Regular Labourer and Sanitary Worker. Balochistan domicile holders apply online through the National Job Portal; the first four posts close 10 November 2026 and the other four close 13 November 2026.",
+    description: `<p>The Printing Corporation of Pakistan (PCP), Islamabad, invites applications from Balochistan domicile holders for <strong>8 regular posts</strong> under the special Balochistan Initiative, posted on <strong>29 October 2026</strong> on the National Job Portal.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Computer Operator (BPS-12):</strong> 1 post — closes 10 November 2026</li>
+      <li><strong>L.D.C. (BPS-11):</strong> 1 post — closes 10 November 2026</li>
+      <li><strong>Assistant Offset Machine Man (BPS-07):</strong> 1 post — closes 10 November 2026</li>
+      <li><strong>Jr. Accounts Clerk (BPS-07):</strong> 1 post — closes 10 November 2026</li>
+      <li><strong>Driver (BPS-04):</strong> 1 post — closes 13 November 2026</li>
+      <li><strong>Security Guard (BPS-01):</strong> 1 post — closes 13 November 2026</li>
+      <li><strong>Regular Labourer (BPS-01):</strong> 1 post — closes 13 November 2026</li>
+      <li><strong>Sanitary Worker (BPS-01):</strong> 1 post — closes 13 November 2026</li>
+    </ul>
+    <p>Only candidates holding a <strong>valid Balochistan domicile</strong> are eligible. The maximum age is <strong>35 years</strong>. Applications are accepted <strong>online only</strong> through the National Job Portal. Apply separately for each post if applying for more than one.</p>`,
+    howToApply: ["Open the National Job Portal at www.njp.gov.pk and find the Printing Corporation of Pakistan vacancies", "Select your post and submit the online application before its closing date — 10 November 2026 for Computer Operator, L.D.C., Assistant Offset Machine Man and Jr. Accounts Clerk; 13 November 2026 for Driver, Security Guard, Regular Labourer and Sanitary Worker", "Keep your Balochistan domicile certificate ready", "Government servants must apply through the proper channel with an NOC"]
+  },
+  {
     id: 99,
     title: "FPSC Consolidated Advertisement 4/2026 - 278 Federal Posts BS-16 to BS-20, incl. 160 Assistant Audit Officers (Apply by Nov 23)",
     department: "Federal Public Service Commission (FPSC)",
