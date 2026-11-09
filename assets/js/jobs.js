@@ -10,6 +10,137 @@
 
 const JOBS = [
   {
+    id: 104,
+    title: "Pakistan Railways Jobs 2026 - 829 Posts (BPS-01 to BPS-16), Balochistan Quota, Quetta Division & HQ (Apply by Nov 11)",
+    department: "Pakistan Railways",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Quetta",
+    province: "Balochistan",
+    qualification: "As per official advertisement (varies by post: Primary pass for Gangman; Matric / Intermediate / Graduation for clerical, technical, engineering and other posts — check your post on the National Job Portal)",
+    experience: "As per official advertisement (varies by post)",
+    ageLimit: "18 to 30 years plus 5 years relaxation for Balochistan candidates (35 years in practice); age counted on the closing date, 11 November 2026",
+    vacancies: "829 (BPS-01 to BPS-16, Balochistan quota: 799 at Quetta Division, 24 at Railways Headquarters Lahore, 6 at Ministry of Railways Islamabad; biggest post is Gangman with 468 seats; 2-year contract, no written or screening test)",
+    salary: "As per official advertisement (BPS-01 to BPS-16 federal government pay scales)",
+    lastDate: "2026-11-11",
+    postedDate: "2026-11-09",
+    source: "Pakistan Railways Balochistan quota adverts dated 27 October 2026 (three adverts: Quetta Division, Railways HQ Lahore, Ministry of Railways Islamabad), verified via Pakera, Quetta Voice and Daily Pakistan (checked 9 November 2026)",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "Pakistan Railways has announced 829 posts (BPS-01 to BPS-16) under the Balochistan quota — 799 in Quetta Division, 24 at Railways Headquarters Lahore and 6 at the Ministry of Railways. Balochistan domicile holders apply online through the National Job Portal by 11 November 2026; there is no written or screening test for this recruitment.",
+    description: `<p>Pakistan Railways has announced <strong>829 vacancies (BPS-01 to BPS-16)</strong> under the Balochistan quota, through three adverts dated <strong>27 October 2026</strong> — 799 posts at the Quetta Division, 24 at Railways Headquarters Lahore and 6 at the Ministry of Railways, Islamabad. Recruitment is to be completed before 30 November 2026.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Gangman:</strong> 468 posts — the largest single post, open to Primary pass candidates</li>
+      <li><strong>Other posts (BPS-01 to BPS-16):</strong> clerical, technical, engineering, medical support, operational and general staff across Quetta Division and Headquarters — check the post-wise list on the National Job Portal</li>
+    </ul>
+    <p>Only candidates holding a <strong>valid Balochistan domicile</strong> are eligible. Age is <strong>18 to 30 years plus 5 years relaxation</strong> for Balochistan candidates. Appointments are on a <strong>2-year contract</strong> and this special recruitment has <strong>no written or screening test</strong>. Applications are accepted <strong>online only</strong> through the National Job Portal.</p>`,
+    howToApply: ["Open the National Job Portal at www.njp.gov.pk and find the Pakistan Railways Balochistan quota vacancies", "Select your post and submit the online application before 11 November 2026", "Keep your Balochistan domicile certificate ready", "Check the post-wise eligibility, qualification and quota details on the National Job Portal before applying"]
+  },
+  {
+    id: 105,
+    title: "PPSC PMS 2026 - Combined Competitive Examination, 48 BS-17 Posts incl. Provincial Management Service (Apply by Nov 30)",
+    department: "Punjab Public Service Commission (PPSC)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Graduation (Second Division) from an HEC-recognized university, as per official advertisement (Punjab domicile required)",
+    experience: "As per official advertisement (no prior experience required for the competitive examination)",
+    ageLimit: "As per official advertisement (upper age limit raised from 30 to 32 years vide S&GAD notification dated 2 October 2026; age counted on 1 January 2027)",
+    vacancies: "48 (all BS-17: Provincial Management Service 45, Excise & Taxation Officer 1, Assistant Director Local Fund Audit 2)",
+    salary: "As per official advertisement (BS-17 Punjab government pay scale)",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-09",
+    source: "Punjab Public Service Commission Advertisement No. 12/2026 (Sr. No. 191, Case No. 106-RC/2026), published in Daily Dawn on 8 November 2026, verified via PPSC website and multiple job trackers (checked 9 November 2026)",
+    officialLink: "https://www.ppsc.gop.pk",
+    officialLinkLabel: "PPSC Official Website",
+    featured: true,
+    shortDesc: "The Punjab Public Service Commission has announced the Combined Competitive Examination 2026 through Advertisement No. 12/2026 — 48 BS-17 posts including 45 Provincial Management Service (PMS), 1 Excise & Taxation Officer and 2 Assistant Director Local Fund Audit. Punjab domicile graduates apply online at ppsc.gop.pk by 30 November 2026.",
+    description: `<p>The Punjab Public Service Commission (PPSC), Lahore, has announced the <strong>Combined Competitive Examination 2026</strong> through <strong>Advertisement No. 12/2026</strong> (Sr. No. 191, Case No. 106-RC/2026), published in Daily Dawn on <strong>8 November 2026</strong>, inviting online applications for <strong>48 posts in BS-17</strong>.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Provincial Management Service (PMS) (BS-17):</strong> 45 posts — Services & General Administration Department</li>
+      <li><strong>Excise &amp; Taxation Officer (BS-17):</strong> 1 post</li>
+      <li><strong>Assistant Director Local Fund Audit (BS-17):</strong> 2 posts</li>
+    </ul>
+    <p>Applicants need a <strong>Graduation (Second Division)</strong> from an HEC-recognized university and Punjab domicile. The upper age limit has been raised from 30 to <strong>32 years</strong> vide S&amp;GAD notification dated 2 October 2026, with age counted on 1 January 2027. Applications are accepted <strong>online only</strong> at ppsc.gop.pk; the portal closes at midnight on 30 November 2026. The fee is deposited online through ATM, mobile/internet banking, 1Link member banks, JazzCash, EasyPaisa or UPaisa.</p>`,
+    howToApply: ["Visit the official PPSC website at www.ppsc.gop.pk and find Advertisement No. 12/2026 (Sr. No. 191, Case No. 106-RC/2026), Combined Competitive Examination 2026", "Fill the online form with your education, date of birth and optional subject, and submit before 30 November 2026", "Deposit the fee online through ATM, mobile/internet banking, 1Link, JazzCash, EasyPaisa or UPaisa", "Applications by post or by hand are not accepted"]
+  },
+  {
+    id: 106,
+    title: "WAPDA Jobs 2026 - 141 BPS-17 Posts incl. 114 Assistant Executive Engineers, Geologists & Assistant Directors (Apply by Nov 23)",
+    department: "Water and Power Development Authority (WAPDA)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "As per official advertisement (B.E. / B.Sc. Engineering with minimum 2.0 CGPA and valid PEC registration for engineering posts; M.Sc. Geology / Geo-Physics / Seismology for science posts; MBA / MPA / Master in HRM for Assistant Director HR&A; MA Journalism or Honours in Public Relations for Assistant Director PR)",
+    experience: "As per official advertisement (varies by post)",
+    ageLimit: "As per official advertisement",
+    vacancies: "141 (all BPS-17, regular: Assistant Executive Engineer Civil 67, Electrical 25, Mechanical 16, Electronics 6; Junior Seismologist / Geophysicist 4; Junior Geologist 9; Research Officer (Hydraulics) 1; Assistant Director HR&A 9; Assistant Director Public Relations 4)",
+    salary: "As per official advertisement (BPS-17 federal government pay scale)",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-09",
+    source: "Water and Power Development Authority advertisement PID(L)1173/26, published in Daily Jang on 8 November 2026; last date is 15 days from publication as printed in the advertisement, verified via CTS and multiple job trackers (checked 9 November 2026)",
+    officialLink: "https://www.ctspak.com",
+    officialLinkLabel: "CTS Official Website",
+    featured: true,
+    shortDesc: "WAPDA is hiring 141 regular BPS-17 officers — led by 114 Assistant Executive Engineers (Civil 67, Electrical 25, Mechanical 16, Electronics 6), plus Junior Geologists, Seismologists, a Research Officer and Assistant Directors. Apply online through Central Testing Services (CTS) by 23 November 2026; test fee Rs 200.",
+    description: `<p>The Water and Power Development Authority (WAPDA) has announced <strong>141 regular posts, all in BPS-17</strong>, through an advertisement published in Daily Jang on <strong>8 November 2026</strong> (PID(L)1173/26). Central Testing Services (CTS) will conduct the written test and WAPDA will conduct interviews.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Assistant Executive Engineer (Civil) (BPS-17):</strong> 67 posts — B.E. / B.Sc. Civil Engineering, minimum 2.0 CGPA, valid PEC registration</li>
+      <li><strong>Assistant Executive Engineer (Electrical) (BPS-17):</strong> 25 posts — B.E. / B.Sc. Electrical Engineering, minimum 2.0 CGPA, valid PEC registration</li>
+      <li><strong>Assistant Executive Engineer (Mechanical) (BPS-17):</strong> 16 posts — B.E. / B.Sc. Mechanical Engineering, minimum 2.0 CGPA, valid PEC registration</li>
+      <li><strong>Assistant Executive Engineer (Electronics) (BPS-17):</strong> 6 posts — B.E. / B.Sc. Electronics Engineering, minimum 2.0 CGPA, valid PEC registration</li>
+      <li><strong>Junior Seismologist / Geophysicist (BPS-17):</strong> 4 posts — M.Sc. Geo-Physics / Seismology (2nd Division / 2.0 CGPA)</li>
+      <li><strong>Junior Geologist (BPS-17):</strong> 9 posts — M.Sc. Geology (2nd Division / 2.0 CGPA)</li>
+      <li><strong>Research Officer (Hydraulics) (BPS-17):</strong> 1 post</li>
+      <li><strong>Assistant Director (HR&amp;A) (BPS-17):</strong> 9 posts — MBA / MPA / Master in HRM or related 16-year degree</li>
+      <li><strong>Assistant Director (Public Relations) (BPS-17):</strong> 4 posts — MA Journalism or Honours in Public Relations</li>
+    </ul>
+    <p>Apply online through <strong>CTS at www.ctspak.com</strong>, pay the <strong>Rs 200 test fee</strong> through the bank challan, then post the printed form with attested documents, CNIC, domicile, photographs and the original challan to Central Testing Services, 414, F2, Jeff Heights, Main Boulevard, Gulberg-III, Lahore. The advertisement is also available on wapda.gov.pk. Hand-delivered forms are not accepted.</p>`,
+    howToApply: ["Apply online through the Central Testing Services website at www.ctspak.com and fill the form for your post", "Pay the Rs 200 test fee through the bank challan at Bank Alfalah, UBL, MCB or Bank Islami", "Post the printed form with attested documents, CNIC, domicile, photographs and the original challan to CTS, 414, F2, Jeff Heights, Main Boulevard, Gulberg-III, Lahore, before 23 November 2026", "Hand-delivered forms are not accepted"]
+  },
+  {
+    id: 107,
+    title: "MLC Wah Cantt Jobs 2026 - 54 Teaching & Support Staff Posts incl. Senior & Junior Teachers, Cantonment Schools (Apply by Nov 23)",
+    department: "Military Lands and Cantonments Department (MLC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Wah Cantt",
+    province: "Punjab",
+    qualification: "As per official advertisement (MA / MSc / BS with 16 years of education in the relevant subject for Senior and Junior Teachers; B.Ed preferred, mandatory for Junior Teacher; one-year Montessori diploma mandatory for Montessori Teacher; BA / BSc for Assistant Teacher; BSc Computer Science / IT for Lab Attendant; BS Library Sciences for Librarian; Intermediate for PTI; MBA / BBA Finance / B.Com for Clerk and Accountant)",
+    experience: "As per official advertisement (Senior and Junior Teachers: minimum 3 years teaching experience; Montessori Teacher: 2 years; Lab Attendant: 2 years; PTI: 3 years coaching/playing experience; Assistant Teacher: fresh candidates may apply)",
+    ageLimit: "As per official advertisement (Senior Teacher 30–55 years; Junior Teacher 25–55; Montessori Teacher 25–50; Assistant Teacher minimum 25; Lab Attendant (IT) 25–40; Librarian 25–50; PTI 30–55; Clerk 30–50; Accountant 30–50; upper age limit counted from the closing date)",
+    vacancies: "54 (contract, Cantonment Public Education System, Wah Cantt — Nawababad, Officer Colony and Lala Rukh: Senior Teacher 16, Junior Teacher 25 (female only), Montessori Teacher 4 (female only), Assistant Teacher 1 (female only), Lab Attendant (IT) 2, Librarian 1 (female only), Physical Training Instructor 3, Clerk 1, Accountant 1 (female only))",
+    salary: "As per official advertisement (contract appointments in the Cantonment Public Education System)",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-09",
+    source: "Military Lands and Cantonments Department (Ministry of Defence) advertisement PID(I)4245/26, published 8 November 2026; applications within 15 days of publication, so the closing date is calculated as 23 November 2026, verified via the MLC career portal (checked 9 November 2026)",
+    officialLink: "https://careers.mlc.gov.pk",
+    officialLinkLabel: "MLC Careers Portal",
+    featured: true,
+    shortDesc: "The Military Lands and Cantonments Department (Ministry of Defence) is hiring 54 teaching and support staff on contract for the Cantonment Public Education System at Wah Cantt — 16 Senior Teachers, 25 Junior Teachers, 4 Montessori Teachers and more. Apply through the MLC careers portal within 15 days of publication (by 23 November 2026).",
+    description: `<p>The Military Lands and Cantonments Department (MLC), Ministry of Defence, invites applications for <strong>54 teaching and support staff vacancies</strong> on contract in the Cantonment Public Education System at Wah Cantt (Nawababad, Officer Colony and Lala Rukh). The advertisement (PID(I)4245/26) was published on <strong>8 November 2026</strong> and applications are accepted within 15 days of publication, i.e. by <strong>23 November 2026</strong>.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Senior Teacher:</strong> 16 posts (English 1, Mathematics 1, Physics 3, Islamiyat 2, Social Studies / Pakistan Studies 1, Urdu 3, Computer 3, Chemistry 2) — MA / MSc / BS (16 years), 3 years teaching experience, age 30–55, male / female</li>
+      <li><strong>Junior Teacher:</strong> 25 posts (English 6, Mathematics 5, Biology 1, Nazra 1, Social Studies / Pakistan Studies 3, Urdu 4, Computer 2, Physics 1, General Science 2) — female only, MA / MSc / BS (16 years), B.Ed mandatory, 3 years experience, age 25–55</li>
+      <li><strong>Montessori Teacher:</strong> 4 posts — female only, MA / MSc / BS (16 years) plus a one-year Montessori diploma (mandatory), 2 years experience, age 25–50</li>
+      <li><strong>Assistant Teacher:</strong> 1 post — female only, BA / BSc (14 years), fresh candidates may apply, minimum age 25</li>
+      <li><strong>Lab Attendant (IT):</strong> 2 posts — BSc Computer Science / IT, 2 years experience, age 25–40, male / female</li>
+      <li><strong>Librarian:</strong> 1 post — female only, BS Library Sciences, age 25–50</li>
+      <li><strong>Physical Training Instructor (PTI):</strong> 3 posts — Intermediate, 3 years coaching/playing experience, age 30–55, male / female</li>
+      <li><strong>Clerk:</strong> 1 post — MBA / BBA Finance / B.Com, age 30–50, male / female</li>
+      <li><strong>Accountant:</strong> 1 post — female only, MBA / BBA Finance / B.Com, age 30–50</li>
+    </ul>
+    <p>All appointments are <strong>contract-based and non-transferable</strong>. Only shortlisted candidates will be called for a test or interview, and no TA/DA will be paid. Retired Armed Forces, Civil Armed Forces and Police personnel may apply if they meet the advertised conditions. Apply through the <strong>official MLC career portal</strong> — the advertisement also lists an email route, but applicants should confirm the correct address through the portal before sending personal documents.</p>`,
+    howToApply: ["Open the official MLC career portal at careers.mlc.gov.pk and select the relevant position", "Enter accurate personal, educational and professional information and upload CNIC, degrees, certificates and experience documents", "Check all information before submission — incomplete applications will not be considered", "Submit within 15 days of publication (by 23 November 2026); only shortlisted candidates will be called for a test or interview"]
+  },
+  {
     id: 103,
     title: "BPSC Consolidated Advertisement 09/2026 - 250 Balochistan Govt Posts incl. Sub-Engineers, Lecturers & Veterinary Officers (Apply by Nov 11)",
     department: "Balochistan Public Service Commission (BPSC)",
