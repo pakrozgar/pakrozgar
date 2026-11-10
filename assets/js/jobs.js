@@ -10,6 +10,127 @@
 
 const JOBS = [
   {
+    id: 108,
+    title: "PECTAA Jobs 2026 - 105 Curriculum Developers & Reviewers (ECCE to Grade 5, Apply by Nov 14)",
+    department: "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Master's degree (16 years of education) or equivalent BS (4-year) degree in the exact subject applied for — ECCE, English, Urdu, Mathematics, Science, Social Studies or General Knowledge",
+    experience: "As per official advertisement (experienced professionals in developing and reviewing teacher training materials)",
+    ageLimit: "As per official advertisement",
+    vacancies: "105 (15 Developers/Reviewers in each of 7 subjects: ECCE, English, Urdu, Mathematics, Science, Social Studies, General Knowledge; assignment/deliverable basis — not regular BPS posts)",
+    salary: "As per official advertisement (payment on PECTAA's approved rates for assignments/deliverables, government taxes deducted)",
+    lastDate: "2026-11-14",
+    postedDate: "2026-11-10",
+    source: "PECTAA advertisement IPL No. 11836, November 2026; online applications close 14 November 2026 at 5:00 PM, verified via Parho Pakistan, School STI and News Guru (checked 10 November 2026)",
+    officialLink: "https://jobs.pectaa.edu.pk",
+    officialLinkLabel: "PECTAA Jobs Portal",
+    featured: true,
+    shortDesc: "PECTAA Lahore is hiring 105 Developers and Reviewers of teacher training materials for the new ECCE to Grade 5 curriculum — 15 in each of 7 subjects. Apply online only through the PECTAA jobs portal by 14 November 2026, 5:00 PM. These are assignment-based engagements, not permanent government posts.",
+    description: `<p>The Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore, has invited applications for <strong>105 Developers and Reviewers</strong> of teacher training materials for the new curriculum from ECCE to Grade 5. There are <strong>15 positions in each of 7 subjects</strong> — ECCE, English, Urdu, Mathematics, Science, Social Studies and General Knowledge.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Developers & Reviewers (105):</strong> 15 per subject — ECCE, English, Urdu, Mathematics, Science, Social Studies, General Knowledge</li>
+    </ul>
+    <p>Candidates must hold a <strong>Master's degree (16 years of education)</strong> or an equivalent BS (4-year) degree in the exact subject they apply for. Selected professionals will work on an <strong>assignment/deliverable basis</strong> — these are not regular BPS posts and carry no pension or permanent civil service tenure. Payment follows PECTAA's approved rates, with government taxes deducted.</p>
+    <p>Applications are accepted <strong>online only</strong> through the official PECTAA jobs portal — no postal or by-hand applications. Upload your CV, degree copies, CNIC and samples of training materials you have developed, and mention your subject clearly. The portal closes on <strong>Saturday, 14 November 2026 at 5:00 PM</strong>.</p>`,
+    howToApply: ["Open the official PECTAA jobs portal at jobs.pectaa.edu.pk", "Select your subject (ECCE, English, Urdu, Mathematics, Science, Social Studies or General Knowledge) and fill the online form", "Upload your updated CV, degree copies, CNIC and samples of training materials you have developed", "Submit online before 14 November 2026, 5:00 PM — no postal or by-hand applications are accepted"]
+  },
+  {
+    id: 109,
+    title: "SPSC CCE-2026 Jobs - Sindh Combined Competitive Examination (Provincial Officer Posts, Apply by Nov 11)",
+    department: "Sindh Public Service Commission (SPSC)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Hyderabad",
+    province: "Sindh",
+    qualification: "Bachelor's degree from a recognised university (as per Consolidated Advertisement No. 04/2026)",
+    experience: "As per official advertisement",
+    ageLimit: "21 to 33 years (upper age limit 33, counted on 11 November 2026; five attempts allowed for three years)",
+    vacancies: "As per official advertisement (Combined Competitive Examination for Sindh provincial officer posts, including PMS and other BPS-17 posts)",
+    salary: "As per official advertisement (BPS-17 provincial officer posts)",
+    lastDate: "2026-11-11",
+    postedDate: "2026-11-10",
+    source: "SPSC Advertisement No. 06/2026 dated 23 October 2026 (modifying Consolidated Advertisement No. 04/2026 of 19 August 2026); screening test on Saturday 28 November 2026, verified via Pakera and SPSC notices (checked 10 November 2026)",
+    officialLink: "https://www.spsc.gov.pk",
+    officialLinkLabel: "SPSC Official Website",
+    featured: true,
+    shortDesc: "The Sindh Public Service Commission's Combined Competitive Examination (CCE-2026) for provincial officer posts closes on 11 November 2026. The upper age limit is now 33 years and candidates get five attempts. The screening test is on 28 November 2026. Apply online through the SPSC website.",
+    description: `<p>The Sindh Public Service Commission (SPSC) is conducting the <strong>Combined Competitive Examination (CCE-2026)</strong> to fill provincial officer posts in the Sindh government, including PMS and other BPS-17 posts. Under Advertisement No. 06/2026 (dated 23 October 2026), which modifies Consolidated Advertisement No. 04/2026, applications close on <strong>Wednesday, 11 November 2026</strong>.</p>
+    <h3>Key changes in Advertisement No. 06/2026</h3>
+    <ul>
+      <li><strong>Upper age limit extended to 33 years</strong> (counted on 11 November 2026; lower age limit stays 21 years)</li>
+      <li><strong>Five attempts allowed</strong>, for three years</li>
+      <li><strong>Screening test pass mark 33 percent</strong> (66 marks), with 0.25 marks cut for each wrong answer</li>
+      <li><strong>Screening test on Saturday, 28 November 2026</strong> (public notice No. PSC/EXAM(C.S)/2026/241)</li>
+    </ul>
+    <p>Candidates who already applied do not need to apply again, and can correct mistakes or upload missing documents until 11 November. New applicants who are now eligible (for example because of the higher age limit) or who missed the earlier deadline can apply online before the closing date. The fee in the August advertisement is Rs 1,000, paid against a PSID through the 1Bill option. Apply online only through the official SPSC website — select Combined Competitive Examination (CCE-2026) under Advertisement No. 06/2026.</p>`,
+    howToApply: ["Open the official SPSC website at spsc.gov.pk and select Combined Competitive Examination (CCE-2026) under Advertisement No. 06/2026", "Fill the online application form and pay the Rs 1,000 fee against a PSID through the 1Bill option", "Upload required documents and correct any mistakes before the deadline", "Submit online well before 11 November 2026 — the screening test is on Saturday 28 November 2026"]
+  },
+  {
+    id: 110,
+    title: "Higher Education Department Punjab Jobs 2026 - 6 Project Posts: Monitoring Associate, Office Boy & Driver (Apply by Nov 22)",
+    department: "Higher Education Department (HED), Government of the Punjab",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "As per official advertisement (Monitoring Associate PPS-08; Office Boy and Driver PPS-03)",
+    experience: "As per official advertisement",
+    ageLimit: "As per official advertisement",
+    vacancies: "6 (project: Strengthening of HED Secretariat and Provision of ERP System for Colleges — Monitoring Associate 2, Office Boy 2, Driver 2; Punjab domicile only; Project Pay Scale)",
+    salary: "As per official advertisement (Project Pay Scale; Monitoring Associate PPS-08, Office Boy and Driver PPS-03)",
+    lastDate: "2026-11-22",
+    postedDate: "2026-11-10",
+    source: "Higher Education Department Punjab advertisement No. SO(G)11-455/2026, IPL No. 11722, November 2026; applications by post only, verified via Parho Pakistan and Jobs.com.pk (checked 10 November 2026)",
+    officialLink: "https://hed.punjab.gov.pk",
+    officialLinkLabel: "HED Punjab Website",
+    featured: false,
+    shortDesc: "The Higher Education Department Punjab is hiring 6 staff for its project 'Strengthening of HED Secretariat and Provision of ERP System for Colleges' — 2 Monitoring Associates, 2 Office Boys and 2 Drivers. Punjab domicile holders apply by post only, by 22 November 2026.",
+    description: `<p>The Higher Education Department (HED), Government of the Punjab, has announced <strong>6 project posts</strong> for the development project <strong>"Strengthening of HED Secretariat and Provision of ERP System for Colleges"</strong> (Advertisement No. SO(G)11-455/2026, IPL No. 11722).</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Monitoring Associate:</strong> 2 posts (PPS-08)</li>
+      <li><strong>Office Boy:</strong> 2 posts (PPS-03)</li>
+      <li><strong>Driver:</strong> 2 posts (PPS-03)</li>
+    </ul>
+    <p>Only candidates holding a <strong>Punjab domicile</strong> can apply. Applications are accepted <strong>by post only</strong> — there is no online apply option. Get the prescribed application form from the HED website (hed.punjab.gov.pk), fill it in typed form (hand-filled forms are not accepted), attach attested copies of your CNIC, degrees and certificates plus a detailed CV, write the post name on the upper right corner of the envelope, and send it to the Section Officer (General), Higher Education Department, Old DPI(C) Building, New Anarkali, Lahore. Your application must reach the office by <strong>22 November 2026</strong>. For queries, call 042-99210031.</p>`,
+    howToApply: ["Get the prescribed application form from the HED website at hed.punjab.gov.pk", "Fill the form in typed form (hand-filled forms are not accepted) and attach attested copies of CNIC, degrees and certificates plus a detailed CV", "Write the post name on the upper right corner of the envelope", "Send by post to the Section Officer (General), Higher Education Department, Old DPI(C) Building, New Anarkali, Lahore, so it reaches by 22 November 2026"]
+  },
+  {
+    id: 111,
+    title: "TDAP Jobs 2026 - 5 Balochistan Quota Posts: Superintendent, UDC, LDC & Staff Car Driver (Apply by Nov 13)",
+    department: "Trade Development Authority of Pakistan (TDAP)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Quetta",
+    province: "Balochistan",
+    qualification: "As per official advertisement (Superintendent & UDC: minimum 14 years education from an HEC-recognised institution, MS Office proficiency; LDC: Intermediate, typing 30 wpm preferable; Staff Car Driver: Matriculation with a valid driving licence)",
+    experience: "As per official advertisement",
+    ageLimit: "Superintendent: up to 35 years; UDC: up to 32 years; LDC: up to 30 years; Staff Car Driver: up to 30 years (including general relaxation plus 5 years for Balochistan candidates)",
+    vacancies: "5 (Balochistan quota, regular basis — Superintendent 1 (TPS-04, eq. BS-16), UDC 2 (TPS-07, eq. BS-13), LDC 1 (TPS-08, eq. BS-11), Staff Car Driver 1 (TPS-09, eq. BS-04); Balochistan Local/Domicile Certificate holders only)",
+    salary: "As per official advertisement (TDAP Pay Scales TPS-04 to TPS-09)",
+    lastDate: "2026-11-13",
+    postedDate: "2026-11-10",
+    source: "TDAP advertisement PID(I)3834/26, published 29 October 2026 (Daily Jang); applications within 15 days of publication, so the closing date is counted as 13 November 2026 — verify on the National Job Portal before applying, verified via Baloch Jobs, Ixjob and Pak Job Alert (checked 10 November 2026)",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: false,
+    shortDesc: "TDAP (Ministry of Commerce) is hiring 5 staff on a regular basis under the Balochistan quota — 1 Superintendent, 2 UDCs, 1 LDC and 1 Staff Car Driver. Only Balochistan Local/Domicile Certificate holders can apply, online via the National Job Portal or through their District Employment Cell, within 15 days of publication (by 13 November 2026).",
+    description: `<p>The Trade Development Authority of Pakistan (TDAP), an autonomous body under the Ministry of Commerce, has announced <strong>5 vacancies on a regular basis under the Balochistan quota</strong> (Advertisement PID(I)3834/26, published 29 October 2026 in the Daily Jang). Only candidates holding a <strong>Balochistan Local/Domicile Certificate</strong> are eligible.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Superintendent:</strong> 1 post (TPS-04, equivalent to BS-16) — minimum 14 years education, HEC-recognised institution; MS Office proficiency; age up to 35 years</li>
+      <li><strong>Upper Division Clerk (UDC):</strong> 2 posts (TPS-07, equivalent to BS-13) — minimum 14 years education, HEC-recognised institution; MS Office proficiency; age up to 32 years</li>
+      <li><strong>Lower Division Clerk (LDC):</strong> 1 post (TPS-08, equivalent to BS-11) — Intermediate; MS Office proficiency; typing 30 words per minute preferable; age up to 30 years</li>
+      <li><strong>Staff Car Driver:</strong> 1 post (TPS-09, equivalent to BS-04) — Matriculation with a valid driving licence; age up to 30 years</li>
+    </ul>
+    <p>Age limits include the general relaxation plus 5 years for Balochistan candidates. Applications can be submitted online through the <strong>National Job Portal (njp.gov.pk)</strong> using the dedicated tab for this recruitment, or through the respective District Employment Cell, <strong>within 15 days of the advertisement's publication</strong> — counted as <strong>13 November 2026</strong>. The advertisement prints no calendar date, so verify the deadline on the portal or with your District Employment Cell before applying.</p>`,
+    howToApply: ["Apply online through the National Job Portal at njp.gov.pk using the dedicated tab for this TDAP recruitment, or submit through your respective District Employment Cell in Balochistan", "Only Balochistan Local/Domicile Certificate holders are eligible — attach your domicile certificate", "Submit within 15 days of the advertisement's publication (counted as 13 November 2026); verify the deadline on the portal before applying"]
+  },
+  {
     id: 104,
     title: "Pakistan Railways Jobs 2026 - 829 Posts (BPS-01 to BPS-16), Balochistan Quota, Quetta Division & HQ (Apply by Nov 11)",
     department: "Pakistan Railways",
