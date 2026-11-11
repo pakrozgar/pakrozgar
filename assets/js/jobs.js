@@ -10,6 +10,159 @@
 
 const JOBS = [
   {
+    id: 112,
+    title: "ZTBL Jobs 2026 - 8 AML/Compliance & Service Quality Officers (OG-I/OG-II) (Apply by Nov 22)",
+    department: "Zarai Taraqiati Bank Limited (ZTBL)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Islamabad (Head Office)",
+    province: "All Pakistan",
+    qualification: "Minimum Bachelor's degree from an HEC-recognized institute/university (national/international) for all posts",
+    experience: "Minimum 3 years of relevant experience for OG-II posts (AML Policy, Account Monitoring, AML Analyst-TMU, CFT Desk, Sanction Analyst, Service Quality Analyst, Customer Experience Officer); minimum 5 years for Head Compliance & Monitoring Unit (OG-I)",
+    ageLimit: "Maximum 40 years for OG-I and 35 years for OG-II, as on the closing date",
+    vacancies: "8 (1 seat each: Officer - AML Policy, Compliance and Control Unit; Head Compliance & Monitoring Unit; Account Monitoring Officer; AML Analyst-TMU; Officer - CFT Desk; Sanction Analyst; Service Quality Analyst; Customer Experience Officer)",
+    salary: "Market-competitive remuneration as per official advertisement",
+    lastDate: "2026-11-22",
+    postedDate: "2026-11-11",
+    source: "ZTBL career opportunities advertisement published 8 November 2026 in Express Tribune, verified via careerjoin.com (checked 11 November 2026)",
+    officialLink: "https://www.ztbl.com.pk/jobs",
+    officialLinkLabel: "ZTBL Careers Portal",
+    featured: true,
+    shortDesc: "Zarai Taraqiati Bank Limited (ZTBL) is hiring 8 officers for its AML/Compliance and Service Quality teams — Officer AML Policy, Head Compliance & Monitoring, Account Monitoring Officer, AML Analyst, CFT Desk Officer, Sanction Analyst, Service Quality Analyst and Customer Experience Officer. Apply online through the ZTBL careers portal by 22 November 2026.",
+    description: `<p>Zarai Taraqiati Bank Limited (ZTBL), a AAA-rated specialized financial institution with over 500 branches across Pakistan, invites applications from energetic professionals for <strong>8 officer positions</strong> in AML/Compliance and Service Quality, advertised on <strong>8 November 2026</strong> in the Express Tribune.</p>
+    <h3>Posts (1 seat each)</h3>
+    <ul>
+      <li><strong>Officer - AML Policy, Compliance and Control Unit (OG-II/OG-I):</strong> Minimum 3 years of relevant experience; preference for Branch Banking / AML &amp; Compliance experience</li>
+      <li><strong>Head Compliance &amp; Monitoring Unit (OG-I):</strong> Minimum 5 years of relevant experience; well versed in financial audits &amp; reporting processes of a bank/company</li>
+      <li><strong>Account Monitoring Officer (OG-II):</strong> Minimum 3 years of relevant experience; preference for Branch Banking Operations / AML / Compliance experience in commercial banks</li>
+      <li><strong>AML Analyst - TMU (OG-II):</strong> Minimum 3 years of relevant experience; preference for Transaction Monitoring Unit experience</li>
+      <li><strong>Officer - CFT Desk (OG-II):</strong> Minimum 3 years of relevant experience; preference for Sanctions / AML / Compliance experience</li>
+      <li><strong>Sanction Analyst (OG-II):</strong> Minimum 3 years of relevant experience; preference for Sanctions Screening in AML / Compliance</li>
+      <li><strong>Service Quality Analyst (OG-II):</strong> Minimum 3 years of relevant experience; well versed in Advanced Excel, MIS management, analysis &amp; report writing</li>
+      <li><strong>Customer Experience Officer (OG-II):</strong> Minimum 3 years of relevant experience; liaison, MIS management, research &amp; reporting skills</li>
+    </ul>
+    <p>All posts require a <strong>minimum Bachelor's degree</strong> from an HEC-recognized institute/university. The maximum age limit is <strong>40 years for OG-I and 35 years for OG-II</strong> as on the closing date. ZTBL is an equal opportunity employer — females and persons with disabilities are encouraged to apply.</p>
+    <p>Applications are accepted <strong>online only</strong> through the official ZTBL careers portal at ztbl.com.pk/jobs till <strong>22 November 2026</strong>. Only shortlisted candidates will be called for interviews; no TA/DA is admissible.</p>`,
+    howToApply: [
+      "Open the official ZTBL careers portal at ztbl.com.pk/jobs",
+      "Select the post you are applying for (OG-I/OG-II) and read its eligibility criteria",
+      "Fill the online application form and upload your updated CV and documents",
+      "Submit online before 22 November 2026 — only online submissions within the due date are accepted"
+    ]
+  },
+  {
+    id: 113,
+    title: "NBP Jobs 2026 - 4 Contract Posts: Admin Officer, Systems Administrator, Unit Head Audit & Compliance & NOC Support Officer (Apply by Nov 23)",
+    department: "National Bank of Pakistan (NBP)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Karachi & Islamabad",
+    province: "Sindh / Islamabad",
+    qualification: "Admin Officer: Minimum graduation from an HEC-recognized university; Systems Administrator: Bachelor's or Master's in IT/Computer Science/Engineering; Unit Head - Audit & Compliance: Minimum graduation, Master's or CA/ACCA/CIA/FRM preferred; NOC Support Officer: Bachelor's in IT/CS/Engineering or graduation with a Master's in IT/CS",
+    experience: "Admin Officer: Minimum 2 years of banking experience in HR/Administration; Systems Administrator: Relevant IT experience (certifications preferred); Unit Head - Audit & Compliance: Minimum 2 years in banking, a financial institution or an audit firm, including 1 year in Audit/Compliance/Risk; NOC Support Officer: Minimum 2 years of IT experience, including 1 year in Data Center/NOC operations",
+    ageLimit: "As per official advertisement",
+    vacancies: "4 job titles (Admin Officer; Systems Administrator; Unit Head - Audit & Compliance; NOC Support Officer); the advertisement says 4+ vacancies and does not give the number of posts per title",
+    salary: "As per official advertisement (competitive package as per the bank's policy)",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-11",
+    source: "National Bank of Pakistan recruitment advertisement published 8 November 2026, verified via the Sidat Hyder careers portal (checked 11 November 2026)",
+    officialLink: "https://www.sidathyder.com.pk/careers",
+    officialLinkLabel: "Sidat Hyder Careers Portal (NBP Recruitment)",
+    featured: true,
+    shortDesc: "The National Bank of Pakistan is hiring 4 professionals on 3-year contracts: Admin Officer (Karachi), Systems Administrator (Karachi/Islamabad), Unit Head - Audit & Compliance (Karachi) and NOC Support Officer (Karachi). Apply online through the Sidat Hyder careers portal by 23 November 2026.",
+    description: `<p>The National Bank of Pakistan (NBP), "The Nation's Bank", invites online applications for <strong>4 contract positions</strong> (3-year contracts, renewable at the Management's discretion), advertised on <strong>8 November 2026</strong>.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Admin Officer (OG-II/OG-I), Karachi:</strong> Minimum graduation from an HEC-recognized university; minimum 2 years of banking experience in HR/Administration; proficiency in MS Office required</li>
+      <li><strong>Systems Administrator (OG-II/OG-I), Karachi / Islamabad:</strong> Bachelor's or Master's degree in IT/Computer Science/Engineering; relevant certifications preferred</li>
+      <li><strong>Unit Head - Audit &amp; Compliance (OG-II/OG-I), Karachi:</strong> Minimum graduation; Master's or professional certifications (CA/ACCA/CIA/FRM) preferred; minimum 2 years in banking, a financial institution or an audit firm, including 1 year in Audit/Compliance/Risk</li>
+      <li><strong>NOC Support Officer (OG-III/OG-II), Karachi:</strong> Bachelor's in IT/CS/Engineering or graduation with a Master's in IT/CS; minimum 2 years of IT experience including 1 year in Data Center/NOC operations; proficiency in network monitoring tools (SolarWinds preferred)</li>
+    </ul>
+    <p>Only candidates strictly meeting the basic eligibility criteria will be invited for a test or panel interview. No TA/DA will be admissible for test or interview.</p>
+    <p>Applications are accepted <strong>online only</strong> through the Sidat Hyder careers portal. Search for the job title under the National Bank of Pakistan listings and submit before <strong>23 November 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the Sidat Hyder careers portal",
+      "Search for the job title under the National Bank of Pakistan listings",
+      "Fill in the online application form with accurate personal, educational and professional details",
+      "Upload your updated CV and required documents and submit before 23 November 2026"
+    ]
+  },
+  {
+    id: 114,
+    title: "EXIM Bank of Pakistan Jobs 2026 - 5 Posts: Group Head Strategy, Treasury Managers & Administration Officers, Karachi (Apply by Nov 20)",
+    department: "EXIM Bank of Pakistan (Pak EXIM)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Group Head Strategy: Minimum Bachelor's degree (Master's preferred) in Business Administration/Management, Finance, Strategy, IT, Data Science, Information Systems or a related field (PMP/PRINCE2 desirable); Treasury Manager/Assistant Manager: Minimum Master's degree in Finance, Business or a related discipline (ACI Certificate, CFA Level 1 or NIBAF Treasury Certificate an advantage); Administration Officers: Minimum Bachelor's degree in Business Administration, or DAE in Civil Engineering or a related field",
+    experience: "Group Head Strategy: Minimum 15 years of progressive professional experience, including at least 5 years in strategy, corporate planning or an advisory capacity; Manager Treasury Front Office: Minimum 5 years; Assistant Manager Treasury Front Office: Minimum 4 years; Officer - Administration: Minimum 2 years; Junior Officer - Administration: Minimum 1 year",
+    ageLimit: "As per official advertisement",
+    vacancies: "5 (Group Head Strategy, Transformation & Assurance; Manager Treasury Front Office; Assistant Manager Treasury Front Office; Officer - Administration; Junior Officer - Administration)",
+    salary: "As per official advertisement (not stated in the advertisement)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-11-11",
+    source: "EXIM Bank of Pakistan recruitment advertisement published 6 November 2026 (reference PID(1) 4229/26), verified via JobsLeap (checked 11 November 2026)",
+    officialLink: "https://www.eximbank.gov.pk/careers",
+    officialLinkLabel: "EXIM Bank Careers",
+    featured: true,
+    shortDesc: "EXIM Bank of Pakistan (the country's official Export Credit Agency) is hiring 5 professionals in Karachi: Group Head Strategy, Transformation & Assurance, Manager and Assistant Manager Treasury Front Office, and Officer and Junior Officer in Administration. Apply through the National Job Portal or by email by 20 November 2026.",
+    description: `<p><strong>EXIM Bank of Pakistan (Pak EXIM)</strong>, Pakistan's official Export Credit Agency, has announced <strong>5 vacancies</strong> in Karachi, published on <strong>6 November 2026</strong> (reference PID(1) 4229/26).</p>
+    <h3>Available Positions</h3>
+    <ul>
+      <li><strong>Group Head Strategy, Transformation &amp; Assurance:</strong> Minimum Bachelor's degree (Master's preferred) in Business Administration/Management, Finance, Strategy, IT, Data Science, Information Systems or a related field; minimum 15 years of progressive professional experience, including at least 5 years in strategy, corporate planning or an advisory capacity; PMP/PRINCE2 highly desirable</li>
+      <li><strong>Manager Treasury Front Office:</strong> Minimum Master's degree in Finance, Business or a related discipline; minimum 5 years of relevant treasury experience in a bank, DFI, NBFI or FMAP-accredited brokerage house</li>
+      <li><strong>Assistant Manager Treasury Front Office:</strong> Minimum Master's degree in Finance, Business or a related discipline; minimum 4 years of relevant treasury experience</li>
+      <li><strong>Officer - Administration:</strong> Minimum Bachelor's degree in Business Administration, or DAE in Civil Engineering or a related field; minimum 2 years of relevant experience in administration or general services</li>
+      <li><strong>Junior Officer - Administration:</strong> Minimum Bachelor's degree in Business Administration, or DAE in Civil Engineering or a related field; minimum 1 year of relevant experience</li>
+    </ul>
+    <p>Pak EXIM is an equal opportunity employer — females and differently abled persons meeting the criteria are encouraged to apply. Only shortlisted candidates will be contacted for interviews.</p>
+    <p>Apply online through the <strong>National Job Portal (njp.gov.pk)</strong> or by email to <strong>talenthub@eximbank.gov.pk</strong> before <strong>20 November 2026</strong>.</p>`,
+    howToApply: [
+      "Apply online on the National Job Portal at njp.gov.pk (search for EXIM Bank of Pakistan) or email your CV to talenthub@eximbank.gov.pk",
+      "Mention the position title in your application/email subject line",
+      "Attach your updated CV and required documents",
+      "Submit before 20 November 2026 — only shortlisted candidates will be contacted"
+    ]
+  },
+  {
+    id: 115,
+    title: "Bank of Punjab Jobs 2026 - Personal Banker, Personal Banking Officer & Customer Services Officer (Pan Pakistan) (Apply by Nov 20)",
+    department: "The Bank of Punjab (BOP)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Pan Pakistan",
+    province: "All Pakistan",
+    qualification: "As per official advertisement — check the listing for each post on the official BOP careers portal (branch banking roles; education and experience are given on each post's own listing page)",
+    experience: "As per official advertisement — branch banking experience is relevant for all four roles; check each post's listing on the official portal",
+    ageLimit: "As per official advertisement",
+    vacancies: "4 job titles (Personal Banker; Personal Banking Officer; Customer Services Officer; Personal Banking Officer-IBW); the official portal listing does not state the number of vacancies",
+    salary: "Band-13 to Band-10 (as per official advertisement)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-11-11",
+    source: "The Bank of Punjab recruitment advertisement published 5 November 2026, verified via the official BOP careers portal and Pak Rozgar News (checked 11 November 2026)",
+    officialLink: "https://www.bop.com.pk/available-jobs",
+    officialLinkLabel: "BOP Careers Portal",
+    featured: true,
+    shortDesc: "The Bank of Punjab is hiring for 4 front-line branch banking roles across Pakistan: Personal Banker, Personal Banking Officer, Customer Services Officer and Personal Banking Officer-IBW (Islamic Banking Window), all Band-13 to Band-10. Apply online only through the BOP careers portal by 20 November 2026.",
+    description: `<p>The Bank of Punjab (BOP), one of Pakistan's largest public-sector banks, has advertised <strong>4 front-line branch banking positions</strong> in its Consumer Banking Group — Branch Banking Division, published on <strong>5 November 2026</strong>. All four posts carry the same grade range, <strong>Band-13 to Band-10</strong>, and the same place of posting: <strong>Pan Pakistan</strong>.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Personal Banker:</strong> Customer relationships and account services at branches across Pakistan</li>
+      <li><strong>Personal Banking Officer:</strong> Customer relationships and account services at branches across Pakistan</li>
+      <li><strong>Customer Services Officer:</strong> Branch service counter operations</li>
+      <li><strong>Personal Banking Officer - IBW (Islamic Banking Window):</strong> Serves the bank's Islamic banking customers (Branch Banking Division, Central &amp; South)</li>
+    </ul>
+    <p>The official portal listing does not state a seat count or the detailed eligibility criteria in the table itself — each post's full qualification and experience requirements are given on its own listing page on the portal. Candidates should open the matching listing on <strong>bop.com.pk/available-jobs</strong> and check the criteria before applying.</p>
+    <p>The bank accepts <strong>online applications only</strong> — no application by post, email or in person is entertained, and the bank charges no application fee at any stage. Only shortlisted candidates are called for interview; no TA/DA is admissible.</p>`,
+    howToApply: [
+      "Open the official BOP careers portal at bop.com.pk/available-jobs",
+      "Find the listing for the post you want — Personal Banker, Personal Banking Officer, Customer Services Officer or Personal Banking Officer-IBW",
+      "Open the listing and read the full eligibility criteria for that post",
+      "Click Apply Now and complete the online application with your updated CV before 20 November 2026"
+    ]
+  },
+  {
     id: 108,
     title: "PECTAA Jobs 2026 - 105 Curriculum Developers & Reviewers (ECCE to Grade 5, Apply by Nov 14)",
     department: "Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)",
