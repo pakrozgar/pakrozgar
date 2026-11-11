@@ -29,6 +29,10 @@
    - sitewide  = Social Bar script (afders.org) - poori site par chalta hai
    - header    = in-page banner script (bicea.org) - homepage + job page, upar
    - directLink = Adsterra Direct Link (arwf.org) - footer mein "Sponsored" link
+   2026-11-11 10:50: ads NOT showing yet - browser-verified: code live, ad
+   scripts load, but Adsterra serves no creative (likely site approval
+   pending in Adsterra dashboard). Empty slots now auto-hide after ~12s
+   so no blank grey band shows while ads are not serving.
    ============================================================ */
 
 const AD_SETTINGS = {
@@ -81,12 +85,36 @@ function injectSandbox(container, code) {
       '<body style="margin:0;padding:0">' + code + '</body></html>');
     doc.close();
   } catch (e) { /* ad network error - page mehfooz rahega */ }
-  f.addEventListener("load", function () {
+  /* Ad aaya ya nahi: iframe ke andar koi content dikhe to ad aaya. */
+  function adVisible() {
+    try {
+      const doc = f.contentDocument;
+      if (!doc || !doc.body) return false;
+      if (doc.body.scrollHeight > 40) return true;
+      if (doc.body.querySelector("img,iframe,a,video,canvas")) return true;
+      if ((doc.body.textContent || "").trim().length > 0) return true;
+      return false;
+    } catch (e) { return true; /* cross-origin - dikhane do, chhupao mat */ }
+  }
+  function checkAd() {
+    if (!adVisible()) return false;
     try {
       const h = f.contentDocument.body.scrollHeight;
       if (h && h > 40) f.style.height = h + "px";
     } catch (e) {}
-  });
+    return true;
+  }
+  f.addEventListener("load", function () { checkAd(); });
+  /* ~12 seconds tak har 2 second baad dekho; ad na aaye to khaali slot
+     chhupa do taake page par bara khaali grey band na dikhe. */
+  let tries = 0;
+  const timer = setInterval(function () {
+    tries++;
+    if (checkAd() || tries >= 6) {
+      clearInterval(timer);
+      if (!checkAd()) container.style.display = "none";
+    }
+  }, 2000);
 }
 
 /* Slot mein ad lagana: AdSense seedha, baqi networks sandbox mein */
