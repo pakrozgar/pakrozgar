@@ -25,6 +25,10 @@
    - sidebar       : desktop par side mein chipka rehta hai
    - inarticle     : job detail page ke andar (sab se zyada earning)
    - belowcontent  : page ke neeche
+   LIVE 2026-11-11 (Adsterra codes from Faiz):
+   - sitewide  = Social Bar script (afders.org) - poori site par chalta hai
+   - header    = in-page banner script (bicea.org) - homepage + job page, upar
+   - directLink = Adsterra Direct Link (arwf.org) - footer mein "Sponsored" link
    ============================================================ */
 
 const AD_SETTINGS = {
@@ -32,11 +36,14 @@ const AD_SETTINGS = {
   publisherId: "",
 
   // Site-wide scripts: Adsterra Social Bar / Popunder ka POORA <script> code yahan
-  sitewide: "",
+  sitewide: '<script data-cfasync="false" src="https://afders.org/1/ea4c51e2db511c3926ec005ab4e6f126"></script>',
+
+  // Adsterra Direct Link: footer mein "Sponsored" link ke tor par lagta hai
+  directLink: "https://arwf.org/4/8ddd5eebab15573f7c54e86f9c5932fe",
 
   // Har slot mein apna ad code paste karein (AdSense YA Adsterra banner):
   slots: {
-    header:       "",
+    header:       '<script data-cfasync="false" src="https://bicea.org/14/bc3c87a3fc0485e781d2757ae25737fe"></script>',
     infeed:       "",
     sidebar:      "",
     inarticle:    "",
@@ -135,5 +142,19 @@ document.addEventListener("DOMContentLoaded", function () {
   });
   if ((AD_SETTINGS.sitewide || "").trim()) {
     injectSitewide(AD_SETTINGS.sitewide);
+  }
+  /* Direct Link: footer mein chhota "Sponsored" link (naye tab mein khulta hai) */
+  if ((AD_SETTINGS.directLink || "").trim()) {
+    const copy = document.querySelector("footer .copy");
+    if (copy) {
+      const a = document.createElement("a");
+      a.href = AD_SETTINGS.directLink;
+      a.target = "_blank";
+      a.rel = "sponsored noopener";
+      a.textContent = "Sponsored";
+      a.style.marginLeft = "8px";
+      copy.appendChild(document.createTextNode(" | "));
+      copy.appendChild(a);
+    }
   }
 });
