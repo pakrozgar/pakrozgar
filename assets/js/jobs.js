@@ -10,6 +10,151 @@
 
 const JOBS = [
   {
+    id: 116,
+    title: "FPSC Jobs 2026 - 278 Federal Vacancies in 48 Cases (BS-16 to BS-20, Apply by Nov 23)",
+    department: "Federal Public Service Commission (FPSC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "All Pakistan",
+    qualification: "Post-wise: Bachelor's, Master's, MBBS, engineering, law or relevant professional qualification as per the case — check the detailed advertisement for your case",
+    experience: "Varies by case — some posts accept fresh graduates; senior medical, research and management posts require relevant post-qualification experience",
+    ageLimit: "Varies by case (BS-16/17 lower than BS-19/20); general and category-specific age relaxation applies under federal rules — check the advertisement for your case",
+    vacancies: "278 across 48 cases (largest: 160 Assistant Audit Officers BS-17 in the Office of the Auditor General; 25 Demonstrators BS-17; 12 Research/Planning/Survey Officers BS-17; 10 Nurses BS-16)",
+    salary: "BS-16 to BS-20 federal pay scales (as per official advertisement)",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-12",
+    source: "FPSC Consolidated Advertisement No. 4/2026 (Phase-4/2026) dated 6 November 2026, published in newspapers 8 November 2026 (PID(I)4263/26), verified via fpsc.gov.pk and multiple job portals (checked 12 November 2026)",
+    officialLink: "https://www.fpsc.gov.pk",
+    officialLinkLabel: "FPSC Official Website",
+    featured: true,
+    shortDesc: "The Federal Public Service Commission has announced 278 federal vacancies in 48 cases (BS-16 to BS-20) under Consolidated Advertisement No. 4/2026 — the biggest intake is 160 Assistant Audit Officers (BS-17) in the Office of the Auditor General, plus Demonstrators, Professors, Engineers, Nurses and more. Apply online through the FPSC portal by 23 November 2026.",
+    description: `<p>The Federal Public Service Commission (FPSC) has announced <strong>278 federal government vacancies in 48 cases</strong> under <strong>Consolidated Advertisement No. 4/2026 (Phase-4/2026)</strong>, dated <strong>6 November 2026</strong> and published in newspapers on 8 November 2026 (PID(I)4263/26). Posts range from <strong>BS-16 to BS-20</strong> across federal ministries, hospitals, engineering departments, the Office of the Auditor General, Pakistan Railways and defence-related organisations.</p>
+    <h3>Major intakes</h3>
+    <ul>
+      <li><strong>Assistant Audit Officer (BS-17) — 160 posts:</strong> Office of the Auditor General of Pakistan (merit, Punjab, Sindh, KP, Balochistan, Ex-FATA, GB and AJ&amp;K quotas, with women and minority seats)</li>
+      <li><strong>Demonstrator (BS-17) — 25 posts:</strong> Federal Medical College, Islamabad</li>
+      <li><strong>Research / Planning / Survey Officer (BS-17) — 12 posts:</strong> Economists Group, Ministry of Planning, Development &amp; Special Initiatives</li>
+      <li><strong>Nurse (BS-16) — 10 posts:</strong> Armed Forces Institute of Rehabilitation Medicine (AFIRM), Ministry of Defence</li>
+      <li><strong>Professor (BS-20) — 6 posts &amp; Associate Professor (BS-19) — 2 posts:</strong> Pakistan Institute of Medical Sciences (PIMS), Islamabad</li>
+      <li><strong>Scientific Officer (BS-17) — 5 posts:</strong> Agriculture, Livestock &amp; Fisheries Department, Gilgit-Baltistan</li>
+      <li><strong>Engineering posts — Pakistan Railways:</strong> Assistant Signal/Telecom Engineer (3), Assistant Executive Engineer Civil (4), Assistant Mechanical Engineer (2), Assistant Controller of Stores/Purchase (2)</li>
+      <li><strong>Plus:</strong> Assistant Draftsman, Chief Psychologist, Deputy Directors, Assistant Chiefs, Research Officers, Architects, Psychologists, Ordnance Management Officers and more — 48 cases in total</li>
+    </ul>
+    <h3>Fee &amp; test</h3>
+    <p>Application fee: <strong>Rs 600</strong> for BS-16/17, <strong>Rs 1,500</strong> for BS-18, <strong>Rs 2,500</strong> for BS-19 and <strong>Rs 3,000</strong> for BS-20 and above — paid through a PSID generated on the FPSC portal via 1-Link, on or before the closing date. A separate application and fee are required for each case. The MCQ written test is tentatively scheduled from <strong>2 January 2027</strong>. Government servants must obtain a Departmental Permission Certificate (DPC) before applying.</p>
+    <p>Qualification, experience, age limit and domicile quota differ for every case — read the detailed advertisement for your chosen case on <strong>fpsc.gov.pk</strong> before applying. Candidates who already applied for the re-advertised Professor case (F.4-152/2026-R) do not need to apply again.</p>`,
+    howToApply: [
+      "Open the official FPSC website at fpsc.gov.pk and go to the General Recruitment section",
+      "Open Consolidated Advertisement No. 4/2026 and read the full details of your chosen case — qualification, experience, age limit and domicile quota",
+      "Open the FPSC online application portal at cp.fpsc.gov.pk and select the relevant case",
+      "Generate the PSID on the portal and pay the fee (Rs 600 for BS-16/17, Rs 1,500 for BS-18, Rs 2,500 for BS-19, Rs 3,000 for BS-20) via 1-Link before 23 November 2026",
+      "Complete and submit the online application with a valid email address and mobile number — no hard copy is required"
+    ]
+  },
+  {
+    id: 117,
+    title: "CDA Islamabad Jobs 2026 - 54 Contract Posts (PPS-07 to PPS-11, Apply by Nov 29)",
+    department: "Capital Development Authority (CDA)",
+    category: "Government",
+    subcategory: "Authority",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "Master's / Bachelor's degree in Civil, Project Management, IT, Computer Science, Finance, Law, Architecture, Urban Planning, or DAE (Electrical/Civil/Mechanical) — post-wise",
+    experience: "2 to 15 years of post-qualification experience in relevant technical or managerial roles (post-wise)",
+    ageLimit: "26 to 55 years (post-wise)",
+    vacancies: "54 across 35 job titles (General Manager IPMU, Chief Digital Officer, Director One Window Operations, Principal Staff Officer, Wing Leads, Digital Systems Officers, Engineers, Architects, Quantity Surveyors, Procurement Leads, Analysts and more)",
+    salary: "Project Pay Scales PPS-07 to PPS-11 (as per official advertisement)",
+    lastDate: "2026-11-29",
+    postedDate: "2026-11-12",
+    source: "CDA Situation Vacant advertisement published 9 November 2026 (PID(I)4301/26), verified via cda.gov.pk/jobs and ProPakistani (checked 12 November 2026)",
+    officialLink: "https://www.cda.gov.pk/jobs/",
+    officialLinkLabel: "CDA Jobs Portal",
+    featured: true,
+    shortDesc: "The Capital Development Authority (CDA), Islamabad, is hiring 54 professionals on contract (PPS-07 to PPS-11) across 35 positions — General Manager IPMU, Chief Digital Officer, Directors, Wing Leads, Engineers, Architects, Quantity Surveyors, Procurement and Finance staff — for its project management and delivery teams. Apply online at cda.gov.pk/jobs by 29 November 2026.",
+    description: `<p>The Capital Development Authority (CDA), Islamabad, has announced <strong>54 contract vacancies across 35 job titles</strong> for its project management and delivery teams (Capital Rescue and development-related projects), advertised on <strong>9 November 2026</strong> (PID(I)4301/26). Posts range from <strong>PPS-07 to PPS-11</strong>.</p>
+    <h3>Posts include</h3>
+    <ul>
+      <li><strong>Management:</strong> General Manager IPMU (PPS-11), Chief Digital Officer, Director One Window Operations, Principal Staff Officer (PSO), Delivery Leads, Wing Leads</li>
+      <li><strong>Engineering &amp; design:</strong> Principal Structural Engineer, Principal Architect, Principal Urban Transport Engineer, Senior Hydrology &amp; Drainage Specialist, Senior Landscape Architect, Site Delivery Engineers (High-Rise, Buildings, Highways, Roads, Urban Beautification), Quantity Surveyors, AutoCAD/GIS Specialists, BIM Specialists</li>
+      <li><strong>IT &amp; digital:</strong> Digital Systems Officers (BIM/CAD, Scheduling, E-Procurement, Finance), Field Data Officer</li>
+      <li><strong>Procurement &amp; finance:</strong> Wing Lead Procurement &amp; Contracts, Senior Procurement Lead, Tendering Analyst, Head of Contracts &amp; Disputes Channel, Wing Lead Finance &amp; Concurrent Audit, Principal Accounts Officer, Concurrent Audit Officer, Accounts &amp; Documentation Analyst, Documentation Analyst</li>
+    </ul>
+    <p>Appointments are on <strong>contract for an initial period of two years</strong>, extendable if required and performance is satisfactory. A processing fee of <strong>Rs 5,000 per post</strong> applies. Applications must be submitted <strong>online only within 20 days of publication</strong> — counted as <strong>29 November 2026</strong>. Merit, Punjab and Sindh quotas apply by post under the government quota policy.</p>`,
+    howToApply: [
+      "Visit the official CDA jobs portal at cda.gov.pk/jobs",
+      "Select the post you want and read its full eligibility criteria — qualification, experience and age limit",
+      "Pay the processing fee of Rs 5,000 for each post you apply for",
+      "Submit the online application within 20 days of the advertisement — by 29 November 2026"
+    ]
+  },
+  {
+    id: 118,
+    title: "Karachi Port Trust KPT Jobs 2026 - 48 Balochistan Quota Posts (PS-03 to PS-08, Apply by Nov 25)",
+    department: "Karachi Port Trust (KPT)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Karachi",
+    province: "Balochistan (quota)",
+    qualification: "Post-wise: Matric / Intermediate / Diploma / relevant trade qualification — check the National Job Portal listing for each post",
+    experience: "As per official advertisement — post-wise; trade test applies for technical posts",
+    ageLimit: "Up to 35 years (with 5 years upper age relaxation in addition to 5 years general relaxation, as per advertisement)",
+    vacancies: "48 posts across 34 job titles (KPT PS-03 to PS-08) — technical, medical, teaching, engineering, clerical and support staff; some sources report 50 posts, so check the NJP listing",
+    salary: "KPT pay scales PS-03 to PS-08 (as per official advertisement)",
+    lastDate: "2026-11-25",
+    postedDate: "2026-11-12",
+    source: "KPT Balochistan Quota recruitment advertisement published in Daily Jang 1 November 2026 (PID K.1448/26), verified via National Job Portal listings (checked 12 November 2026)",
+    officialLink: "https://www.kpt.gov.pk",
+    officialLinkLabel: "KPT Official Website",
+    featured: true,
+    shortDesc: "Karachi Port Trust has announced 48 posts across 34 job titles (PS-03 to PS-08) under its special Balochistan quota recruitment — technical, medical, teaching, engineering, clerical and support staff. Only Balochistan domicile holders can apply, online through the National Job Portal by 25 November 2026.",
+    description: `<p>Karachi Port Trust (KPT) has announced <strong>48 posts across 34 job titles</strong> (KPT pay scales <strong>PS-03 to PS-08</strong>) under a special <strong>Balochistan quota</strong> recruitment drive, advertised in <strong>Daily Jang on 1 November 2026</strong> (PID K.1448/26). Posts cover technical, medical, teaching, engineering, clerical and support staff — including Sub Engineer-III (Electrical), Pipe Operator, Electrical Supervisor, Binder, Rowing Fitter, Civil Survey Attendant, Engine Room Assistant, Auto Electrician, Junior Clerk and more.</p>
+    <p>Only candidates holding a valid <strong>Balochistan domicile</strong> can apply. All posts are on <strong>contract for two years (extendable)</strong>, with the duty station at Karachi Port Trust, Karachi. After the online application, candidates will appear for <strong>walk-in interviews at district level in Balochistan</strong> through newly established employment cells, on dates to be announced later.</p>
+    <p>Note: some job portals report 50 posts for this drive — the advertisement's post list totals 48, so confirm the exact post count on the National Job Portal listing before applying.</p>`,
+    howToApply: [
+      "Open the National Job Portal at njp.gov.pk",
+      "Use the dedicated Karachi Port Trust recruitment link for this Balochistan quota drive",
+      "Fill in the online application for your post and submit it on or before 25 November 2026",
+      "Keep your Balochistan domicile certificate ready and appear for the walk-in interview at your district location on the date announced later"
+    ]
+  },
+  {
+    id: 119,
+    title: "Sahiwal Institute of Cardiology Jobs 2026 - 27 Faculty & Medical Officer Posts (Apply by Nov 30)",
+    department: "Sahiwal Institute of Cardiology (Specialized Healthcare & Medical Education Department, Punjab)",
+    category: "Health",
+    subcategory: "Health",
+    city: "Sahiwal",
+    province: "Punjab",
+    qualification: "MBBS from a PMDC/PMC-recognized university; FCPS/MS/FRCS/MD/MRCP or American Board Diplomate in the relevant specialty for faculty and Senior Registrar posts",
+    experience: "5 years teaching experience as Assistant Professor (Associate Professor); 3 years post-graduation practical experience (Assistant Professor & Senior Registrar); 1 year regular house job (Medical Officer/WMO)",
+    ageLimit: "Associate Professor: male 35-50 (+5 relaxation = 55), female up to 58; Medical Officer/WMO: male 22-50 (+5 = 55), female up to 58 (post-wise)",
+    vacancies: "27 (1 Associate Professor BS-19, 7 Assistant Professors BS-18, 12 Senior Registrars BS-18, 7 Medical Officers/Women Medical Officers BS-17)",
+    salary: "BS-17 to BS-19 (as per official advertisement)",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-12",
+    source: "Sahiwal Institute of Cardiology advertisement published in Daily The News 9 November 2026 (IPL-11847, in continuation of IPL-7791), verified via The News e-paper and health.punjab.gov.pk (checked 12 November 2026)",
+    officialLink: "https://health.punjab.gov.pk",
+    officialLinkLabel: "Health Department Punjab",
+    featured: true,
+    shortDesc: "Sahiwal Institute of Cardiology is hiring 27 doctors on adhoc basis — 1 Associate Professor (BS-19), 7 Assistant Professors (BS-18), 12 Senior Registrars (BS-18) and 7 Medical Officers/Women Medical Officers (BS-17) in Cardiac Surgery, Cardiology, Preventive Cardiology and Anaesthesia. Punjab domicile holders apply offline by 30 November 2026.",
+    description: `<p>Sahiwal Institute of Cardiology, Sahiwal, has announced <strong>27 medical and teaching posts</strong> in Cardiac Surgery, Cardiology, Preventive Cardiology and Anaesthesia, advertised in <strong>Daily The News on 9 November 2026</strong> (IPL-11847, in continuation of advertisement IPL-7791). Appointments are on an <strong>adhoc basis for one year</strong>, or until a regular incumbent is posted, whichever is earlier, under the Punjab Recruitment Policy 2022.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Associate Professor (BS-19) — 1 post:</strong> Cardiac Surgery — MBBS with FCPS/MS/FRCS/MD or American Board Diplomate in the specialty, plus 5 years teaching experience as Assistant Professor and at least 3 research papers in a standard medical journal</li>
+      <li><strong>Assistant Professor (BS-18) — 7 posts:</strong> Cardiology (2), Preventive Cardiology (1), Cardiac Surgery (2), Anaesthesia (2) — MBBS with FCPS/MD/MRCP or American Board Diplomate in the specialty, with 3 years post-graduation practical experience</li>
+      <li><strong>Senior Registrar (BS-18) — 12 posts:</strong> MBBS with FCPS/MS/FRCS/MD in the relevant specialty (or FCPS/MS in General Surgery with 3 years experience in Cardiac Surgery)</li>
+      <li><strong>Medical Officer / Women Medical Officer (BS-17) — 7 posts:</strong> MBBS from a PMDC-recognized university, valid PMDC registration and 1 year regular house job; experience in Cardiology/Cardiac Surgery preferred</li>
+    </ul>
+    <p>Only <strong>Punjab domicile</strong> holders can apply. Applications are submitted <strong>offline</strong> — a complete application with attested documents must reach the <strong>Office of the Executive Director, Sahiwal Institute of Cardiology, Sahiwal</strong>, by <strong>30 November 2026</strong>.</p>`,
+    howToApply: [
+      "Prepare a complete application with attested copies of your degrees, PMDC/PMC registration, experience certificates and domicile",
+      "Address it to the Office of the Executive Director, Sahiwal Institute of Cardiology, Sahiwal",
+      "Make sure the application reaches the institute on or before 30 November 2026",
+      "Check the Specialized Healthcare & Medical Education Department website (health.punjab.gov.pk) for any updates"
+    ]
+  },
+  {
     id: 112,
     title: "ZTBL Jobs 2026 - 8 AML/Compliance & Service Quality Officers (OG-I/OG-II) (Apply by Nov 22)",
     department: "Zarai Taraqiati Bank Limited (ZTBL)",
