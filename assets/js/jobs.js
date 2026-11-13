@@ -10,6 +10,148 @@
 
 const JOBS = [
   {
+    id: 120,
+    title: "SPSC Advertisement 07/2026 - 67 Posts in Energy, Forest & Wildlife and Industries & Commerce (BS-16 to BS-19, Apply by Dec 14)",
+    department: "Sindh Public Service Commission (SPSC)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Hyderabad",
+    province: "Sindh",
+    qualification: "Post-wise: Bachelor's, Master's, DAE or PhD in the relevant field — Energy, Forestry, Veterinary Science, IT and more — as per the serial applied for",
+    experience: "Varies by post — senior posts (Director BS-19, Deputy Director) require relevant post-qualification experience; entry-level posts accept fresh graduates",
+    ageLimit: "Post-wise, BS-16 to BS-19 — check the detailed advertisement for your serial (general age relaxation applies under Sindh government rules)",
+    vacancies: "67 across 36 serials (Energy Department 35, Forest & Wildlife 28, Industries & Commerce 4 — including Director Oil & Gas, Assistant Conservator, Wildlife Veterinarian, Wildlife Ranger, Boiler Inspector, Programmer and Stenographer)",
+    salary: "BS-16 to BS-19 Sindh government pay scales (as per official advertisement)",
+    lastDate: "2026-12-14",
+    postedDate: "2026-11-13",
+    source: "SPSC Consolidated Advertisement No. 07/2026 dated 12 November 2026, verified via spsc.gov.pk and multiple job portals (checked 13 November 2026)",
+    officialLink: "https://www.spsc.gov.pk",
+    officialLinkLabel: "SPSC Official Website",
+    featured: true,
+    shortDesc: "The Sindh Public Service Commission has announced 67 posts (BS-16 to BS-19) under Consolidated Advertisement No. 07/2026 — 35 in the Energy Department, 28 in Forest & Wildlife and 4 in Industries & Commerce, including Director Oil & Gas, Assistant Conservator, Wildlife Veterinarian, Boiler Inspector and Programmer. Apply online at spsc.gov.pk by 14 December 2026.",
+    description: `<p>The Sindh Public Service Commission (SPSC), Hyderabad, has announced <strong>67 posts (BS-16 to BS-19)</strong> under <strong>Consolidated Advertisement No. 07/2026</strong>, dated <strong>12 November 2026</strong>, for the Energy, Forest &amp; Wildlife and Industries &amp; Commerce Departments of the Government of Sindh. Applications are accepted <strong>online only</strong> at spsc.gov.pk — manual applications will not be entertained.</p>
+    <h3>Department-wise posts</h3>
+    <ul>
+      <li><strong>Energy Department — 35 posts (24 serials):</strong> Director (Oil &amp; Gas) BS-19, Incharge MIS BS-18, Programmer BS-17, Technical Officer BS-17, Assistant BS-16, Stenographer and more</li>
+      <li><strong>Forest &amp; Wildlife Department — 28 posts (11 serials):</strong> Assistant Conservator BS-17, Wildlife Veterinarian, Wildlife Ranger, Taxidermist and more</li>
+      <li><strong>Industries &amp; Commerce Department — 4 posts:</strong> Boiler Inspector</li>
+    </ul>
+    <h3>Fee &amp; closing</h3>
+    <p>Application fee: <strong>Rs 500 per post category</strong>, payable through a PSID challan via 1Bill. The online form stays open round the clock, except up to <strong>5:00 PM on the closing date, 14 December 2026</strong>. This is a fresh departmental advertisement — it is separate from the SPSC Combined Competitive Examination (Ad 06/2026), which has already closed. Qualification, experience and age limit differ for every serial — read the detailed advertisement for your post on <strong>spsc.gov.pk</strong> before applying.</p>`,
+    howToApply: [
+      "Register on the official SPSC website at spsc.gov.pk and open the Available Jobs section",
+      "Select Consolidated Advertisement No. 07/2026 and read the full details of your chosen serial — qualification, experience and age limit",
+      "Generate the PSID challan and pay the Rs 500 fee per post category via 1Bill",
+      "Complete and submit the online application before 14 December 2026 (form closes at 5:00 PM on the last day) — no manual application is accepted"
+    ]
+  },
+  {
+    id: 121,
+    title: "University of Mianwali Jobs 2026 - 43 Teaching Posts: Associate Professor, Assistant Professor & Lecturer (Apply by Dec 2)",
+    department: "University of Mianwali",
+    category: "Education",
+    subcategory: "University",
+    city: "Mianwali",
+    province: "Punjab",
+    qualification: "PhD in the relevant subject as per HEC criteria (Associate Professor BS-20, Assistant Professor BS-19); MS/MPhil in the relevant subject (Lecturer BS-18)",
+    experience: "Teaching and research experience as per HEC criteria for Associate Professor and Assistant Professor posts",
+    ageLimit: "Associate Professor: 30-50 years; Assistant Professor: 25-45 years; Lecturer: 21-35 years",
+    vacancies: "43 regular teaching posts (3 Associate Professors BS-20, 14 Assistant Professors BS-19, 26 Lecturers BS-18) across 19 subjects — including 8 Lecturer Computer Science posts",
+    salary: "BS-18 to BS-20 (as per official advertisement)",
+    lastDate: "2026-12-02",
+    postedDate: "2026-11-13",
+    source: "University of Mianwali Consolidated Advertisement No. 09/2026 (IPL-11837), published in Daily Dawn 8 November 2026, verified via careers.umw.edu.pk and job portals (checked 13 November 2026)",
+    officialLink: "https://careers.umw.edu.pk",
+    officialLinkLabel: "University of Mianwali Careers Portal",
+    featured: true,
+    shortDesc: "The University of Mianwali (public sector, Government of Punjab) is hiring 43 regular teaching staff — 3 Associate Professors (BS-20), 14 Assistant Professors (BS-19) and 26 Lecturers (BS-18) across 19 subjects. Apply online at careers.umw.edu.pk by 2 December 2026; the signed hard copy must reach the Registrar by 4 December 2026.",
+    description: `<p>The University of Mianwali, a public sector university established under the Government of Punjab Act (XXXI of 2019), has announced <strong>43 regular teaching posts</strong> under <strong>Consolidated Advertisement No. 09/2026 (IPL-11837)</strong>, published in Daily Dawn on <strong>8 November 2026</strong>. Candidates from all over Pakistan, Azad Jammu &amp; Kashmir and Gilgit-Baltistan can apply.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Associate Professor (BS-20) — 3 posts:</strong> Mathematics (1), English (1), Computer Science (1) — PhD with HEC-criteria teaching and research experience; age 30-50</li>
+      <li><strong>Assistant Professor (BS-19) — 14 posts:</strong> Physics, Mathematics, Biotechnology, Computer Science (5) and more — PhD as per HEC criteria; age 25-45</li>
+      <li><strong>Lecturer (BS-18) — 26 posts:</strong> Chemistry (2), Computer Science (8) and more across 19 subjects — MS/MPhil (1st division) in the relevant subject; age 21-35</li>
+    </ul>
+    <h3>Fee &amp; deadlines</h3>
+    <p>Processing fee by bank draft in favour of the Treasurer, University of Mianwali: <strong>Rs 4,500 (BS-20), Rs 4,000 (BS-19), Rs 3,500 (BS-18)</strong> — a separate application and draft per post. Online applications close <strong>2 December 2026</strong>; the signed hard copy with documents and bank draft must reach the Registrar by courier on or before <strong>4 December 2026</strong>. A separate Advertisement No. 10/2026 covers non-teaching posts — check the portal for those.</p>`,
+    howToApply: [
+      "Open the University of Mianwali careers portal at careers.umw.edu.pk and select your post under Advertisement No. 09/2026",
+      "Fill in the online application and submit it on or before 2 December 2026",
+      "Prepare a bank draft of Rs 4,500 (BS-20), Rs 4,000 (BS-19) or Rs 3,500 (BS-18) in favour of the Treasurer, University of Mianwali",
+      "Send the signed hard copy of the application with attested documents and the bank draft by courier so it reaches the Registrar Office by 4 December 2026"
+    ]
+  },
+  {
+    id: 122,
+    title: "ITU Lahore Jobs 2026 - 12 Project Posts: Deputy Director, Assistant Director P&D, DEO & More (Apply by Nov 23)",
+    department: "Information Technology University (ITU), Lahore",
+    category: "Education",
+    subcategory: "University",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Post-wise: 18 years of education from an HEC-recognized institution (Deputy Director P&D, PPS-8); 16 years (Assistant Director P&D, PPS-7); Graduation, DAE or Intermediate for support posts",
+    experience: "8 years relevant experience (Deputy Director P&D); 3 years (Assistant Director P&D); post-wise for other roles — project experience preferred",
+    ageLimit: "Deputy Director & Assistant Director P&D: 25-50 years (post-wise for other roles)",
+    vacancies: "12 confirmed PPS posts (plus Contingent Paid Staff) across ADP-funded projects including the Command & Control Center — Deputy Director P&D, Assistant Director P&D, Data Entry Operator and support roles",
+    salary: "PPS-4 to PPS-8 project pay scales (as per official advertisement)",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-13",
+    source: "Information Technology University (ITU), Lahore project staff advertisement, Daily Jang / Business Recorder 4 November 2026 (IPL-11656), verified via jobs.itu.edu.pk and job portals (checked 13 November 2026)",
+    officialLink: "https://jobs.itu.edu.pk",
+    officialLinkLabel: "ITU Jobs Portal",
+    featured: false,
+    shortDesc: "Information Technology University (ITU), Lahore is hiring 12 project-based staff (PPS-4 to PPS-8) for its ADP-funded projects and Command & Control Center — Deputy Director P&D, Assistant Director P&D, Data Entry Operator and support roles. Apply online at jobs.itu.edu.pk by 23 November 2026.",
+    description: `<p>Information Technology University (ITU), Lahore, a public sector university, has announced <strong>12 project-based contractual posts</strong> (PPS-4 to PPS-8) for its <strong>ADP-funded projects and the Command &amp; Control Center</strong>, advertised in Daily Jang / Business Recorder on <strong>4 November 2026</strong> (IPL-11656). Appointments are purely on a contract basis and do not lead to permanent university employment.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Deputy Director Planning &amp; Development (PPS-8) — 1 post:</strong> 18 years of education with 8 years of experience; age 25-50</li>
+      <li><strong>Assistant Director Planning &amp; Development (PPS-7) — 2 posts:</strong> including one for the Command &amp; Control Center; 16 years of education with 3 years of experience; age 25-50</li>
+      <li><strong>Plus:</strong> Data Entry Operator and other planning, administration, laboratory and support posts, plus Contingent Paid Staff</li>
+    </ul>
+    <p>Apply <strong>online only</strong> through the official ITU jobs portal <strong>jobs.itu.edu.pk</strong> before <strong>23 November 2026</strong>. Merit-based recruitment; candidates with project experience are preferred. Do not pay any agent — ITU accepts applications only through its official portal.</p>`,
+    howToApply: [
+      "Open the official ITU jobs portal at jobs.itu.edu.pk",
+      "Select your post and read the detailed terms of reference for that role",
+      "Fill in and submit the online application before 23 November 2026",
+      "Keep checking the portal for the test/interview schedule — no application by hand or email is accepted"
+    ]
+  },
+  {
+    id: 123,
+    title: "Punjab Social Welfare Jobs 2026 - 22 PMU Posts: Project Director, Managers & Specialists, Lahore (Apply by Nov 25)",
+    department: "Social Welfare and Bait-ul-Maal Department, Government of Punjab",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Post-wise: Master's degree in the relevant field for management posts; relevant professional qualification for IT, design, finance, marketing and support roles — check the advertisement for your post",
+    experience: "Relevant experience required for senior posts (Project Director, Managers, Specialists) — post-wise as per the advertisement",
+    ageLimit: "Project Director: 40-50 years (post-wise for other roles — check the advertisement)",
+    vacancies: "22 posts across 15 titles — Project Director (PPS-11), Managers, Specialists, Assistant Managers and Customer Service Representatives",
+    salary: "PPS-07 to PPS-11 project pay scales — Project Director Rs 750,000 per month (as per official advertisement)",
+    lastDate: "2026-11-25",
+    postedDate: "2026-11-13",
+    source: "Social Welfare and Bait-ul-Maal Department, Punjab — Project Management Unit (PMU) advertisement, Daily Dunya 11 November 2026 (IPL-11864), verified via job portals (checked 13 November 2026)",
+    officialLink: "",
+    officialLinkLabel: "Apply as per official advertisement (see How to Apply)",
+    featured: false,
+    shortDesc: "The Social Welfare and Bait-ul-Maal Department, Government of Punjab, is hiring 22 contract staff for its new Project Management Unit (PMU) in Lahore — Project Director (PPS-11), Managers, Specialists, Assistant Managers and Customer Service Representatives. Applications by post only, to reach Lahore by 25 November 2026 before 5:00 PM.",
+    description: `<p>The Social Welfare and Bait-ul-Maal Department, Government of Punjab, has announced <strong>22 contract posts</strong> for the <strong>Project Management Unit (PMU)</strong> being established at Lahore, advertised in Daily Dunya on <strong>11 November 2026</strong> (IPL-11864). The contract runs initially until <strong>30 June 2028</strong>. Only <strong>Punjab domicile</strong> holders can apply.</p>
+    <h3>Posts</h3>
+    <ul>
+      <li><strong>Project Director (PPS-11) — 1 post:</strong> Master's degree, age 40-50, salary Rs 750,000 per month (as per official advertisement)</li>
+      <li><strong>Managers &amp; Specialists:</strong> IT, design, production, quality control, finance, marketing, logistics and customer service roles</li>
+      <li><strong>Assistant Managers &amp; Customer Service Representatives:</strong> including Assistant Manager (Design) — 4 posts</li>
+    </ul>
+    <p>There is <strong>no application fee and no online portal</strong> — applications are accepted <strong>by post only</strong> and must reach the department by <strong>25 November 2026, before 5:00 PM</strong>. This PMU recruitment is separate from the PPSC Assistant Director (Social Welfare) posts and the federal Pakistan Bait-ul-Mal recruitment — apply only against this advertisement (IPL-11864).</p>`,
+    howToApply: [
+      "Prepare a complete application with your CV, attested documents and Punjab domicile certificate",
+      "Address it to the Deputy Secretary (Technical), Social Welfare and Bait-ul-Maal Department, Punjab, 12-M, Opposite International Market, Model Town Extension, Lahore",
+      "Send it by post so it reaches the department on or before 25 November 2026, before 5:00 PM — late applications are not accepted",
+      "No fee is charged and there is no online portal for this recruitment — do not pay any agent"
+    ]
+  },
+  {
     id: 116,
     title: "FPSC Jobs 2026 - 278 Federal Vacancies in 48 Cases (BS-16 to BS-20, Apply by Nov 23)",
     department: "Federal Public Service Commission (FPSC)",
