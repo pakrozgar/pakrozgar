@@ -10,6 +10,150 @@
 
 const JOBS = [
   {
+    id: 124,
+    title: "SPHF STAR WASH Jobs 2026 - 14 Posts in Karachi: COO, Chief Engineer, CTO & Specialists (Apply by Nov 26)",
+    department: "Sindh Peoples Housing for Flood Affectees (SPHF)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Post-wise: Bachelor's to Master's / 16 years of education in a relevant field — Civil Engineering, Procurement, Business Administration, Computer Science, Environmental Science and more — as per the post applied for",
+    experience: "Varies by post — from at least 5 years (Quantity Surveyor) to at least 15 years at senior level (chief-level posts)",
+    ageLimit: "As per official advertisement",
+    vacancies: "14 (one vacancy each: Chief Operating Officer, Chief Procurement Officer, Chief Engineer, Chief Technology Officer, Chief Risk Management Officer, Senior Social Behavior Change Specialist, Senior Environment Specialist, Procurement Specialist, Contract Management Specialist, Project Manager, Senior Engineer (Design), Senior Engineer (WASH), Architect / Planner and Quantity Surveyor)",
+    salary: "Market-based package with benefits (life insurance, medical reimbursement, EOBI and communication allowance) — as per official advertisement",
+    lastDate: "2026-11-26",
+    postedDate: "2026-11-14",
+    source: "SPHF STAR WASH (Phase 1) vacancies, ad INF/KRY/5139/26, Daily Jang Karachi, 14 November 2026, verified via sphf.gos.pk Careers portal (checked 14 November 2026)",
+    officialLink: "https://www.sphf.gos.pk",
+    officialLinkLabel: "SPHF Official Website",
+    featured: true,
+    shortDesc: "Sindh Peoples Housing for Flood Affectees (SPHF) has announced 14 contract posts for its STAR WASH (Phase 1) project in Karachi — Chief Operating Officer, Chief Engineer, Chief Technology Officer, Procurement Specialist, Project Manager and more. Register on the SPHF online job portal by 26 November 2026.",
+    description: `<p>The <strong>Sindh Peoples Housing for Flood Affectees (SPHF)</strong>, a Section 42 public company, has announced <strong>14 contract posts</strong> for its <strong>STAR WASH (Phase 1)</strong> project in Karachi, advertised in <strong>Daily Jang on 14 November 2026</strong> (ad INF/KRY/5139/26). Appointments are initially for one year and extendable on satisfactory performance.</p>
+    <h3>Vacant posts (1 vacancy each)</h3>
+    <ul>
+      <li>Chief Operating Officer, Chief Procurement Officer, Chief Engineer, Chief Technology Officer, Chief Risk Management Officer</li>
+      <li>Senior Social Behavior Change Specialist, Senior Environment Specialist, Procurement Specialist, Contract Management Specialist</li>
+      <li>Project Manager, Senior Engineer (Design), Senior Engineer (WASH), Architect / Planner, Quantity Surveyor</li>
+    </ul>
+    <h3>Qualification &amp; experience</h3>
+    <p>Qualification varies by post, from a Bachelor's degree to a Master's / 16 years of education in the relevant field. Experience ranges from at least 5 years (Quantity Surveyor) to at least 15 years at senior management level for the chief-level posts. Pay is market-based with benefits such as life insurance, medical reimbursement, EOBI and a communication allowance.</p>
+    <p>Register on the <strong>SPHF online job portal</strong> (linked from the Careers page on sphf.gos.pk) by <strong>Thursday, 26 November 2026</strong>. Alternatively, applications may be posted within 15 days of publication to PO Box No. 2006, Karachi No. 8. Only shortlisted candidates will be called for interview; no TA/DA is admissible.</p>`,
+    howToApply: [
+      "Open sphf.gos.pk, go to the Careers page and follow the SPHF online job portal link",
+      "Register on the portal and select the STAR WASH post you want to apply for",
+      "Complete and submit your application by Thursday, 26 November 2026",
+      "Alternatively, post your application within 15 days of publication to PO Box No. 2006, Karachi No. 8, postcode 75350 — serving employees apply through proper channel"
+    ]
+  },
+  {
+    id: 125,
+    title: "Bank of Azad Jammu & Kashmir MTO Jobs 2026 - Management Trainee Officers via NIBAF (Apply by Nov 27)",
+    department: "Bank of Azad Jammu & Kashmir (BAJK)",
+    category: "Bank",
+    subcategory: "Public Sector Bank",
+    city: "Muzaffarabad",
+    province: "Azad Jammu & Kashmir",
+    qualification: "Master's degree or 16 years of education in Banking, Finance, Commerce or equivalent from an HEC-recognised university, with minimum CGPA 3.0/4.0 or 4.0/5.0",
+    experience: "Fresh graduates eligible — no prior experience required (as per official advertisement)",
+    ageLimit: "18 to 28 years at the time of application",
+    vacancies: "As per official advertisement",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-27",
+    postedDate: "2026-11-14",
+    source: "Bank of Azad Jammu & Kashmir MTO advertisement AJK-68D/11/2026, Daily Jang Rawalpindi, 13 November 2026, verified via NIBAF careers page nibaf.sbp.org.pk/career.html (checked 14 November 2026)",
+    officialLink: "https://nibaf.sbp.org.pk/career.html",
+    officialLinkLabel: "Apply via NIBAF Careers Portal",
+    featured: true,
+    shortDesc: "The Bank of Azad Jammu & Kashmir (BAJK) is recruiting Management Trainee Officers (MTOs) through NIBAF Pakistan. Apply online and deposit the Rs 500 fee by 27 November 2026; documents must reach NIBAF-P Karachi by 30 November 2026.",
+    description: `<p>The <strong>Bank of Azad Jammu &amp; Kashmir (BAJK)</strong>, wholly owned by the Government of Azad Jammu &amp; Kashmir, is recruiting <strong>Management Trainee Officers (MTOs)</strong> through the <strong>National Institute of Banking &amp; Finance Pakistan (NIBAF-P)</strong>. The advertisement appeared in <strong>Daily Jang Rawalpindi on 13 November 2026</strong> (ad AJK-68D/11/2026) and is listed as open on the NIBAF careers page.</p>
+    <h3>Eligibility</h3>
+    <ul>
+      <li>Master's degree or 16 years of education in Banking, Finance, Commerce or equivalent from an HEC-recognised university</li>
+      <li>Minimum CGPA 3.0 out of 4.0 or 4.0 out of 5.0 (or equivalent percentage)</li>
+      <li>Age 18 to 28 years at the time of application</li>
+      <li>Candidates awaiting final results are not eligible</li>
+    </ul>
+    <p>Apply online through the NIBAF-P application form and deposit the <strong>Rs 500 fee</strong> by <strong>27 November 2026</strong>. After submission, NIBAF-P emails an acknowledgment with a fee deposit slip. Post the printed confirmation email, original paid slip / pay order and a CNIC copy to Examinations Division, NIBAF-P, M.T. Khan Road, Karachi-74200, to arrive by <strong>30 November 2026</strong>. A written test will be held at designated centres; only shortlisted candidates will receive the schedule by SMS, email or admit card.</p>`,
+    howToApply: [
+      "Open the online application form linked from the NIBAF careers page (nibaf.sbp.org.pk/career.html) and fill it in carefully — a submitted form cannot be edited",
+      "Deposit the Rs 500 examination fee at the designated bank branches using the slip emailed after submission (online payment is not accepted)",
+      "Post the printed confirmation email, original paid slip / pay order and a CNIC copy to Examinations Division, NIBAF-P, M.T. Khan Road, Karachi-74200, to arrive by 30 November 2026",
+      "Do not submit in person and do not send applications directly to BAJK — they will not be entertained"
+    ]
+  },
+  {
+    id: 126,
+    title: "Punjab Wildlife & Parks Department Jobs 2026 - 11 Posts at Changa Manga Research Center (Apply by Nov 22)",
+    department: "Punjab Wildlife and Parks Department",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Changa Manga",
+    province: "Punjab",
+    qualification: "Post-wise: 16 years of education (M.Sc. / BS Hons.) in Zoology, Wildlife, Botany, IT, Geography or a related field; MS/MPhil required for Senior Scientific Officer",
+    experience: "Post-wise: 2 years (Lab Technician) to 7 years with 3 research publications (Senior Scientific Officer); most posts require 3-5 years of relevant experience",
+    ageLimit: "Post-wise maximum: 35 years (Lab Technician) to 45 years (Senior Scientific Officer)",
+    vacancies: "11 across 10 titles: Senior Scientific Officer (1), Biodiversity Specialist (1), Geneticist (1), Microbial Data Analyst (1), Plant Biologist (1), Plant Genomics Specialist (1), Research Collaboration Coordinator (1), IT Support Specialist (1), Geospatial Analyst (1) and Lab Technician (2)",
+    salary: "PPS-06 to PPS-09 (as per official advertisement)",
+    lastDate: "2026-11-22",
+    postedDate: "2026-11-14",
+    source: "Punjab Wildlife & Parks Department advertisement, Daily Express, 8 November 2026 (IPL-11825), project 'Eco-tourism at Changa Manga and Wetlands, Uchhali & Chashma', verified via pwl.gop.pk (checked 13 November 2026)",
+    officialLink: "https://pwl.gop.pk",
+    officialLinkLabel: "Punjab Wildlife Official Website",
+    featured: false,
+    shortDesc: "The Punjab Wildlife and Parks Department has announced 11 contract posts at the Changa Manga Research Center under the Eco-tourism project — Senior Scientific Officer, Biodiversity Specialist, Geneticist, Plant Biologist, IT Support Specialist and more. Applications must reach the Lahore office by 22 November 2026.",
+    description: `<p>The <strong>Punjab Wildlife and Parks Department, Government of the Punjab</strong>, has announced <strong>11 contract posts in 10 titles</strong> at the <strong>Changa Manga Research Center</strong> under the development project <strong>"Eco-tourism at Changa Manga and Wetlands, Uchhali &amp; Chashma"</strong>, advertised in <strong>Daily Express on 8 November 2026</strong> (IPL-11825). Posts are on contract, extendable on satisfactory performance.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Senior Scientific Officer (PPS-09, 1 post):</strong> MS/MPhil in Zoology, Wildlife or Veterinary Sciences; 7 years' experience; 3 research publications; max age 45</li>
+      <li><strong>Biodiversity Specialist, Geneticist, Microbial Data Analyst, Plant Biologist, Plant Genomics Specialist, Research Collaboration Coordinator (PPS-08, 1 post each):</strong> 16 years' education in the relevant field; 5 years' experience; max age 40</li>
+      <li><strong>IT Support Specialist, Geospatial Analyst (PPS-07, 1 post each):</strong> 16 years' education in IT / Geography; 3 years' experience; max age 40</li>
+      <li><strong>Lab Technician (PPS-06, 2 posts):</strong> 16 years' education in Wildlife, Zoology, Botany or Environmental Science; 2 years' experience; max age 35</li>
+    </ul>
+    <p>Only candidates holding a valid <strong>Punjab domicile</strong> are eligible. There is <strong>no online application</strong> — applications on plain paper must be sent by registered post or courier to the Project Director, Project Management Unit, Punjab Wildlife &amp; Parks Department, Central Tower 03, 35-B, Hali Road, Gulberg 2, Lahore, and must <strong>reach the office by 22 November 2026</strong>. Applications delivered by hand will not be entertained.</p>`,
+    howToApply: [
+      "Write your application on plain paper, clearly mentioning the post applied for",
+      "Attach attested photocopies of academic record, experience certificates, CNIC and two recent passport-size photographs (plus NOC if in government service)",
+      "Send the complete application by registered post or courier to the Project Director, Project Management Unit, Punjab Wildlife & Parks Department, Central Tower 03, 35-B, Hali Road, Gulberg 2, Lahore",
+      "Ensure the application reaches the office by 22 November 2026 — do not apply by hand and do not apply online"
+    ]
+  },
+  {
+    id: 127,
+    title: "NAFSA Jobs 2026 - 21 Posts: Directors, Deputy Directors, Assistant Directors & Inspectors (Apply by Nov 23)",
+    department: "National Agri-Trade and Food Safety Authority (NAFSA)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "Post-wise: as per the detailed job descriptions on the official NAFSA careers portal (Directors, Deputy Directors, Assistant Directors, Personal Secretaries and Inspectors)",
+    experience: "Post-wise: as per the detailed job descriptions on the official NAFSA careers portal",
+    ageLimit: "As per official advertisement",
+    vacancies: "21 posts across the Corporate Services Wing, Scientific Advisory and Policy Wing, Operations Wing and Secretariat — Directors, Deputy Directors, Assistant Directors, Personal Secretaries and Inspectors (seats per post as per the online job descriptions)",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-14",
+    source: "NAFSA advertisement PID(I)4273/26, Daily The News, 8 November 2026, verified via the NAFSA careers portal (checked 14 November 2026)",
+    officialLink: "https://sites.google.com/view/nafsa-careers/careers",
+    officialLinkLabel: "NAFSA Careers Portal",
+    featured: true,
+    shortDesc: "The National Agri-Trade and Food Safety Authority (NAFSA), a new federal regulatory authority under the NAFSA Act 2026, has announced 21 posts — Directors, Deputy Directors, Assistant Directors, Personal Secretaries and Inspectors — in Islamabad, Karachi, Multan, Gilgit-Baltistan and other stations. Apply online by 23 November 2026.",
+    description: `<p>The <strong>National Agri-Trade and Food Safety Authority (NAFSA)</strong>, a new federal regulatory authority established under the <strong>NAFSA Act, 2026</strong>, has announced <strong>21 posts</strong> across its Corporate Services Wing, Scientific Advisory and Policy Wing, Operations Wing and Secretariat, advertised in <strong>Daily The News on 8 November 2026</strong> (PID(I)4273/26).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li>Directors, Deputy Directors and Assistant Directors across the four wings</li>
+      <li>Personal Secretaries and Inspectors</li>
+      <li>Stations in Islamabad, Karachi, Multan, Gilgit-Baltistan and other stations across Pakistan</li>
+    </ul>
+    <p>The advertisement lists 21 positions; degrees, experience, age limits and seats per post are given in the detailed job descriptions on the official NAFSA careers portal. Applications are <strong>online only</strong>, to be submitted within 15 days of publication — by <strong>23 November 2026</strong>. Scan the QR code in the official advertisement or open the NAFSA careers portal to apply.</p>`,
+    howToApply: [
+      "Open the official NAFSA careers portal (sites.google.com/view/nafsa-careers/careers) or scan the QR code in the official advertisement",
+      "Read the detailed job description for your chosen post — qualification, experience and age limit are post-wise",
+      "Complete and submit the online application within 15 days of the advertisement — by 23 November 2026",
+      "Only online applications are accepted; no hard copy is required"
+    ]
+  },
+  {
     id: 120,
     title: "SPSC Advertisement 07/2026 - 67 Posts in Energy, Forest & Wildlife and Industries & Commerce (BS-16 to BS-19, Apply by Dec 14)",
     department: "Sindh Public Service Commission (SPSC)",
