@@ -10,6 +10,147 @@
 
 const JOBS = [
   {
+    id: 131,
+    title: "Federal Directorate of Education (FDE) Jobs 2026 - 464 Visiting Faculty Posts in Islamabad Schools & Colleges (Apply by Nov 30)",
+    department: "Federal Directorate of Education (FDE)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "BS / 16 years of education in the relevant subject for Category A (pre-primary to HSSC classes) and MS/MPhil/PhD for Category B (BS-level classes), from an HEC-recognised university",
+    experience: "Minimum 1 year of post-qualification teaching experience (PhD holders exempt)",
+    ageLimit: "Maximum 65 years at the time of engagement",
+    vacancies: "464 visiting faculty requirements across two categories — Category A: pre-primary, secondary and HSSC classes; Category B: BS-level classes (subject-wise requirements as per the official advertisement)",
+    salary: "Rs 1,000 per period (pre-primary to Class X/SSC), Rs 1,200 per period (HSSC) and Rs 1,400–2,000 per period (BS classes); maximum monthly remuneration up to Rs 100,000–130,000 depending on teaching level",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-15",
+    source: "Federal Directorate of Education (FDE) visiting faculty advertisement PID(I)4470/26, Daily The Nation, 14 November 2026 (checked 15 November 2026)",
+    officialLink: "https://recruitment.fbise.edu.pk",
+    officialLinkLabel: "FDE Recruitment Portal",
+    featured: true,
+    shortDesc: "The Federal Directorate of Education (FDE), Islamabad has announced 464 visiting faculty posts for its schools and colleges — Category A (pre-primary to HSSC) and Category B (BS-level classes). Apply online only at recruitment.fbise.edu.pk by 30 November 2026.",
+    description: `<p>The <strong>Federal Directorate of Education (FDE)</strong>, Ministry of Federal Education &amp; Professional Training, Islamabad, has announced <strong>464 visiting faculty</strong> positions for federal government schools and colleges, advertised in <strong>Daily The Nation on 14 November 2026</strong> (PID(I)4470/26). Engagement is under the Federal Directorate of Education (Visiting Faculty) Regulations, 2025.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Category A:</strong> Visiting faculty for pre-primary, secondary and HSSC classes</li>
+      <li><strong>Category B:</strong> Visiting faculty for BS-level classes</li>
+      <li>Subjects include English, Urdu, Education / Psychology / ECE and other subjects as per the advertisement</li>
+    </ul>
+    <p>Candidates need a BS / 16 years of education in the relevant subject for Category A and MS/MPhil/PhD for Category B, with at least 1 year of post-qualification teaching experience (PhD holders exempt). The maximum age is <strong>65 years</strong> at the time of engagement. Remuneration is Rs 1,000 per period (pre-primary to Class X/SSC), Rs 1,200 per period (HSSC) and Rs 1,400–2,000 per period (BS classes), up to a maximum of Rs 100,000–130,000 per month depending on teaching level. These are <strong>temporary, need-based</strong> engagements for a specific session/semester and do not confer any right to permanence or regularization.</p>
+    <p>Applications are <strong>online only</strong> through the FDE recruitment portal (recruitment.fbise.edu.pk) by <strong>30 November 2026</strong>. No hard-copy applications will be entertained.</p>`,
+    howToApply: [
+      "Open the FDE recruitment portal at recruitment.fbise.edu.pk",
+      "Register / log in and select the Visiting Faculty advertisement",
+      "Fill in your qualification and teaching experience and submit the online application",
+      "Submit by 30 November 2026 — no hard-copy application is required or accepted"
+    ]
+  },
+  {
+    id: 130,
+    title: "SESSI Jobs 2026 - 44 Consultant Posts in Hospitals across Sindh (Apply by Nov 20)",
+    department: "Sindh Employees' Social Security Institution (SESSI)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Major postgraduate degree in the relevant specialty — FCPS, MD, FRCP, FRCS, MS or equivalent",
+    experience: "Minimum 5 years of relevant experience",
+    ageLimit: "As per official advertisement",
+    vacancies: "44 consultant posts across 21 categories — Physician, Pediatrician, Cardiologist, Anesthetist, General Surgeon, Orthopedic Surgeon, Neurosurgeon, Gastroenterologist, Ophthalmologist, Radiologist, Dermatologist, Pathologist, ICU Consultant, Rheumatologist, Infectious Diseases Specialist, Oncologist and more",
+    salary: "Rs 350,000 per month (Rs 600,000 per month for CPSP Supervisors)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-11-15",
+    source: "SESSI consultant advertisement INF-KRY/4990/2026, The News / Daily Dunya, 5 November 2026 (checked 15 November 2026)",
+    officialLink: "https://www.sessi.gov.pk",
+    officialLinkLabel: "SESSI Official Website",
+    featured: true,
+    shortDesc: "The Sindh Employees' Social Security Institution (SESSI) has announced 44 consultant posts on a three-year tenure basis for its hospitals in Karachi, Hyderabad, Sukkur, Kotri and Nooriabad. Apply online through sessi.gov.pk within 15 days of publication — by 20 November 2026.",
+    description: `<p>The <strong>Sindh Employees' Social Security Institution (SESSI)</strong>, Government of Sindh, has announced <strong>44 consultant posts</strong> across 21 categories for its hospitals, advertised in <strong>The News / Daily Dunya on 5 November 2026</strong> (INF-KRY/4990/2026). Appointments are on a <strong>three-year tenure basis</strong>, extendable on satisfactory performance, and are non-transferable.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li>Physician, Pediatrician, Cardiologist, Anesthetist, General Surgeon, Orthopedic Surgeon, Neurosurgeon</li>
+      <li>Gastroenterologist, Ophthalmologist, Radiologist, Dermatologist, Pathologist, ICU Consultant</li>
+      <li>Rheumatologist, Infectious Diseases Specialist, Oncologist, Neuro Physician, Child Psychiatrist, Sonologist and more</li>
+    </ul>
+    <p>Candidates must hold a major postgraduate degree in the relevant specialty (FCPS, MD, FRCP, FRCS, MS or equivalent) with at least <strong>5 years of experience</strong>. The monthly pay is <strong>Rs 350,000</strong>, rising to <strong>Rs 600,000 for CPSP Supervisors</strong>. Posts are in SESSI hospitals at Karachi, Hyderabad, Sukkur, Kotri and Nooriabad. Applications must be submitted through the official SESSI website (sessi.gov.pk) within <strong>15 days of publication — by 20 November 2026</strong>.</p>`,
+    howToApply: [
+      "Open the official SESSI website at sessi.gov.pk",
+      "Find the consultant recruitment advertisement and apply through the website as directed",
+      "Attach attested copies of the required documents with your application",
+      "Submit within 15 days of the advertisement's publication — by 20 November 2026"
+    ]
+  },
+  {
+    id: 129,
+    title: "Cantonment Board Lahore Jobs 2026 - 26 Teaching & Support Posts at Cantt Public Education Institutions (Apply by Nov 21)",
+    department: "Cantonment Board Lahore",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Post-wise: Senior Teachers — MA/MSc/BS (16 years) in the relevant subject (MPhil/MS and B.Ed/M.Ed preferred); Junior and Montessori Teachers — as per the official advertisement",
+    experience: "Senior Teachers: 3 years in a reputed school or college; other posts as per the official advertisement",
+    ageLimit: "Senior Teacher: 30 to 55 years (upper age limit calculated as of the closing date); other posts as per the official advertisement",
+    vacancies: "26 posts across 17 titles: Senior Teacher (7), Junior Teacher (12), Montessori Teacher (2), Science Lab Attendant (1), PTI (2), Librarian / Assistant Librarian (1) and Lab Assistant (IT) (1)",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-21",
+    postedDate: "2026-11-15",
+    source: "Cantonment Board Lahore advertisement PID(L)1155/26, published 6 November 2026 (checked 15 November 2026)",
+    officialLink: "https://careers.mlc.gov.pk",
+    officialLinkLabel: "ML&C Careers Portal",
+    featured: false,
+    shortDesc: "Cantonment Board Lahore has announced 26 contract posts at its Cantt Public Education Institutions — 7 Senior Teachers, 12 Junior Teachers, 2 Montessori Teachers and 5 support posts. Apply online through the Military Lands & Cantonments careers portal by 21 November 2026.",
+    description: `<p><strong>Cantonment Board Lahore</strong>, under the Military Lands &amp; Cantonments Department, Ministry of Defence, has announced <strong>26 contract posts</strong> at its <strong>Cantt Public Education Institutions</strong> in Lahore Cantt, published on <strong>6 November 2026</strong> (PID(L)1155/26). All appointments are on a non-transferable contract basis.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Senior Teacher (7):</strong> English (2), Physics, Biology, Chemistry, Pakistan Studies, Urdu</li>
+      <li><strong>Junior Teacher (12)</strong> and <strong>Montessori Teacher (2)</strong></li>
+      <li><strong>Support staff (5):</strong> Science Lab Attendant (1), PTI (2), Librarian / Assistant Librarian (1), Lab Assistant (IT) (1)</li>
+    </ul>
+    <p>Senior Teachers need an MA/MSc/BS (16 years) in the relevant subject — MPhil/MS and B.Ed/M.Ed preferred — plus 3 years' experience in a reputed school or college, with an age limit of 30 to 55 years. MS Office, PowerPoint and Excel skills are mandatory for Senior Teachers. Applications are <strong>online only</strong> through the Military Lands &amp; Cantonments careers portal (careers.mlc.gov.pk) within <strong>15 days of publication — by 21 November 2026</strong>. Only shortlisted candidates will be called for test/interview; no TA/DA is admissible.</p>`,
+    howToApply: [
+      "Open the Military Lands & Cantonments careers portal at careers.mlc.gov.pk",
+      "Select the Cantt Public Education Institutions, Lahore advertisement",
+      "Complete and submit the online application with your documents",
+      "Submit within 15 days of the advertisement's publication — by 21 November 2026"
+    ]
+  },
+  {
+    id: 128,
+    title: "SECP Jobs 2026 - 3 IT Posts: Joint Director & Deputy Directors in Information Systems & Technology Division (Apply by Nov 23)",
+    department: "Securities and Exchange Commission of Pakistan (SECP)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "Master's / Bachelor's degree in Computer Science or a related discipline",
+    experience: "Joint Director: at least 10 years of relevant experience; Deputy Directors: at least 6 years of relevant experience (network/security experience for Deputy Director Networks)",
+    ageLimit: "Joint Director: maximum 45 years; Deputy Directors: maximum 40 years (as on the closing date)",
+    vacancies: "3 posts (1 each): Joint Director (Database & Enterprise Data Platforms), Deputy Director (Senior Database Administrator) and Deputy Director (Networks)",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-15",
+    source: "SECP career opportunities advertisement PID(I)4233/26, Daily Express, 8 November 2026 (checked 15 November 2026)",
+    officialLink: "https://www.secp.gov.pk/careers",
+    officialLinkLabel: "SECP Careers Portal",
+    featured: false,
+    shortDesc: "The Securities and Exchange Commission of Pakistan (SECP) has announced 3 IT posts in its Information Systems & Technology Division (IS&TD), Islamabad — Joint Director (Database & Enterprise Data Platforms) and two Deputy Directors. Apply online through secp.gov.pk/careers by 23 November 2026.",
+    description: `<p>The <strong>Securities and Exchange Commission of Pakistan (SECP)</strong>, the apex regulator of Pakistan's capital markets and corporate sector, has announced <strong>3 posts</strong> in its <strong>Information Systems and Technology Division (IS&amp;TD)</strong>, Islamabad, advertised in <strong>Daily Express on 8 November 2026</strong> (PID(I)4233/26).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Joint Director (Database &amp; Enterprise Data Platforms) — 1 post:</strong> Master's/Bachelor's in Computer Science or a related discipline with at least 10 years of experience; max age 45</li>
+      <li><strong>Deputy Director (Senior Database Administrator) — 1 post:</strong> Master's/Bachelor's in Computer Science or a related discipline with at least 6 years of experience; max age 40</li>
+      <li><strong>Deputy Director (Networks) — 1 post:</strong> Master's/Bachelor's in Computer Science or a related discipline with at least 6 years of network/security experience; max age 40</li>
+    </ul>
+    <p>Appointments are on a <strong>contractual basis for 3 years</strong>, extendable on organizational need and performance. Applications must be submitted <strong>online only</strong> through the official SECP careers portal (secp.gov.pk/careers) within <strong>15 days of publication — by 23 November 2026</strong>.</p>`,
+    howToApply: [
+      "Open the SECP careers portal at secp.gov.pk/careers",
+      "Read the detailed terms of reference (TORs) for your chosen post",
+      "Complete and submit the online application",
+      "Submit within 15 days of the advertisement's publication — by 23 November 2026"
+    ]
+  },
+  {
     id: 124,
     title: "SPHF STAR WASH Jobs 2026 - 14 Posts in Karachi: COO, Chief Engineer, CTO & Specialists (Apply by Nov 26)",
     department: "Sindh Peoples Housing for Flood Affectees (SPHF)",
