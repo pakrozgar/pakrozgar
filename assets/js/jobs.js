@@ -10,6 +10,161 @@
 
 const JOBS = [
   {
+    id: 132,
+    title: "HEC Jobs 2026 - Project Director, Project Manager, Project Engineer & 5 Other Posts in Islamabad (Apply by Nov 30)",
+    department: "Higher Education Commission (HEC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "Post-wise: MS / Master / Bachelor / Matric — Project Director and Project Manager (MS/Master), Project Engineer Civil and Sub Engineer (relevant engineering qualification), Quantity Surveyor and Project Assistant (Bachelor), Office Attendant and Naib Qasid (Matric), as per the official advertisement",
+    experience: "As per official advertisement — relevant post-qualification experience required for the project posts",
+    ageLimit: "As per official advertisement",
+    vacancies: "8 advertised posts — Project Director, Project Manager, Project Engineer Civil, Sub Engineer, Quantity Surveyor, Project Assistant, Office Attendant and Naib Qasid (seat count per post as per the official advertisement)",
+    salary: "As per Government Rules",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-16",
+    source: "Higher Education Commission (HEC) jobs advertisement, Daily Jang, 15 November 2026 (checked 16 November 2026)",
+    officialLink: "https://www.hec.gov.pk",
+    officialLinkLabel: "HEC Official Website",
+    featured: true,
+    shortDesc: "The Higher Education Commission (HEC), Islamabad has announced 8 project posts at its H-8 office — Project Director, Project Manager, Project Engineer Civil, Sub Engineer, Quantity Surveyor, Project Assistant, Office Attendant and Naib Qasid. Apply by 30 November 2026.",
+    description: `<p>The <strong>Higher Education Commission (HEC)</strong>, Islamabad, has invited applications for <strong>8 project posts</strong> at its H-8 office, advertised in <strong>Daily Jang on 15 November 2026</strong>. The posts are full-time government jobs.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Project Director</strong></li>
+      <li><strong>Project Manager</strong></li>
+      <li><strong>Project Engineer Civil</strong></li>
+      <li><strong>Sub Engineer</strong></li>
+      <li><strong>Quantity Surveyor</strong></li>
+      <li><strong>Project Assistant</strong></li>
+      <li><strong>Office Attendant</strong></li>
+      <li><strong>Naib Qasid</strong></li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Preferred education is MS, Master, Bachelor and Matric, depending on the post applied for. Salary is as per Government Rules. Read the complete official advertisement on <strong>hec.gov.pk</strong> for the post-wise qualification, experience and age conditions before applying.</p>
+    <p>Applications must reach HEC by <strong>30 November 2026</strong>.</p>`,
+    howToApply: [
+      "Read the complete official advertisement on the HEC website (hec.gov.pk) for the post-wise eligibility and application procedure",
+      "Prepare your application as per the instructions in the official advertisement",
+      "Submit your application before the closing date, 30 November 2026 — late applications are not entertained"
+    ]
+  },
+  {
+    id: 133,
+    title: "Prime Minister's Office Jobs 2026 - Team Leader & Legal Adviser / PPP Manager, Trade Facilitation Board Secretariat (Apply by Nov 30)",
+    department: "Prime Minister's Office (Public) — Trade Facilitation Board Secretariat",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "As per official advertisement — detailed qualifications, experience, job specifications and terms of reference for each post are available at pmo.gov.pk/career",
+    experience: "As per official advertisement — relevant experience as per the terms of reference for each post",
+    ageLimit: "Maximum 62 years on the application closing date",
+    vacancies: "2 posts — Team Leader (1) and Legal Adviser / PPP Manager (1), Management Pay Scale positions in the Secretariat of the Trade Facilitation Board (TFB)",
+    salary: "Management Pay Scale (as per Management Pay Scales Policy, 2020)",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-16",
+    source: "Prime Minister's Office (Public) advertisement, Daily Dunya, 15 November 2026 (checked 16 November 2026)",
+    officialLink: "https://www.pmo.gov.pk/career",
+    officialLinkLabel: "PM Office Careers (pmo.gov.pk/career)",
+    featured: false,
+    shortDesc: "The Prime Minister's Office (Public), Islamabad is hiring a Team Leader and a Legal Adviser / PPP Manager for the Trade Facilitation Board Secretariat on Management Pay Scale (contract). Maximum age 62 years. Apply online within 15 days — by 30 November 2026.",
+    description: `<p>The <strong>Prime Minister's Office (Public)</strong>, Islamabad, has invited applications for <strong>two Management Pay Scale positions</strong> in the Secretariat of the <strong>Trade Facilitation Board (TFB)</strong>, advertised in <strong>Daily Dunya on 15 November 2026</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Team Leader</strong> — Trade Facilitation Board Secretariat</li>
+      <li><strong>Legal Adviser / PPP Manager</strong> — Trade Facilitation Board Secretariat</li>
+    </ul>
+    <h3>Terms</h3>
+    <p>Both posts are on contract under the Management Pay Scales Policy, 2020. The <strong>maximum age is 62 years</strong> on the application closing date. Shortlisting criteria, terms of reference, qualifications, experience, job specifications and deliverables can be accessed at <strong>www.pmo.gov.pk/career</strong>.</p>
+    <p>Applications must be submitted <strong>online within 15 days of publication — by 30 November 2026</strong>.</p>`,
+    howToApply: [
+      "Visit www.pmo.gov.pk/career and download the terms of reference for the post you are applying for",
+      "Check the qualification, experience and shortlisting criteria for the post",
+      "Submit your application online within 15 days of the advertisement — by 30 November 2026"
+    ]
+  },
+  {
+    id: 134,
+    title: "NBP Jobs 2026 - Relationship Manager SME Commercial (OG-I) & Relationship Manager Auto (OG-II), Aitemaad Islamic Banking (Apply by Nov 27)",
+    department: "National Bank of Pakistan (NBP)",
+    category: "Bank",
+    subcategory: "Public Bank",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Relationship Manager – SME Commercial: minimum Graduation or equivalent in Finance, Accounting, Economics or Commerce from an HEC-recognised institution (Master's and/or Islamic Banking certification/diploma from NIBAF preferred). Relationship Manager – Auto: minimum Graduation or equivalent from an HEC-recognised institution (Commerce graduation or Islamic Banking qualification preferred)",
+    experience: "Relationship Manager – SME Commercial: minimum 4 years of banking experience in relationship management and/or credit involving corporate, commercial and/or SME assets. Relationship Manager – Auto: minimum 2 years of banking experience, including 1 year in sales (asset sales experience preferred)",
+    ageLimit: "As per official advertisement",
+    vacancies: "2 advertised posts — Relationship Manager – SME Commercial (OG-I, Lahore) and Relationship Manager – Auto (OG-II, Islamabad, Karachi, Lahore and Rawalpindi), for NBP Aitemaad Islamic Banking (seat count per post as per the official advertisement)",
+    salary: "Compensation package and benefits as per the bank's policies and rules",
+    lastDate: "2026-11-27",
+    postedDate: "2026-11-16",
+    source: "National Bank of Pakistan (NBP) advertisement, The Nation, 15 November 2026 (checked 16 November 2026)",
+    officialLink: "https://www.sidathyder.com.pk/careers",
+    officialLinkLabel: "NBP Careers Portal",
+    featured: false,
+    shortDesc: "National Bank of Pakistan is hiring Relationship Managers for its Aitemaad Islamic Banking business — SME Commercial (OG-I, Lahore) and Auto (OG-II, Islamabad, Karachi, Lahore, Rawalpindi) — on a 3-year renewable contract. Apply online within 10 working days, by 27 November 2026.",
+    description: `<p>The <strong>National Bank of Pakistan (NBP)</strong> is seeking experienced professionals for its <strong>Aitemaad Islamic Banking</strong> business, advertised in <strong>The Nation on 15 November 2026</strong>. Employment is on a <strong>three-year contractual basis</strong>, renewable at the management's discretion.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Relationship Manager – SME Commercial (OG-I)</strong> — Lahore; reports to the Wing Head – SME Commercial (North). Expand and manage the SME and commercial assets portfolio, introduce new customers, prepare credit proposals and ensure Shariah and SBP regulatory compliance.</li>
+      <li><strong>Relationship Manager – Auto (OG-II)</strong> — Islamabad, Karachi, Lahore and Rawalpindi; reports to the Branch Manager. Meet auto financing sales targets, plan daily customer visits, support cluster branches with lead generation and cross-sell deposits, banca Takaful and digital products.</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>SME Commercial: Graduation in Finance, Accounting, Economics or Commerce (HEC-recognised) with at least <strong>4 years</strong> of banking experience in relationship management and/or credit. Auto: Graduation (HEC-recognised) with at least <strong>2 years</strong> of banking experience, including 1 year in sales. NBP is an equal opportunity employer.</p>
+    <p>Apply online at <strong>www.sidathyder.com.pk/careers</strong> within 10 working days of publication — by <strong>27 November 2026</strong>. Only shortlisted candidates will be called for a test and/or panel interview; no TA/DA is admissible.</p>`,
+    howToApply: [
+      "Visit the NBP careers portal at www.sidathyder.com.pk/careers",
+      "Select the Relationship Manager post (SME Commercial or Auto) and read the full job description",
+      "Apply online within 10 working days of the advertisement — by 27 November 2026; applications received after the due date will not be considered"
+    ]
+  },
+  {
+    id: 135,
+    title: "PPCBL Jobs 2026 - 15 Banking & Support Posts: Regional Business Head, Branch Managers, Product Managers & More (Apply by Nov 22)",
+    department: "Punjab Provincial Cooperative Bank Ltd (PPCBL)",
+    category: "Bank",
+    subcategory: "Provincial Bank",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Minimum 14 years of education from an HEC-recognised or foreign institution for all posts",
+    experience: "Post-wise: 1 to 7 years of post-qualification experience, including relevant or banking experience — Regional Business Head 7 years, Financial Controller 7 years, Unit Head – Market Risk 5 years, Branch Managers 3 years, Unit Managers 3 years, Manager Business Analytics / Civil Engineer 2 years, Officer Payable / Product Managers 1 year (preferred)",
+    ageLimit: "Post-wise maximum age 35 to 55 years (Officer Payable and Product Managers 35; Manager Business Analytics and Civil Engineer 45; Branch Managers and Unit Managers 55); regular employment up to the age of 60 years",
+    vacancies: "15 posts across 13 advertised positions — Regional Business Head (Sargodha), Branch Managers (across Punjab), Unit Head – Market Risk, Financial Controller, Officer Payable, Product Manager – Liabilities / EB & Islamic Conversion (2), Product Manager – Assets & Cards (2), Manager Business Analytics, Unit Manager – BI & Reporting, Unit Manager – Cards, Unit Manager Debit Card & SMS, Civil Engineer (Multan) and Manager Caretaking",
+    salary: "As per official advertisement",
+    lastDate: "2026-11-22",
+    postedDate: "2026-11-16",
+    source: "Punjab Provincial Cooperative Bank Ltd (PPCBL) advertisement, Daily Dawn, 15 November 2026 (checked 16 November 2026)",
+    officialLink: "https://hris.ppcbl.com.pk/jobs",
+    officialLinkLabel: "PPCBL Careers Portal",
+    featured: false,
+    shortDesc: "The Punjab Provincial Cooperative Bank (PPCBL) — 151 branches across Punjab — is hiring 15 banking and support staff in Lahore, Sargodha, Multan and across Punjab, including Regional Business Head, Branch Managers, Product Managers and Unit Managers. Minimum 14 years of education. Apply online by 22 November 2026.",
+    description: `<p>The <strong>Punjab Provincial Cooperative Bank Ltd (PPCBL)</strong>, an agriculture-focused bank with a network of <strong>151 branches</strong>, has invited applications for <strong>15 banking and support posts</strong> in Lahore, Sargodha, Multan and across Punjab, advertised in <strong>Daily Dawn on 15 November 2026</strong>. Regular employment is offered for management positions up to the age of 60 years.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Regional Business Head</strong> — Sargodha (1 post, 7 years experience)</li>
+      <li><strong>Branch Managers</strong> — across Punjab (3 years experience, max age 55)</li>
+      <li><strong>Unit Head – Market Risk</strong> — Lahore (5 years experience)</li>
+      <li><strong>Financial Controller</strong> — Lahore (7 years experience)</li>
+      <li><strong>Officer Payable</strong> — Lahore (1 year experience, max age 35)</li>
+      <li><strong>Product Manager – Liabilities, EB &amp; Islamic Conversion</strong> — Lahore (2 posts)</li>
+      <li><strong>Product Manager – Assets &amp; Cards</strong> — Lahore (2 posts)</li>
+      <li><strong>Manager Business Analytics</strong> — Lahore (2 years experience, max age 45)</li>
+      <li><strong>Unit Manager – BI &amp; Reporting, Unit Manager – Cards, Unit Manager Debit Card &amp; SMS</strong> — Lahore (3 years experience, max age 55)</li>
+      <li><strong>Civil Engineer</strong> — Multan (2 years experience, max age 45)</li>
+      <li><strong>Manager Caretaking</strong> — Lahore (3 years experience, max age 55)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>All applicants must have at least <strong>14 years of education</strong> from an HEC-recognised or foreign institution, with excellent communication, analytical, interpersonal, adaptability and teamwork skills. Internal employees are encouraged to apply. The bank is an equal opportunity provider and values diversity.</p>
+    <p>Apply online at <strong>hris.ppcbl.com.pk/jobs</strong> by <strong>22 November 2026</strong>. Helpline: 042-111 77 22 55. Only shortlisted candidates will be contacted.</p>`,
+    howToApply: [
+      "Visit the PPCBL careers portal at hris.ppcbl.com.pk/jobs and view the detailed eligibility criteria and job descriptions",
+      "Select your post and complete the online application",
+      "Submit before the closing date, 22 November 2026 — only shortlisted candidates will be contacted"
+    ]
+  },
+  {
     id: 131,
     title: "Federal Directorate of Education (FDE) Jobs 2026 - 464 Visiting Faculty Posts in Islamabad Schools & Colleges (Apply by Nov 30)",
     department: "Federal Directorate of Education (FDE)",
