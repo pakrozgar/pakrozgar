@@ -10,6 +10,160 @@
 
 const JOBS = [
   {
+    id: 136,
+    title: "Rescue 1122 Punjab Jobs 2026 - 310 Posts: Fire DERT Rescuer, Rescue Driver, EMT & Field Worker via CTS (Apply by Dec 5)",
+    department: "Emergency Services Department Punjab (Rescue 1122)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Matriculation (2nd Division) / DAE / Nursing or Paramedical Diploma, as per the official advertisement",
+    experience: "As per official advertisement — relevant experience as per the post applied for",
+    ageLimit: "20 to 30 years (no age relaxation)",
+    vacancies: "310 posts — Fire DERT Rescuer (140), Rescue Driver LTV (113), Emergency Medical Technician (32) and Field Worker (25)",
+    salary: "As per official advertisement (project posts)",
+    lastDate: "2026-12-05",
+    postedDate: "2026-11-17",
+    source: "Emergency Services Department Punjab (Rescue 1122) jobs advertisement, Daily Dunya, 14 November 2026 (checked 17 November 2026)",
+    officialLink: "https://www.rescue.gov.pk",
+    officialLinkLabel: "Rescue 1122 Official Website",
+    featured: true,
+    shortDesc: "Punjab Emergency Services Department (Rescue 1122) is hiring 310 project staff — Fire DERT Rescuer, Rescue Driver, Emergency Medical Technician and Field Worker — across 27 districts of Punjab and Lahore headquarters. Apply via CTS by 5 December 2026.",
+    description: `<p>The <strong>Emergency Services Department Punjab (Rescue 1122)</strong> has invited applications for <strong>310 project posts</strong> across 27 districts of Punjab and its Lahore headquarters, advertised in <strong>Daily Dunya on 14 November 2026</strong>. Recruitment is through the Central Testing Service (CTS).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Fire DERT Rescuer</strong> — 140 posts</li>
+      <li><strong>Rescue Driver (LTV)</strong> — 113 posts</li>
+      <li><strong>Emergency Medical Technician</strong> — 32 posts</li>
+      <li><strong>Field Worker</strong> — 25 posts</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Education required is Matriculation (2nd Division), DAE, or a Nursing / Paramedical Diploma, depending on the post. The <strong>age limit is 20 to 30 years</strong> with no age relaxation. A 15% quota is reserved for females and 5% for minorities, as per the official advertisement. Physical standards apply as per the advertisement.</p>
+    <p>Applications must be submitted by <strong>5 December 2026</strong>.</p>`,
+    howToApply: [
+      "Submit your online application via the Central Testing Service (CTS) at ctspak.com and deposit the prescribed fee",
+      "Mail the printed CTS form and paid challan to Central Testing Service, Gulberg III, Lahore before 5 December 2026",
+      "Read the complete official advertisement on rescue.gov.pk for the post-wise eligibility, physical standards and application procedure"
+    ]
+  },
+  {
+    id: 137,
+    title: "Health & Population Department Punjab Jobs 2026 - 527 Posts: Surveillance Assistant, M&E Coordinator & Program Officer via NTS (Apply by Nov 30)",
+    department: "Health & Population Department Punjab",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "BA / B.Sc / B.Com (with Diploma) / 16-year Bachelor's or Master's degree, as per the official advertisement",
+    experience: "As per official advertisement — relevant experience as per the post applied for",
+    ageLimit: "22 to 35 years",
+    vacancies: "527 posts — Surveillance Assistant (500), M&E Coordinator (22) and Program Officer (IT, Data/Statistics, Accounts and Admin)",
+    salary: "Lump-sum pay package (contract), as per official advertisement",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-17",
+    source: "Health & Population Department Punjab jobs advertisement, Daily Express, 14 November 2026 (checked 17 November 2026)",
+    officialLink: "https://www.nts.org.pk",
+    officialLinkLabel: "NTS Official Website — Apply Online",
+    featured: true,
+    shortDesc: "The Health & Population Department Punjab has announced 527 contract vacancies under the Directorate of Monitoring & Evaluation — Surveillance Assistant, M&E Coordinator and Program Officer — for Punjab domicile holders. Apply via NTS by 30 November 2026.",
+    description: `<p>The <strong>Health & Population Department, Government of Punjab</strong>, has announced <strong>527 contract vacancies</strong> under the Directorate of Monitoring &amp; Evaluation, advertised in <strong>Daily Express on 14 November 2026</strong>. Recruitment is through the National Testing Service (NTS).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Surveillance Assistant</strong> — 500 posts</li>
+      <li><strong>M&amp;E Coordinator</strong> — 22 posts</li>
+      <li><strong>Program Officer</strong> — IT, Data/Statistics, Accounts and Admin (remaining posts)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Education required is BA, B.Sc or B.Com (with diploma), or a 16-year Bachelor's or Master's degree, depending on the post. The <strong>age limit is 22 to 35 years</strong>. Only Punjab domicile holders are eligible. Posts are on a lump-sum pay package.</p>
+    <p>Applications must be submitted by <strong>30 November 2026</strong>.</p>`,
+    howToApply: [
+      "Apply online via the NTS portal at nts.org.pk and deposit the test fee through 1-Link 1Bill channels",
+      "Send the printed application form, paid deposit slip, CNIC copy and two photographs to NTS Headquarters, Islamabad by 30 November 2026",
+      "Read the complete official advertisement for the post-wise eligibility and application procedure"
+    ]
+  },
+  {
+    id: 138,
+    title: "Excise, Taxation & Narcotics Control Department Punjab Jobs 2026 - 148 Posts: Junior Computer Operator, Supervisor, Driver & More, Lahore (Apply by Nov 30)",
+    department: "Excise, Taxation & Narcotics Control Department Punjab",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Middle / Matric / Intermediate / ICS / DAE / Bachelor's degree, as per the official advertisement",
+    experience: "As per official advertisement — relevant experience as per the post applied for",
+    ageLimit: "22 to 40 years (post-specific)",
+    vacancies: "148 posts — Junior Computer Operator (60), Supervisor (38), Embossing Facility Labour (14), Helper (09), Driver (09), Naib Qasid (05) and others",
+    salary: "As per official advertisement (contract posts)",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-17",
+    source: "Excise, Taxation & Narcotics Control Department Punjab jobs advertisement, Daily Dunya, 14 November 2026 (checked 17 November 2026)",
+    officialLink: "https://excise.punjab.gov.pk/careers",
+    officialLinkLabel: "Excise Punjab Careers",
+    featured: false,
+    shortDesc: "The Excise, Taxation & Narcotics Control Department Punjab invites applications from Punjab domicile holders for 148 contract positions under MTMIS and DVRS in Lahore — Junior Computer Operator, Supervisor, Driver and support staff. Apply by 30 November 2026.",
+    description: `<p>The <strong>Excise, Taxation &amp; Narcotics Control Department, Government of the Punjab</strong>, has invited applications for <strong>148 contract positions</strong> under MTMIS and DVRS in Lahore, advertised in <strong>Daily Dunya on 14 November 2026</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Junior Computer Operator</strong> — 60 posts</li>
+      <li><strong>Supervisor</strong> — 38 posts</li>
+      <li><strong>Embossing Facility Labour</strong> — 14 posts</li>
+      <li><strong>Helper</strong> — 09 posts</li>
+      <li><strong>Driver</strong> — 09 posts</li>
+      <li><strong>Naib Qasid</strong> — 05 posts</li>
+      <li><strong>Other support posts</strong> — remaining posts</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Education required ranges from Middle to Bachelor's degree (including ICS and DAE), depending on the post. The <strong>age limit is 22 to 40 years</strong> (post-specific). Only Punjab domicile holders are eligible. A non-refundable pay order / bank draft of Rs. 300 in favour of Director General, Excise &amp; Taxation Punjab must be attached.</p>
+    <p>Applications must reach the department by <strong>30 November 2026</strong>.</p>`,
+    howToApply: [
+      "Download the application form from excise.punjab.gov.pk/careers and attach a Rs. 300 pay order / bank draft in favour of Director General, Excise & Taxation Punjab",
+      "Attach attested documents and CV with the completed form",
+      "Dispatch the complete application via courier to Director General, Excise & Taxation Punjab, 847-A, Shadman-I, Lahore before 30 November 2026"
+    ]
+  },
+  {
+    id: 139,
+    title: "PGJDC Jobs 2026 - 33 Contract Posts: Gemologist, Evaluator, Front Desk Officer, Driver & More in 5 Cities (Apply by Nov 29)",
+    department: "Pakistan Gems and Jewellery Development Company (PGJDC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Multiple Cities",
+    province: "Pakistan",
+    qualification: "As per official advertisement — MBA with at least 12 years of experience for the Senior Manager / Director post; post-wise qualification for the other posts as per the advertisement",
+    experience: "Senior Manager / Director post requires an MBA with at least 12 years of experience; other posts as per official advertisement",
+    ageLimit: "As per official advertisement",
+    vacancies: "33 contract posts — Manager, National Warranty Office (5), Gemologist (5), Assistant Gemologist (5), Evaluator, Precious & Semi-Precious Stones (3), Front Desk Officer (5), Driver (5) and Office Attendant (5); plus a Senior Manager / Director post",
+    salary: "As per official advertisement (contract posts)",
+    lastDate: "2026-11-29",
+    postedDate: "2026-11-17",
+    source: "Pakistan Gems and Jewellery Development Company (PGJDC) jobs advertisement, Daily Jang, 14 November 2026 (checked 17 November 2026)",
+    officialLink: "https://pgjdc.org",
+    officialLinkLabel: "PGJDC Official Website",
+    featured: false,
+    shortDesc: "The Pakistan Gems and Jewellery Development Company (PGJDC), Ministry of Industries & Production, has announced 33 contract posts for its National Warranty Offices in Islamabad, Lahore, Karachi, Peshawar and Quetta — Gemologist, Evaluator, Front Desk Officer and more. Apply by 29 November 2026.",
+    description: `<p>The <strong>Pakistan Gems and Jewellery Development Company (PGJDC)</strong>, Ministry of Industries &amp; Production, has announced <strong>33 contract posts</strong> for its National Warranty Offices, advertised in <strong>Daily Jang on 14 November 2026</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Manager, National Warranty Office</strong> — 5 posts</li>
+      <li><strong>Gemologist</strong> — 5 posts</li>
+      <li><strong>Assistant Gemologist</strong> — 5 posts</li>
+      <li><strong>Evaluator, Precious &amp; Semi-Precious Stones</strong> — 3 posts</li>
+      <li><strong>Front Desk Officer</strong> — 5 posts</li>
+      <li><strong>Driver</strong> — 5 posts</li>
+      <li><strong>Office Attendant</strong> — 5 posts</li>
+      <li><strong>Senior Manager / Director, National Warranty Offices</strong> — also open (MBA with at least 12 years of experience)</li>
+    </ul>
+    <h3>Locations</h3>
+    <p>The National Warranty Offices are in <strong>Islamabad, Lahore, Karachi, Peshawar and Quetta</strong>. Female candidates are preferred for the front desk posts.</p>
+    <p>Applications must reach the company by post or courier by <strong>29 November 2026</strong>.</p>`,
+    howToApply: [
+      "Read the complete official advertisement on pgjdc.org for the post-wise eligibility and application procedure",
+      "Prepare your application with attested documents as per the advertisement",
+      "Send your application by post or courier to PGJDC so it reaches by 29 November 2026 (within 15 days of the advertisement)"
+    ]
+  },
+  {
     id: 132,
     title: "HEC Jobs 2026 - Project Director, Project Manager, Project Engineer & 5 Other Posts in Islamabad (Apply by Nov 30)",
     department: "Higher Education Commission (HEC)",
