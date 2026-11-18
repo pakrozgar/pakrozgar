@@ -10,6 +10,159 @@
 
 const JOBS = [
   {
+    id: 140,
+    title: "Pakistan Railways Jobs 2026 - 227 C-Class Apprentice Posts in Moghalpura Workshops & Signal Shops, Lahore (Apply by Dec 5)",
+    department: "Pakistan Railways (Divisional Superintendent Office, Workshops Division Moghalpura)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Matriculation (2nd Division) + at least 1-year trade certificate / diploma from a government-recognised technical training institute",
+    experience: "As per official advertisement — no prior experience required; 2-year apprenticeship training at Apprentice Training Centre (ATC) Moghalpura",
+    ageLimit: "18 to 25 years + 5 years general relaxation (maximum 30 years on closing date)",
+    vacancies: "227 posts — Workshops Division Moghalpura (190 posts in 19 trades, including Coach Builder 65) and Signal Shops Lahore (37 posts: Fitter 13, Furnaceman 9, Moulder 10, Black Smith 5)",
+    salary: "BPS-06 (apprentice stipend as per rules)",
+    lastDate: "2026-12-05",
+    postedDate: "2026-11-18",
+    source: "Pakistan Railways jobs advertisement, Daily Express, 13 November 2026 (checked 18 November 2026)",
+    officialLink: "https://www.pakrail.gov.pk",
+    officialLinkLabel: "Pakistan Railways Official Website",
+    featured: true,
+    shortDesc: "Pakistan Railways is hiring 227 C-Class Apprentices for its Moghalpura Workshops and Signal Shops in Lahore — Coach Builder, Fitter, Machinist, Welder, Electrician and other trades. Matric (2nd Division) with a 1-year trade certificate can apply by 5 December 2026.",
+    description: `<p><strong>Pakistan Railways</strong> has invited applications for <strong>227 C-Class Apprentice</strong> posts at its Workshops Division Moghalpura and Signal Shops in Lahore, advertised in <strong>Daily Express on 13 November 2026</strong>. This is a 2-year apprenticeship with training at the Apprentice Training Centre (ATC) Moghalpura.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Workshops Division Moghalpura</strong> — 190 posts in 19 trades, including Coach Builder (65), Fitter, Machinist, Welder, Electrician and other workshop trades</li>
+      <li><strong>Signal Shops Lahore</strong> — 37 posts in 4 trades: Fitter (13), Furnaceman (9), Moulder (10), Black Smith (5)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Education required is Matriculation (2nd Division) with at least a 1-year certificate / diploma in the relevant trade from a government-recognised technical training institute. The <strong>age limit is 18 to 25 years</strong>, with 5 years general relaxation (maximum 30 years on the closing date).</p>
+    <p>Applications must reach the department by <strong>5 December 2026</strong>. This advertisement fills the remaining posts of the 2 April 2026 advertisement and is separate from the earlier Quetta Division recruitment.</p>`,
+    howToApply: [
+      "Download the prescribed application form from pakrail.gov.pk",
+      "Fill the form and attach the required documents (a fee of Rs. 1,000 by postal order is reported by one source — confirm the fee from the advertisement before sending)",
+      "Send the complete application by registered post or courier to Divisional Superintendent, Pakistan Railways, Workshops Division Moghalpura, Lahore before 5 December 2026 — by-hand applications will not be accepted"
+    ]
+  },
+  {
+    id: 141,
+    title: "Punjab Health Department Jobs 2026 - Consultant & Specialist Doctors in 14 Specialties across Punjab Hospitals (Apply by Dec 2)",
+    department: "Health & Population Department, Government of the Punjab (CM Punjab Initiatives)",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Multiple Cities",
+    province: "Punjab",
+    qualification: "Qualified and experienced specialist / consultant in the relevant specialty, as per official advertisement",
+    experience: "As per official advertisement — relevant specialist experience in the applied specialty",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement — 14 specialties (A to N): Cardiologist, Anesthesiologist, Neurologist, Pathologist, Urologist, Radiologist, ENT Specialist, Orthopaedic, Surgeon, Ophthalmologist, Physician, Paediatrics, Nephrologist, Gynaecologist",
+    salary: "Special pay package (amount as per official advertisement)",
+    lastDate: "2026-12-02",
+    postedDate: "2026-11-18",
+    source: "Health & Population Department Punjab jobs advertisement (IPL-12022), checked 18 November 2026",
+    officialLink: "https://hspp.pshealthpunjab.gov.pk",
+    officialLinkLabel: "Health Department Punjab Portal",
+    featured: true,
+    shortDesc: "The Health & Population Department Punjab is hiring Consultant and Specialist doctors in 14 specialties — Cardiology, Anaesthesia, Neurology, Surgery, Paediatrics and more — for hospitals across Punjab under CM Punjab Initiatives. Apply online by 2 December 2026.",
+    description: `<p>The <strong>Health &amp; Population Department, Government of the Punjab</strong>, has invited applications from qualified and experienced specialists / consultants for <strong>14 specialties</strong> in hospitals across Punjab under CM Punjab Initiatives (ad ref: <strong>IPL-12022</strong>).</p>
+    <h3>Vacant specialties</h3>
+    <ul>
+      <li><strong>Cardiologist</strong></li>
+      <li><strong>Anesthesiologist</strong></li>
+      <li><strong>Neurologist</strong></li>
+      <li><strong>Pathologist</strong></li>
+      <li><strong>Urologist</strong></li>
+      <li><strong>Radiologist</strong></li>
+      <li><strong>ENT Specialist</strong></li>
+      <li><strong>Orthopaedic</strong></li>
+      <li><strong>Surgeon</strong></li>
+      <li><strong>Ophthalmologist</strong></li>
+      <li><strong>Physician</strong></li>
+      <li><strong>Paediatrics</strong></li>
+      <li><strong>Nephrologist</strong></li>
+      <li><strong>Gynaecologist</strong></li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>The advertisement does not state a seat count, hospital names, or per-specialty education, experience, age limit or pay-package amount — each post appears on the portal with its own facility listing, so candidates must check their specialty and facility on the portal before applying. A special pay package is offered. For information, call helpline <strong>1033</strong>.</p>
+    <p>Online applications must be submitted by <strong>2 December 2026, 11:59 PM</strong>. This round is separate from the Cath Lab recruitment (IPL-11927, deadline 25 Nov) and the Medical Officers / Nurses recruitment.</p>`,
+    howToApply: [
+      "Open the Health Department portal at hspp.pshealthpunjab.gov.pk",
+      "Find your facility and specialty in the portal listing and check its requirements",
+      "Fill and submit the online form before 2 December 2026, 11:59 PM, and keep a record of the submitted form — for information call helpline 1033"
+    ]
+  },
+  {
+    id: 142,
+    title: "Sindh Bureau of Statistics Jobs 2026 - 175 Enumerator & Measurer Posts in 30 Districts for SMICS Survey (Apply by Nov 20)",
+    department: "Sindh Bureau of Statistics (SBoS), Planning & Development Department, Government of Sindh",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Multiple Cities",
+    province: "Sindh",
+    qualification: "Intermediate (field survey experience preferred)",
+    experience: "Field survey experience preferred",
+    ageLimit: "21 to 40 years",
+    vacancies: "175 posts — Enumerator / Measurer (Female) 140 and Enumerator (Male) 35",
+    salary: "As per official advertisement (short-term / contingency survey posts)",
+    lastDate: "2026-11-20",
+    postedDate: "2026-11-18",
+    source: "Sindh Bureau of Statistics jobs advertisement, Daily Dawn, November 2026 (INF/KRY 4925/26), checked 18 November 2026",
+    officialLink: "https://apply.sts.net.pk",
+    officialLinkLabel: "SIBA Testing Services (STS) Portal",
+    featured: false,
+    shortDesc: "The Sindh Bureau of Statistics is hiring 175 Enumerators / Measurers (140 female, 35 male) in all 30 districts of Sindh for the UNICEF-supported SMICS 2026-27 survey. Intermediate pass candidates aged 21-40 can apply online by 20 November 2026.",
+    description: `<p>The <strong>Sindh Bureau of Statistics (SBoS)</strong>, Planning &amp; Development Department, Government of Sindh, has invited applications for <strong>175 Enumerator / Measurer</strong> posts in all 30 districts of Sindh for the UNICEF-supported Sindh Multiple Indicator Cluster Survey (SMICS) 2026-27, advertised in <strong>Daily Dawn in November 2026</strong> (ref: INF/KRY 4925/26).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Enumerator / Measurer (Female)</strong> — 140 posts</li>
+      <li><strong>Enumerator (Male)</strong> — 35 posts</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Education required is Intermediate, with field survey experience preferred. The <strong>age limit is 21 to 40 years</strong>. Both male and female candidates can apply, and postings will be in Sindh's 30 districts.</p>
+    <p>These are <strong>short-term / contingency posts</strong> for the survey — they do not lead to regular or permanent government employment. Applications must be submitted online by <strong>20 November 2026</strong>, with a non-refundable fee of Rs. 1,500 paid through the system-generated challan.</p>`,
+    howToApply: [
+      "Open the SIBA Testing Services portal at apply.sts.net.pk, register / log in and select the Sindh Bureau of Statistics advertisement",
+      "Fill the form, upload documents and pay the Rs. 1,500 non-refundable fee through the system-generated challan",
+      "Submit the online form before 20 November 2026 and keep the application form, fee challan and SMS / email record safe — manual or hard-copy applications will not be accepted"
+    ]
+  },
+  {
+    id: 143,
+    title: "Bank of Punjab Jobs 2026 - 3 Senior Head Posts: Fraud Risk Management, Core Banking Support & Trade Operations, Lahore (Apply by Nov 26)",
+    department: "The Bank of Punjab (BOP)",
+    category: "Banking",
+    subcategory: "Bank",
+    city: "Lahore",
+    province: "Punjab",
+    qualification: "Minimum Bachelor's degree or equivalent from an HEC-recognised institution (international certification in financial crimes compliance and fraud risk management preferred for the Fraud Risk post)",
+    experience: "Segment Head – Fraud Risk Management: 9 to 12 years of banking or non-banking experience in fraud risk management, operational risk, financial crime compliance or internal controls; Head posts: at least 15 years of relevant commercial banking experience",
+    ageLimit: "Maximum 55 years (calculated on the closing date)",
+    vacancies: "3 posts — Segment Head – Fraud Risk Management (Band-5 to Band-3) 1, Head – Core Banking Support & Credit Operations (Band-4 to Band-2) 1, Head – Trade Operations (Band-4 to Band-2) 1",
+    salary: "Market-based competitive remuneration (as per official advertisement)",
+    lastDate: "2026-11-26",
+    postedDate: "2026-11-18",
+    source: "The Bank of Punjab jobs advertisement, Daily Jang, 13 November 2026 (checked 18 November 2026)",
+    officialLink: "https://www.bop.com.pk",
+    officialLinkLabel: "Bank of Punjab Official Website",
+    featured: false,
+    shortDesc: "The Bank of Punjab is hiring 3 senior leaders in Lahore — Segment Head Fraud Risk Management, Head Core Banking Support & Credit Operations and Head Trade Operations. Bachelor's degree holders with 9-15 years of banking experience can apply online by 26 November 2026.",
+    description: `<p><strong>The Bank of Punjab (BOP)</strong> has invited applications from experienced banking professionals for <strong>3 senior Head-level posts</strong> in Lahore, advertised in <strong>Daily Jang on 13 November 2026</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Segment Head – Fraud Risk Management</strong> (Band-5 to Band-3) — 1 post, Fraud Risk Management Division, Compliance &amp; Control Group</li>
+      <li><strong>Head – Core Banking Support &amp; Credit Operations</strong> (Band-4 to Band-2) — 1 post, Operations Group</li>
+      <li><strong>Head – Trade Operations</strong> (Band-4 to Band-2) — 1 post, Trade Operations Division, Operations Group</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>All three posts require at least a Bachelor's degree or equivalent from an HEC-recognised institution. The Fraud Risk post needs 9 to 12 years of experience in fraud risk management, operational risk, financial crime compliance or internal controls; the other two Head posts need at least 15 years of relevant commercial banking experience. The <strong>maximum age limit is 55 years</strong> on the closing date. Remuneration is market-based and competitive.</p>
+    <p>Applications must be submitted online through the BOP careers portal by <strong>26 November 2026</strong>. Candidates should confirm the closing date on the portal before applying, as one listing for the Fraud Risk post has also shown a 19/20 November date.</p>`,
+    howToApply: [
+      "Open the Bank of Punjab careers portal on Rozee at rozee.pk/company/the-bank-of-punjab-bop and select your post",
+      "Check the post's full criteria on its listing page and confirm the closing date on the portal",
+      "Submit the online application before 26 November 2026"
+    ]
+  },
+  {
     id: 136,
     title: "Rescue 1122 Punjab Jobs 2026 - 310 Posts: Fire DERT Rescuer, Rescue Driver, EMT & Field Worker via CTS (Apply by Dec 5)",
     department: "Emergency Services Department Punjab (Rescue 1122)",
