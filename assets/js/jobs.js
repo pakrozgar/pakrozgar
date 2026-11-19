@@ -10,6 +10,152 @@
 
 const JOBS = [
   {
+    id: 147,
+    title: "Pakistan Railways Karachi Division Jobs 2026 - 50 C-Class Apprentice Posts: Wireman, Fitter, Welder, Turner & Carpenter (Apply by Dec 18)",
+    department: "Pakistan Railways (Divisional Superintendent Office, Karachi Division)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Matriculation (2nd Division) + 1-year trade certificate / diploma in the relevant trade from a government-recognised technical training institute",
+    experience: "As per official advertisement — no prior experience required; 2-year apprenticeship contract",
+    ageLimit: "18 to 25 years",
+    vacancies: "50 posts (BPS-06) — Wireman (26), Fitter (13), Welder (8), Turner (2), Carpenter (1)",
+    salary: "BPS-06 (apprentice stipend as per rules)",
+    lastDate: "2026-12-18",
+    postedDate: "2026-11-19",
+    source: "Pakistan Railways Karachi Division jobs advertisement, Daily Dawn, 18 November 2026 (checked 19 November 2026)",
+    officialLink: "https://www.pakrail.gov.pk",
+    officialLinkLabel: "Pakistan Railways Official Website",
+    featured: true,
+    shortDesc: "Pakistan Railways Karachi Division is hiring 50 C-Class Apprentices (BPS-06) — Wireman, Fitter, Welder, Turner and Carpenter — on a 2-year contract. Matric (2nd Division) with a 1-year trade certificate can apply by 18 December 2026.",
+    description: `<p><strong>Pakistan Railways, Karachi Division</strong> has invited applications for <strong>50 C-Class Apprentice</strong> posts (BPS-06) on a 2-year contract, advertised in <strong>Daily Dawn on 18 November 2026</strong>. Recruitment is open to eligible candidates from civil districts within the territorial jurisdiction of Pakistan Railways, Karachi Division.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Wireman</strong> — 26 posts</li>
+      <li><strong>Fitter</strong> — 13 posts</li>
+      <li><strong>Welder</strong> — 8 posts</li>
+      <li><strong>Turner</strong> — 2 posts</li>
+      <li><strong>Carpenter</strong> — 1 post</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Education required is Matriculation (2nd Division) with a 1-year certificate / diploma in the relevant trade from a government-recognised technical training institute. The <strong>age limit is 18 to 25 years</strong>. Applications must reach the office by registered post or courier within 30 days of publication — <strong>18 December 2026</strong>. This is a separate advertisement from the Lahore (Moghalpura) apprentice recruitment.</p>`,
+    howToApply: [
+      "Download the prescribed application form from pakrail.gov.pk",
+      "Attach the required documents and a Rs. 550 postal order as per the advertisement",
+      "Send the complete application by registered post or courier to the Office of the Divisional Superintendent, Pakistan Railways, I.I. Chundrigar Road, Karachi within 30 days of publication (by 18 December 2026)"
+    ]
+  },
+  {
+    id: 146,
+    title: "TESCO Jobs 2026 - 12 BPS-17 Posts: Junior Engineer/SDO, Revenue Officer & Assistant Director via ETEA (Apply by Dec 10)",
+    department: "Tribal Areas Electricity Supply Company (TESCO)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Peshawar",
+    province: "Khyber Pakhtunkhwa",
+    qualification: "BE Electrical/Electronics or Civil Engineering (1st Division, PEC-registered) for Junior Engineer/SDO; MBA Finance / M.Com / MSc / MA in Statistics, Mathematics or Economics for Revenue Officer; Bachelor's in Engineering, Finance, Accounting, Law or Management Sciences (or CA/CMA Inter / ACCA Finalist) for Assistant Director",
+    experience: "Minimum 2 years of relevant experience for Assistant Director posts; as per official advertisement for other posts",
+    ageLimit: "21 to 33 years",
+    vacancies: "12 posts (BPS-17) — Junior Engineer/SDO Electrical (7), Junior Engineer/SDO Civil (1), Revenue Officer (2), Assistant Director (CM&RA) MIRAD (1), Assistant Director (DF/TP) MIRAD (1)",
+    salary: "BPS-17 (one-year contract, extendable on satisfactory performance)",
+    lastDate: "2026-12-10",
+    postedDate: "2026-11-19",
+    source: "TESCO jobs advertisement, Daily Dawn, 17 November 2026 (checked 19 November 2026)",
+    officialLink: "https://www.etea.edu.pk",
+    officialLinkLabel: "ETEA Official Website",
+    featured: true,
+    shortDesc: "Tribal Areas Electricity Supply Company (TESCO), Peshawar, is hiring 12 BPS-17 officers — Junior Engineers/SDOs, Revenue Officers and Assistant Directors — through ETEA on a one-year contract. Apply online by 10 December 2026.",
+    description: `<p><strong>Tribal Areas Electricity Supply Company (TESCO)</strong>, Peshawar, has announced <strong>12 BPS-17 posts</strong> on a one-year contract (extendable on satisfactory performance), advertised in <strong>Daily Dawn on 17 November 2026</strong>. Recruitment is conducted through the Educational Testing and Evaluation Agency (ETEA).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Junior Engineer / SDO (Electrical)</strong> — 7 posts (BPS-17)</li>
+      <li><strong>Junior Engineer / SDO (Civil)</strong> — 1 post (BPS-17)</li>
+      <li><strong>Revenue Officer</strong> — 2 posts (BPS-17)</li>
+      <li><strong>Assistant Director (CM&amp;RA), MIRAD</strong> — 1 post (BPS-17)</li>
+      <li><strong>Assistant Director (DF/TP), MIRAD</strong> — 1 post (BPS-17)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Engineering posts require a degree in Electrical/Electronics or Civil Engineering with first division (60% marks or 2.5 CGPA) from an HEC-recognised university and PEC registration. Revenue Officer requires MBA Finance, M.Com, MSc or MA in Statistics, Mathematics or Economics with at least two first divisions. The <strong>age limit is 21 to 33 years</strong>. Online application forms become available on <strong>20 November 2026</strong> and the last date to apply is <strong>10 December 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the ETEA official website at etea.edu.pk from 20 November 2026 when online application forms become available",
+      "Fill the online application form for your post and deposit the non-refundable test fee through OneLink as per ETEA instructions",
+      "Submit the online application before 10 December 2026 — late or incomplete applications will not be entertained"
+    ]
+  },
+  {
+    id: 145,
+    title: "Federal Tax Ombudsman (FTO) Jobs 2026 - Advisor & Assistant Advisor Posts in Tax, HR, Social Media & AI (Apply by Nov 29)",
+    department: "Federal Tax Ombudsman Secretariat (FTO)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "Retired BPS-20/21/22 officers (Advisor posts); First-class 16-year Bachelor's degree in Media, Computer Science, IT, Data Science or AI (Assistant Advisor posts)",
+    experience: "As per official advertisement — Advisor posts are for retired senior officers; Assistant Advisor posts require relevant field experience",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement — Advisor (Income Tax / Customs / Sales Tax / Federal Excise), Advisor (Human Resource Management), Assistant Advisor (Social Media), Assistant Advisor (IT / Artificial Intelligence)",
+    salary: "Rs. 120,000 to Rs. 330,000 per month (fixed, one-year extendable contract)",
+    lastDate: "2026-11-29",
+    postedDate: "2026-11-19",
+    source: "Federal Tax Ombudsman Secretariat jobs advertisement, Daily Jang, 14 November 2026 (checked 19 November 2026)",
+    officialLink: "http://www.fto.gov.pk/ftojobs.aspx",
+    officialLinkLabel: "FTO Jobs Portal",
+    featured: true,
+    shortDesc: "The Federal Tax Ombudsman Secretariat is hiring Advisors (Tax, HR) and Assistant Advisors (Social Media, IT/AI) on one-year extendable contracts with fixed salaries of Rs. 120,000–330,000 per month. Apply online by 29 November 2026.",
+    description: `<p>The <strong>Federal Tax Ombudsman Secretariat (FTO)</strong>, Government of Pakistan, has invited applications for <strong>Advisor and Assistant Advisor</strong> posts on one-year extendable contracts, advertised in <strong>Daily Jang on 14 November 2026</strong>. Posts are based in Islamabad, Karachi, Lahore, Peshawar, Quetta, Multan, Faisalabad, Sialkot, Sargodha and Hyderabad.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Advisor (Income Tax / Customs / Sales Tax / Federal Excise)</strong> — for retired BPS-20/21/22 officers</li>
+      <li><strong>Advisor (Human Resource Management)</strong> — for retired BPS-20/21/22 officers</li>
+      <li><strong>Assistant Advisor (Social Media)</strong> — first-class 16-year Bachelor's degree in Media or a relevant field</li>
+      <li><strong>Assistant Advisor (IT / Artificial Intelligence)</strong> — first-class 16-year Bachelor's degree in Computer Science, IT, Data Science or AI</li>
+    </ul>
+    <h3>Eligibility &amp; salary</h3>
+    <p>Appointments carry fixed monthly salaries ranging from <strong>Rs. 120,000 to Rs. 330,000</strong>. In-service government employees must provide a departmental NOC at the time of interview. Applications must be submitted online within 15 days of the advertisement's publication — by <strong>29 November 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the Federal Tax Ombudsman official job portal at fto.gov.pk/ftojobs.aspx",
+      "Fill in the online application form and upload a clear passport-size photograph",
+      "Submit the online application by 29 November 2026"
+    ]
+  },
+  {
+    id: 144,
+    title: "Bahria University Islamabad Jobs 2026 - 4 Posts: Assistant Manager Alumni Affairs, AI Researcher, Network Engineer & Developer (Apply by Dec 3)",
+    department: "Bahria University (E-8 Campus, Islamabad)",
+    category: "Government",
+    subcategory: "Education",
+    city: "Islamabad",
+    province: "Islamabad",
+    qualification: "18 years of education in a relevant domain (Assistant Manager); MS in AI, Computer Science or Data Science, preferably with thesis (Researcher); BS in a relevant field (Network Engineer / Developer)",
+    experience: "Preferably 3 years of relevant experience for all posts",
+    ageLimit: "As per official advertisement",
+    vacancies: "4 posts — Assistant Manager Alumni Affairs and Fundraising (1), Researcher COE-AI (1), Network Engineer COE-AI (1), Developer COE-AI (1)",
+    salary: "As per university rules",
+    lastDate: "2026-12-03",
+    postedDate: "2026-11-19",
+    source: "Bahria University jobs advertisement, Daily Dawn, 18 November 2026 (PID(I)4525/26) (checked 19 November 2026)",
+    officialLink: "https://www.bahria.edu.pk/jobs",
+    officialLinkLabel: "Bahria University Careers Portal",
+    featured: true,
+    shortDesc: "Bahria University Islamabad (E-8 Campus) is hiring 4 professionals — Assistant Manager Alumni Affairs & Fundraising, and Researcher, Network Engineer and Developer at the Centre of Excellence in Artificial Intelligence. Apply online by 3 December 2026.",
+    description: `<p><strong>Bahria University</strong> has invited applications for <strong>4 positions</strong> at its E-8 Campus in Islamabad, advertised in <strong>Daily Dawn on 18 November 2026</strong> (PID(I)4525/26). Three of the four roles are housed under the university's Centre of Excellence in Artificial Intelligence (COE-AI).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Assistant Manager Alumni Affairs and Fundraising</strong> — minimum 18 years of education in a relevant domain</li>
+      <li><strong>Researcher (Centre of Excellence in Artificial Intelligence)</strong> — MS in AI, Computer Science, Data Science or a relevant domain, preferably with a thesis; hands-on machine learning and deep learning experience</li>
+      <li><strong>Network Engineer (Centre of Excellence in Artificial Intelligence)</strong> — minimum 16 years of education with a BS in a relevant field; Linux administration, shell scripting and GPU server management</li>
+      <li><strong>Developer (Centre of Excellence in Artificial Intelligence)</strong> — as per official advertisement</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>All four positions preferably require <strong>3 years of relevant experience</strong>. The advertisement does not specify the number of vacancies under each title. Applications must be submitted online by <strong>3 December 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the Bahria University careers portal at bahria.edu.pk/jobs",
+      "Review the detailed job descriptions for your post on the portal",
+      "Submit your online application on or before 3 December 2026"
+    ]
+  },
+  {
     id: 140,
     title: "Pakistan Railways Jobs 2026 - 227 C-Class Apprentice Posts in Moghalpura Workshops & Signal Shops, Lahore (Apply by Dec 5)",
     department: "Pakistan Railways (Divisional Superintendent Office, Workshops Division Moghalpura)",
