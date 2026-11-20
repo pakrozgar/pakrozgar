@@ -10,6 +10,148 @@
 
 const JOBS = [
   {
+    id: 151,
+    title: "Bank of Khyber Jobs 2026 - Senior Relationship Manager (Commercial & SME), Islamabad / Karachi / Lahore & More (Apply by Nov 24)",
+    department: "Bank of Khyber (Commercial & SME Division — CSME & Agri Finance Group)",
+    category: "Private",
+    subcategory: "Banking",
+    city: "Islamabad",
+    province: "Khyber Pakhtunkhwa",
+    qualification: "Bachelor's / Master's degree in Business, Finance, Banking or any other relevant field from an HEC-recognised university or a reputable foreign university",
+    experience: "Minimum 3 years of Credit / Trade-Marketing / Processing experience in a bank; preference will be given to candidates currently serving as Relationship Manager (Commercial & SME); Islamic banking experience will be an added advantage",
+    ageLimit: "As per official advertisement",
+    vacancies: "As per official advertisement — Senior Relationship Manager (Commercial & SME)",
+    salary: "Up to AVP grade (market-based remuneration)",
+    lastDate: "2026-11-24",
+    postedDate: "2026-11-20",
+    source: "Bank of Khyber careers portal (bok.com.pk/careers) and newspaper advertisement, checked 20 November 2026",
+    officialLink: "https://www.bok.com.pk/careers",
+    officialLinkLabel: "Bank of Khyber Careers Portal",
+    featured: true,
+    shortDesc: "Bank of Khyber is hiring a Senior Relationship Manager for its Commercial & SME Division (CSME & Agri Finance Group) in Islamabad, Karachi, Lahore, Gujrat and Daska. Graduates with 3+ years of banking credit/trade experience can apply online by 24 November 2026.",
+    description: `<p>The <strong>Bank of Khyber</strong> has invited applications for the post of <strong>Senior Relationship Manager — Commercial &amp; SME Division (CSME &amp; Agri Finance Group)</strong>, listed on its official careers portal with a closing date of <strong>24 November 2026</strong>. The role is based in <strong>Islamabad, Karachi, Lahore, Gujrat and Daska</strong>.</p>
+    <h3>Role</h3>
+    <ul>
+      <li><strong>Senior Relationship Manager (Commercial &amp; SME)</strong> — up to AVP grade</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Candidates need a Bachelor's or Master's degree in Business, Finance, Banking or a relevant field from an HEC-recognised university. A minimum of <strong>3 years of Credit / Trade-Marketing / Processing experience in a bank</strong> is required, and preference is given to candidates currently serving as Relationship Manager (Commercial &amp; SME). The role involves acquiring high-value new-to-bank Commercial &amp; SME customers, appraising and preparing credit proposals, and managing a portfolio of top-tier clients. Applications are accepted <strong>online only</strong> through the Bank of Khyber careers portal by <strong>24 November 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the Bank of Khyber careers portal at bok.com.pk/careers",
+      "Find the Senior Relationship Manager (Commercial & SME) vacancy and read the full job description",
+      "Submit the online application before 24 November 2026"
+    ]
+  },
+  {
+    id: 150,
+    title: "Crop Reporting Services Sindh Jobs 2026 - 159 Crop Reporter Posts (BPS-11) via STS (Apply by Dec 1)",
+    department: "Crop Reporting Services, Agriculture Supply & Prices Department, Government of Sindh",
+    category: "Government",
+    subcategory: "Provincial",
+    city: "Hyderabad",
+    province: "Sindh",
+    qualification: "Intermediate with at least a C grade (or equivalent) from a recognised board, plus a two-year Field Assistant course from a recognised Agriculture Training Institute in Sindh",
+    experience: "As per official advertisement — no prior experience required",
+    ageLimit: "18 to 28 years",
+    vacancies: "159 posts — Crop Reporter (BPS-11), across all districts of Sindh",
+    salary: "BPS-11 (government pay scale)",
+    lastDate: "2026-12-01",
+    postedDate: "2026-11-20",
+    source: "Crop Reporting Services Sindh jobs advertisement, The Express Tribune, 16 November 2026 (INF/KRY/5188/26), checked 20 November 2026",
+    officialLink: "https://apply.sts.net.pk",
+    officialLinkLabel: "SIBA Testing Services (STS) Portal",
+    featured: true,
+    shortDesc: "Crop Reporting Services Sindh (Agriculture Department) is hiring 159 Crop Reporters (BPS-11) across all districts of Sindh. Intermediate with a 2-year Field Assistant course and Sindh domicile can apply online via STS by 1 December 2026.",
+    description: `<p>The <strong>Office of the Director, Crop Reporting Services (CRS), Agriculture Supply &amp; Prices Department, Government of Sindh, Hyderabad</strong> has invited online applications for <strong>159 Crop Reporter posts (BPS-11)</strong> across all districts of Sindh, advertised in <strong>The Express Tribune on 16 November 2026</strong> (INF/KRY/5188/26). Recruitment is conducted through <strong>SIBA Testing Services (STS)</strong>.</p>
+    <h3>Vacant post</h3>
+    <ul>
+      <li><strong>Crop Reporter</strong> — 159 posts (BPS-11)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Candidates must hold a <strong>Sindh domicile</strong> and have passed Intermediate with at least a <strong>C grade</strong> (or equivalent) from a recognised board, along with a <strong>two-year Field Assistant course</strong> from a recognised Agriculture Training Institute in Sindh. The <strong>age limit is 18 to 28 years</strong> (upper-age relaxation as per rules). A non-refundable application fee of <strong>Rs. 1,500</strong> applies. Applications must be submitted online through the STS portal within 15 days of publication — by <strong>1 December 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the SIBA Testing Services portal at apply.sts.net.pk",
+      "Find the Crop Reporter (BPS-11) vacancy under Crop Reporting Services Sindh and complete the online form",
+      "Pay the Rs. 1,500 application fee as per STS instructions and submit before 1 December 2026"
+    ]
+  },
+  {
+    id: 149,
+    title: "Shah Abdul Latif University (SALU) Khairpur Jobs 2026 - 121 Teaching & Admin Posts: Professors, Lecturers, Registrar & More (Apply by Dec 10)",
+    department: "Shah Abdul Latif University (SALU), Khairpur",
+    category: "Government",
+    subcategory: "Education",
+    city: "Khairpur",
+    province: "Sindh",
+    qualification: "PhD in the relevant field for Professor / Associate Professor / Assistant Professor; first-class MS/MPhil (or equivalent) for Lecturer (first-class LLB for School of Law); as per official advertisement for administrative posts",
+    experience: "As per official advertisement — teaching and research experience as per HEC criteria for faculty posts",
+    ageLimit: "As per official advertisement",
+    vacancies: "121 posts — Teaching faculty 115 (Professor BPS-21: 38, Associate Professor BPS-20: 30, Assistant Professor BPS-19: 17, Lecturer BPS-18: 30) + Administrative 6 (Registrar, Controller of Examinations, Director QEC, Director ORIC, Librarian, Software Developer)",
+    salary: "BPS-18 to BPS-21 (faculty); as per rules (administrative posts)",
+    lastDate: "2026-12-10",
+    postedDate: "2026-11-20",
+    source: "Shah Abdul Latif University Khairpur jobs advertisements dated 16 November 2026 (Teaching Ad No. ADMN/TEACH/SALU/KHP-1164), published in Dawn 19 November 2026, checked 20 November 2026",
+    officialLink: "https://www.salu.edu.pk",
+    officialLinkLabel: "SALU Official Website",
+    featured: true,
+    shortDesc: "Shah Abdul Latif University, Khairpur, has announced 121 posts — 115 teaching faculty (Professors, Associate Professors, Assistant Professors, Lecturers) across its Khairpur, Shahdadkot and Ghotki campuses, plus 6 administrative posts. Apply by 10 December 2026.",
+    description: `<p><strong>Shah Abdul Latif University (SALU), Khairpur</strong>, has announced <strong>121 teaching and administrative vacancies</strong> at its Main Campus Khairpur, Shahdadkot Campus and Ghotki Campus, advertised on <strong>16 November 2026</strong> and published in <strong>Dawn on 19 November 2026</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Professor (BPS-21)</strong> — 38 posts</li>
+      <li><strong>Associate Professor (BPS-20)</strong> — 30 posts</li>
+      <li><strong>Assistant Professor (BPS-19)</strong> — 17 posts</li>
+      <li><strong>Lecturer (BPS-18)</strong> — 30 posts</li>
+      <li><strong>Administrative posts</strong> — 6 posts: Registrar, Controller of Examinations, Director QEC, Director ORIC, Librarian, Software Developer</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Faculty posts require a PhD in the relevant field (Professor, Associate Professor and Assistant Professor) or a first-class MS/MPhil or equivalent (Lecturer; first-class LLB for the School of Law), as per HEC criteria. Appointments are on a contract basis or under the Contributory Pension Scheme. A non-refundable processing fee of <strong>Rs. 4,000</strong> applies. Completed applications with documents must reach the relevant university office by <strong>10 December 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the official SALU website at salu.edu.pk and download the prescribed application form",
+      "Send faculty applications to the Office of the Deputy Registrar (Teaching) and administrative applications to the Office of the Assistant Registrar (Administration), Shah Abdul Latif University, Khairpur",
+      "Attach the required documents and the Rs. 4,000 processing fee (pay order / demand draft in favour of Shah Abdul Latif University, Khairpur) so the application reaches the university by 10 December 2026"
+    ]
+  },
+  {
+    id: 148,
+    title: "NAVTTC Jobs 2026 - 12 Project Posts: Directors, Technical Leads, Programme Officers & Guidance Counsellors (Apply by Nov 30)",
+    department: "National Vocational & Technical Training Commission (NAVTTC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Quetta & Karachi",
+    province: "Balochistan",
+    qualification: "Degree in development, engineering, logistics or operations (Director Operations); Master's in education, psychology, political science, international relations, social work or a related discipline (Director Program); Master's in statistics, economics or social sciences (M&E and Data Technical Lead); Bachelor's degree or equivalent (Programme Officers, Employer and Placement Technical Lead); Master's or B.Ed./M.Ed. (Training and Quality Lead)",
+    experience: "Director Operations: 20+ years including public-sector management; Director Program: 10+ years in the development sector; M&E and Data Technical Lead: 8+ years; Employer and Placement Technical Lead: 8–10 years; Training and Quality Lead: 8 years; Programme Officers: 3–5 years; Guidance Counsellors: 0–2 years",
+    ageLimit: "Maximum 55 years for all posts",
+    vacancies: "12 posts — Director Operations / Operational Programme Lead (PPS-11): 1, Director Program / Technical Programme Lead (PPS-11): 1, M&E and Data Technical Lead (PPS-10): 1, Employer and Placement Technical Lead (PPS-09): 1, Training and Quality Lead (PPS-09): 1, Guidance Counsellors (PPS-08): 2, Programme Officers, Quetta & Karachi (PPS-08): 5",
+    salary: "PPS-08 to PPS-11 (project pay scales)",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-20",
+    source: "NAVTTC jobs advertisement, The Express Tribune, 15 November 2026 (PID(I)4500/26), checked 20 November 2026",
+    officialLink: "https://www.jobs.gov.pk",
+    officialLinkLabel: "National Job Portal (NJP)",
+    featured: true,
+    shortDesc: "NAVTTC has announced 12 project posts (PPS-08 to PPS-11) under the Prime Minister's Youth Skill Development Program — Directors, Technical Leads, Programme Officers and Guidance Counsellors in Quetta and Karachi. Apply online via the National Job Portal by 30 November 2026.",
+    description: `<p>The <strong>National Vocational &amp; Technical Training Commission (NAVTTC)</strong>, Government of Pakistan, has announced <strong>12 project posts</strong> under the Balochistan Special Initiative of the PSDP-funded <strong>Prime Minister's Youth Skill Development Program (2023–28)</strong>, advertised in <strong>The Express Tribune on 15 November 2026</strong> (PID(I)4500/26). Appointments are on a contract basis, extendable on satisfactory performance.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Director Operations / Operational Programme Lead (PPS-11)</strong> — 1 post</li>
+      <li><strong>Director Program / Technical Programme Lead (PPS-11)</strong> — 1 post</li>
+      <li><strong>M&amp;E and Data Technical Lead (PPS-10)</strong> — 1 post</li>
+      <li><strong>Employer and Placement Technical Lead (PPS-09)</strong> — 1 post</li>
+      <li><strong>Training and Quality Lead (PPS-09)</strong> — 1 post</li>
+      <li><strong>Guidance Counsellors (PPS-08)</strong> — 2 posts</li>
+      <li><strong>Programme Officers, Quetta &amp; Karachi (PPS-08)</strong> — 5 posts</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Qualifications and experience differ by post — from a Bachelor's degree with 3–5 years of experience for Programme Officers to a Master's degree with 10–20 years of development-sector experience for the director posts. The <strong>maximum age limit is 55 years</strong> for all posts. Applications are accepted <strong>online only</strong> through the National Job Portal (jobs.gov.pk) by <strong>30 November 2026</strong>.</p>`,
+    howToApply: [
+      "Visit the National Job Portal at jobs.gov.pk",
+      "Find the NAVTTC vacancies (advertisement dated 15 November 2026) and read the complete job description for your post",
+      "Submit the online application before 30 November 2026 and save the confirmation"
+    ]
+  },
+  {
     id: 147,
     title: "Pakistan Railways Karachi Division Jobs 2026 - 50 C-Class Apprentice Posts: Wireman, Fitter, Welder, Turner & Carpenter (Apply by Dec 18)",
     department: "Pakistan Railways (Divisional Superintendent Office, Karachi Division)",
