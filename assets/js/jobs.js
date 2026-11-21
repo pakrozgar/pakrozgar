@@ -10,6 +10,154 @@
 
 const JOBS = [
   {
+    id: 155,
+    title: "Pakistan Aeronautical Complex (PAC) Kamra Jobs 2026 - 94 Contract Posts: Specialist Doctors, Avionics & Radar Fitters, Nursing Staff via NTS (Apply by Nov 30)",
+    department: "Pakistan Aeronautical Complex (PAC), Kamra",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Kamra",
+    province: "Punjab",
+    qualification: "MBBS with FCPS / specialisation for Specialist Doctors (BPS-19); MBBS for Medical Officer (BPS-18); BSc / relevant diploma for Optometrist and Nursing Sister; Matric Science with DAE / TTC in Electronics or Avionics for technical posts; Matric / Middle for trade posts — as per official advertisement",
+    experience: "As per official advertisement — relevant experience required for specialist and technical posts; ex-servicemen of Radar / Avionics trades may also apply",
+    ageLimit: "25 to 40 years (varies by post, plus 5 years general relaxation as per rules)",
+    vacancies: "94 posts — Batch E-2026: HSW Avionics (BPS-10) 35, HSM Radar Fitter (BPS-10) 34, Nursing Sister (BPS-14) 4, Junior Charge Hand Avionics (BPS-11) 4, Radiographer (BPS-12) 2, Medical Assistant / Nursing Staff (BPS-12) 2, Urologist, Cardiologist, Pulmonologist, Orthopedic Surgeon (BPS-19) 1 each, Medical Officer (BPS-18) 1, Optometrist (BPS-16) 1, Radiographer (BPS-14, BPS-10, BPS-06) 1 each, Plumber, Painter, MTD, Carpenter (BPS-06) 1 each",
+    salary: "BPS-06 to BPS-19 (contract basis)",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-21",
+    source: "Pakistan Aeronautical Complex Kamra, Situations Vacant Batch E-2026 (PID(I)4430/26), published in Daily Dunya on 15 November 2026; recruitment through NTS, checked 21 November 2026",
+    officialLink: "https://www.nts.org.pk",
+    officialLinkLabel: "NTS Official Website — Apply Online",
+    featured: true,
+    shortDesc: "Pakistan Aeronautical Complex (PAC) Kamra has announced 94 contract vacancies under Batch E-2026 — specialist doctors, medical and nursing staff, avionics and radar fitters and trade staff — across its Aircraft Production Factory and PAC Hospital. Apply online through NTS by 30 November 2026.",
+    description: `<p>The <strong>Pakistan Aeronautical Complex (PAC), Kamra</strong>, has invited applications from Pakistani citizens for <strong>94 contract vacancies</strong> under <strong>Situations Vacant Batch E-2026</strong> (PID(I)4430/26), published in <strong>Daily Dunya on 15 November 2026</strong>. Recruitment is conducted online through the <strong>National Testing Service (NTS)</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Specialist Doctors (BPS-19)</strong> — Urologist, Cardiologist, Pulmonologist, Orthopedic Surgeon (1 post each)</li>
+      <li><strong>Medical Officer (BPS-18)</strong> — 1 post; <strong>Optometrist (BPS-16)</strong> — 1 post</li>
+      <li><strong>Nursing Sister (BPS-14)</strong> — 4 posts; <strong>Radiographer (BPS-14 / BPS-12 / BPS-10 / BPS-06)</strong> — 5 posts; <strong>Medical Assistant / Nursing Staff (BPS-12)</strong> — 2 posts</li>
+      <li><strong>Junior Charge Hand Avionics (BPS-11)</strong> — 4 posts</li>
+      <li><strong>HSM Radar Fitter (BPS-10)</strong> — 34 posts; <strong>HSW Avionics (BPS-10)</strong> — 35 posts</li>
+      <li><strong>Trade staff (BPS-06)</strong> — Plumber, Painter, MTD and Carpenter (1 post each)</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Posts are spread across the Aircraft Production Factory (S&amp;A) — 39 posts, Aircraft Production Factory (JF-17) — 35 posts, and PAC Hospital — 20 posts. Specialist doctors need an MBBS with FCPS or equivalent specialisation; technical posts need Matric Science with a DAE or TTC in Electronics or Avionics. The <strong>age limit ranges from 25 to 40 years</strong> depending on the post. Applications are accepted <strong>online only through NTS</strong> by <strong>30 November 2026</strong>; shortlisted candidates will later submit their data on the PAC careers portal within five days of the NTS result announcement.</p>`,
+    howToApply: [
+      "Visit the NTS website at nts.org.pk and open the Pakistan Aeronautical Complex (PAC) Kamra — Batch E-2026 project (listed as 'PAC Nov 2026 Online')",
+      "Select the post you wish to apply for, complete the online form and pay the NTS test fee shown on the deposit slip",
+      "Submit the online application before 30 November 2026 — no hard copy needs to be sent to NTS"
+    ]
+  },
+  {
+    id: 154,
+    title: "Frontier Works Organization (FWO) Gilgit Jobs 2026 - 28 Mess & Support Staff Posts: Mess Cook, Waiter, Sanitary Worker & Naib Qasid (Apply by Nov 30)",
+    department: "Frontier Works Organization (FWO), Gilgit",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Gilgit",
+    province: "Gilgit-Baltistan",
+    qualification: "Primary pass for all posts, with relevant trade experience",
+    experience: "2 years of relevant experience in the relevant trade",
+    ageLimit: "18 to 30 years",
+    vacancies: "28 posts — Mess Cook (BPS-01) 5, Mess Waiter 6, Packing Unit / Cook Helper 4, Sanitary Worker 7, Naib Qasid 6",
+    salary: "BPS-01 (government pay scale)",
+    lastDate: "2026-11-30",
+    postedDate: "2026-11-21",
+    source: "Frontier Works Organization (FWO) Gilgit staff-required advertisement, published 18 November 2026; applications by post to FWO Camp, Gilgit, checked 21 November 2026",
+    officialLink: "https://www.fwo.com.pk",
+    officialLinkLabel: "FWO Official Website",
+    featured: false,
+    shortDesc: "Frontier Works Organization (FWO) Gilgit is hiring 28 mess and support staff — Mess Cook, Mess Waiter, Packing Unit staff, Sanitary Worker and Naib Qasid (BPS-01). Primary-pass candidates aged 18 to 30 with 2 years' experience can apply by post by 30 November 2026.",
+    description: `<p>The <strong>Frontier Works Organization (FWO), Gilgit</strong>, has invited applications for <strong>28 mess and support staff posts (BPS-01)</strong> at its Gilgit camp, advertised on <strong>18 November 2026</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Mess Cook</strong> — 5 posts</li>
+      <li><strong>Mess Waiter</strong> — 6 posts</li>
+      <li><strong>Packing Unit / Cook Helper</strong> — 4 posts</li>
+      <li><strong>Sanitary Worker</strong> — 7 posts</li>
+      <li><strong>Naib Qasid</strong> — 6 posts</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>All posts require a <strong>Primary pass</strong> with <strong>2 years of relevant experience</strong> in the trade, and the <strong>age limit is 18 to 30 years</strong>. Applications are accepted <strong>by post only</strong> — there is no online application for this advertisement — and must reach the FWO Camp address in Gilgit by <strong>30 November 2026</strong>.</p>`,
+    howToApply: [
+      "Prepare your application with your CV and attested copies of educational documents, CNIC and domicile",
+      "Attach two recent passport-size photographs and write your name clearly on the top right corner of the envelope",
+      "Send the envelope by post so it reaches the FWO Camp, Shahrah-e-Quaid-e-Azam, Gilgit, by 30 November 2026"
+    ]
+  },
+  {
+    id: 153,
+    title: "FPSC CSS Competitive Examination 2027 - Written Exam Applications Open for MPT-Qualified Candidates (Apply Online by Nov 25)",
+    department: "Federal Public Service Commission (FPSC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "At least a Bachelor's degree (Second Division) from a recognised university, plus a domicile certificate; only candidates who qualified in the MCQ-based Preliminary Test (MPT) CE-2027 can apply",
+    experience: "As per official advertisement — no prior experience required",
+    ageLimit: "21 to 30 years on 31 December 2026 (two-year relaxation for categories under Rule 6)",
+    vacancies: "As per official advertisement — written examination for the Central Superior Services (CE-2027) in federal occupational groups; no fixed vacancy count in the notice",
+    salary: "BS-17 (federal occupational groups, as per CSS rules)",
+    lastDate: "2026-11-25",
+    postedDate: "2026-11-21",
+    source: "FPSC Public Notice No. F.2(1)/2026-CE dated 8 November 2026, published in newspapers 8 November 2026, verified via fpsc.gov.pk, checked 21 November 2026",
+    officialLink: "https://www.fpsc.gov.pk",
+    officialLinkLabel: "FPSC Official Website",
+    featured: true,
+    shortDesc: "FPSC has opened applications for the written part of the CSS Competitive Examination 2027 (CE-2027) for candidates who qualified the MPT. Apply online by 25 November 2026; the signed hard copy with documents must reach FPSC by 4 December 2026. Written exam tentatively from 27 January 2027.",
+    description: `<p>The <strong>Federal Public Service Commission (FPSC)</strong> has invited applications for the <strong>written part of the Central Superior Services (CSS) Competitive Examination 2027 (CE-2027)</strong> through Public Notice No. F.2(1)/2026-CE, dated <strong>8 November 2026</strong>. Only candidates who qualified in the <strong>MCQ-based Preliminary Test (MPT) CE-2027</strong> can apply.</p>
+    <h3>Key dates</h3>
+    <ul>
+      <li><strong>Online application deadline:</strong> 25 November 2026</li>
+      <li><strong>Hard copy with documents must reach FPSC:</strong> 4 December 2026</li>
+      <li><strong>Admission certificates:</strong> by 8 January 2027</li>
+      <li><strong>Written examination:</strong> tentatively from 27 January 2027, in 19 cities</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Candidates need at least a <strong>Bachelor's degree (Second Division)</strong> from a recognised university and a domicile certificate. The <strong>age limit is 21 to 30 years on 31 December 2026</strong> (two-year relaxation for categories under Rule 6). The examination fee is <strong>Rs. 2,200</strong>, paid through a PSID generated on the FPSC portal.</p>`,
+    howToApply: [
+      "Log in with your MPT login on the FPSC website at fpsc.gov.pk and open the CSS CE-2027 written exam application",
+      "Generate the PSID and pay the Rs. 2,200 fee through a 1-Link channel, then complete and submit the online form before 25 November 2026",
+      "Send the signed hard copy of the online form with attested documents, CNIC, domicile and four photographs to FPSC, Aga Khan Road, Sector F-5/1, Islamabad, before 4 December 2026"
+    ]
+  },
+  {
+    id: 152,
+    title: "Armed Forces Institute of Cardiology (AFIC) Rawalpindi Jobs 2026 - 43 Posts: Steno Typist, Technicians, Nursing Assistant & Support Staff (Apply by Dec 4)",
+    department: "Armed Forces Institute of Cardiology & National Institute of Heart Diseases (AFIC & NIHD), Rawalpindi",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Rawalpindi",
+    province: "Punjab",
+    qualification: "Intermediate with shorthand 80 wpm and typing 40 wpm plus MS Office certificate for Steno Typist; Matric with Science and a one-year diploma in the relevant field for Technician and Nursing Assistant posts; Primary / Middle / Literate for support posts — as per official advertisement",
+    experience: "As per official advertisement — no prior experience required for most posts",
+    ageLimit: "18 to 25 years",
+    vacancies: "43 posts — Steno Typist (BPS-14) 4, Anesthesia Technician (BPS-9) 2, Nuclear Cardiology Technician (BPS-9) 1, Theatre Technician (BPS-9) 1, Civil Workshop Assistant (Biomed) (BPS-8) 1, Nursing Assistant (BPS-7) 4, Sanitary Worker (BPS-1) 12, plus Account Clerk, Lab Assistant, Receptionist, Ward Boy, Cook, Washerman, Skilled Technician and other support posts",
+    salary: "BPS-01 to BPS-14 (government pay scale)",
+    lastDate: "2026-12-04",
+    postedDate: "2026-11-21",
+    source: "Armed Forces Institute of Cardiology & NIHD advertisement (PID(I)4550/26), published in The News on 19 November 2026; application form at afic.gov.pk, checked 21 November 2026",
+    officialLink: "https://www.afic.gov.pk",
+    officialLinkLabel: "AFIC Official Website",
+    featured: true,
+    shortDesc: "Armed Forces Institute of Cardiology & NIHD, Rawalpindi, has announced 43 vacancies (BPS-01 to BPS-14) — Steno Typist, Anesthesia and other technicians, Nursing Assistant, and support staff. Apply through the AFIC website within 15 days of publication, by 4 December 2026.",
+    description: `<p>The <strong>Armed Forces Institute of Cardiology &amp; National Institute of Heart Diseases (AFIC &amp; NIHD), Rawalpindi</strong>, has invited applications from Pakistani nationals for <strong>43 vacancies (BPS-01 to BPS-14)</strong>, advertised in <strong>The News on 19 November 2026</strong> (PID(I)4550/26).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Steno Typist (BPS-14)</strong> — 4 posts</li>
+      <li><strong>Anesthesia Technician (BPS-9)</strong> — 2 posts; <strong>Nuclear Cardiology Technician (BPS-9)</strong> — 1 post; <strong>Theatre Technician (BPS-9)</strong> — 1 post</li>
+      <li><strong>Civil Workshop Assistant (Biomed) (BPS-8)</strong> — 1 post</li>
+      <li><strong>Nursing Assistant (BPS-7)</strong> — 4 posts</li>
+      <li><strong>Sanitary Worker (BPS-1)</strong> — 12 posts, plus Account Clerk, Lab Assistant, Receptionist, Ward Boy, Cook, Washerman and Skilled Technician posts</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>The <strong>age limit is 18 to 25 years</strong> for all posts, counted as on the closing date. Steno Typists need Intermediate with shorthand speed of 80 words per minute, typing speed of 40 words per minute and a certificate in MS Office; technicians and nursing assistants need Matric with Science and a one-year diploma in the relevant field; support posts need Primary / Middle education. A <strong>bank draft of Rs. 300</strong> (BPS-01 to BPS-14) in favour of Comdt &amp; Exec Dir AFIC/NIHD Rawalpindi must be attached. Applications must be submitted within 15 days of publication — by <strong>4 December 2026</strong>.</p>`,
+    howToApply: [
+      "Download the application form from the official AFIC website at afic.gov.pk",
+      "Attach attested copies of educational documents, CNIC, domicile and two recent passport-size photographs, plus a Rs. 300 bank draft in favour of Comdt & Exec Dir AFIC/NIHD Rawalpindi",
+      "Submit the completed application to the Deputy Commandant / Deputy Director-II (Administration & Supports), AFIC & NIHD, Rawalpindi, so it arrives by 4 December 2026"
+    ]
+  },
+  {
     id: 151,
     title: "Bank of Khyber Jobs 2026 - Senior Relationship Manager (Commercial & SME), Islamabad / Karachi / Lahore & More (Apply by Nov 24)",
     department: "Bank of Khyber (Commercial & SME Division — CSME & Agri Finance Group)",
