@@ -10,6 +10,144 @@
 
 const JOBS = [
   {
+    id: 156,
+    title: "SSGC Jobs 2026 - 5 Engineer & Manager Posts in Karachi: Distribution, Gas Control, Finance & Fixed Assets (Apply by Dec 7)",
+    department: "Sui Southern Gas Company Limited (SSGC)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Karachi",
+    province: "Sindh",
+    qualification: "Engineering degree (PEC-registered) for engineer posts — preferably Mechanical for Distribution (O&M); Mechanical / Petroleum & Gas / Chemical for Gas Control / LHF; CA/ACMA or ACCA/MBA for finance posts — all degrees from HEC-recognised institutions",
+    experience: "2 years for Engineer posts and Deputy Manager Operational Finance; fresh CA/ACMA or ACCA/MBA with 4 years for Manager posts — as per official advertisement",
+    ageLimit: "As per official advertisement",
+    vacancies: "5 posts — Engineer Distribution (O&M) 8609-01, Engineer Gas Control / LHF 8610-01, Manager Operational Finance 8611-01, Deputy Manager Operational Finance 8612-01, Manager Fixed Assets Verification 8613-01 (seats per post not stated in the notice)",
+    salary: "Market-competitive compensation package (amount not stated)",
+    lastDate: "2026-12-07",
+    postedDate: "2026-11-22",
+    source: "Sui Southern Gas Company Limited, Employment Opportunities (job codes 8609-01 to 8613-01), published in Daily Jang Karachi on 22 November 2026 (PID(K)1681/26); verified via SSGC careers page, checked 22 November 2026",
+    officialLink: "https://www.ssgc.com.pk/careers",
+    officialLinkLabel: "SSGC Careers — Apply Online",
+    featured: true,
+    shortDesc: "Sui Southern Gas Company (SSGC) has advertised 5 posts in Karachi — 2 Engineers (Distribution O&M and Gas Control / LHF) and 3 finance managers (Operational Finance and Fixed Assets Verification). Apply online through the SSGC careers page by 7 December 2026.",
+    description: `<p>The <strong>Sui Southern Gas Company Limited (SSGC)</strong>, a public sector gas utility, has advertised <strong>5 specialised posts</strong> in Karachi, published in <strong>Daily Jang Karachi on 22 November 2026</strong> (PID(K)1681/26). The posts are listed on the SSGC careers page with a deadline of <strong>7 December 2026</strong>.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Engineer — Distribution (Operations &amp; Maintenance)</strong> (8609-01) — Engineering graduate (preferably Mechanical), 2 years' experience</li>
+      <li><strong>Engineer — Gas Control / LHF</strong> (8610-01) — Engineering graduate (Mechanical / Petroleum &amp; Gas / Chemical), 2 years' experience</li>
+      <li><strong>Manager — Operational Finance</strong> (8611-01) — Fresh CA/ACMA, or ACCA/MBA with 4 years' experience</li>
+      <li><strong>Deputy Manager — Operational Finance</strong> (8612-01) — ACCA/MBA, 2 years' experience</li>
+      <li><strong>Manager — Fixed Assets Verification</strong> (8613-01) — Fresh CA/ACMA, or ACCA/MBA (Finance) with 4 years' experience</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>All qualifications must be from HEC-recognised institutions and <strong>PEC registration is mandatory for the engineer posts</strong>. SSGC offers a market-competitive compensation package and encourages women to apply. Applications are accepted <strong>online only through the SSGC careers page</strong> by <strong>7 December 2026</strong>; the information entered on the portal must match the CV, as any inconsistency leads to disqualification.</p>`,
+    howToApply: [
+      "Open the SSGC careers page at ssgc.com.pk/careers and read the full job description for the job code you want",
+      "Apply online for that job code before 7 December 2026",
+      "Make sure the information on the portal matches your CV — any inconsistency leads to disqualification"
+    ]
+  },
+  {
+    id: 157,
+    title: "Daanish Schools Authority Managing Director Job 2026 - SPPS-I, 3-Year Contract, Islamabad (Apply on NJP by Dec 6)",
+    department: "Ministry of Federal Education & Professional Training (Daanish Wing)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Islamabad",
+    province: "Islamabad Capital Territory",
+    qualification: "Minimum Master's degree from an HEC-recognised national or foreign university; preference for a Master's in Finance, Public Administration, Business Administration, Management Sciences, Economics or Social Sciences",
+    experience: "At least 17 years of professional experience in the public or private sector, including at least 2 years in a senior management position in educational organisations or institutions",
+    ageLimit: "Maximum 65 years",
+    vacancies: "1 post — Managing Director, Daanish Schools Authority (SPPS-I equivalent)",
+    salary: "SPPS-I equivalent (amount not stated)",
+    lastDate: "2026-12-06",
+    postedDate: "2026-11-22",
+    source: "Ministry of Federal Education & Professional Training (Daanish Wing), Managing Director Daanish Schools Authority, National Jobs Portal listing 10663 (posted 21 November 2026); published in Daily Jang Karachi on 22 November 2026 (PID(I)4618/26), checked 22 November 2026",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Jobs Portal — Apply Online",
+    featured: true,
+    shortDesc: "The Ministry of Federal Education & Professional Training is hiring a Managing Director for the Daanish Schools Authority (SPPS-I equivalent) on a 3-year contract, based in Islamabad. Master's degree holders with 17 years' experience (max age 65) apply online only on the National Jobs Portal by 6 December 2026.",
+    description: `<p>The <strong>Ministry of Federal Education &amp; Professional Training (Daanish Wing)</strong> has invited applications for the post of <strong>Managing Director, Daanish Schools Authority (DSA)</strong> — 1 post at SPPS-I equivalent on a 3-year contract, duty station Islamabad. The post is listed on the <strong>National Jobs Portal (listing 10663, posted 21 November 2026)</strong> and advertised in <strong>Daily Jang Karachi on 22 November 2026</strong> (PID(I)4618/26).</p>
+    <h3>Eligibility</h3>
+    <p>Candidates need a minimum <strong>Master's degree</strong> from an HEC-recognised national or foreign university (preference for Finance, Public Administration, Business Administration, Management Sciences, Economics or Social Sciences) and at least <strong>17 years of professional experience</strong>, including at least 2 years in a senior management position in educational organisations or institutions. The <strong>maximum age is 65 years</strong>.</p>
+    <h3>About the role</h3>
+    <p>The Managing Director is the chief executive of the Authority, which runs free residential Daanish Schools for talented children from underprivileged and less-developed areas. The role covers the DSA strategic plan, academic standards and merit-based admissions, setting up new Daanish Schools and hubs, managing the DSA budget and fund, and reporting to the Board and the ministry. Recruitment is on merit under the Daanish Schools Authority Act, 2026. Applications are accepted <strong>online only through the National Jobs Portal</strong> by <strong>6 December 2026</strong>.</p>`,
+    howToApply: [
+      "Open the National Jobs Portal at njp.gov.pk and find listing 10663 — Managing Director, Daanish Schools Authority",
+      "Read the instructions on the NJP listing carefully and submit the online application before 6 December 2026",
+      "Applications by hand, courier or email will not be accepted; serving government employees must apply through proper channel and bring an NOC at interview"
+    ]
+  },
+  {
+    id: 158,
+    title: "PSQCA Jobs 2026 - Khalasi & Watchman (BPS-01) in Hub, Balochistan Domicile (Apply by Nov 23)",
+    department: "Pakistan Standards & Quality Control Authority (PSQCA)",
+    category: "Government",
+    subcategory: "Federal",
+    city: "Hub",
+    province: "Balochistan",
+    qualification: "Primary pass",
+    experience: "As per official advertisement — no experience stated",
+    ageLimit: "Up to 30 years (age relaxation as per government rules)",
+    vacancies: "2 posts — Khalasi (SDC) 1, Watchman (SDC) 1 (BPS-01, regular)",
+    salary: "BPS-01 (government pay scale)",
+    lastDate: "2026-11-23",
+    postedDate: "2026-11-22",
+    source: "Pakistan Standards & Quality Control Authority, Walk-in Interview / Test, Hub (SDC), published in Daily Jang Quetta on 20 November 2026 (PID(K)1622/26); also listed on the National Jobs Portal (listings 10657 & 10658), checked 21 November 2026",
+    officialLink: "https://www.njp.gov.pk",
+    officialLinkLabel: "National Jobs Portal — Apply Online",
+    featured: false,
+    shortDesc: "Pakistan Standards & Quality Control Authority (PSQCA) has 2 regular BPS-01 posts in Hub — Khalasi and Watchman — for Balochistan-domicile candidates with a Primary pass (age up to 30). Applications must reach PSQCA Karachi by 23 November 2026, or be uploaded on the National Jobs Portal.",
+    description: `<p>The <strong>Pakistan Standards &amp; Quality Control Authority (PSQCA)</strong>, under the federal Ministry of Science &amp; Technology, has advertised <strong>2 regular posts in BPS-01</strong> at its SDC office in <strong>Hub, Balochistan</strong>, published in <strong>Daily Jang Quetta on 20 November 2026</strong> (PID(K)1622/26). Both posts are also listed on the National Jobs Portal.</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Khalasi (SDC)</strong> — 1 post, BPS-01</li>
+      <li><strong>Watchman (SDC)</strong> — 1 post, BPS-01</li>
+    </ul>
+    <h3>Eligibility</h3>
+    <p>Both posts require a <strong>Primary pass</strong> and <strong>Balochistan domicile</strong> (Hub district), with a <strong>maximum age of 30 years</strong> (age relaxation as per government rules). Appointments follow the Establishment Division recruitment policy; women, disabled and minority quotas will be observed. Applications must reach PSQCA by <strong>23 November 2026</strong> or be uploaded on the National Jobs Portal — with so little time left, the NJP upload is the quicker option. Only shortlisted candidates will be called for the walk-in interview/test in Hub.</p>`,
+    howToApply: [
+      "Prepare a separate application for each post with full details of qualification, age and domicile",
+      "Attach attested copies of certificates and testimonials, a recent passport-size photograph and a copy of your CNIC",
+      "Send it to The Director Administration, PSQCA Complex, Plot No. ST-7/A, Block-3, Scheme No. 36, Gulistan-e-Johar, Karachi, so it is received by 23 November 2026 — or upload it faster on the National Jobs Portal (njp.gov.pk), Khalasi listing 10657, Watchman listing 10658"
+    ]
+  },
+  {
+    id: 159,
+    title: "University of Sindh Jamshoro Jobs 2026 - 12 Administrative & Technical Posts incl. Registrar, Director ORIC & Controller of Examination (Apply by Dec 15)",
+    department: "University of Sindh, Jamshoro",
+    category: "Government",
+    subcategory: "University",
+    city: "Jamshoro",
+    province: "Sindh",
+    qualification: "As per official advertisement — highly qualified professionals meeting HEC and University eligibility requirements for each post; Sindh domicile required",
+    experience: "As per official advertisement — relevant senior administrative, research, engineering, IT or legal experience required per post",
+    ageLimit: "As per official advertisement",
+    vacancies: "12 posts — Director ORIC (BPS-21 eq.), Director Research & Graduate Studies, Registrar, Director Admissions, Controller of Examination, Engineering Advisor (BPS-20 eq.), Project Director, Inspector of Colleges, Director Campus Security (BPS-19 eq.), Network Engineer, System Administrator, Law Officer (BPS-17 eq.) — 1 post each",
+    salary: "BPS-17 to BPS-21 equivalent (contract/tenure, 3 years)",
+    lastDate: "2026-12-15",
+    postedDate: "2026-11-22",
+    source: "University of Sindh, Jamshoro, advertisement INF-KRY No. 5258/26 (ADMN/3894 dated 18 November 2026), published in Business Recorder on 20 November 2026; applications via careers.usindh.edu.pk, checked 22 November 2026",
+    officialLink: "https://www.careers.usindh.edu.pk",
+    officialLinkLabel: "University of Sindh Careers Portal — Apply Online",
+    featured: true,
+    shortDesc: "University of Sindh, Jamshoro has announced 12 administrative and technical posts on contract/tenure — Director ORIC, Registrar, Controller of Examination, Director Admissions, Project Director, Network Engineer, System Administrator and Law Officer, among others. Sindh-domicile candidates apply online at careers.usindh.edu.pk by 15 December 2026.",
+    description: `<p>The <strong>University of Sindh, Jamshoro</strong>, has invited applications from candidates domiciled in Sindh Province for <strong>12 administrative, professional and technical positions</strong> at its Allama I.I. Kazi Campus, on a purely contract/tenure basis (3-year tenure), advertised in <strong>Business Recorder on 20 November 2026</strong> (INF-KRY No. 5258/26).</p>
+    <h3>Vacant posts</h3>
+    <ul>
+      <li><strong>Director ORIC</strong> (BPS-21 equivalent)</li>
+      <li><strong>Director Research &amp; Graduate Studies, Registrar, Director Admissions, Controller of Examination, Engineering Advisor</strong> (BPS-20 equivalent)</li>
+      <li><strong>Project Director, Inspector of Colleges, Director Campus Security</strong> (BPS-19 equivalent)</li>
+      <li><strong>Network Engineer, System Administrator, Law Officer</strong> (BPS-17 equivalent)</li>
+    </ul>
+    <h3>How to apply</h3>
+    <p>Complete the prescribed application form online at <strong>careers.usindh.edu.pk</strong> and pay the fee through an online challan — <strong>Rs. 5,000</strong> for posts S.No. 01 to 06, <strong>Rs. 4,000</strong> for S.No. 07 to 09, and <strong>Rs. 3,000</strong> for S.No. 10 to 12. The last date for submission of application forms is <strong>15 December 2026</strong>.</p>`,
+    howToApply: [
+      "Open the University of Sindh careers portal at careers.usindh.edu.pk and select the post you want",
+      "Complete the prescribed online application form and pay the fee through an online challan (Rs. 5,000 for S.No. 01-06, Rs. 4,000 for S.No. 07-09, Rs. 3,000 for S.No. 10-12)",
+      "Submit the online form and the required physical documents before 15 December 2026"
+    ]
+  },
+  {
     id: 155,
     title: "Pakistan Aeronautical Complex (PAC) Kamra Jobs 2026 - 94 Contract Posts: Specialist Doctors, Avionics & Radar Fitters, Nursing Staff via NTS (Apply by Nov 30)",
     department: "Pakistan Aeronautical Complex (PAC), Kamra",
